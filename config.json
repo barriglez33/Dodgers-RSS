@@ -1,0 +1,313 @@
+{
+  "project_name": "Dodgers News",
+  "people": [
+    {
+      "name": "Will Smith",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Hunter Feduccia",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Eliezer Alfonzo",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Mookie Betts",
+      "role": "Infielder / Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Freddie Freeman",
+      "role": "First Baseman",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Max Muncy",
+      "role": "Third Baseman",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Tommy Edman",
+      "role": "Utility Infielder / Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Alex Freeland",
+      "role": "Infielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Kyle Tucker",
+      "role": "Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Teoscar Hernández",
+      "role": "Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Josué De Paula",
+      "role": "Outfielder / DH",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Tarik Skubal",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Blake Snell",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Yoshinobu Yamamoto",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Tyler Glasnow",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Justin Wrobleski",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Tanner Scott",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Evan Phillips",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Edgardo Henriquez",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jack Dreyer",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Seth Halvorsen",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Shohei Ohtani",
+      "role": "DH / Pitcher",
+      "status": "Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Dalton Rushing",
+      "role": "Catcher / DH",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Andy Pages",
+      "role": "Outfielder",
+      "status": "Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Roki Sasaki",
+      "role": "Starting Pitcher",
+      "status": "Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Edwin Díaz",
+      "role": "Relief Pitcher",
+      "status": "Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Blake Treinen",
+      "role": "Relief Pitcher",
+      "status": "Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Will Klein",
+      "role": "Pitcher",
+      "status": "Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Gavin Stone",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Emmet Sheehan",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Nick Frasso",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Dave Roberts",
+      "role": "Manager",
+      "status": "Coaching Staff",
+      "type": "staff"
+    },
+    {
+      "name": "Andrew Friedman",
+      "role": "President of Baseball Ops",
+      "status": "Front Office",
+      "type": "staff"
+    },
+    {
+      "name": "Brandon Gomes",
+      "role": "General Manager",
+      "status": "Front Office",
+      "type": "staff"
+    },
+    {
+      "name": "Mark Prior",
+      "role": "Pitching Coach",
+      "status": "Coaching Staff",
+      "type": "staff"
+    },
+    {
+      "name": "Fernando Valenzuela",
+      "role": "Legend / Franchise Icon",
+      "status": "Heritage & Community Ambassador",
+      "type": "legend"
+    },
+    {
+      "name": "Sandy Koufax",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Pillar",
+      "type": "legend"
+    },
+    {
+      "name": "Jackie Robinson",
+      "role": "Legend / Hall of Famer",
+      "status": "Historical Pillar",
+      "type": "legend"
+    },
+    {
+      "name": "Tommy Lasorda",
+      "role": "Legend / Former Manager",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Don Newcombe",
+      "role": "Legend / Former Pitcher",
+      "status": "Community Impact Pioneer",
+      "type": "legend"
+    }
+  ],
+  "settings": {
+    "max_age_hours": 72,
+    "gdelt_results_per_person": 20,
+    "google_results_per_edition": 5,
+    "max_stored_articles": 3000,
+    "max_feed_items": 300,
+    "minimum_body_characters": 250,
+    "delay_between_articles_seconds": 0.4
+  },
+  "google_news_editions": [
+    {
+      "label": "US English",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en"
+    },
+    {
+      "label": "México Español",
+      "hl": "es-419",
+      "gl": "MX",
+      "ceid": "MX:es-419"
+    },
+    {
+      "label": "Japan Japanese",
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja"
+    },
+    {
+      "label": "South Korea Korean",
+      "hl": "ko",
+      "gl": "KR",
+      "ceid": "KR:ko"
+    },
+    {
+      "label": "Spain Español",
+      "hl": "es",
+      "gl": "ES",
+      "ceid": "ES:es"
+    }
+  ],
+  "translation": {
+    "enabled": true,
+    "target_language": "es",
+    "chunk_size": 4000
+  },
+  "deduplication": {
+    "enabled": true,
+    "max_hours_apart": 48,
+    "title_similarity_threshold": 0.72,
+    "title_token_overlap_threshold": 0.58,
+    "body_lead_similarity_threshold": 0.66,
+    "body_lead_characters": 1600
+  },
+  "context_terms": [
+    "dodgers",
+    "los angeles dodgers",
+    "la dodgers",
+    "mlb",
+    "major league baseball",
+    "dodger stadium",
+    "chavez ravine"
+  ],
+  "feed": {
+    "title": "Dodgers News — Noticias",
+    "description": "Noticias multilingües sobre Dodgers, traducidas al español y deduplicadas.",
+    "site_url": "http://localhost:8000/"
+  }
+}
