@@ -74,50 +74,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "4fb1b1570c09291935fb",
-    "title": "Justin Wrobleski to start on Thursday vs. Reds",
-    "source": "NBC Sports",
-    "author": "George Bissell; Justin Wrobleski",
-    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/justin-wrobleski-to-start-on-thursday-vs-reds",
-    "published_iso": "2026-09-17T02:26:54+00:00",
-    "published_rfc2822": "Thu, 17 Sep 2026 02:26:54 +0000",
-    "body": "Justin Wrobleski will start against the Reds on Thursday.\n            \n                The Dodgers are bringing up Landon Knack from Triple-A to cover the bulk of the contest after burning through most of their bullpen after Blake Snell left Wednesday’s game after just one inning.",
-    "tracked_people": [
-      {
-        "name": "Blake Snell",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Justin Wrobleski",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player"
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Justin Wrobleski to start on Thursday vs. Reds",
-    "original_body": "Justin Wrobleski will start against the Reds on Thursday.\n            \n                The Dodgers are bringing up Landon Knack from Triple-A to cover the bulk of the contest after burning through most of their bullpen after Blake Snell left Wednesday’s game after just one inning.",
-    "rss_title": "Justin Wrobleski to start on Thursday vs. Reds",
-    "rss_body": "Justin Wrobleski will start against the Reds on Thursday.\n            \n                The Dodgers are bringing up Landon Knack from Triple-A to cover the bulk of the contest after burning through most of their bullpen after Blake Snell left Wednesday’s game after just one inning.",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "FantasyPros",
-        "url": "https://www.fantasypros.com/mlb/news/608552/justin-wrobleski-to-start-thursday-dodgers.php",
-        "title": "Justin Wrobleski to start Thursday for Dodgers",
-        "body_characters": 266
-      }
-    ]
-  },
-  {
     "id": "14b5af166faa85f78f64",
     "title": "Dodgers news: Blake Treinen dismisses 'magic number' talk after loss to Reds",
     "source": "Yahoo Sports",
@@ -255,19 +211,19 @@
     ]
   },
   {
-    "id": "e22aa0100c4d52c173ab",
-    "title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕",
-    "source": "THE DIGEST",
-    "author": "THE DIGEST編集部",
-    "url": "https://thedigestweb.com/baseball/detail/id=120186",
-    "published_iso": "2026-09-16T06:36:00+00:00",
-    "published_rfc2822": "Wed, 16 Sep 2026 06:36:00 +0000",
-    "body": "まさに圧巻の投球だった。初回、１番のカルロス・ホルヘと２番エリー・デラクルーズに連続四球を出して走者を背負ったが、３番サル・スチュワートを投飛、４番JJ・ブレディを右飛、５番エウヘニオ・スアレスを三ゴロに打ち取ってピンチを脱した。\n２回以降は、安定した内容を披露。２回を三者凡退で終えた山本は、４回、５回、６回、７回をいずれも三者凡退に抑えた。打たれた安打は３回のデラクルーズの二塁打一本だけ。エースの風格を漂わせる抜群の内容だった。\nチーム最多14勝目を挙げた山本は、メジャー歴代トップの記録を樹立していた。米メディア『Just Baseball』は、「山本由伸がMLB史上、キャリア最初の75試合で最も低いWHIPを記録した。メジャーに来てから、ひたすら“押し込む”ことしかしていない」と驚愕。爆発する絵文字で驚きを表現していた。\n同メディアによると、メジャーキャリア「最初の75試合」のWHIP（１イニング当たり許した走者の数で、与四球と被安打を足して投球回数で割った数字。1.10未満なら優秀）の歴代成績は次のとおり。\n１位 WHIP 0.965 山本由伸\n２位 WHIP 0.967 ポール・スキーンズ\n３位 WHIP 0.971 ウォーカー・ビューラー\n１年目は先発18試合で７勝２敗、防御率3.00、WHIP1.11をマークし、ワールドシリーズMVPに輝いた２年目は30試合に先発して12勝８敗、防御率2.49、WHIP0.99。迎えた３年目の26年は９月16日時点で、先発27試合、14勝８敗、防御率2.51、WHIP0.87と好成績を出している。\n構成●THE DIGEST編集部\n【記事】「ドジャースがWS３連覇できる３つの理由」米放送局、事実を列挙して力説",
+    "id": "febc88db3a5d67b1378f",
+    "title": "【MLB】「彼は重要な存在になる」ロバーツ監督、近日中に決断 佐々木朗希の起用法 昨季に続きジョーカー濃厚「慎重に考えないといけない」",
+    "source": "サンスポ",
+    "author": "横山尚杜",
+    "url": "https://www.sanspo.com/article/20260917-45T2SX4LH5J5ZG6E2MUV6PJBGE/?outputType=theme_mlb",
+    "published_iso": "2026-09-16T21:12:00+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 21:12:00 +0000",
+    "body": "レッズ－ドジャース（16日、シンシナティ）米大リーグ、ドジャースの佐々木朗希投手（24）がレッズ戦前にライブBP（実戦形式の打撃練習）に登板し、4回50球を消化。「右手中指のまめ」で負傷者リスト（IL）入りしてから2度目の登板で、患部には実際の公式戦でも使用可能なダーマボンド（皮膚用接着剤）を施して投球した。\n試合前に取材対応したロバーツ監督は「登板後の状態も良かった。彼をどういう役割で起用するか、決断しないといけない。彼は重要な存在になる。ただ、現時点ではどんな役割になるのかは分からない」と先発か救援で起用するか近日中に決める見込みで、本拠地に戻ればレギュラーシーズンは残り9試合。ポストシーズンを見据えて救援待機となる可能性が高い。昨季もIL復帰からシーズン最終盤に救援転向し、ワールドシリーズ連覇に貢献した。\n指揮官は、先発で起用する利点について「この質問が難しいのは、どちらにもメリットがあるということ。何度か先発させて、先発で投げられる状態を維持しておくべきという考え方もできる。一方、ブルペンに入れて、その役割に慣れさせることもできる。そこは慎重に考えなければならない」と両方の利点を語った。",
     "tracked_people": [
       {
-        "name": "Yoshinobu Yamamoto",
+        "name": "Roki Sasaki",
         "role": "Starting Pitcher",
-        "status": "Active",
+        "status": "Injured List",
         "type": "player"
       }
     ],
@@ -278,29 +234,23 @@
     "discovery_sources": [
       "Google News"
     ],
-    "original_title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕",
-    "original_body": "まさに圧巻の投球だった。初回、１番のカルロス・ホルヘと２番エリー・デラクルーズに連続四球を出して走者を背負ったが、３番サル・スチュワートを投飛、４番JJ・ブレディを右飛、５番エウヘニオ・スアレスを三ゴロに打ち取ってピンチを脱した。\n２回以降は、安定した内容を披露。２回を三者凡退で終えた山本は、４回、５回、６回、７回をいずれも三者凡退に抑えた。打たれた安打は３回のデラクルーズの二塁打一本だけ。エースの風格を漂わせる抜群の内容だった。\nチーム最多14勝目を挙げた山本は、メジャー歴代トップの記録を樹立していた。米メディア『Just Baseball』は、「山本由伸がMLB史上、キャリア最初の75試合で最も低いWHIPを記録した。メジャーに来てから、ひたすら“押し込む”ことしかしていない」と驚愕。爆発する絵文字で驚きを表現していた。\n同メディアによると、メジャーキャリア「最初の75試合」のWHIP（１イニング当たり許した走者の数で、与四球と被安打を足して投球回数で割った数字。1.10未満なら優秀）の歴代成績は次のとおり。\n１位 WHIP 0.965 山本由伸\n２位 WHIP 0.967 ポール・スキーンズ\n３位 WHIP 0.971 ウォーカー・ビューラー\n１年目は先発18試合で７勝２敗、防御率3.00、WHIP1.11をマークし、ワールドシリーズMVPに輝いた２年目は30試合に先発して12勝８敗、防御率2.49、WHIP0.99。迎えた３年目の26年は９月16日時点で、先発27試合、14勝８敗、防御率2.51、WHIP0.87と好成績を出している。\n構成●THE DIGEST編集部\n【記事】「ドジャースがWS３連覇できる３つの理由」米放送局、事実を列挙して力説",
-    "rss_title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕",
-    "rss_body": "まさに圧巻の投球だった。初回、１番のカルロス・ホルヘと２番エリー・デラクルーズに連続四球を出して走者を背負ったが、３番サル・スチュワートを投飛、４番JJ・ブレディを右飛、５番エウヘニオ・スアレスを三ゴロに打ち取ってピンチを脱した。\n２回以降は、安定した内容を披露。２回を三者凡退で終えた山本は、４回、５回、６回、７回をいずれも三者凡退に抑えた。打たれた安打は３回のデラクルーズの二塁打一本だけ。エースの風格を漂わせる抜群の内容だった。\nチーム最多14勝目を挙げた山本は、メジャー歴代トップの記録を樹立していた。米メディア『Just Baseball』は、「山本由伸がMLB史上、キャリア最初の75試合で最も低いWHIPを記録した。メジャーに来てから、ひたすら“押し込む”ことしかしていない」と驚愕。爆発する絵文字で驚きを表現していた。\n同メディアによると、メジャーキャリア「最初の75試合」のWHIP（１イニング当たり許した走者の数で、与四球と被安打を足して投球回数で割った数字。1.10未満なら優秀）の歴代成績は次のとおり。\n１位 WHIP 0.965 山本由伸\n２位 WHIP 0.967 ポール・スキーンズ\n３位 WHIP 0.971 ウォーカー・ビューラー\n１年目は先発18試合で７勝２敗、防御率3.00、WHIP1.11をマークし、ワールドシリーズMVPに輝いた２年目は30試合に先発して12勝８敗、防御率2.49、WHIP0.99。迎えた３年目の26年は９月16日時点で、先発27試合、14勝８敗、防御率2.51、WHIP0.87と好成績を出している。\n構成●THE DIGEST編集部\n【記事】「ドジャースがWS３連覇できる３つの理由」米放送局、事実を列挙して力説",
+    "original_title": "【MLB】「彼は重要な存在になる」ロバーツ監督、近日中に決断 佐々木朗希の起用法 昨季に続きジョーカー濃厚「慎重に考えないといけない」",
+    "original_body": "レッズ－ドジャース（16日、シンシナティ）米大リーグ、ドジャースの佐々木朗希投手（24）がレッズ戦前にライブBP（実戦形式の打撃練習）に登板し、4回50球を消化。「右手中指のまめ」で負傷者リスト（IL）入りしてから2度目の登板で、患部には実際の公式戦でも使用可能なダーマボンド（皮膚用接着剤）を施して投球した。\n試合前に取材対応したロバーツ監督は「登板後の状態も良かった。彼をどういう役割で起用するか、決断しないといけない。彼は重要な存在になる。ただ、現時点ではどんな役割になるのかは分からない」と先発か救援で起用するか近日中に決める見込みで、本拠地に戻ればレギュラーシーズンは残り9試合。ポストシーズンを見据えて救援待機となる可能性が高い。昨季もIL復帰からシーズン最終盤に救援転向し、ワールドシリーズ連覇に貢献した。\n指揮官は、先発で起用する利点について「この質問が難しいのは、どちらにもメリットがあるということ。何度か先発させて、先発で投げられる状態を維持しておくべきという考え方もできる。一方、ブルペンに入れて、その役割に慣れさせることもできる。そこは慎重に考えなければならない」と両方の利点を語った。",
+    "rss_title": "【MLB】「彼は重要な存在になる」ロバーツ監督、近日中に決断 佐々木朗希の起用法 昨季に続きジョーカー濃厚「慎重に考えないといけない」",
+    "rss_body": "レッズ－ドジャース（16日、シンシナティ）米大リーグ、ドジャースの佐々木朗希投手（24）がレッズ戦前にライブBP（実戦形式の打撃練習）に登板し、4回50球を消化。「右手中指のまめ」で負傷者リスト（IL）入りしてから2度目の登板で、患部には実際の公式戦でも使用可能なダーマボンド（皮膚用接着剤）を施して投球した。\n試合前に取材対応したロバーツ監督は「登板後の状態も良かった。彼をどういう役割で起用するか、決断しないといけない。彼は重要な存在になる。ただ、現時点ではどんな役割になるのかは分からない」と先発か救援で起用するか近日中に決める見込みで、本拠地に戻ればレギュラーシーズンは残り9試合。ポストシーズンを見据えて救援待機となる可能性が高い。昨季もIL復帰からシーズン最終盤に救援転向し、ワールドシリーズ連覇に貢献した。\n指揮官は、先発で起用する利点について「この質問が難しいのは、どちらにもメリットがあるということ。何度か先発させて、先発で投げられる状態を維持しておくべきという考え方もできる。一方、ブルペンに入れて、その役割に慣れさせることもできる。そこは慎重に考えなければならない」と両方の利点を語った。",
     "translation_status": "fallback_original",
     "alternate_sources": [
       {
+        "source": "日刊スポーツ",
+        "url": "https://www.nikkansports.com/baseball/mlb/news/202609160000065.html",
+        "title": "IL入り佐々木朗希、17日にライブBP 先発か救援か…ロバーツ監督「まだ決めていない」 - ＭＬＢ : 日刊スポーツ",
+        "body_characters": 471
+      },
+      {
         "source": "サンスポ",
-        "url": "https://www.sanspo.com/article/20260916-YXWTC7NPUBJSVJCSALS7JYS5VE/?outputType=theme_mlb",
-        "title": "【MLB】山本由伸、勝利数＆イニング数最多…防御率もキャリアハイ狙える QSリーグトップタイ、QS率77.8％単独トップ",
-        "body_characters": 367
-      },
-      {
-        "source": "やまがたぐらし",
-        "url": "https://fullpokko.com/event/mlb-spal-202609-pin/",
-        "title": "【山形イベント情報9/18-22】大谷翔平・山本由伸グッズがやってくる！MLB人気球団グッズも期間限定販売！",
-        "body_characters": 616
-      },
-      {
-        "source": "時事ドットコム",
-        "url": "https://www.jiji.com/jc/article?k=2026091600515&g=spo",
-        "title": "明快な思考、安定感生む 気を引き締めるドジャースの山本由伸―ＭＬＢ：時事ドットコム",
-        "body_characters": 436
+        "url": "https://www.sanspo.com/article/20260917-OGPDBZSRNZJPDNYS3MVIILV7PQ/?outputType=theme_mlb",
+        "title": "【MLB】佐々木朗希、PS先発4番手の可能性浮上 次回登板は先発…ロバーツ監督明言 RS最終週で復帰戦 スネル負傷で緊急事態、1回19球で降板",
+        "body_characters": 464
       }
     ]
   },
@@ -649,6 +599,50 @@
     "rss_title": "De La Cruz pega un jonrón de 2 carreras y los Rojos aplazan festejo de Dodgers al ganar 6-2",
     "rss_body": "Elly De La Cruz conectó un jonrón de dos carreras y los Rojos de Cincinnati, al menos de manera temporal, evitaron que los Dodgers de Los Ángeles aseguraran el título de la División Oeste de la Liga Nacional con una victoria por 6-2 la noche del miércoles.\nLos Dodgers (92-60) necesitaban ganar o que San Diego perdiera para conquistar su quinta corona divisional consecutiva y la 13ra en 14 temporadas. Los Padres jugaban en Colorado más tarde el miércoles.\nEl zurdo Blake Snell abrió por los Dodgers, pero salió del juego después de una entrada por rigidez en la ingle izquierda. Snell, quien lanzó un juego sin hits con los Gigantes en su última aparición en el Great American Ball Park, enfrentó a tres bateadores, permitió un imparable y ponchó a uno en 19 lanzamientos.\nBlake Treinen tomó el relevo en la segunda entrada como el primero de seis relevistas utilizados por Los Ángeles.\nMookie Betts conectó un sencillo ante Andrew Abbott en la tercera y anotó con un doble de Will Smith para poner a los Dodgers arriba 1-0. Abbott permitió una carrera con tres hits y otorgó cinco bases por bolas en 4 2/3 entradas. Tejay Antone (3-2), el tercero de seis lanzadores de Cincinnati, consiguió el último out de la sexta.\nEl jonrón del dominicano De La Cruz ante Seth Halvorsen (1-2), su 28vo de la temporada, puso a los Rojos al frente 2-1 en la tercera. Fue el quinto cuadrangular de De La Cruz contra los Dodgers esta temporada, la mayor cantidad de cualquier jugador rival.\nLos Dodgers dejaron a 12 corredores en base y se fueron de 11-0 con corredores en posición de anotar. ___\nVea aquí la cobertura completa de la MLB de AP",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "4fb1b1570c09291935fb",
+    "title": "Justin Wrobleski to start on Thursday vs. Reds",
+    "source": "NBC Sports",
+    "author": "George Bissell; Justin Wrobleski",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-16/justin-wrobleski-to-start-on-thursday-vs-reds",
+    "published_iso": "2026-09-17T02:26:54+00:00",
+    "published_rfc2822": "Thu, 17 Sep 2026 02:26:54 +0000",
+    "body": "Justin Wrobleski will start against the Reds on Thursday.\n            \n                The Dodgers are bringing up Landon Knack from Triple-A to cover the bulk of the contest after burning through most of their bullpen after Blake Snell left Wednesday’s game after just one inning.",
+    "tracked_people": [
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Justin Wrobleski",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Justin Wrobleski to start on Thursday vs. Reds",
+    "original_body": "Justin Wrobleski will start against the Reds on Thursday.\n            \n                The Dodgers are bringing up Landon Knack from Triple-A to cover the bulk of the contest after burning through most of their bullpen after Blake Snell left Wednesday’s game after just one inning.",
+    "rss_title": "Justin Wrobleski to start on Thursday vs. Reds",
+    "rss_body": "Justin Wrobleski will start against the Reds on Thursday.\n            \n                The Dodgers are bringing up Landon Knack from Triple-A to cover the bulk of the contest after burning through most of their bullpen after Blake Snell left Wednesday’s game after just one inning.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "FantasyPros",
+        "url": "https://www.fantasypros.com/mlb/news/608552/justin-wrobleski-to-start-thursday-dodgers.php",
+        "title": "Justin Wrobleski to start Thursday for Dodgers",
+        "body_characters": 266
+      }
+    ]
   },
   {
     "id": "93e004a3c6a1f5dbbc67",
@@ -1985,50 +1979,6 @@
         "url": "https://dodgersnation.com/edgardo-henriquez-gets-positive-mri-dodgers-hopeful-for-postseason-return/2026/09/16/",
         "title": "Dodgers Get Best-Case Edgardo Henriquez Injury News Ahead of Playoffs",
         "body_characters": 1493
-      }
-    ]
-  },
-  {
-    "id": "febc88db3a5d67b1378f",
-    "title": "【MLB】「彼は重要な存在になる」ロバーツ監督、近日中に決断 佐々木朗希の起用法 昨季に続きジョーカー濃厚「慎重に考えないといけない」",
-    "source": "サンスポ",
-    "author": "横山尚杜",
-    "url": "https://www.sanspo.com/article/20260917-45T2SX4LH5J5ZG6E2MUV6PJBGE/?outputType=theme_mlb",
-    "published_iso": "2026-09-16T21:12:00+00:00",
-    "published_rfc2822": "Wed, 16 Sep 2026 21:12:00 +0000",
-    "body": "レッズ－ドジャース（16日、シンシナティ）米大リーグ、ドジャースの佐々木朗希投手（24）がレッズ戦前にライブBP（実戦形式の打撃練習）に登板し、4回50球を消化。「右手中指のまめ」で負傷者リスト（IL）入りしてから2度目の登板で、患部には実際の公式戦でも使用可能なダーマボンド（皮膚用接着剤）を施して投球した。\n試合前に取材対応したロバーツ監督は「登板後の状態も良かった。彼をどういう役割で起用するか、決断しないといけない。彼は重要な存在になる。ただ、現時点ではどんな役割になるのかは分からない」と先発か救援で起用するか近日中に決める見込みで、本拠地に戻ればレギュラーシーズンは残り9試合。ポストシーズンを見据えて救援待機となる可能性が高い。昨季もIL復帰からシーズン最終盤に救援転向し、ワールドシリーズ連覇に貢献した。\n指揮官は、先発で起用する利点について「この質問が難しいのは、どちらにもメリットがあるということ。何度か先発させて、先発で投げられる状態を維持しておくべきという考え方もできる。一方、ブルペンに入れて、その役割に慣れさせることもできる。そこは慎重に考えなければならない」と両方の利点を語った。",
-    "tracked_people": [
-      {
-        "name": "Roki Sasaki",
-        "role": "Starting Pitcher",
-        "status": "Injured List",
-        "type": "player"
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "Japan Japanese"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "【MLB】「彼は重要な存在になる」ロバーツ監督、近日中に決断 佐々木朗希の起用法 昨季に続きジョーカー濃厚「慎重に考えないといけない」",
-    "original_body": "レッズ－ドジャース（16日、シンシナティ）米大リーグ、ドジャースの佐々木朗希投手（24）がレッズ戦前にライブBP（実戦形式の打撃練習）に登板し、4回50球を消化。「右手中指のまめ」で負傷者リスト（IL）入りしてから2度目の登板で、患部には実際の公式戦でも使用可能なダーマボンド（皮膚用接着剤）を施して投球した。\n試合前に取材対応したロバーツ監督は「登板後の状態も良かった。彼をどういう役割で起用するか、決断しないといけない。彼は重要な存在になる。ただ、現時点ではどんな役割になるのかは分からない」と先発か救援で起用するか近日中に決める見込みで、本拠地に戻ればレギュラーシーズンは残り9試合。ポストシーズンを見据えて救援待機となる可能性が高い。昨季もIL復帰からシーズン最終盤に救援転向し、ワールドシリーズ連覇に貢献した。\n指揮官は、先発で起用する利点について「この質問が難しいのは、どちらにもメリットがあるということ。何度か先発させて、先発で投げられる状態を維持しておくべきという考え方もできる。一方、ブルペンに入れて、その役割に慣れさせることもできる。そこは慎重に考えなければならない」と両方の利点を語った。",
-    "rss_title": "【MLB】「彼は重要な存在になる」ロバーツ監督、近日中に決断 佐々木朗希の起用法 昨季に続きジョーカー濃厚「慎重に考えないといけない」",
-    "rss_body": "レッズ－ドジャース（16日、シンシナティ）米大リーグ、ドジャースの佐々木朗希投手（24）がレッズ戦前にライブBP（実戦形式の打撃練習）に登板し、4回50球を消化。「右手中指のまめ」で負傷者リスト（IL）入りしてから2度目の登板で、患部には実際の公式戦でも使用可能なダーマボンド（皮膚用接着剤）を施して投球した。\n試合前に取材対応したロバーツ監督は「登板後の状態も良かった。彼をどういう役割で起用するか、決断しないといけない。彼は重要な存在になる。ただ、現時点ではどんな役割になるのかは分からない」と先発か救援で起用するか近日中に決める見込みで、本拠地に戻ればレギュラーシーズンは残り9試合。ポストシーズンを見据えて救援待機となる可能性が高い。昨季もIL復帰からシーズン最終盤に救援転向し、ワールドシリーズ連覇に貢献した。\n指揮官は、先発で起用する利点について「この質問が難しいのは、どちらにもメリットがあるということ。何度か先発させて、先発で投げられる状態を維持しておくべきという考え方もできる。一方、ブルペンに入れて、その役割に慣れさせることもできる。そこは慎重に考えなければならない」と両方の利点を語った。",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "日刊スポーツ",
-        "url": "https://www.nikkansports.com/baseball/mlb/news/202609160000065.html",
-        "title": "IL入り佐々木朗希、17日にライブBP 先発か救援か…ロバーツ監督「まだ決めていない」 - ＭＬＢ : 日刊スポーツ",
-        "body_characters": 471
-      },
-      {
-        "source": "サンスポ",
-        "url": "https://www.sanspo.com/article/20260917-OGPDBZSRNZJPDNYS3MVIILV7PQ/?outputType=theme_mlb",
-        "title": "【MLB】佐々木朗希、PS先発4番手の可能性浮上 次回登板は先発…ロバーツ監督明言 RS最終週で復帰戦 スネル負傷で緊急事態、1回19球で降板",
-        "body_characters": 464
       }
     ]
   },
@@ -4363,6 +4313,56 @@
     "translation_status": "fallback_original"
   },
   {
+    "id": "e22aa0100c4d52c173ab",
+    "title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕",
+    "source": "THE DIGEST",
+    "author": "THE DIGEST編集部",
+    "url": "https://thedigestweb.com/baseball/detail/id=120186",
+    "published_iso": "2026-09-16T06:36:00+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 06:36:00 +0000",
+    "body": "まさに圧巻の投球だった。初回、１番のカルロス・ホルヘと２番エリー・デラクルーズに連続四球を出して走者を背負ったが、３番サル・スチュワートを投飛、４番JJ・ブレディを右飛、５番エウヘニオ・スアレスを三ゴロに打ち取ってピンチを脱した。\n２回以降は、安定した内容を披露。２回を三者凡退で終えた山本は、４回、５回、６回、７回をいずれも三者凡退に抑えた。打たれた安打は３回のデラクルーズの二塁打一本だけ。エースの風格を漂わせる抜群の内容だった。\nチーム最多14勝目を挙げた山本は、メジャー歴代トップの記録を樹立していた。米メディア『Just Baseball』は、「山本由伸がMLB史上、キャリア最初の75試合で最も低いWHIPを記録した。メジャーに来てから、ひたすら“押し込む”ことしかしていない」と驚愕。爆発する絵文字で驚きを表現していた。\n同メディアによると、メジャーキャリア「最初の75試合」のWHIP（１イニング当たり許した走者の数で、与四球と被安打を足して投球回数で割った数字。1.10未満なら優秀）の歴代成績は次のとおり。\n１位 WHIP 0.965 山本由伸\n２位 WHIP 0.967 ポール・スキーンズ\n３位 WHIP 0.971 ウォーカー・ビューラー\n１年目は先発18試合で７勝２敗、防御率3.00、WHIP1.11をマークし、ワールドシリーズMVPに輝いた２年目は30試合に先発して12勝８敗、防御率2.49、WHIP0.99。迎えた３年目の26年は９月16日時点で、先発27試合、14勝８敗、防御率2.51、WHIP0.87と好成績を出している。\n構成●THE DIGEST編集部\n【記事】「ドジャースがWS３連覇できる３つの理由」米放送局、事実を列挙して力説",
+    "tracked_people": [
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕",
+    "original_body": "まさに圧巻の投球だった。初回、１番のカルロス・ホルヘと２番エリー・デラクルーズに連続四球を出して走者を背負ったが、３番サル・スチュワートを投飛、４番JJ・ブレディを右飛、５番エウヘニオ・スアレスを三ゴロに打ち取ってピンチを脱した。\n２回以降は、安定した内容を披露。２回を三者凡退で終えた山本は、４回、５回、６回、７回をいずれも三者凡退に抑えた。打たれた安打は３回のデラクルーズの二塁打一本だけ。エースの風格を漂わせる抜群の内容だった。\nチーム最多14勝目を挙げた山本は、メジャー歴代トップの記録を樹立していた。米メディア『Just Baseball』は、「山本由伸がMLB史上、キャリア最初の75試合で最も低いWHIPを記録した。メジャーに来てから、ひたすら“押し込む”ことしかしていない」と驚愕。爆発する絵文字で驚きを表現していた。\n同メディアによると、メジャーキャリア「最初の75試合」のWHIP（１イニング当たり許した走者の数で、与四球と被安打を足して投球回数で割った数字。1.10未満なら優秀）の歴代成績は次のとおり。\n１位 WHIP 0.965 山本由伸\n２位 WHIP 0.967 ポール・スキーンズ\n３位 WHIP 0.971 ウォーカー・ビューラー\n１年目は先発18試合で７勝２敗、防御率3.00、WHIP1.11をマークし、ワールドシリーズMVPに輝いた２年目は30試合に先発して12勝８敗、防御率2.49、WHIP0.99。迎えた３年目の26年は９月16日時点で、先発27試合、14勝８敗、防御率2.51、WHIP0.87と好成績を出している。\n構成●THE DIGEST編集部\n【記事】「ドジャースがWS３連覇できる３つの理由」米放送局、事実を列挙して力説",
+    "rss_title": "圧巻投球14勝目の山本由伸、MLB歴代トップの記録樹立！「メジャーに来てから、ひたすら“押し込む”ことしかしていない」米メディア驚愕",
+    "rss_body": "まさに圧巻の投球だった。初回、１番のカルロス・ホルヘと２番エリー・デラクルーズに連続四球を出して走者を背負ったが、３番サル・スチュワートを投飛、４番JJ・ブレディを右飛、５番エウヘニオ・スアレスを三ゴロに打ち取ってピンチを脱した。\n２回以降は、安定した内容を披露。２回を三者凡退で終えた山本は、４回、５回、６回、７回をいずれも三者凡退に抑えた。打たれた安打は３回のデラクルーズの二塁打一本だけ。エースの風格を漂わせる抜群の内容だった。\nチーム最多14勝目を挙げた山本は、メジャー歴代トップの記録を樹立していた。米メディア『Just Baseball』は、「山本由伸がMLB史上、キャリア最初の75試合で最も低いWHIPを記録した。メジャーに来てから、ひたすら“押し込む”ことしかしていない」と驚愕。爆発する絵文字で驚きを表現していた。\n同メディアによると、メジャーキャリア「最初の75試合」のWHIP（１イニング当たり許した走者の数で、与四球と被安打を足して投球回数で割った数字。1.10未満なら優秀）の歴代成績は次のとおり。\n１位 WHIP 0.965 山本由伸\n２位 WHIP 0.967 ポール・スキーンズ\n３位 WHIP 0.971 ウォーカー・ビューラー\n１年目は先発18試合で７勝２敗、防御率3.00、WHIP1.11をマークし、ワールドシリーズMVPに輝いた２年目は30試合に先発して12勝８敗、防御率2.49、WHIP0.99。迎えた３年目の26年は９月16日時点で、先発27試合、14勝８敗、防御率2.51、WHIP0.87と好成績を出している。\n構成●THE DIGEST編集部\n【記事】「ドジャースがWS３連覇できる３つの理由」米放送局、事実を列挙して力説",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "サンスポ",
+        "url": "https://www.sanspo.com/article/20260916-YXWTC7NPUBJSVJCSALS7JYS5VE/?outputType=theme_mlb",
+        "title": "【MLB】山本由伸、勝利数＆イニング数最多…防御率もキャリアハイ狙える QSリーグトップタイ、QS率77.8％単独トップ",
+        "body_characters": 367
+      },
+      {
+        "source": "やまがたぐらし",
+        "url": "https://fullpokko.com/event/mlb-spal-202609-pin/",
+        "title": "【山形イベント情報9/18-22】大谷翔平・山本由伸グッズがやってくる！MLB人気球団グッズも期間限定販売！",
+        "body_characters": 616
+      },
+      {
+        "source": "時事ドットコム",
+        "url": "https://www.jiji.com/jc/article?k=2026091600515&g=spo",
+        "title": "明快な思考、安定感生む 気を引き締めるドジャースの山本由伸―ＭＬＢ：時事ドットコム",
+        "body_characters": 436
+      }
+    ]
+  },
+  {
     "id": "dfae42b434944aacd4eb",
     "title": "How Teoscar Hernández fixed his swing to help power Dodgers over the Reds",
     "source": "Los Angeles Times",
@@ -5925,6 +5925,102 @@
     "translation_status": "fallback_original"
   },
   {
+    "id": "af6906e91daf654ca56f",
+    "title": "Dodgers might be forced to leave Edwin Díaz off postseason roster",
+    "source": "Los Angeles Times",
+    "author": "Maddie Lee",
+    "url": "https://www.latimes.com/sports/dodgers/story/2026-09-14/dodgers-kris-bubic-reds-game-recap",
+    "published_iso": "2026-09-15T03:14:24+00:00",
+    "published_rfc2822": "Tue, 15 Sep 2026 03:14:24 +0000",
+    "body": "Dodgers might be forced to leave Edwin Díaz off postseason roster\n-    Click here to listen to this article\n-   \n- Edwin Díaz struggled in his rehab start Sunday, and Dave Roberts is making it clear the Dodgers “got to see something” from the closer to put him on the playoff roster.\n- The Dodgers placed reliever Edgardo Henriquez on the 15-day injured list and recalled Bobby Miller and Paul Gervase.\nCINCINNATI — Even as the Dodgers clinched a postseason berth with their 4-1 win over the Reds on Monday, bullpen uncertainty loomed.\nWhen they get to the playoffs, who’s going to take the ball in high-leverage situations?\nTheir options are dwindling. Edgardo Henriquez landed on the 15-day injured list Monday with low back discomfort, ruling him out for the rest of the regular season. Edwin Díaz was so shaky in his rehab assignment Sunday that a spot on the postseason roster isn’t guaranteed.\n“We have to go with our best pitchers, as far as performance, talent, all that stuff,” manager Dave Roberts said before the Dodgers opened a four-game series against the Reds. “So my bet is that he will be [on the roster]. But there’s got to be some kind of evidence or something for us to sort of bet on. And so my bet is, yes, but we’ve still got to see something.”\nThe Dodgers clinch a playoff berth with their 4-1 victory over the Cincinnati Reds, reaching the postseason for a record-tying 14th consecutive year.\nDíaz (neck) had the worst outing of his triple-A rehab assignment, surrendering five runs and issuing two walks in two-thirds of an inning. The dud put his return timeline in doubt. His next rehab appearance is scheduled for Wednesday.\n“I think the world of him, the baseball card looks great,” Roberts said. “But where we’re at, there’s got to be something for us to be able to hang our hat on. And he knows that. He knows that. He wants to pitch well. So for me, Wednesday, we’ll be watching closely.”\nSo, who’s still in play?\nTanner Scott remains Roberts’ go-to in save situations. And Alex Vesia, Evan Phillips, Brock Stewart, Jack Dreyer and Blake Treinen all have experience in late innings.\nOn Monday, starter Tarik Skubal gave the group a much-needed break with seven shutout innings. He limited the Reds to three hits and a walk, cruising through their lineup almost three times in 90 pitches.\nThe Dodgers pulled ahead by four runs, on home runs from Kyle Tucker and Teoscar Hernández, who have both broken out of slumps, and an RBI single from Kiké Hernández.\nWith the game still relatively tight, Vesia entered in the bottom of the eighth to face the left-handed heavy bottom of the order. He retired the side.\nPhillips and Treinen both were warming in the ninth when the Dodgers got a runner to second base with one out. When they failed to score him, Phillips jogged in to face the top of the order. He surrendered a high-flying solo homer to Elly De La Cruz on a fastball above the zone but avoided further damage.\nBefore the game, the Dodgers added two fresh arms to the bullpen. They recalled right-handers Bobby Miller and Paul Gervase, as they put Henriquez on the IL and optioned right-hander Emmet Sheehan.\nHenriquez will undergo imaging on the area, which Roberts said stretched to his side near his oblique.\n“The hope is we’ll get him back in the postseason,” Roberts said.\nRoberts said he didn’t know what the move meant for Sheehan, who in his past two starts limited opponents to one run and recorded 15 strikeouts in a combined 11 ⅔ innings.\n“Some of it’s probably contingent on Roki [Sasaki], and we’ve got another start coming up down the road here, as far as a bullpen kind of situation,” Roberts said. “So I don’t know, but Emmet’s done everything he can do in his power to force our hand, which I love. The last two have been really good.”\nSasaki (right middle finger blister) could start Thursday. His bullpen session Monday marked the first time he had tested covering the sensitive area on his finger with Dermabond, Roberts said.\n“We just can’t put him in a position to go backward,” Roberts said.\nThe Dodgers also have more bullpen reinforcements coming.\nAnother bullpen addition is left-hander Kris Bubic, who met the team in Cincinnati and is in place to make his Dodgers debut later this week. Bubic made his last rehab appearance for triple-A Oklahoma City on Sunday, so Roberts said the Dodgers likely won’t activate him off the 60-day injured list until Wednesday at the earliest.\nThe Dodgers acquired Bubic from the Kansas City Royals at the trade deadline this year. He’d been on the IL since May, first with a low-grade flexor strain in his left forearm, and then a shoulder impingement setback.\nIn six triple-A rehab appearances over 5⅔ innings, Bubic didn’t yield a run and he limited opponents to two hits and two walks.\nRoberts was noncommittal about Bubic being a high-leverage option.\n“Seems like all of our games are leverage these days,” he said.\nBy not putting Shohei Ohtani on the injured list in July or in August, the Dodgers may have compromised the two-way star’s ability to be healthy for the playoffs.",
+    "tracked_people": [
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Jack Dreyer",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player"
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player"
+      },
+      {
+        "name": "Blake Treinen",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player"
+      },
+      {
+        "name": "Emmet Sheehan",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player"
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers might be forced to leave Edwin Díaz off postseason roster",
+    "original_body": "Dodgers might be forced to leave Edwin Díaz off postseason roster\n-    Click here to listen to this article\n-   \n- Edwin Díaz struggled in his rehab start Sunday, and Dave Roberts is making it clear the Dodgers “got to see something” from the closer to put him on the playoff roster.\n- The Dodgers placed reliever Edgardo Henriquez on the 15-day injured list and recalled Bobby Miller and Paul Gervase.\nCINCINNATI — Even as the Dodgers clinched a postseason berth with their 4-1 win over the Reds on Monday, bullpen uncertainty loomed.\nWhen they get to the playoffs, who’s going to take the ball in high-leverage situations?\nTheir options are dwindling. Edgardo Henriquez landed on the 15-day injured list Monday with low back discomfort, ruling him out for the rest of the regular season. Edwin Díaz was so shaky in his rehab assignment Sunday that a spot on the postseason roster isn’t guaranteed.\n“We have to go with our best pitchers, as far as performance, talent, all that stuff,” manager Dave Roberts said before the Dodgers opened a four-game series against the Reds. “So my bet is that he will be [on the roster]. But there’s got to be some kind of evidence or something for us to sort of bet on. And so my bet is, yes, but we’ve still got to see something.”\nThe Dodgers clinch a playoff berth with their 4-1 victory over the Cincinnati Reds, reaching the postseason for a record-tying 14th consecutive year.\nDíaz (neck) had the worst outing of his triple-A rehab assignment, surrendering five runs and issuing two walks in two-thirds of an inning. The dud put his return timeline in doubt. His next rehab appearance is scheduled for Wednesday.\n“I think the world of him, the baseball card looks great,” Roberts said. “But where we’re at, there’s got to be something for us to be able to hang our hat on. And he knows that. He knows that. He wants to pitch well. So for me, Wednesday, we’ll be watching closely.”\nSo, who’s still in play?\nTanner Scott remains Roberts’ go-to in save situations. And Alex Vesia, Evan Phillips, Brock Stewart, Jack Dreyer and Blake Treinen all have experience in late innings.\nOn Monday, starter Tarik Skubal gave the group a much-needed break with seven shutout innings. He limited the Reds to three hits and a walk, cruising through their lineup almost three times in 90 pitches.\nThe Dodgers pulled ahead by four runs, on home runs from Kyle Tucker and Teoscar Hernández, who have both broken out of slumps, and an RBI single from Kiké Hernández.\nWith the game still relatively tight, Vesia entered in the bottom of the eighth to face the left-handed heavy bottom of the order. He retired the side.\nPhillips and Treinen both were warming in the ninth when the Dodgers got a runner to second base with one out. When they failed to score him, Phillips jogged in to face the top of the order. He surrendered a high-flying solo homer to Elly De La Cruz on a fastball above the zone but avoided further damage.\nBefore the game, the Dodgers added two fresh arms to the bullpen. They recalled right-handers Bobby Miller and Paul Gervase, as they put Henriquez on the IL and optioned right-hander Emmet Sheehan.\nHenriquez will undergo imaging on the area, which Roberts said stretched to his side near his oblique.\n“The hope is we’ll get him back in the postseason,” Roberts said.\nRoberts said he didn’t know what the move meant for Sheehan, who in his past two starts limited opponents to one run and recorded 15 strikeouts in a combined 11 ⅔ innings.\n“Some of it’s probably contingent on Roki [Sasaki], and we’ve got another start coming up down the road here, as far as a bullpen kind of situation,” Roberts said. “So I don’t know, but Emmet’s done everything he can do in his power to force our hand, which I love. The last two have been really good.”\nSasaki (right middle finger blister) could start Thursday. His bullpen session Monday marked the first time he had tested covering the sensitive area on his finger with Dermabond, Roberts said.\n“We just can’t put him in a position to go backward,” Roberts said.\nThe Dodgers also have more bullpen reinforcements coming.\nAnother bullpen addition is left-hander Kris Bubic, who met the team in Cincinnati and is in place to make his Dodgers debut later this week. Bubic made his last rehab appearance for triple-A Oklahoma City on Sunday, so Roberts said the Dodgers likely won’t activate him off the 60-day injured list until Wednesday at the earliest.\nThe Dodgers acquired Bubic from the Kansas City Royals at the trade deadline this year. He’d been on the IL since May, first with a low-grade flexor strain in his left forearm, and then a shoulder impingement setback.\nIn six triple-A rehab appearances over 5⅔ innings, Bubic didn’t yield a run and he limited opponents to two hits and two walks.\nRoberts was noncommittal about Bubic being a high-leverage option.\n“Seems like all of our games are leverage these days,” he said.\nBy not putting Shohei Ohtani on the injured list in July or in August, the Dodgers may have compromised the two-way star’s ability to be healthy for the playoffs.",
+    "rss_title": "Dodgers might be forced to leave Edwin Díaz off postseason roster",
+    "rss_body": "Dodgers might be forced to leave Edwin Díaz off postseason roster\n-    Click here to listen to this article\n-   \n- Edwin Díaz struggled in his rehab start Sunday, and Dave Roberts is making it clear the Dodgers “got to see something” from the closer to put him on the playoff roster.\n- The Dodgers placed reliever Edgardo Henriquez on the 15-day injured list and recalled Bobby Miller and Paul Gervase.\nCINCINNATI — Even as the Dodgers clinched a postseason berth with their 4-1 win over the Reds on Monday, bullpen uncertainty loomed.\nWhen they get to the playoffs, who’s going to take the ball in high-leverage situations?\nTheir options are dwindling. Edgardo Henriquez landed on the 15-day injured list Monday with low back discomfort, ruling him out for the rest of the regular season. Edwin Díaz was so shaky in his rehab assignment Sunday that a spot on the postseason roster isn’t guaranteed.\n“We have to go with our best pitchers, as far as performance, talent, all that stuff,” manager Dave Roberts said before the Dodgers opened a four-game series against the Reds. “So my bet is that he will be [on the roster]. But there’s got to be some kind of evidence or something for us to sort of bet on. And so my bet is, yes, but we’ve still got to see something.”\nThe Dodgers clinch a playoff berth with their 4-1 victory over the Cincinnati Reds, reaching the postseason for a record-tying 14th consecutive year.\nDíaz (neck) had the worst outing of his triple-A rehab assignment, surrendering five runs and issuing two walks in two-thirds of an inning. The dud put his return timeline in doubt. His next rehab appearance is scheduled for Wednesday.\n“I think the world of him, the baseball card looks great,” Roberts said. “But where we’re at, there’s got to be something for us to be able to hang our hat on. And he knows that. He knows that. He wants to pitch well. So for me, Wednesday, we’ll be watching closely.”\nSo, who’s still in play?\nTanner Scott remains Roberts’ go-to in save situations. And Alex Vesia, Evan Phillips, Brock Stewart, Jack Dreyer and Blake Treinen all have experience in late innings.\nOn Monday, starter Tarik Skubal gave the group a much-needed break with seven shutout innings. He limited the Reds to three hits and a walk, cruising through their lineup almost three times in 90 pitches.\nThe Dodgers pulled ahead by four runs, on home runs from Kyle Tucker and Teoscar Hernández, who have both broken out of slumps, and an RBI single from Kiké Hernández.\nWith the game still relatively tight, Vesia entered in the bottom of the eighth to face the left-handed heavy bottom of the order. He retired the side.\nPhillips and Treinen both were warming in the ninth when the Dodgers got a runner to second base with one out. When they failed to score him, Phillips jogged in to face the top of the order. He surrendered a high-flying solo homer to Elly De La Cruz on a fastball above the zone but avoided further damage.\nBefore the game, the Dodgers added two fresh arms to the bullpen. They recalled right-handers Bobby Miller and Paul Gervase, as they put Henriquez on the IL and optioned right-hander Emmet Sheehan.\nHenriquez will undergo imaging on the area, which Roberts said stretched to his side near his oblique.\n“The hope is we’ll get him back in the postseason,” Roberts said.\nRoberts said he didn’t know what the move meant for Sheehan, who in his past two starts limited opponents to one run and recorded 15 strikeouts in a combined 11 ⅔ innings.\n“Some of it’s probably contingent on Roki [Sasaki], and we’ve got another start coming up down the road here, as far as a bullpen kind of situation,” Roberts said. “So I don’t know, but Emmet’s done everything he can do in his power to force our hand, which I love. The last two have been really good.”\nSasaki (right middle finger blister) could start Thursday. His bullpen session Monday marked the first time he had tested covering the sensitive area on his finger with Dermabond, Roberts said.\n“We just can’t put him in a position to go backward,” Roberts said.\nThe Dodgers also have more bullpen reinforcements coming.\nAnother bullpen addition is left-hander Kris Bubic, who met the team in Cincinnati and is in place to make his Dodgers debut later this week. Bubic made his last rehab appearance for triple-A Oklahoma City on Sunday, so Roberts said the Dodgers likely won’t activate him off the 60-day injured list until Wednesday at the earliest.\nThe Dodgers acquired Bubic from the Kansas City Royals at the trade deadline this year. He’d been on the IL since May, first with a low-grade flexor strain in his left forearm, and then a shoulder impingement setback.\nIn six triple-A rehab appearances over 5⅔ innings, Bubic didn’t yield a run and he limited opponents to two hits and two walks.\nRoberts was noncommittal about Bubic being a high-leverage option.\n“Seems like all of our games are leverage these days,” he said.\nBy not putting Shohei Ohtani on the injured list in July or in August, the Dodgers may have compromised the two-way star’s ability to be healthy for the playoffs.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "dccea2fb44e5ed17acb5",
     "title": "Elly's ballpark-fleeing blast highlights otherwise tough night for Reds' bats",
     "source": "MLB.com",
@@ -6309,6 +6405,74 @@
     "translation_status": "fallback_original"
   },
   {
+    "id": "7b8073025fb5f50b079a",
+    "title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
+    "source": "heavy.com",
+    "author": "McKenna Van Gundy",
+    "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/dodgers-tommy-edman-back-cf-reds/",
+    "published_iso": "2026-09-14T19:38:23+00:00",
+    "published_rfc2822": "Mon, 14 Sep 2026 19:38:23 +0000",
+    "body": "The Los Angeles Dodgers are one win away from clinching a National League playoff berth.\nMonday, September 14, the Dodgers begin a three-game series against the Cincinnati Reds for the second time seven games.\nAhead of tonight’s game, the Dodgers make a couple changes in their lineup, one of them involving utility player Tommy Edman.\nTommy Edman is Back in the Lineup vs. the Reds After a Rest Day on Sunday\nPer Los Angeles Dodgers reporter David Vassegh, the team announced their starting lineup against the Cincinnati Reds on Monday.\n#Dodgers Lineup vs #Reds LHP, Nick Lodolo: Edman CF, Betts SS, Smith C, Tucker RF, T. Hernandez LF, Rojas 2B, Muncy 3B, E. Hernandez 1B, JDP DH, Tarik Skubal SP,” Vassegh wrote on X.\nEdman sat out in Sunday’s loss against the Miami Marlins because Dodgers manager Dave Roberts, did not want him playing all three games on a turf field.\n“#Dodgers Dave Roberts originally said Josue De Paula would DH all 3 games in Miami,” Dodgers insider Bill Plunket wrote on X ahead of Sunday’s game. “Thought it thru and decided he didn’t want Teoscar Hernandez or Tommy Edman to play all 3 games on turf here. So De Paula gets the start in LF.”\nEdman and the Dodgers have been carefully monitoring the center fielder’s ankle, after spending nearly half the season on the injured list. The 31-year-old underwent an offseason ankle surgery and did not return to the Dodgers lineup until June 17.\nWhile the Dodgers primary center fielder Andy Pages, remains on the injured list, Edman has spent most of starts in center.\nDespite slashing .257/.339/.390 in 72 games, Edman’s seven game stretch shows signs of a quite the slump.\nHe’s batting .091 with five strikeouts, two hits, and two RBIs in his last 22 at-bats. Both of hits coming against the Washington Nationals on September 6.\nHopefully yesterday’s much needed rest day gets Edman back where he needs to be.\nLos Angeles Dodgers Magic Number to Win NL West is Four\nThere only 15 days until the first MLB postseason game, and 13 games left in the season for the Dodgers. They can clinch a postseason berth tonight with a win against the Reds.\n“LAD can clinch a postseason berth today with a win at Cincinnati *or* losses by both the Padres (@ COL) AND the Diamondbacks (v. MIA),” Dodgers beat writer Katie Woo wrote on X.\nFor the National League West, the Dodgers’ magic number is four.\nAfter their series concludes against the Reds, the Dodgers are strictly facing NL West opponents. Two series at-home against the San Francisco Giants and San Diego Padres, and rounding off the season on the road to face San Francisco for the final time in 2026.",
+    "tracked_people": [
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player"
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
+    "original_body": "The Los Angeles Dodgers are one win away from clinching a National League playoff berth.\nMonday, September 14, the Dodgers begin a three-game series against the Cincinnati Reds for the second time seven games.\nAhead of tonight’s game, the Dodgers make a couple changes in their lineup, one of them involving utility player Tommy Edman.\nTommy Edman is Back in the Lineup vs. the Reds After a Rest Day on Sunday\nPer Los Angeles Dodgers reporter David Vassegh, the team announced their starting lineup against the Cincinnati Reds on Monday.\n#Dodgers Lineup vs #Reds LHP, Nick Lodolo: Edman CF, Betts SS, Smith C, Tucker RF, T. Hernandez LF, Rojas 2B, Muncy 3B, E. Hernandez 1B, JDP DH, Tarik Skubal SP,” Vassegh wrote on X.\nEdman sat out in Sunday’s loss against the Miami Marlins because Dodgers manager Dave Roberts, did not want him playing all three games on a turf field.\n“#Dodgers Dave Roberts originally said Josue De Paula would DH all 3 games in Miami,” Dodgers insider Bill Plunket wrote on X ahead of Sunday’s game. “Thought it thru and decided he didn’t want Teoscar Hernandez or Tommy Edman to play all 3 games on turf here. So De Paula gets the start in LF.”\nEdman and the Dodgers have been carefully monitoring the center fielder’s ankle, after spending nearly half the season on the injured list. The 31-year-old underwent an offseason ankle surgery and did not return to the Dodgers lineup until June 17.\nWhile the Dodgers primary center fielder Andy Pages, remains on the injured list, Edman has spent most of starts in center.\nDespite slashing .257/.339/.390 in 72 games, Edman’s seven game stretch shows signs of a quite the slump.\nHe’s batting .091 with five strikeouts, two hits, and two RBIs in his last 22 at-bats. Both of hits coming against the Washington Nationals on September 6.\nHopefully yesterday’s much needed rest day gets Edman back where he needs to be.\nLos Angeles Dodgers Magic Number to Win NL West is Four\nThere only 15 days until the first MLB postseason game, and 13 games left in the season for the Dodgers. They can clinch a postseason berth tonight with a win against the Reds.\n“LAD can clinch a postseason berth today with a win at Cincinnati *or* losses by both the Padres (@ COL) AND the Diamondbacks (v. MIA),” Dodgers beat writer Katie Woo wrote on X.\nFor the National League West, the Dodgers’ magic number is four.\nAfter their series concludes against the Reds, the Dodgers are strictly facing NL West opponents. Two series at-home against the San Francisco Giants and San Diego Padres, and rounding off the season on the road to face San Francisco for the final time in 2026.",
+    "rss_title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
+    "rss_body": "The Los Angeles Dodgers are one win away from clinching a National League playoff berth.\nMonday, September 14, the Dodgers begin a three-game series against the Cincinnati Reds for the second time seven games.\nAhead of tonight’s game, the Dodgers make a couple changes in their lineup, one of them involving utility player Tommy Edman.\nTommy Edman is Back in the Lineup vs. the Reds After a Rest Day on Sunday\nPer Los Angeles Dodgers reporter David Vassegh, the team announced their starting lineup against the Cincinnati Reds on Monday.\n#Dodgers Lineup vs #Reds LHP, Nick Lodolo: Edman CF, Betts SS, Smith C, Tucker RF, T. Hernandez LF, Rojas 2B, Muncy 3B, E. Hernandez 1B, JDP DH, Tarik Skubal SP,” Vassegh wrote on X.\nEdman sat out in Sunday’s loss against the Miami Marlins because Dodgers manager Dave Roberts, did not want him playing all three games on a turf field.\n“#Dodgers Dave Roberts originally said Josue De Paula would DH all 3 games in Miami,” Dodgers insider Bill Plunket wrote on X ahead of Sunday’s game. “Thought it thru and decided he didn’t want Teoscar Hernandez or Tommy Edman to play all 3 games on turf here. So De Paula gets the start in LF.”\nEdman and the Dodgers have been carefully monitoring the center fielder’s ankle, after spending nearly half the season on the injured list. The 31-year-old underwent an offseason ankle surgery and did not return to the Dodgers lineup until June 17.\nWhile the Dodgers primary center fielder Andy Pages, remains on the injured list, Edman has spent most of starts in center.\nDespite slashing .257/.339/.390 in 72 games, Edman’s seven game stretch shows signs of a quite the slump.\nHe’s batting .091 with five strikeouts, two hits, and two RBIs in his last 22 at-bats. Both of hits coming against the Washington Nationals on September 6.\nHopefully yesterday’s much needed rest day gets Edman back where he needs to be.\nLos Angeles Dodgers Magic Number to Win NL West is Four\nThere only 15 days until the first MLB postseason game, and 13 games left in the season for the Dodgers. They can clinch a postseason berth tonight with a win against the Reds.\n“LAD can clinch a postseason berth today with a win at Cincinnati *or* losses by both the Padres (@ COL) AND the Diamondbacks (v. MIA),” Dodgers beat writer Katie Woo wrote on X.\nFor the National League West, the Dodgers’ magic number is four.\nAfter their series concludes against the Reds, the Dodgers are strictly facing NL West opponents. Two series at-home against the San Francisco Giants and San Diego Padres, and rounding off the season on the road to face San Francisco for the final time in 2026.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/los-angeles-dodgers-tommy-edman-222114206.html",
+        "title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
+        "body_characters": 1547
+      }
+    ]
+  },
+  {
     "id": "e2b02fd793c9b23a6a5f",
     "title": "Edgardo Henríquez on injured list with back discomfort",
     "source": "True Blue LA",
@@ -6348,6 +6512,36 @@
     "original_body": "One day after allowing his first runs in four weeks, Dodgers reliever Edgardo Henríquez was placed on the 15-day injured list with lower back discomfort. His regular season is over.\nHenríquez has been one of the best relievers on the team this season, with a 2.85 ERA and 2.47 xERA in 61 games, with 71 strikeouts and 25 walks in 60 innings, with a 29.3-percent strikeout rate and only one home run allowed. The 24-year-old leads the Dodgers bullpen in innings and xERA, and is second only to Tanner Scott in strikeouts.\nSunday was a rare rough outing for Henríquez, who allowed three hits, a walk, and two runs in the eighth inning, recording only two outs. Those were the first runs allowed by Henríquez since August 16, snapping a string of 11 consecutive scoreless appearances.\n“It’s the confidence he has in his fastball. Everybody knows it’s not easy to hit 103, 104 coming at you with confidence,” outfielder Teoscar Hernández said last week on the Dodgers’ homestand. “That’s been the difference between the Edgardo we saw at the beginning of the year, and the Edgardo we’re seeing right now.”\nWhether Henriquez will be ready and available once the postseason starts remains to be seen.\nWith Henríquez sidelined, Bobby Miller was recalled from Triple-A Oklahoma City. Miller was just optioned last Monday, but he’s able to return before his 15 days are up because he’s replacing an injured player.\nMiller pitched once for Oklahoma City after getting optioned, and it was a rough outing, with five runs allowed in 1 2/3 innings on Friday against Sugar Land, with all five runs scored on two home runs by the same player.",
     "rss_title": "Edgardo Henríquez on injured list with back discomfort",
     "rss_body": "One day after allowing his first runs in four weeks, Dodgers reliever Edgardo Henríquez was placed on the 15-day injured list with lower back discomfort. His regular season is over.\nHenríquez has been one of the best relievers on the team this season, with a 2.85 ERA and 2.47 xERA in 61 games, with 71 strikeouts and 25 walks in 60 innings, with a 29.3-percent strikeout rate and only one home run allowed. The 24-year-old leads the Dodgers bullpen in innings and xERA, and is second only to Tanner Scott in strikeouts.\nSunday was a rare rough outing for Henríquez, who allowed three hits, a walk, and two runs in the eighth inning, recording only two outs. Those were the first runs allowed by Henríquez since August 16, snapping a string of 11 consecutive scoreless appearances.\n“It’s the confidence he has in his fastball. Everybody knows it’s not easy to hit 103, 104 coming at you with confidence,” outfielder Teoscar Hernández said last week on the Dodgers’ homestand. “That’s been the difference between the Edgardo we saw at the beginning of the year, and the Edgardo we’re seeing right now.”\nWhether Henriquez will be ready and available once the postseason starts remains to be seen.\nWith Henríquez sidelined, Bobby Miller was recalled from Triple-A Oklahoma City. Miller was just optioned last Monday, but he’s able to return before his 15 days are up because he’s replacing an injured player.\nMiller pitched once for Oklahoma City after getting optioned, and it was a rough outing, with five runs allowed in 1 2/3 innings on Friday against Sugar Land, with all five runs scored on two home runs by the same player.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a22f61cac8b7fd3b1074",
+    "title": "Los Angeles Dodgers Announce Sudden Kyle Tucker News Before Reds Series",
+    "source": "Yahoo Sports",
+    "author": "Michael DeRosa",
+    "url": "https://sports.yahoo.com/articles/los-angeles-dodgers-announce-sudden-221757723.html",
+    "published_iso": "2026-09-14T22:17:57+00:00",
+    "published_rfc2822": "Mon, 14 Sep 2026 22:17:57 +0000",
+    "body": "On Monday, the Los Angeles Dodgers begin their series against the Cincinnati Reds.\nThe Dodgers will be aiming to get things back on track during this series, as they lost each of their last two games against the Miami Marlins.\nNow, as the Dodgers prepare for their series opener against the Reds, they have announced some news regarding Kyle Tucker.\nKyle Tucker Moving Up to Fourth in Dodgers' Batting Order\nAfter batting fifth for Los Angeles in their most recent game against the Marlins, Tucker will now be batting fourth against the Reds.\nTucker moving up in Los Angeles' batting order comes after he went 0-for-4 in each of his last two games. With this, it is a little surprising to see him move up the lineup. Yet, he will now be looking to bounce back against Cincinnati.\nHere is the Dodgers' full batting order for their game against the Reds, per Underdog MLB:\nT. Edman CF M. Betts SS W. Smith C K. Tucker RF T. Hernández LF M. Rojas 2B M. Muncy 3B E. Hernández 1B J. De Paula DH\nLooking at Tucker\nTucker's first season with the Dodgers has been rough. In 141 games this campaign with Los Angeles, he has posted 14 home runs, 65 RBI, and a low .226 batting average. This is after he posted 22 home runs, 73 RBI, and a .266 batting average in 136 games last season the Chicago Cubs.\nYet, Tucker still has time to end the season on a high note. Let's see if he can have a big game against the Reds from here.\nLike HEAVY's content? Be sure to follow us.\nThis article was originally published on HEAVY\nThe post Los Angeles Dodgers Announce Sudden Kyle Tucker News Before Reds Series appeared first on HEAVY.",
+    "tracked_people": [
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Los Angeles Dodgers Announce Sudden Kyle Tucker News Before Reds Series",
+    "original_body": "On Monday, the Los Angeles Dodgers begin their series against the Cincinnati Reds.\nThe Dodgers will be aiming to get things back on track during this series, as they lost each of their last two games against the Miami Marlins.\nNow, as the Dodgers prepare for their series opener against the Reds, they have announced some news regarding Kyle Tucker.\nKyle Tucker Moving Up to Fourth in Dodgers' Batting Order\nAfter batting fifth for Los Angeles in their most recent game against the Marlins, Tucker will now be batting fourth against the Reds.\nTucker moving up in Los Angeles' batting order comes after he went 0-for-4 in each of his last two games. With this, it is a little surprising to see him move up the lineup. Yet, he will now be looking to bounce back against Cincinnati.\nHere is the Dodgers' full batting order for their game against the Reds, per Underdog MLB:\nT. Edman CF M. Betts SS W. Smith C K. Tucker RF T. Hernández LF M. Rojas 2B M. Muncy 3B E. Hernández 1B J. De Paula DH\nLooking at Tucker\nTucker's first season with the Dodgers has been rough. In 141 games this campaign with Los Angeles, he has posted 14 home runs, 65 RBI, and a low .226 batting average. This is after he posted 22 home runs, 73 RBI, and a .266 batting average in 136 games last season the Chicago Cubs.\nYet, Tucker still has time to end the season on a high note. Let's see if he can have a big game against the Reds from here.\nLike HEAVY's content? Be sure to follow us.\nThis article was originally published on HEAVY\nThe post Los Angeles Dodgers Announce Sudden Kyle Tucker News Before Reds Series appeared first on HEAVY.",
+    "rss_title": "Los Angeles Dodgers Announce Sudden Kyle Tucker News Before Reds Series",
+    "rss_body": "On Monday, the Los Angeles Dodgers begin their series against the Cincinnati Reds.\nThe Dodgers will be aiming to get things back on track during this series, as they lost each of their last two games against the Miami Marlins.\nNow, as the Dodgers prepare for their series opener against the Reds, they have announced some news regarding Kyle Tucker.\nKyle Tucker Moving Up to Fourth in Dodgers' Batting Order\nAfter batting fifth for Los Angeles in their most recent game against the Marlins, Tucker will now be batting fourth against the Reds.\nTucker moving up in Los Angeles' batting order comes after he went 0-for-4 in each of his last two games. With this, it is a little surprising to see him move up the lineup. Yet, he will now be looking to bounce back against Cincinnati.\nHere is the Dodgers' full batting order for their game against the Reds, per Underdog MLB:\nT. Edman CF M. Betts SS W. Smith C K. Tucker RF T. Hernández LF M. Rojas 2B M. Muncy 3B E. Hernández 1B J. De Paula DH\nLooking at Tucker\nTucker's first season with the Dodgers has been rough. In 141 games this campaign with Los Angeles, he has posted 14 home runs, 65 RBI, and a low .226 batting average. This is after he posted 22 home runs, 73 RBI, and a .266 batting average in 136 games last season the Chicago Cubs.\nYet, Tucker still has time to end the season on a high note. Let's see if he can have a big game against the Reds from here.\nLike HEAVY's content? Be sure to follow us.\nThis article was originally published on HEAVY\nThe post Los Angeles Dodgers Announce Sudden Kyle Tucker News Before Reds Series appeared first on HEAVY.",
     "translation_status": "fallback_original"
   },
   {
@@ -6537,74 +6731,6 @@
     "rss_title": "Bench Kyle Tucker? Why Dodgers plan to ‘ride or die with him’ instead",
     "rss_body": "CINCINNATI –– With his already career-worst season reaching nightmarish new depths, Kyle Tucker was pulled aside recently by Dodgers manager Dave Roberts.\nThe topic of conversation: The $240 million outfielder’s playing time over the rest of the season.\nExternally, of course, calls had been mounting for Tucker to be platooned, if not outright benched, as his numbers continued to plummet amid an ongoing second-half slump.\nInternally, however, the Dodgers had decided to double down on their faith in this offseason’s marquee free-agent signing.\nThus, the message Roberts delivered was simple.\n“I told him, I’m gonna ride or die with him,” Roberts shared this weekend.\nIn that exact phrasing?\n“I did,” Roberts joked. “That was my young term phrase.”\nOn this day, Roberts had reason to laugh. The previous two games, Tucker had finally offered signs of life at the plate, posting back-to-back performances with three hits and a home run. Over the last week, Dodgers hitting coaches believed they had finally found a breakthrough with the left-handed slugger’s swing, one that (at least temporarily) cleaned up some mechanical flaws that had hampered him all year.\nAlas, in Tucker’s 2026 campaign, no turnaround was ever going to be that simple.\nOver the two games since, he has gone 0-for-8 again, including a strikeout with the bases loaded in the top of the ninth on Sunday. On the season, his numbers remain unthinkably disappointing, with a batting average of .226, an OPS of .692 and an almost negligible 0.3 mark in wins above replacement.\nAt this point, it is all adding up to a lost season for the 29-year-old, who is threatening to become one of the biggest free-agent flops in at least the sport’s recent high-priced history.\nAnd yet, the Dodgers aren’t wavering from their commitment to keep playing the four-time All-Star, rolling the dice “talent level” and “proven track record,” as Roberts cited, by keeping him in the lineup for the long haul.\n“I was prepared, the organization was prepared, to give him as much leash as we possibly could to work through some things, and I do think that now we’re starting to see the fruits,” Roberts said. “So I see no other reason why we would pivot from running him out there every day.”\nThe only caveat Roberts offered: “I guess, to that same point, until you can’t, right?”\nTrying to identify the root cause of Tucker’s dismal season has been about as easy as discerning his emotions through his stoic and reserved facade.\nThe one thing everyone has agreed on: “It’s purely mechanical,” as co-hitting coach Robert Van Scoyoc told the California Post recently. “His swing plane is pretty unique, but it’s just not working the way that it used to.”\nThe problem, as Tucker himself conceded last month, has been finding an answer or adjustment that works.\n“I feel like I’ve tried just about everything,” he said. “And every time I feel like I’m turning a corner, I get hit with a roadblock.”\nTucker’s swing has always been atypical, both in the way he “lays the bat back” in his stance (which, according to fellow hitting coach Aaron Bates, leads to a longer path in which “his margin for error is a little smaller”) and how he strides through the ball (launching off his back foot with an almost Scottie Scheffler-esque follow-through).\nWhen it’s all synced up, it makes him one of the most consistent hitters in the game; reminiscent to some evaluators of a modern-day Ted Williams.\nBut when it’s not…\n“I think it’s a slippery slope,” Bates said.\nOnly now, the Dodgers are hoping they have found a way to potentially end the slide.\nFor much of the year, Bates said Tucker was struggling to replicate his old, inside-out swing path. Instead, he was “cutting down and across the ball,” preventing him from squaring up heaters or adjusting to off-speed pitches. According to MLB’s Statcast system, his rate of “barreled” balls has fallen almost in half as a result, from 10.8% last year (and 12.9% in 2024) to 6.3% this season.\nTheir initial attempt at a fix was having Tucker cycle through old drills and mental cues he had used in his career previously. Only this time, those old band-aids failed to make a difference, leaving a player who once always had offensive answers toiling with only growing mechanical questions.\nWhy that is still confounds the Dodgers. Theories have ranged from a slow adjustment to his new surroundings, to potential lingering side effects from the hand fracture he played through last season with the Chicago Cubs.\n“It definitely seems like things kind of shifted after [that],” Van Scoyoc said, noting that Tucker also struggled down the stretch in 2025. “So it could be that, but it might not be. We don’t exactly know.”\nWhat was clear was the need to try something different. Thus, there has been constant trial-and-error in Tucker’s elongated batting-cage sessions of late.\nLast week, something finally clicked. As Bates described it, Tucker found comfort with the thought of a “no-roll swing” –– where instead of flipping his hands at the end of his follow-through, he keeps them more square to the big part of the field.\n“Guys who throw right-handed but hit lefty, it’s something they struggle with sometimes, because the right side of their body is the dominant side,” Bates said, noting that the team has made similar adjustments with Tommy Edman, Alex Freeland and Dalton Rushing this season.\nIn Tucker’s case, the cue helped flatten his swing.\n“He was missing pitches he thought he needed to get on top of,” Bates said, “and needed to think about swinging high instead of swinging down.” It has also kept his barrel in the zone longer, allowing him to re-adjust to off-speed offerings (one of his great strengths as a hitter for most of his career) while better squaring mistakes left over the plate (like the hanging inside sweeper he belted for a grand slam on Friday).\n“There’s a lot more room for error hitting the ball, because you can hit it deep and go the other way or catch it out in front and pull it a little bit more,” Tucker explained. “Just trying to be consistent with that and be as long through the zone as possible.”\nWhether it proves to be a genuine breakthrough, or just another false start in a season that’s never gotten going, the Dodgers are willing to keep taking the time to find out.\nAfter all, while Tucker’s regular season is beyond salvaging, Van Scoyoc maintained that “he can find it in one swing and then go on a run.”\nThus, they will “ride or die” with him the rest of the way, despite the dismal struggles the last five months have wrought.\n“I mean, the numbers probably are what they are, but we’ve got a lot of important games coming next month,” Tucker said, eyeing what he hopes will be validation in the playoffs. “That’s the most important thing … As long as you win the game and kind of contribute to that in some way, that’s all you can really try and do.”\nAdded Roberts: “If you perform at the right time, all is forgotten.”",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "7b8073025fb5f50b079a",
-    "title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
-    "source": "heavy.com",
-    "author": "McKenna Van Gundy",
-    "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/dodgers-tommy-edman-back-cf-reds/",
-    "published_iso": "2026-09-14T19:38:23+00:00",
-    "published_rfc2822": "Mon, 14 Sep 2026 19:38:23 +0000",
-    "body": "The Los Angeles Dodgers are one win away from clinching a National League playoff berth.\nMonday, September 14, the Dodgers begin a three-game series against the Cincinnati Reds for the second time seven games.\nAhead of tonight’s game, the Dodgers make a couple changes in their lineup, one of them involving utility player Tommy Edman.\nTommy Edman is Back in the Lineup vs. the Reds After a Rest Day on Sunday\nPer Los Angeles Dodgers reporter David Vassegh, the team announced their starting lineup against the Cincinnati Reds on Monday.\n#Dodgers Lineup vs #Reds LHP, Nick Lodolo: Edman CF, Betts SS, Smith C, Tucker RF, T. Hernandez LF, Rojas 2B, Muncy 3B, E. Hernandez 1B, JDP DH, Tarik Skubal SP,” Vassegh wrote on X.\nEdman sat out in Sunday’s loss against the Miami Marlins because Dodgers manager Dave Roberts, did not want him playing all three games on a turf field.\n“#Dodgers Dave Roberts originally said Josue De Paula would DH all 3 games in Miami,” Dodgers insider Bill Plunket wrote on X ahead of Sunday’s game. “Thought it thru and decided he didn’t want Teoscar Hernandez or Tommy Edman to play all 3 games on turf here. So De Paula gets the start in LF.”\nEdman and the Dodgers have been carefully monitoring the center fielder’s ankle, after spending nearly half the season on the injured list. The 31-year-old underwent an offseason ankle surgery and did not return to the Dodgers lineup until June 17.\nWhile the Dodgers primary center fielder Andy Pages, remains on the injured list, Edman has spent most of starts in center.\nDespite slashing .257/.339/.390 in 72 games, Edman’s seven game stretch shows signs of a quite the slump.\nHe’s batting .091 with five strikeouts, two hits, and two RBIs in his last 22 at-bats. Both of hits coming against the Washington Nationals on September 6.\nHopefully yesterday’s much needed rest day gets Edman back where he needs to be.\nLos Angeles Dodgers Magic Number to Win NL West is Four\nThere only 15 days until the first MLB postseason game, and 13 games left in the season for the Dodgers. They can clinch a postseason berth tonight with a win against the Reds.\n“LAD can clinch a postseason berth today with a win at Cincinnati *or* losses by both the Padres (@ COL) AND the Diamondbacks (v. MIA),” Dodgers beat writer Katie Woo wrote on X.\nFor the National League West, the Dodgers’ magic number is four.\nAfter their series concludes against the Reds, the Dodgers are strictly facing NL West opponents. Two series at-home against the San Francisco Giants and San Diego Padres, and rounding off the season on the road to face San Francisco for the final time in 2026.",
-    "tracked_people": [
-      {
-        "name": "Tommy Edman",
-        "role": "Utility Infielder / Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Teoscar Hernández",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Josué De Paula",
-        "role": "Outfielder / DH",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Tarik Skubal",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Andy Pages",
-        "role": "Outfielder",
-        "status": "Injured List",
-        "type": "player"
-      },
-      {
-        "name": "Dave Roberts",
-        "role": "Manager",
-        "status": "Coaching Staff",
-        "type": "staff"
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
-    "original_body": "The Los Angeles Dodgers are one win away from clinching a National League playoff berth.\nMonday, September 14, the Dodgers begin a three-game series against the Cincinnati Reds for the second time seven games.\nAhead of tonight’s game, the Dodgers make a couple changes in their lineup, one of them involving utility player Tommy Edman.\nTommy Edman is Back in the Lineup vs. the Reds After a Rest Day on Sunday\nPer Los Angeles Dodgers reporter David Vassegh, the team announced their starting lineup against the Cincinnati Reds on Monday.\n#Dodgers Lineup vs #Reds LHP, Nick Lodolo: Edman CF, Betts SS, Smith C, Tucker RF, T. Hernandez LF, Rojas 2B, Muncy 3B, E. Hernandez 1B, JDP DH, Tarik Skubal SP,” Vassegh wrote on X.\nEdman sat out in Sunday’s loss against the Miami Marlins because Dodgers manager Dave Roberts, did not want him playing all three games on a turf field.\n“#Dodgers Dave Roberts originally said Josue De Paula would DH all 3 games in Miami,” Dodgers insider Bill Plunket wrote on X ahead of Sunday’s game. “Thought it thru and decided he didn’t want Teoscar Hernandez or Tommy Edman to play all 3 games on turf here. So De Paula gets the start in LF.”\nEdman and the Dodgers have been carefully monitoring the center fielder’s ankle, after spending nearly half the season on the injured list. The 31-year-old underwent an offseason ankle surgery and did not return to the Dodgers lineup until June 17.\nWhile the Dodgers primary center fielder Andy Pages, remains on the injured list, Edman has spent most of starts in center.\nDespite slashing .257/.339/.390 in 72 games, Edman’s seven game stretch shows signs of a quite the slump.\nHe’s batting .091 with five strikeouts, two hits, and two RBIs in his last 22 at-bats. Both of hits coming against the Washington Nationals on September 6.\nHopefully yesterday’s much needed rest day gets Edman back where he needs to be.\nLos Angeles Dodgers Magic Number to Win NL West is Four\nThere only 15 days until the first MLB postseason game, and 13 games left in the season for the Dodgers. They can clinch a postseason berth tonight with a win against the Reds.\n“LAD can clinch a postseason berth today with a win at Cincinnati *or* losses by both the Padres (@ COL) AND the Diamondbacks (v. MIA),” Dodgers beat writer Katie Woo wrote on X.\nFor the National League West, the Dodgers’ magic number is four.\nAfter their series concludes against the Reds, the Dodgers are strictly facing NL West opponents. Two series at-home against the San Francisco Giants and San Diego Padres, and rounding off the season on the road to face San Francisco for the final time in 2026.",
-    "rss_title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
-    "rss_body": "The Los Angeles Dodgers are one win away from clinching a National League playoff berth.\nMonday, September 14, the Dodgers begin a three-game series against the Cincinnati Reds for the second time seven games.\nAhead of tonight’s game, the Dodgers make a couple changes in their lineup, one of them involving utility player Tommy Edman.\nTommy Edman is Back in the Lineup vs. the Reds After a Rest Day on Sunday\nPer Los Angeles Dodgers reporter David Vassegh, the team announced their starting lineup against the Cincinnati Reds on Monday.\n#Dodgers Lineup vs #Reds LHP, Nick Lodolo: Edman CF, Betts SS, Smith C, Tucker RF, T. Hernandez LF, Rojas 2B, Muncy 3B, E. Hernandez 1B, JDP DH, Tarik Skubal SP,” Vassegh wrote on X.\nEdman sat out in Sunday’s loss against the Miami Marlins because Dodgers manager Dave Roberts, did not want him playing all three games on a turf field.\n“#Dodgers Dave Roberts originally said Josue De Paula would DH all 3 games in Miami,” Dodgers insider Bill Plunket wrote on X ahead of Sunday’s game. “Thought it thru and decided he didn’t want Teoscar Hernandez or Tommy Edman to play all 3 games on turf here. So De Paula gets the start in LF.”\nEdman and the Dodgers have been carefully monitoring the center fielder’s ankle, after spending nearly half the season on the injured list. The 31-year-old underwent an offseason ankle surgery and did not return to the Dodgers lineup until June 17.\nWhile the Dodgers primary center fielder Andy Pages, remains on the injured list, Edman has spent most of starts in center.\nDespite slashing .257/.339/.390 in 72 games, Edman’s seven game stretch shows signs of a quite the slump.\nHe’s batting .091 with five strikeouts, two hits, and two RBIs in his last 22 at-bats. Both of hits coming against the Washington Nationals on September 6.\nHopefully yesterday’s much needed rest day gets Edman back where he needs to be.\nLos Angeles Dodgers Magic Number to Win NL West is Four\nThere only 15 days until the first MLB postseason game, and 13 games left in the season for the Dodgers. They can clinch a postseason berth tonight with a win against the Reds.\n“LAD can clinch a postseason berth today with a win at Cincinnati *or* losses by both the Padres (@ COL) AND the Diamondbacks (v. MIA),” Dodgers beat writer Katie Woo wrote on X.\nFor the National League West, the Dodgers’ magic number is four.\nAfter their series concludes against the Reds, the Dodgers are strictly facing NL West opponents. Two series at-home against the San Francisco Giants and San Diego Padres, and rounding off the season on the road to face San Francisco for the final time in 2026.",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/los-angeles-dodgers-tommy-edman-222114206.html",
-        "title": "Los Angeles Dodgers Make Tommy Edman Decision Before Reds Series",
-        "body_characters": 1547
-      }
-    ]
   },
   {
     "id": "7f9c1ab8eeb2628704f8",
