@@ -1,5 +1,37 @@
 [
   {
+    "id": "a93a1aa20684883f256f",
+    "title": "Dodgers' Kyle Tucker: Returning to starting lineup Tuesday",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-kyle-tucker-returning-to-starting-lineup-tuesday/",
+    "published_iso": "2026-09-22T22:05:29+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 22:05:29 +0000",
+    "body": "Tucker (knee/shin) is in the lineup for Tuesday's matchup against San Diego, per Kirsten Watson of Spectrum SportsNet LA.\nAfter missing Sunday's series finale against the Giants, Tucker will return to the starting nine for Tuesday's series opener with the Padres. The 29-year-old will bat fifth and man right field for the Dodgers.",
+    "tracked_people": [
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Kyle Tucker: Returning to starting lineup Tuesday",
+    "original_body": "Tucker (knee/shin) is in the lineup for Tuesday's matchup against San Diego, per Kirsten Watson of Spectrum SportsNet LA.\nAfter missing Sunday's series finale against the Giants, Tucker will return to the starting nine for Tuesday's series opener with the Padres. The 29-year-old will bat fifth and man right field for the Dodgers.",
+    "rss_title": "Dodgers' Kyle Tucker: Returning to starting lineup Tuesday",
+    "rss_body": "Tucker (knee/shin) is in the lineup for Tuesday's matchup against San Diego, per Kirsten Watson of Spectrum SportsNet LA.\nAfter missing Sunday's series finale against the Giants, Tucker will return to the starting nine for Tuesday's series opener with the Padres. The 29-year-old will bat fifth and man right field for the Dodgers.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "f5c960e2b1f75f71ac5f",
     "title": "Dodgers activate Pages, Sasaki before Padres series",
     "source": "MLB.com",
