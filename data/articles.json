@@ -66,124 +66,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "839a3751b09d90f476f4",
-    "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
-    "source": "bignewsnetwork.com",
-    "author": "Field Level Media",
-    "url": "http://www.bignewsnetwork.com/news/279325333/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres",
-    "published_iso": "2026-09-23T06:00:00+00:00",
-    "published_rfc2822": "Wed, 23 Sep 2026 06:00:00 +0000",
-    "body": "Dodgers extend home winning streak to 11 with shutout of Padres\n(Photo credit: William Liang)\nFreddie Freeman drove in three runs, Will Smith and Tommy Edman hit home runs and the Los Angeles Dodgers inched closer to the best record in the National League with a 7-0 victory over the visiting San Diego Padres in the opener of a three-game series Tuesday.\nEight Dodgers pitchers held down the red-hot Padres offense in a bullpen game, with Justin Wrobleski (12-5) earning the win. Roki Sasaki struck out two in one inning in his return from a blister issue. The Dodgers extended their home winning streak to 11 games.\nLos Angeles fell one game behind the NL-best Milwaukee Brewers and reduced its magic number for a top-two NL spot and a bye into the NL Division Series to one.\nRookie designated hitter Josue De Paula had two hits with a run scored for the Dodgers, with Shohei Ohtani expected to return from a biceps injury as a hitter Wednesday.\nLuis Campusano had two hits for the Padres, whose magic number to clinch a playoff spot remained at two. Right-hander Michael King (12-10) gave up five runs on six hits over four innings, his most runs allowed in a start since May 30.\nIt was just the second loss in 15 games for San Diego, which is close to locking up a third consecutive playoff berth for the first time in franchise history.\nThe Dodgers took advantage of King's loss of command to start a four-run outburst in the second inning, all with two outs. The Dodgers loaded the bases on two singles and a hit batter, while Edman and Mookie Betts both walked to force in runs.\nFreeman followed Betts with a two-run single for a 4-0 lead.\nFreeman added a run-scoring single in the fourth inning, while Edman hit a home run in the sixth and Smith hit his in the seventh. Edman homered for the second straight game, while Smith went deep in his third consecutive start.\n'The Dodgers welcomed back Andy Pages from a broken left hand, and he was hit by a pitch and drew a walk in four plate appearances.\n--Field Level Media",
-    "tracked_people": [
-      {
-        "name": "Will Smith",
-        "role": "Catcher",
-        "status": "Active",
-        "type": "player",
-        "id": 1,
-        "batch": 1
-      },
-      {
-        "name": "Mookie Betts",
-        "role": "Infielder / Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 4,
-        "batch": 1
-      },
-      {
-        "name": "Freddie Freeman",
-        "role": "First Baseman",
-        "status": "Active",
-        "type": "player",
-        "id": 5,
-        "batch": 1
-      },
-      {
-        "name": "Tommy Edman",
-        "role": "Utility Infielder / Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Josué De Paula",
-        "role": "Outfielder / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 11,
-        "batch": 1
-      },
-      {
-        "name": "Justin Wrobleski",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 16,
-        "batch": 1
-      },
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
-        "batch": 2
-      },
-      {
-        "name": "Andy Pages",
-        "role": "Outfielder",
-        "status": "Injured List",
-        "type": "player",
-        "id": 24,
-        "batch": 2
-      },
-      {
-        "name": "Roki Sasaki",
-        "role": "Starting Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 25,
-        "batch": 2
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States"
-    ],
-    "discovery_sources": [
-      "GDELT"
-    ],
-    "original_title": "Dodgers extend home winning streak to 11 with shutout of Padres",
-    "original_body": "Dodgers extend home winning streak to 11 with shutout of Padres\n(Photo credit: William Liang)\nFreddie Freeman drove in three runs, Will Smith and Tommy Edman hit home runs and the Los Angeles Dodgers inched closer to the best record in the National League with a 7-0 victory over the visiting San Diego Padres in the opener of a three-game series Tuesday.\nEight Dodgers pitchers held down the red-hot Padres offense in a bullpen game, with Justin Wrobleski (12-5) earning the win. Roki Sasaki struck out two in one inning in his return from a blister issue. The Dodgers extended their home winning streak to 11 games.\nLos Angeles fell one game behind the NL-best Milwaukee Brewers and reduced its magic number for a top-two NL spot and a bye into the NL Division Series to one.\nRookie designated hitter Josue De Paula had two hits with a run scored for the Dodgers, with Shohei Ohtani expected to return from a biceps injury as a hitter Wednesday.\nLuis Campusano had two hits for the Padres, whose magic number to clinch a playoff spot remained at two. Right-hander Michael King (12-10) gave up five runs on six hits over four innings, his most runs allowed in a start since May 30.\nIt was just the second loss in 15 games for San Diego, which is close to locking up a third consecutive playoff berth for the first time in franchise history.\nThe Dodgers took advantage of King's loss of command to start a four-run outburst in the second inning, all with two outs. The Dodgers loaded the bases on two singles and a hit batter, while Edman and Mookie Betts both walked to force in runs.\nFreeman followed Betts with a two-run single for a 4-0 lead.\nFreeman added a run-scoring single in the fourth inning, while Edman hit a home run in the sixth and Smith hit his in the seventh. Edman homered for the second straight game, while Smith went deep in his third consecutive start.\n'The Dodgers welcomed back Andy Pages from a broken left hand, and he was hit by a pitch and drew a walk in four plate appearances.\n--Field Level Media",
-    "rss_title": "Dodgers extend home winning streak to 11 with shutout of Padres",
-    "rss_body": "Dodgers extend home winning streak to 11 with shutout of Padres\n(Photo credit: William Liang)\nFreddie Freeman drove in three runs, Will Smith and Tommy Edman hit home runs and the Los Angeles Dodgers inched closer to the best record in the National League with a 7-0 victory over the visiting San Diego Padres in the opener of a three-game series Tuesday.\nEight Dodgers pitchers held down the red-hot Padres offense in a bullpen game, with Justin Wrobleski (12-5) earning the win. Roki Sasaki struck out two in one inning in his return from a blister issue. The Dodgers extended their home winning streak to 11 games.\nLos Angeles fell one game behind the NL-best Milwaukee Brewers and reduced its magic number for a top-two NL spot and a bye into the NL Division Series to one.\nRookie designated hitter Josue De Paula had two hits with a run scored for the Dodgers, with Shohei Ohtani expected to return from a biceps injury as a hitter Wednesday.\nLuis Campusano had two hits for the Padres, whose magic number to clinch a playoff spot remained at two. Right-hander Michael King (12-10) gave up five runs on six hits over four innings, his most runs allowed in a start since May 30.\nIt was just the second loss in 15 games for San Diego, which is close to locking up a third consecutive playoff berth for the first time in franchise history.\nThe Dodgers took advantage of King's loss of command to start a four-run outburst in the second inning, all with two outs. The Dodgers loaded the bases on two singles and a hit batter, while Edman and Mookie Betts both walked to force in runs.\nFreeman followed Betts with a two-run single for a 4-0 lead.\nFreeman added a run-scoring single in the fourth inning, while Edman hit a home run in the sixth and Smith hit his in the seventh. Edman homered for the second straight game, while Smith went deep in his third consecutive start.\n'The Dodgers welcomed back Andy Pages from a broken left hand, and he was hit by a pitch and drew a walk in four plate appearances.\n--Field Level Media",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "kmjnow.com",
-        "url": "https://www.kmjnow.com/2026/09/22/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres/",
-        "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
-        "body_characters": 1913
-      },
-      {
-        "source": "640wxsm.com",
-        "url": "https://www.640wxsm.com/2026/09/23/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres/",
-        "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
-        "body_characters": 1913
-      },
-      {
-        "source": "sandiegosun.com",
-        "url": "http://www.sandiegosun.com/news/279325333/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres",
-        "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
-        "body_characters": 2458
-      }
-    ]
-  },
-  {
     "id": "b97105f05efa4c9155fa",
     "title": "大谷翔平、復帰前日に“参戦”「かっこよすぎません？」 日米ファンが注目した「6人の顔」（Full-Count） - Yahoo!ニュース",
     "source": "Yahoo!ニュース",
@@ -522,6 +404,124 @@
     "rss_title": "Dodgers' Freddie Freeman: Drives in three runs",
     "rss_body": "Freeman went 2-for-4 with three RBI in Tuesday's 7-0 win over the Padres.\nThe veteran first baseman produced a second straight multi-hit performance with three singles, but he remains without an extra-base hit in his past 15 games. Freeman dealt with a knee issue earlier this month that caused him to miss a couple games, but he's started the past seven contests and has seemed mostly healthy, aside from the lack of pop in his bat.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "839a3751b09d90f476f4",
+    "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
+    "source": "bignewsnetwork.com",
+    "author": "Field Level Media",
+    "url": "http://www.bignewsnetwork.com/news/279325333/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres",
+    "published_iso": "2026-09-23T06:00:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 06:00:00 +0000",
+    "body": "Dodgers extend home winning streak to 11 with shutout of Padres\n(Photo credit: William Liang)\nFreddie Freeman drove in three runs, Will Smith and Tommy Edman hit home runs and the Los Angeles Dodgers inched closer to the best record in the National League with a 7-0 victory over the visiting San Diego Padres in the opener of a three-game series Tuesday.\nEight Dodgers pitchers held down the red-hot Padres offense in a bullpen game, with Justin Wrobleski (12-5) earning the win. Roki Sasaki struck out two in one inning in his return from a blister issue. The Dodgers extended their home winning streak to 11 games.\nLos Angeles fell one game behind the NL-best Milwaukee Brewers and reduced its magic number for a top-two NL spot and a bye into the NL Division Series to one.\nRookie designated hitter Josue De Paula had two hits with a run scored for the Dodgers, with Shohei Ohtani expected to return from a biceps injury as a hitter Wednesday.\nLuis Campusano had two hits for the Padres, whose magic number to clinch a playoff spot remained at two. Right-hander Michael King (12-10) gave up five runs on six hits over four innings, his most runs allowed in a start since May 30.\nIt was just the second loss in 15 games for San Diego, which is close to locking up a third consecutive playoff berth for the first time in franchise history.\nThe Dodgers took advantage of King's loss of command to start a four-run outburst in the second inning, all with two outs. The Dodgers loaded the bases on two singles and a hit batter, while Edman and Mookie Betts both walked to force in runs.\nFreeman followed Betts with a two-run single for a 4-0 lead.\nFreeman added a run-scoring single in the fourth inning, while Edman hit a home run in the sixth and Smith hit his in the seventh. Edman homered for the second straight game, while Smith went deep in his third consecutive start.\n'The Dodgers welcomed back Andy Pages from a broken left hand, and he was hit by a pitch and drew a walk in four plate appearances.\n--Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Justin Wrobleski",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Dodgers extend home winning streak to 11 with shutout of Padres",
+    "original_body": "Dodgers extend home winning streak to 11 with shutout of Padres\n(Photo credit: William Liang)\nFreddie Freeman drove in three runs, Will Smith and Tommy Edman hit home runs and the Los Angeles Dodgers inched closer to the best record in the National League with a 7-0 victory over the visiting San Diego Padres in the opener of a three-game series Tuesday.\nEight Dodgers pitchers held down the red-hot Padres offense in a bullpen game, with Justin Wrobleski (12-5) earning the win. Roki Sasaki struck out two in one inning in his return from a blister issue. The Dodgers extended their home winning streak to 11 games.\nLos Angeles fell one game behind the NL-best Milwaukee Brewers and reduced its magic number for a top-two NL spot and a bye into the NL Division Series to one.\nRookie designated hitter Josue De Paula had two hits with a run scored for the Dodgers, with Shohei Ohtani expected to return from a biceps injury as a hitter Wednesday.\nLuis Campusano had two hits for the Padres, whose magic number to clinch a playoff spot remained at two. Right-hander Michael King (12-10) gave up five runs on six hits over four innings, his most runs allowed in a start since May 30.\nIt was just the second loss in 15 games for San Diego, which is close to locking up a third consecutive playoff berth for the first time in franchise history.\nThe Dodgers took advantage of King's loss of command to start a four-run outburst in the second inning, all with two outs. The Dodgers loaded the bases on two singles and a hit batter, while Edman and Mookie Betts both walked to force in runs.\nFreeman followed Betts with a two-run single for a 4-0 lead.\nFreeman added a run-scoring single in the fourth inning, while Edman hit a home run in the sixth and Smith hit his in the seventh. Edman homered for the second straight game, while Smith went deep in his third consecutive start.\n'The Dodgers welcomed back Andy Pages from a broken left hand, and he was hit by a pitch and drew a walk in four plate appearances.\n--Field Level Media",
+    "rss_title": "Dodgers extend home winning streak to 11 with shutout of Padres",
+    "rss_body": "Dodgers extend home winning streak to 11 with shutout of Padres\n(Photo credit: William Liang)\nFreddie Freeman drove in three runs, Will Smith and Tommy Edman hit home runs and the Los Angeles Dodgers inched closer to the best record in the National League with a 7-0 victory over the visiting San Diego Padres in the opener of a three-game series Tuesday.\nEight Dodgers pitchers held down the red-hot Padres offense in a bullpen game, with Justin Wrobleski (12-5) earning the win. Roki Sasaki struck out two in one inning in his return from a blister issue. The Dodgers extended their home winning streak to 11 games.\nLos Angeles fell one game behind the NL-best Milwaukee Brewers and reduced its magic number for a top-two NL spot and a bye into the NL Division Series to one.\nRookie designated hitter Josue De Paula had two hits with a run scored for the Dodgers, with Shohei Ohtani expected to return from a biceps injury as a hitter Wednesday.\nLuis Campusano had two hits for the Padres, whose magic number to clinch a playoff spot remained at two. Right-hander Michael King (12-10) gave up five runs on six hits over four innings, his most runs allowed in a start since May 30.\nIt was just the second loss in 15 games for San Diego, which is close to locking up a third consecutive playoff berth for the first time in franchise history.\nThe Dodgers took advantage of King's loss of command to start a four-run outburst in the second inning, all with two outs. The Dodgers loaded the bases on two singles and a hit batter, while Edman and Mookie Betts both walked to force in runs.\nFreeman followed Betts with a two-run single for a 4-0 lead.\nFreeman added a run-scoring single in the fourth inning, while Edman hit a home run in the sixth and Smith hit his in the seventh. Edman homered for the second straight game, while Smith went deep in his third consecutive start.\n'The Dodgers welcomed back Andy Pages from a broken left hand, and he was hit by a pitch and drew a walk in four plate appearances.\n--Field Level Media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "kmjnow.com",
+        "url": "https://www.kmjnow.com/2026/09/22/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres/",
+        "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
+        "body_characters": 1913
+      },
+      {
+        "source": "640wxsm.com",
+        "url": "https://www.640wxsm.com/2026/09/23/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres/",
+        "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
+        "body_characters": 1913
+      },
+      {
+        "source": "sandiegosun.com",
+        "url": "http://www.sandiegosun.com/news/279325333/dodgers-extend-home-winning-streak-to-11-with-shutout-of-padres",
+        "title": "Dodgers extend home winning streak to 11 with shutout of Padres",
+        "body_characters": 2458
+      }
+    ]
   },
   {
     "id": "008920414c6b265fe06f",
