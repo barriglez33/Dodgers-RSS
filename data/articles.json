@@ -1,20 +1,100 @@
 [
   {
-    "id": "ce14aaa73153b16470a8",
-    "title": "Dodgers’ Ohtani set for return Wednesday after IL stint; Roberts says he’s ‘considerably’ better - Taylorville Daily News",
-    "source": "taylorvilledailynews.com",
-    "author": "SRN News",
-    "url": "https://www.taylorvilledailynews.com/dodgers-ohtani-set-for-return-wednesday-after-il-stint-roberts-says-hes-considerably-better/",
-    "published_iso": "2026-09-23T06:30:00+00:00",
-    "published_rfc2822": "Wed, 23 Sep 2026 06:30:00 +0000",
-    "body": "LOS ANGELES (AP) – Shohei Ohtani is expected to be back in the Los Angeles Dodgers’ lineup on Wednesday after a stint on the injured list.\nThe two-way superstar has been on the IL since Sept. 9 due to right biceps inflammation and lingering soreness in his left knee.\nManager Dave Roberts said Ohtani is feeling “considerably” better.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said Tuesday before the Dodgers faced San Diego.\nThe Dodgers clinched their 13th NL West title in 14 years without Ohtani, who was in Los Angeles for treatment when the team beat Cincinnati on the road last week. Now, the four-time MVP will have five games remaining to get some at-bats in before the postseason begins.\nOhtani is likely to resume his role as the Dodgers’ leadoff hitter, especially against right-handed pitching. Mookie Betts has been atop the lineup and is hitting .373 this month.\n“That’s probably the way it’s going to fall out, but I haven’t totally decided yet,” Roberts said, adding that he would consider Betts’ leadoff value against left-handed pitching. “I have to think about the entire lineup structure.”\n___\nSee AP’s full MLB coverage here\nBrought to you by www.srnnews.com",
+    "id": "d255cd828f0b0fec277b",
+    "title": "Josue De Paula or Dalton Rushing? Dodgers Weighing Difficult Postseason Decision",
+    "source": "Sports Illustrated",
+    "author": "Gabe Smallson; Unknown",
+    "url": "https://www.si.com/mlb/dodgers/onsi/josue-de-paula-dalton-rushing-dodgers-weighing-difficult-postseason-decision",
+    "published_iso": "2026-09-23T17:34:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 17:34:00 +0000",
+    "body": "The Los Angeles Dodgers are looking to do what no Major League Baseball team has done in the last quarter-century and win three consecutive championships.\nDespite all the talent on the roster, each name on the 26-man roster come postseason will have more importance than the next. Even someone like Miguel Rojas — who was hitless for a calendar month heading into the World Series — can come up big in perhaps the biggest moment in the history of the sport.\nAll of this not only boils down to how the two-time defending champions will perform, but who manager Dave Roberts names on the final rendition of the postseason rosters. As entertaining as the impending decision will be for onlookers of the baseball world, the skipper knows the importance of his roster choice as well as anyone.\nJosue De Paula and Dalton Rushing appear to be fighting for the same thing come October, but De Paula is still a raw product and Rushing is still on the injured list with elbow discomfort.\n“It’s going to be a good debate,” manager Dave Roberts said on Tuesday.\nDe Paula, the 21-year-old rookie from Brooklyn, NY, put up undeniable numbers in Double-A this season, leading to the outfielder's promotion before registering a single Triple-A at-bat. In his first 11 games in the big leagues, he's hitting .323/.500/.581 with a 1.081 OPS.\nRushing, on the other hand, has plenty more big league experience than De Paula since his promotion last May. Before his first IL stint, Rushing was hitting .253 with an OPS of .809 this season.\nThe reason for his stint on the shelf was due to a slight tear in his ulnar collateral ligament. After he returned for just four hitless games, he once again hit the injured list, but this time, MRIs gave reason to believe that the flexor tendon was the real issue, something that could potentially be addressed without surgery and assisted through platelet-rich plasma injections.\nFor either player, this will be an uphill battle. Roberts admitted that for Rushing specifically, it may be just a steeper incline.\n“Hitting off the bench is very difficult and so you're just trying to figure out who gives us the best chance,\" Roberts said. “To be quite frank, it’s going to be tougher for Dalton given the time that he’s missed, and to kind of think that you have three games to get back in the playoff form, which is tough to do. It’s not a knock on him. He’s been great for us. but it’s still tough given that also you’re talking about the consistency of at-bats recently from Josue.\n“We have to have those conversations and make a decision.”\nSign up for our free newsletter and follow us on X/Twitter and Facebook for the latest news.\nGabe Smallson is a sportswriter based in Los Angeles with a focus in sports and entertainment content. Gabe has previously worked at Newsweek and Dodgers Nation. He graduated from San Francisco State University in 2020 and received his Masters of Science at the University of Southern California in 2025.\nFollow gabesmallson",
     "tracked_people": [
       {
-        "name": "Mookie Betts",
-        "role": "Infielder / Outfielder",
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
         "status": "Active",
         "type": "player",
-        "id": 4,
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Josue De Paula or Dalton Rushing? Dodgers Weighing Difficult Postseason Decision",
+    "original_body": "The Los Angeles Dodgers are looking to do what no Major League Baseball team has done in the last quarter-century and win three consecutive championships.\nDespite all the talent on the roster, each name on the 26-man roster come postseason will have more importance than the next. Even someone like Miguel Rojas — who was hitless for a calendar month heading into the World Series — can come up big in perhaps the biggest moment in the history of the sport.\nAll of this not only boils down to how the two-time defending champions will perform, but who manager Dave Roberts names on the final rendition of the postseason rosters. As entertaining as the impending decision will be for onlookers of the baseball world, the skipper knows the importance of his roster choice as well as anyone.\nJosue De Paula and Dalton Rushing appear to be fighting for the same thing come October, but De Paula is still a raw product and Rushing is still on the injured list with elbow discomfort.\n“It’s going to be a good debate,” manager Dave Roberts said on Tuesday.\nDe Paula, the 21-year-old rookie from Brooklyn, NY, put up undeniable numbers in Double-A this season, leading to the outfielder's promotion before registering a single Triple-A at-bat. In his first 11 games in the big leagues, he's hitting .323/.500/.581 with a 1.081 OPS.\nRushing, on the other hand, has plenty more big league experience than De Paula since his promotion last May. Before his first IL stint, Rushing was hitting .253 with an OPS of .809 this season.\nThe reason for his stint on the shelf was due to a slight tear in his ulnar collateral ligament. After he returned for just four hitless games, he once again hit the injured list, but this time, MRIs gave reason to believe that the flexor tendon was the real issue, something that could potentially be addressed without surgery and assisted through platelet-rich plasma injections.\nFor either player, this will be an uphill battle. Roberts admitted that for Rushing specifically, it may be just a steeper incline.\n“Hitting off the bench is very difficult and so you're just trying to figure out who gives us the best chance,\" Roberts said. “To be quite frank, it’s going to be tougher for Dalton given the time that he’s missed, and to kind of think that you have three games to get back in the playoff form, which is tough to do. It’s not a knock on him. He’s been great for us. but it’s still tough given that also you’re talking about the consistency of at-bats recently from Josue.\n“We have to have those conversations and make a decision.”\nSign up for our free newsletter and follow us on X/Twitter and Facebook for the latest news.\nGabe Smallson is a sportswriter based in Los Angeles with a focus in sports and entertainment content. Gabe has previously worked at Newsweek and Dodgers Nation. He graduated from San Francisco State University in 2020 and received his Masters of Science at the University of Southern California in 2025.\nFollow gabesmallson",
+    "rss_title": "Josue De Paula or Dalton Rushing? Dodgers Weighing Difficult Postseason Decision",
+    "rss_body": "The Los Angeles Dodgers are looking to do what no Major League Baseball team has done in the last quarter-century and win three consecutive championships.\nDespite all the talent on the roster, each name on the 26-man roster come postseason will have more importance than the next. Even someone like Miguel Rojas — who was hitless for a calendar month heading into the World Series — can come up big in perhaps the biggest moment in the history of the sport.\nAll of this not only boils down to how the two-time defending champions will perform, but who manager Dave Roberts names on the final rendition of the postseason rosters. As entertaining as the impending decision will be for onlookers of the baseball world, the skipper knows the importance of his roster choice as well as anyone.\nJosue De Paula and Dalton Rushing appear to be fighting for the same thing come October, but De Paula is still a raw product and Rushing is still on the injured list with elbow discomfort.\n“It’s going to be a good debate,” manager Dave Roberts said on Tuesday.\nDe Paula, the 21-year-old rookie from Brooklyn, NY, put up undeniable numbers in Double-A this season, leading to the outfielder's promotion before registering a single Triple-A at-bat. In his first 11 games in the big leagues, he's hitting .323/.500/.581 with a 1.081 OPS.\nRushing, on the other hand, has plenty more big league experience than De Paula since his promotion last May. Before his first IL stint, Rushing was hitting .253 with an OPS of .809 this season.\nThe reason for his stint on the shelf was due to a slight tear in his ulnar collateral ligament. After he returned for just four hitless games, he once again hit the injured list, but this time, MRIs gave reason to believe that the flexor tendon was the real issue, something that could potentially be addressed without surgery and assisted through platelet-rich plasma injections.\nFor either player, this will be an uphill battle. Roberts admitted that for Rushing specifically, it may be just a steeper incline.\n“Hitting off the bench is very difficult and so you're just trying to figure out who gives us the best chance,\" Roberts said. “To be quite frank, it’s going to be tougher for Dalton given the time that he’s missed, and to kind of think that you have three games to get back in the playoff form, which is tough to do. It’s not a knock on him. He’s been great for us. but it’s still tough given that also you’re talking about the consistency of at-bats recently from Josue.\n“We have to have those conversations and make a decision.”\nSign up for our free newsletter and follow us on X/Twitter and Facebook for the latest news.\nGabe Smallson is a sportswriter based in Los Angeles with a focus in sports and entertainment content. Gabe has previously worked at Newsweek and Dodgers Nation. He graduated from San Francisco State University in 2020 and received his Masters of Science at the University of Southern California in 2025.\nFollow gabesmallson",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "4200a99a6a32eee94634",
+    "title": "The teams no one wants to play in October",
+    "source": "mlb.com",
+    "author": "Travis Sawchik",
+    "url": "https://www.mlb.com/news/scariest-mlb-teams-to-play-in-october-2026",
+    "published_iso": "2026-09-23T17:15:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 17:15:00 +0000",
+    "body": "The best teams over 162 games and the clubs nobody wants to see in October are not necessarily the same.\nThe regular season and the postseason reward different things.\nOver six months, baseball is a test of skill and depth. The weakest links eventually get exposed. A team can survive a thin rotation, a shaky middle-relief corps or a few light-hitting positions for a while – but it's much harder to hide those weaknesses over six months.\nOctober is different.\nThe games are fewer, off-days greater. The urgency is heightened. Teams concentrate work among their best pitchers and lineups. Managers can shorten games with their best relievers. And one superstar hitter or ace can have an outsized influence on a short series.\nVariance matters, too. A cleanup hitter can go 2-for-20 in April and the season keeps moving. Go 2-for-20 in October and the season might be over.\n“Scary” is not necessarily the same as “best.” It is about concentration of talent, the ability to hide weaknesses, who is peaking at the right time, and the number of ways a team can make a short series tilt quickly.\nI started with a simple framework: Which teams can shorten a series with two or three dominant starters? Which have a bullpen capable of essentially ending a game after five or six innings? Which lineups have enough power to avoid having to string together three or four hits against elite pitching? Which teams have deeper lineups to grind down opponents?\nWho are the teams nobody wants to see in October?\nThe concentrated dynamo: the Dodgers\nThe Dodgers are the obvious answer.\nYes, they have some health question marks with Blake Snell and Shohei Ohtani. Yes, Edwin Díaz has not been the end-game piece they were hoping for in the bullpen. And, yes, their overall team slugging is down double-digit points from each of the last two years as well. But they are still a heavy World Series favorite no one wants to play.\nA rotation led by Snell, Tarik Skubal, Yoshinobu Yamamoto and Tyler Glasnow is as good as it gets, and they are backed by a lineup that, while aging, still ranks as one of the best in the game. The market and models still believe they are the team to beat; FanGraphs gives them a 29.3% chance to win the title.\nThe team without a weakness: Brewers\nWhile the Dodgers are the favorites, there's a case to be made that the Brewers are the scarier October opponent.\nAnd after struggling out of the gate, Milwaukee is 82-44 since May 1 – five games better than the Rays, the next-ranking team. They've been above average in every month since April.\nThe terrifying thing about the Brewers is that there isn't an obvious way to attack them.\nThey have the most dominant pitcher in the game this year in Jacob Misiorowski, who unlike in his rookie year has shown no signs of slowing down. Misiorowski remains dominant in the second half with a 29% K-BB mark. His elevated velocity has held steady. And nearly as unhittable in the second half is Logan Henderson, who sports a 2.22 ERA, is holding opponents to a .171 average, and enjoys a 26.9 K-BB% mark since the All-Star break.\nGetting the starter out doesn't make life easier either. The Brewers' reliever corps ranks fourth in ERA (3.41) and third in fWAR (6.6) out of all 30 teams.\nSupporting those arms is an excellent defense.\nAnd while the Brewers lack elite power, they string together quality at-bats with seven qualified Brewers hitters having an OPS+ of 100 or better, trailing only the Dodgers (eight) in the projected postseason field. The Phillies, by contrast, have two.\nThey are also trending the right way. The Brewers are 17-9 over the 30 days, tied for the second-best mark in baseball.\nFanGraphs gives the Brewers the second-best title chances after the Dodgers (13.9%). They are a team built for the regular season and October.\nOK, those are obvious contenders. What about other clubs?\nThe middling (potential) division winner: Guardians\nThe Guardians were one of the teams that actually won the Trade Deadline. Those added reinforcements, along with some positive regression from first-half slumpers like Steven Kwan, picked up a sluggish offense. They rank eighth in the Majors in runs since Aug. 1 (216 entering Tuesday).\nA less obvious October advantage? Cleveland leads baseball in the percentage of plate appearances in which it enjoys the platoon advantage, at 77%, compared with a league average of 58.3%. In a five-game or seven-game series against a manager trying to optimize every matchup, that can become consequential.\nAnd what really makes this team dangerous is the pitching staff.\nThe Guardians are one of three teams projected to be in the field that roster two pitchers that rank in the top 10 of fWAR in the second half of the season (the Dodgers are another, along with the Phillies).\nGavin Williams and Parker Messick have emerged as front-line starters this year. Tanner Bibee is a strong No. 3. While middle relief has hurt the club all season, being able to move a starter to the relief group should build a better bridge to closer Cade Smith.\nMost teams that spend much of a season hovering around .500 don't have this kind of top-end pitching.\nThe Guardians are also hot, tied for the second-best record (17-9) in the Majors over the last month – tied with the Dodgers, Brewers, Braves and Padres – entering play Tuesday. Only the Rays (19-8) are better – but the Rays don't quite have the Guardians’ top-end starting pitching depth.\nAs the playoff picture stands entering Tuesday, the Guardians would face the winner of the White Sox (+42 run differential) or Rangers (-34 run differential) in the ALDS, with AL East clubs competing on the other side of the bracket. That's an extremely favorable path for a team with sneaky upside.\nThe unusual build: Cubs \nThe Cubs are perhaps the strangest team on this list because their postseason case is built around the idea that an elite lineup and defense can overwhelm the quality and concentration of October pitching.\nIn the second half they've posted a 125 wRC+, 25% better than league average, and they've combined for a 134 wRC+ over the last month. That's an incredible number.\nThe 2018 Dodgers are an interesting comp. They led the NL with a 111 wRC+, including a 134 mark over the last 30 days of the season – just like these surging Cubs. They were also an elite defensive team lacking an elite rotation.\nThose Dodgers won a relatively modest 92 games in the regular season but advanced to the World Series. Perhaps the Cubs can, too. While an ace makes life easier, there are different paths through October.\nThe wild card among wild cards: Padres\nIf you believe in timing and momentum, believe in the Padres.\nFor much of the season they have been a confounding team, much like their face of the franchise, Fernando Tatis Jr.\nOver the last month, the Padres are third in baseball with a 118 wRC+.\nMoreover, the pitching has become more interesting – deeper and healthier – at exactly the right time.\nNick Pivetta returned from his long absence to post a 1.93 ERA over three September starts.\nMichael King has outperformed peripherals to become a 12-game winner with a 3.03 ERA. Robbie Ray, acquired at the Trade Deadline, gives them another veteran option.\nThey also have one great postseason advantage: If they can hand a lead over to the bullpen it's lights out with Adrian Morejon and Mason Miller closing out games.\nThe Padres own the end game, and at no time does that matter more than in October.",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
         "batch": 1
       },
       {
@@ -26,6 +106,80 @@
         "batch": 2
       },
       {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "The teams no one wants to play in October",
+    "original_body": "The best teams over 162 games and the clubs nobody wants to see in October are not necessarily the same.\nThe regular season and the postseason reward different things.\nOver six months, baseball is a test of skill and depth. The weakest links eventually get exposed. A team can survive a thin rotation, a shaky middle-relief corps or a few light-hitting positions for a while – but it's much harder to hide those weaknesses over six months.\nOctober is different.\nThe games are fewer, off-days greater. The urgency is heightened. Teams concentrate work among their best pitchers and lineups. Managers can shorten games with their best relievers. And one superstar hitter or ace can have an outsized influence on a short series.\nVariance matters, too. A cleanup hitter can go 2-for-20 in April and the season keeps moving. Go 2-for-20 in October and the season might be over.\n“Scary” is not necessarily the same as “best.” It is about concentration of talent, the ability to hide weaknesses, who is peaking at the right time, and the number of ways a team can make a short series tilt quickly.\nI started with a simple framework: Which teams can shorten a series with two or three dominant starters? Which have a bullpen capable of essentially ending a game after five or six innings? Which lineups have enough power to avoid having to string together three or four hits against elite pitching? Which teams have deeper lineups to grind down opponents?\nWho are the teams nobody wants to see in October?\nThe concentrated dynamo: the Dodgers\nThe Dodgers are the obvious answer.\nYes, they have some health question marks with Blake Snell and Shohei Ohtani. Yes, Edwin Díaz has not been the end-game piece they were hoping for in the bullpen. And, yes, their overall team slugging is down double-digit points from each of the last two years as well. But they are still a heavy World Series favorite no one wants to play.\nA rotation led by Snell, Tarik Skubal, Yoshinobu Yamamoto and Tyler Glasnow is as good as it gets, and they are backed by a lineup that, while aging, still ranks as one of the best in the game. The market and models still believe they are the team to beat; FanGraphs gives them a 29.3% chance to win the title.\nThe team without a weakness: Brewers\nWhile the Dodgers are the favorites, there's a case to be made that the Brewers are the scarier October opponent.\nAnd after struggling out of the gate, Milwaukee is 82-44 since May 1 – five games better than the Rays, the next-ranking team. They've been above average in every month since April.\nThe terrifying thing about the Brewers is that there isn't an obvious way to attack them.\nThey have the most dominant pitcher in the game this year in Jacob Misiorowski, who unlike in his rookie year has shown no signs of slowing down. Misiorowski remains dominant in the second half with a 29% K-BB mark. His elevated velocity has held steady. And nearly as unhittable in the second half is Logan Henderson, who sports a 2.22 ERA, is holding opponents to a .171 average, and enjoys a 26.9 K-BB% mark since the All-Star break.\nGetting the starter out doesn't make life easier either. The Brewers' reliever corps ranks fourth in ERA (3.41) and third in fWAR (6.6) out of all 30 teams.\nSupporting those arms is an excellent defense.\nAnd while the Brewers lack elite power, they string together quality at-bats with seven qualified Brewers hitters having an OPS+ of 100 or better, trailing only the Dodgers (eight) in the projected postseason field. The Phillies, by contrast, have two.\nThey are also trending the right way. The Brewers are 17-9 over the 30 days, tied for the second-best mark in baseball.\nFanGraphs gives the Brewers the second-best title chances after the Dodgers (13.9%). They are a team built for the regular season and October.\nOK, those are obvious contenders. What about other clubs?\nThe middling (potential) division winner: Guardians\nThe Guardians were one of the teams that actually won the Trade Deadline. Those added reinforcements, along with some positive regression from first-half slumpers like Steven Kwan, picked up a sluggish offense. They rank eighth in the Majors in runs since Aug. 1 (216 entering Tuesday).\nA less obvious October advantage? Cleveland leads baseball in the percentage of plate appearances in which it enjoys the platoon advantage, at 77%, compared with a league average of 58.3%. In a five-game or seven-game series against a manager trying to optimize every matchup, that can become consequential.\nAnd what really makes this team dangerous is the pitching staff.\nThe Guardians are one of three teams projected to be in the field that roster two pitchers that rank in the top 10 of fWAR in the second half of the season (the Dodgers are another, along with the Phillies).\nGavin Williams and Parker Messick have emerged as front-line starters this year. Tanner Bibee is a strong No. 3. While middle relief has hurt the club all season, being able to move a starter to the relief group should build a better bridge to closer Cade Smith.\nMost teams that spend much of a season hovering around .500 don't have this kind of top-end pitching.\nThe Guardians are also hot, tied for the second-best record (17-9) in the Majors over the last month – tied with the Dodgers, Brewers, Braves and Padres – entering play Tuesday. Only the Rays (19-8) are better – but the Rays don't quite have the Guardians’ top-end starting pitching depth.\nAs the playoff picture stands entering Tuesday, the Guardians would face the winner of the White Sox (+42 run differential) or Rangers (-34 run differential) in the ALDS, with AL East clubs competing on the other side of the bracket. That's an extremely favorable path for a team with sneaky upside.\nThe unusual build: Cubs \nThe Cubs are perhaps the strangest team on this list because their postseason case is built around the idea that an elite lineup and defense can overwhelm the quality and concentration of October pitching.\nIn the second half they've posted a 125 wRC+, 25% better than league average, and they've combined for a 134 wRC+ over the last month. That's an incredible number.\nThe 2018 Dodgers are an interesting comp. They led the NL with a 111 wRC+, including a 134 mark over the last 30 days of the season – just like these surging Cubs. They were also an elite defensive team lacking an elite rotation.\nThose Dodgers won a relatively modest 92 games in the regular season but advanced to the World Series. Perhaps the Cubs can, too. While an ace makes life easier, there are different paths through October.\nThe wild card among wild cards: Padres\nIf you believe in timing and momentum, believe in the Padres.\nFor much of the season they have been a confounding team, much like their face of the franchise, Fernando Tatis Jr.\nOver the last month, the Padres are third in baseball with a 118 wRC+.\nMoreover, the pitching has become more interesting – deeper and healthier – at exactly the right time.\nNick Pivetta returned from his long absence to post a 1.93 ERA over three September starts.\nMichael King has outperformed peripherals to become a 12-game winner with a 3.03 ERA. Robbie Ray, acquired at the Trade Deadline, gives them another veteran option.\nThey also have one great postseason advantage: If they can hand a lead over to the bullpen it's lights out with Adrian Morejon and Mason Miller closing out games.\nThe Padres own the end game, and at no time does that matter more than in October.",
+    "rss_title": "The teams no one wants to play in October",
+    "rss_body": "The best teams over 162 games and the clubs nobody wants to see in October are not necessarily the same.\nThe regular season and the postseason reward different things.\nOver six months, baseball is a test of skill and depth. The weakest links eventually get exposed. A team can survive a thin rotation, a shaky middle-relief corps or a few light-hitting positions for a while – but it's much harder to hide those weaknesses over six months.\nOctober is different.\nThe games are fewer, off-days greater. The urgency is heightened. Teams concentrate work among their best pitchers and lineups. Managers can shorten games with their best relievers. And one superstar hitter or ace can have an outsized influence on a short series.\nVariance matters, too. A cleanup hitter can go 2-for-20 in April and the season keeps moving. Go 2-for-20 in October and the season might be over.\n“Scary” is not necessarily the same as “best.” It is about concentration of talent, the ability to hide weaknesses, who is peaking at the right time, and the number of ways a team can make a short series tilt quickly.\nI started with a simple framework: Which teams can shorten a series with two or three dominant starters? Which have a bullpen capable of essentially ending a game after five or six innings? Which lineups have enough power to avoid having to string together three or four hits against elite pitching? Which teams have deeper lineups to grind down opponents?\nWho are the teams nobody wants to see in October?\nThe concentrated dynamo: the Dodgers\nThe Dodgers are the obvious answer.\nYes, they have some health question marks with Blake Snell and Shohei Ohtani. Yes, Edwin Díaz has not been the end-game piece they were hoping for in the bullpen. And, yes, their overall team slugging is down double-digit points from each of the last two years as well. But they are still a heavy World Series favorite no one wants to play.\nA rotation led by Snell, Tarik Skubal, Yoshinobu Yamamoto and Tyler Glasnow is as good as it gets, and they are backed by a lineup that, while aging, still ranks as one of the best in the game. The market and models still believe they are the team to beat; FanGraphs gives them a 29.3% chance to win the title.\nThe team without a weakness: Brewers\nWhile the Dodgers are the favorites, there's a case to be made that the Brewers are the scarier October opponent.\nAnd after struggling out of the gate, Milwaukee is 82-44 since May 1 – five games better than the Rays, the next-ranking team. They've been above average in every month since April.\nThe terrifying thing about the Brewers is that there isn't an obvious way to attack them.\nThey have the most dominant pitcher in the game this year in Jacob Misiorowski, who unlike in his rookie year has shown no signs of slowing down. Misiorowski remains dominant in the second half with a 29% K-BB mark. His elevated velocity has held steady. And nearly as unhittable in the second half is Logan Henderson, who sports a 2.22 ERA, is holding opponents to a .171 average, and enjoys a 26.9 K-BB% mark since the All-Star break.\nGetting the starter out doesn't make life easier either. The Brewers' reliever corps ranks fourth in ERA (3.41) and third in fWAR (6.6) out of all 30 teams.\nSupporting those arms is an excellent defense.\nAnd while the Brewers lack elite power, they string together quality at-bats with seven qualified Brewers hitters having an OPS+ of 100 or better, trailing only the Dodgers (eight) in the projected postseason field. The Phillies, by contrast, have two.\nThey are also trending the right way. The Brewers are 17-9 over the 30 days, tied for the second-best mark in baseball.\nFanGraphs gives the Brewers the second-best title chances after the Dodgers (13.9%). They are a team built for the regular season and October.\nOK, those are obvious contenders. What about other clubs?\nThe middling (potential) division winner: Guardians\nThe Guardians were one of the teams that actually won the Trade Deadline. Those added reinforcements, along with some positive regression from first-half slumpers like Steven Kwan, picked up a sluggish offense. They rank eighth in the Majors in runs since Aug. 1 (216 entering Tuesday).\nA less obvious October advantage? Cleveland leads baseball in the percentage of plate appearances in which it enjoys the platoon advantage, at 77%, compared with a league average of 58.3%. In a five-game or seven-game series against a manager trying to optimize every matchup, that can become consequential.\nAnd what really makes this team dangerous is the pitching staff.\nThe Guardians are one of three teams projected to be in the field that roster two pitchers that rank in the top 10 of fWAR in the second half of the season (the Dodgers are another, along with the Phillies).\nGavin Williams and Parker Messick have emerged as front-line starters this year. Tanner Bibee is a strong No. 3. While middle relief has hurt the club all season, being able to move a starter to the relief group should build a better bridge to closer Cade Smith.\nMost teams that spend much of a season hovering around .500 don't have this kind of top-end pitching.\nThe Guardians are also hot, tied for the second-best record (17-9) in the Majors over the last month – tied with the Dodgers, Brewers, Braves and Padres – entering play Tuesday. Only the Rays (19-8) are better – but the Rays don't quite have the Guardians’ top-end starting pitching depth.\nAs the playoff picture stands entering Tuesday, the Guardians would face the winner of the White Sox (+42 run differential) or Rangers (-34 run differential) in the ALDS, with AL East clubs competing on the other side of the bracket. That's an extremely favorable path for a team with sneaky upside.\nThe unusual build: Cubs \nThe Cubs are perhaps the strangest team on this list because their postseason case is built around the idea that an elite lineup and defense can overwhelm the quality and concentration of October pitching.\nIn the second half they've posted a 125 wRC+, 25% better than league average, and they've combined for a 134 wRC+ over the last month. That's an incredible number.\nThe 2018 Dodgers are an interesting comp. They led the NL with a 111 wRC+, including a 134 mark over the last 30 days of the season – just like these surging Cubs. They were also an elite defensive team lacking an elite rotation.\nThose Dodgers won a relatively modest 92 games in the regular season but advanced to the World Series. Perhaps the Cubs can, too. While an ace makes life easier, there are different paths through October.\nThe wild card among wild cards: Padres\nIf you believe in timing and momentum, believe in the Padres.\nFor much of the season they have been a confounding team, much like their face of the franchise, Fernando Tatis Jr.\nOver the last month, the Padres are third in baseball with a 118 wRC+.\nMoreover, the pitching has become more interesting – deeper and healthier – at exactly the right time.\nNick Pivetta returned from his long absence to post a 1.93 ERA over three September starts.\nMichael King has outperformed peripherals to become a 12-game winner with a 3.03 ERA. Robbie Ray, acquired at the Trade Deadline, gives them another veteran option.\nThey also have one great postseason advantage: If they can hand a lead over to the bullpen it's lights out with Adrian Morejon and Mason Miller closing out games.\nThe Padres own the end game, and at no time does that matter more than in October.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b846d31743318a5288d3",
+    "title": "Dodgers manager discusses intriguing postseason roster battle",
+    "source": "Dodger Blue",
+    "author": "Matt Borelli",
+    "url": "https://dodgerblue.com/josue-de-paula-dalton-rushing-battling-for-final-spot-on-dodgers-postseason-roster/2026/09/23/",
+    "published_iso": "2026-09-23T17:05:43+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 17:05:43 +0000",
+    "body": "Since being called up from Double-A Tulsa earlier this month as the corresponding move for Shohei Ohtani going on the 15-day injured list, Josue De Paula has done nothing but impress his Los Angeles Dodgers teammates and coaching staff.\nThe top prospect has flashed his elite offensive potential, showing remarkable plate discipline and power while drawing comparisons to New York Mets slugger Juan Soto.\nWith Ohtani returning from the IL on Wednesday, questions remain about De Paula’s role with the Dodgers moving forward. But the expectation is that he will compete with Dalton Rushing for the final spot on the team’s postseason roster.\n“He’s done a great job,” manager Dave Roberts said of De Paula. “We made the move with Eliezer Alfonzo out on option with Andy (Pages) coming back. With Shohei coming back, I’m just not sure what the counter is going to be. But to your question, Josue has done a fantastic job.”\nRushing has been on the 10-day injured list since Sept. 6 after re-aggravating his right elbow while playing catch. However, he took live batting practice against Will Klein on Tuesday and should be activated in the coming days.\nThat would give Rushing only a few games to show the Dodgers he is back up to game speed and deserving of a spot on their postseason roster.\n“Dalton, taking his at-bats. The thought is to give him an opportunity at some point in time to get activated and see how it looks coming off the bench,” Roberts said. “So I’m not sure if that’s tomorrow, Thursday, Friday, something like that.”\nRushing was in the midst of a breakout season before the right elbow injury threw him off course, so it will be interesting to see which direction the Dodgers decide to take.\nDodgers postseason roster battle\nThe Dodgers will consider several factors when choosing between De Paula and Rushing for the final spot on their postseason roster, including the ability to put together a good at-bat, not chasing pitches out of the strike zone and power.\n“Quality of at-bat, conducting an at-bat, the ability to swing at strikes, take balls, get on base, get a hit,” Roberts explained. “There’s potential slug with both those guys. It’s going to be a good debate.\n“I think hitting off the bench is very difficult, and you’re just trying to figure out who gives us the best chance. To be quite frank, it’s going to be tougher for Dalton given the time that he’s missed. To kind of think that you have three games to get back into playoff form, it’s tough to do. It’s not a knock on him. He’s been great for us, but it’s still tough.\n“And also when you’re talking about having the consistency of at-bats recently from Josue. But again, we have to have those conversations and make a decision.”\nHave you subscribed to the Dodger Blue YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows and giveaways, and stay up to date on all Dodgers news and rumors!",
+    "tracked_people": [
+      {
+        "name": "Eliezer Alfonzo",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Will Klein",
+        "role": "Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
         "name": "Dave Roberts",
         "role": "Manager",
         "status": "Coaching Staff",
@@ -34,36 +188,82 @@
         "batch": 2
       }
     ],
-    "source_languages": [
-      "English"
-    ],
+    "source_languages": [],
     "source_countries": [
-      "United States",
       "US English"
     ],
     "discovery_sources": [
-      "GDELT",
       "Google News"
     ],
-    "original_title": "Dodgers’ Ohtani set for return Wednesday after IL stint; Roberts says he’s ‘considerably’ better - Taylorville Daily News",
-    "original_body": "LOS ANGELES (AP) – Shohei Ohtani is expected to be back in the Los Angeles Dodgers’ lineup on Wednesday after a stint on the injured list.\nThe two-way superstar has been on the IL since Sept. 9 due to right biceps inflammation and lingering soreness in his left knee.\nManager Dave Roberts said Ohtani is feeling “considerably” better.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said Tuesday before the Dodgers faced San Diego.\nThe Dodgers clinched their 13th NL West title in 14 years without Ohtani, who was in Los Angeles for treatment when the team beat Cincinnati on the road last week. Now, the four-time MVP will have five games remaining to get some at-bats in before the postseason begins.\nOhtani is likely to resume his role as the Dodgers’ leadoff hitter, especially against right-handed pitching. Mookie Betts has been atop the lineup and is hitting .373 this month.\n“That’s probably the way it’s going to fall out, but I haven’t totally decided yet,” Roberts said, adding that he would consider Betts’ leadoff value against left-handed pitching. “I have to think about the entire lineup structure.”\n___\nSee AP’s full MLB coverage here\nBrought to you by www.srnnews.com",
-    "rss_title": "Dodgers’ Ohtani set for return Wednesday after IL stint; Roberts says he’s ‘considerably’ better - Taylorville Daily News",
-    "rss_body": "LOS ANGELES (AP) – Shohei Ohtani is expected to be back in the Los Angeles Dodgers’ lineup on Wednesday after a stint on the injured list.\nThe two-way superstar has been on the IL since Sept. 9 due to right biceps inflammation and lingering soreness in his left knee.\nManager Dave Roberts said Ohtani is feeling “considerably” better.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said Tuesday before the Dodgers faced San Diego.\nThe Dodgers clinched their 13th NL West title in 14 years without Ohtani, who was in Los Angeles for treatment when the team beat Cincinnati on the road last week. Now, the four-time MVP will have five games remaining to get some at-bats in before the postseason begins.\nOhtani is likely to resume his role as the Dodgers’ leadoff hitter, especially against right-handed pitching. Mookie Betts has been atop the lineup and is hitting .373 this month.\n“That’s probably the way it’s going to fall out, but I haven’t totally decided yet,” Roberts said, adding that he would consider Betts’ leadoff value against left-handed pitching. “I have to think about the entire lineup structure.”\n___\nSee AP’s full MLB coverage here\nBrought to you by www.srnnews.com",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
+    "original_title": "Dodgers manager discusses intriguing postseason roster battle",
+    "original_body": "Since being called up from Double-A Tulsa earlier this month as the corresponding move for Shohei Ohtani going on the 15-day injured list, Josue De Paula has done nothing but impress his Los Angeles Dodgers teammates and coaching staff.\nThe top prospect has flashed his elite offensive potential, showing remarkable plate discipline and power while drawing comparisons to New York Mets slugger Juan Soto.\nWith Ohtani returning from the IL on Wednesday, questions remain about De Paula’s role with the Dodgers moving forward. But the expectation is that he will compete with Dalton Rushing for the final spot on the team’s postseason roster.\n“He’s done a great job,” manager Dave Roberts said of De Paula. “We made the move with Eliezer Alfonzo out on option with Andy (Pages) coming back. With Shohei coming back, I’m just not sure what the counter is going to be. But to your question, Josue has done a fantastic job.”\nRushing has been on the 10-day injured list since Sept. 6 after re-aggravating his right elbow while playing catch. However, he took live batting practice against Will Klein on Tuesday and should be activated in the coming days.\nThat would give Rushing only a few games to show the Dodgers he is back up to game speed and deserving of a spot on their postseason roster.\n“Dalton, taking his at-bats. The thought is to give him an opportunity at some point in time to get activated and see how it looks coming off the bench,” Roberts said. “So I’m not sure if that’s tomorrow, Thursday, Friday, something like that.”\nRushing was in the midst of a breakout season before the right elbow injury threw him off course, so it will be interesting to see which direction the Dodgers decide to take.\nDodgers postseason roster battle\nThe Dodgers will consider several factors when choosing between De Paula and Rushing for the final spot on their postseason roster, including the ability to put together a good at-bat, not chasing pitches out of the strike zone and power.\n“Quality of at-bat, conducting an at-bat, the ability to swing at strikes, take balls, get on base, get a hit,” Roberts explained. “There’s potential slug with both those guys. It’s going to be a good debate.\n“I think hitting off the bench is very difficult, and you’re just trying to figure out who gives us the best chance. To be quite frank, it’s going to be tougher for Dalton given the time that he’s missed. To kind of think that you have three games to get back into playoff form, it’s tough to do. It’s not a knock on him. He’s been great for us, but it’s still tough.\n“And also when you’re talking about having the consistency of at-bats recently from Josue. But again, we have to have those conversations and make a decision.”\nHave you subscribed to the Dodger Blue YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows and giveaways, and stay up to date on all Dodgers news and rumors!",
+    "rss_title": "Dodgers manager discusses intriguing postseason roster battle",
+    "rss_body": "Since being called up from Double-A Tulsa earlier this month as the corresponding move for Shohei Ohtani going on the 15-day injured list, Josue De Paula has done nothing but impress his Los Angeles Dodgers teammates and coaching staff.\nThe top prospect has flashed his elite offensive potential, showing remarkable plate discipline and power while drawing comparisons to New York Mets slugger Juan Soto.\nWith Ohtani returning from the IL on Wednesday, questions remain about De Paula’s role with the Dodgers moving forward. But the expectation is that he will compete with Dalton Rushing for the final spot on the team’s postseason roster.\n“He’s done a great job,” manager Dave Roberts said of De Paula. “We made the move with Eliezer Alfonzo out on option with Andy (Pages) coming back. With Shohei coming back, I’m just not sure what the counter is going to be. But to your question, Josue has done a fantastic job.”\nRushing has been on the 10-day injured list since Sept. 6 after re-aggravating his right elbow while playing catch. However, he took live batting practice against Will Klein on Tuesday and should be activated in the coming days.\nThat would give Rushing only a few games to show the Dodgers he is back up to game speed and deserving of a spot on their postseason roster.\n“Dalton, taking his at-bats. The thought is to give him an opportunity at some point in time to get activated and see how it looks coming off the bench,” Roberts said. “So I’m not sure if that’s tomorrow, Thursday, Friday, something like that.”\nRushing was in the midst of a breakout season before the right elbow injury threw him off course, so it will be interesting to see which direction the Dodgers decide to take.\nDodgers postseason roster battle\nThe Dodgers will consider several factors when choosing between De Paula and Rushing for the final spot on their postseason roster, including the ability to put together a good at-bat, not chasing pitches out of the strike zone and power.\n“Quality of at-bat, conducting an at-bat, the ability to swing at strikes, take balls, get on base, get a hit,” Roberts explained. “There’s potential slug with both those guys. It’s going to be a good debate.\n“I think hitting off the bench is very difficult, and you’re just trying to figure out who gives us the best chance. To be quite frank, it’s going to be tougher for Dalton given the time that he’s missed. To kind of think that you have three games to get back into playoff form, it’s tough to do. It’s not a knock on him. He’s been great for us, but it’s still tough.\n“And also when you’re talking about having the consistency of at-bats recently from Josue. But again, we have to have those conversations and make a decision.”\nHave you subscribed to the Dodger Blue YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows and giveaways, and stay up to date on all Dodgers news and rumors!",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d4de20ed2adc20d1b369",
+    "title": "Dodgers' Tommy Edman: Swats eighth homer",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-tommy-edman-swats-eighth-homer/",
+    "published_iso": "2026-09-23T17:01:01+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 17:01:01 +0000",
+    "body": "Edman went 1-for-3 with a home run, a walk, two total runs and two total RBI against the Padres in a 7-0 victory Tuesday.\nEdman kicked off the scoring in the contest when he walked with the bases loaded in the second inning. The utility man drove in another run in the sixth when he slugged a solo shot to left-center field. Edman has gone deep in each of his past two contests following an ice-cold 12-game stretch during which he went 2-for-39. He's slashing .245/.330/.386 with eight homers, 43 runs, 40 RBI and six stolen bases through 80 games this season.",
+    "tracked_people": [
       {
-        "source": "NBC Los Angeles",
-        "url": "https://www.nbclosangeles.com/news/local/shohei-ohtani-return-injured-list/3945905/",
-        "title": "Dodgers' Ohtani set for return Wednesday after IL stint; Roberts says he's ‘considerably' better",
-        "body_characters": 1132
-      },
-      {
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/dodgers-shohei-ohtani-set-return-164213502.html",
-        "title": "Dodgers’ Shohei Ohtani set for return after IL stint; Dave Roberts says he’s ‘considerably’ better",
-        "body_characters": 1116
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
       }
-    ]
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Tommy Edman: Swats eighth homer",
+    "original_body": "Edman went 1-for-3 with a home run, a walk, two total runs and two total RBI against the Padres in a 7-0 victory Tuesday.\nEdman kicked off the scoring in the contest when he walked with the bases loaded in the second inning. The utility man drove in another run in the sixth when he slugged a solo shot to left-center field. Edman has gone deep in each of his past two contests following an ice-cold 12-game stretch during which he went 2-for-39. He's slashing .245/.330/.386 with eight homers, 43 runs, 40 RBI and six stolen bases through 80 games this season.",
+    "rss_title": "Dodgers' Tommy Edman: Swats eighth homer",
+    "rss_body": "Edman went 1-for-3 with a home run, a walk, two total runs and two total RBI against the Padres in a 7-0 victory Tuesday.\nEdman kicked off the scoring in the contest when he walked with the bases loaded in the second inning. The utility man drove in another run in the sixth when he slugged a solo shot to left-center field. Edman has gone deep in each of his past two contests following an ice-cold 12-game stretch during which he went 2-for-39. He's slashing .245/.330/.386 with eight homers, 43 runs, 40 RBI and six stolen bases through 80 games this season.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "0a270f0f39cff9192238",
+    "title": "Dodgers' Will Smith: Continues power surge",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-will-smith-continues-power-surge-1026805/",
+    "published_iso": "2026-09-23T16:56:56+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 16:56:56 +0000",
+    "body": "Smith went 1-for-4 with a solo home run Tuesday in a 7-0 win against the Padres.\nSmith put the finishing touch on a dominant Dodgers win with his solo blast to left field in the seventh inning. The backstop has gone deep in each of his past three starts. Smith missed nearly three months due to a neck issue, and he initially struggled upon returning to action Sept. 1. However, he's perked up with the bat of late, going 7-for-18 with three homers, a double, four runs and five RBI across his past five games.",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Will Smith: Continues power surge",
+    "original_body": "Smith went 1-for-4 with a solo home run Tuesday in a 7-0 win against the Padres.\nSmith put the finishing touch on a dominant Dodgers win with his solo blast to left field in the seventh inning. The backstop has gone deep in each of his past three starts. Smith missed nearly three months due to a neck issue, and he initially struggled upon returning to action Sept. 1. However, he's perked up with the bat of late, going 7-for-18 with three homers, a double, four runs and five RBI across his past five games.",
+    "rss_title": "Dodgers' Will Smith: Continues power surge",
+    "rss_body": "Smith went 1-for-4 with a solo home run Tuesday in a 7-0 win against the Padres.\nSmith put the finishing touch on a dominant Dodgers win with his solo blast to left field in the seventh inning. The backstop has gone deep in each of his past three starts. Smith missed nearly three months due to a neck issue, and he initially struggled upon returning to action Sept. 1. However, he's perked up with the bat of late, going 7-for-18 with three homers, a double, four runs and five RBI across his past five games.",
+    "translation_status": "fallback_original"
   },
   {
     "id": "fd7a9a0bff0bd6e34d3c",
@@ -1291,6 +1491,72 @@
     "rss_title": "Dodgers leave door open to Edwin Diaz reclaiming closer’s role: ‘Certainly possible’",
     "rss_body": "In a perfect world, Dodgers manager Dave Roberts said, the team would like to have one set closer entering the playoffs.\nAnd by the end of Tuesday’s 7-0 win over the San Diego Padres, one unexpected name might have thrown their hat back into the ring.\nA week ago, the Dodgers were not certain Edwin Díaz would even be on their playoff roster, after the $69 million offseason signing lost his closer job amid an injury-plagued season marred by an ERA of nearly 12.00.\nIn three outings since returning from the injured list, however, the three-time All-Star has suddenly looked like his old dominant self again.\nSo much so, Roberts said it remains “certainly possible” that he could factor into the Dodgers’ ninth-inning October plans.\nRoberts made that claim after Díaz’s best performance yet, when he retired the top of the Padres’ batting order in order in a dominant fifth-inning sequence.\nThat marked the right-hander’s third scoreless appearance in a row –– a stretch that has included only one hit, one walk and six strikeouts –– and continued an unforeseen return to form triggered by a recent mechanical adjustment he made during a minor-league rehab stint.\n“His last three have been fantastic with us,” Roberts said. “I wanted to see him against their better hitters, and he did a really nice job.”\nIndeed, Díaz began his inning by ringing up Fernando Tatis Jr. on a front-door slider. He then fanned Dustin Harris at the end of a nine-pitch at-bat with a swing-and-miss slider. Had he used an ABS challenge, he could have punched out Manny Machado too. But he retired him all the same with a soft tapper back to the mound.\n“Given all that he’s had to go through this year,” Roberts said, “to right the ship is a big credit to him.”\nBut will it be enough to put him back in consideration for closing duties?\nRoberts made sure not to shut that door yet.\n“The way he’s throwing, the ninth is possible, yes,” the manager said.\nAt the very least, it adds one more subplot to the final week of the Dodgers’ regular season.\nThe team, of course, has other closer options to consider. Tanner Scott has converted 23 of 27 save opportunities with a 2.77 ERA as Díaz’s replacement this year. Roki Sasaki has also returned to relief duties as he did at the end of last season, when he emerged as an emergency closing option during the Dodgers’ run to a second-straight World Series.\nAnd as Roberts noted Tuesday, a closer-by-committee plan remains in play, as well.\nBut as the Dodgers set out for a three-peat this year, they always envisioned Díaz –– and his trademark trumpet bullpen entrance –– being a staple at the end of games.\nThough he suffered a career-worst campaign, converting just seven of 11 save opportunities while missing three months with an elbow injury and another with neck inflammation, there might be time for him to reclaim his original role yet.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "ce14aaa73153b16470a8",
+    "title": "Dodgers’ Ohtani set for return Wednesday after IL stint; Roberts says he’s ‘considerably’ better - Taylorville Daily News",
+    "source": "taylorvilledailynews.com",
+    "author": "SRN News",
+    "url": "https://www.taylorvilledailynews.com/dodgers-ohtani-set-for-return-wednesday-after-il-stint-roberts-says-hes-considerably-better/",
+    "published_iso": "2026-09-23T06:30:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 06:30:00 +0000",
+    "body": "LOS ANGELES (AP) – Shohei Ohtani is expected to be back in the Los Angeles Dodgers’ lineup on Wednesday after a stint on the injured list.\nThe two-way superstar has been on the IL since Sept. 9 due to right biceps inflammation and lingering soreness in his left knee.\nManager Dave Roberts said Ohtani is feeling “considerably” better.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said Tuesday before the Dodgers faced San Diego.\nThe Dodgers clinched their 13th NL West title in 14 years without Ohtani, who was in Los Angeles for treatment when the team beat Cincinnati on the road last week. Now, the four-time MVP will have five games remaining to get some at-bats in before the postseason begins.\nOhtani is likely to resume his role as the Dodgers’ leadoff hitter, especially against right-handed pitching. Mookie Betts has been atop the lineup and is hitting .373 this month.\n“That’s probably the way it’s going to fall out, but I haven’t totally decided yet,” Roberts said, adding that he would consider Betts’ leadoff value against left-handed pitching. “I have to think about the entire lineup structure.”\n___\nSee AP’s full MLB coverage here\nBrought to you by www.srnnews.com",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Dodgers’ Ohtani set for return Wednesday after IL stint; Roberts says he’s ‘considerably’ better - Taylorville Daily News",
+    "original_body": "LOS ANGELES (AP) – Shohei Ohtani is expected to be back in the Los Angeles Dodgers’ lineup on Wednesday after a stint on the injured list.\nThe two-way superstar has been on the IL since Sept. 9 due to right biceps inflammation and lingering soreness in his left knee.\nManager Dave Roberts said Ohtani is feeling “considerably” better.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said Tuesday before the Dodgers faced San Diego.\nThe Dodgers clinched their 13th NL West title in 14 years without Ohtani, who was in Los Angeles for treatment when the team beat Cincinnati on the road last week. Now, the four-time MVP will have five games remaining to get some at-bats in before the postseason begins.\nOhtani is likely to resume his role as the Dodgers’ leadoff hitter, especially against right-handed pitching. Mookie Betts has been atop the lineup and is hitting .373 this month.\n“That’s probably the way it’s going to fall out, but I haven’t totally decided yet,” Roberts said, adding that he would consider Betts’ leadoff value against left-handed pitching. “I have to think about the entire lineup structure.”\n___\nSee AP’s full MLB coverage here\nBrought to you by www.srnnews.com",
+    "rss_title": "Dodgers’ Ohtani set for return Wednesday after IL stint; Roberts says he’s ‘considerably’ better - Taylorville Daily News",
+    "rss_body": "LOS ANGELES (AP) – Shohei Ohtani is expected to be back in the Los Angeles Dodgers’ lineup on Wednesday after a stint on the injured list.\nThe two-way superstar has been on the IL since Sept. 9 due to right biceps inflammation and lingering soreness in his left knee.\nManager Dave Roberts said Ohtani is feeling “considerably” better.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said Tuesday before the Dodgers faced San Diego.\nThe Dodgers clinched their 13th NL West title in 14 years without Ohtani, who was in Los Angeles for treatment when the team beat Cincinnati on the road last week. Now, the four-time MVP will have five games remaining to get some at-bats in before the postseason begins.\nOhtani is likely to resume his role as the Dodgers’ leadoff hitter, especially against right-handed pitching. Mookie Betts has been atop the lineup and is hitting .373 this month.\n“That’s probably the way it’s going to fall out, but I haven’t totally decided yet,” Roberts said, adding that he would consider Betts’ leadoff value against left-handed pitching. “I have to think about the entire lineup structure.”\n___\nSee AP’s full MLB coverage here\nBrought to you by www.srnnews.com",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "NBC Los Angeles",
+        "url": "https://www.nbclosangeles.com/news/local/shohei-ohtani-return-injured-list/3945905/",
+        "title": "Dodgers' Ohtani set for return Wednesday after IL stint; Roberts says he's ‘considerably' better",
+        "body_characters": 1132
+      },
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/dodgers-shohei-ohtani-set-return-164213502.html",
+        "title": "Dodgers’ Shohei Ohtani set for return after IL stint; Dave Roberts says he’s ‘considerably’ better",
+        "body_characters": 1116
+      }
+    ]
   },
   {
     "id": "1490ad0b77f7befab28d",
