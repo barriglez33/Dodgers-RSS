@@ -1,5 +1,77 @@
 [
   {
+    "id": "c589dbf7468d0e89b7ba",
+    "title": "Dodgers activate Shohei Ohtani, demote red-hot rookie Josue De Paula to Triple-A",
+    "source": "Yahoo Sports",
+    "author": "Jack Baer",
+    "url": "https://sports.yahoo.com/mlb/article/dodgers-activate-shohei-ohtani-demote-red-hot-rookie-josue-de-paula-to-triple-a-224415469.html",
+    "published_iso": "2026-09-23T22:49:23+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 22:49:23 +0000",
+    "body": "As expected, the Los Angeles Dodgers activated Shohei Ohtani from the injured list on Wednesday. In a corresponding move, they demoted a player who turned out to be a more capable replacement than anyone could've imagined for two weeks.\nThat would be rookie slugger Josue De Paula, who was optioned to Triple-A Oklahoma City, a team whose season could end as soon as Wednesday. De Paula, the top prospect in the Dodgers' system and one of the best overall prospects in baseball, was promoted to replace Ohtani on the roster.\nOhtani will hit second in his first game back against the San Diego Padres, marking his first time not batting leadoff for the Dodgers since June 16, 2024. The red-hot Mookie Betts is filling the leadoff spot instead against Padres left-hander Robbie Ray.\nDe Paula, meanwhile, will be making his Triple-A debut as a starter for the Oklahoma City Comets in Game 2 of the PCL championship series.\nIn the 11 games Ohtani missed, no player on the Dodgers reached base more than De Paula. The Dodgers went 11-3 in that span and clinched both a playoff berth and the NL West while moving into strong position to secure a wild-card bye.\nBetween his cameo in L.A. and a performance in Double-A that won him Texas League MVP honors at 21 years old, De Paula has inspired questions about a place on the Dodgers' postseason roster.\nAs The Athletic's Katie Woo points out, De Paula being optioned on Wednesday means he will be eligible to be recalled by Oct. 3, when the Dodgers will begin playing the NLDS. He isn't technically eligible for the playoffs because he wasn't on the Los Angeles 40-man roster on Sept. 1, but that can be remedied by petitioning the commissioner's office for him to replace a player going on the injured list.\nWith Ohtani taking up the designated hitter spot and corner outfielders Teoscar Hernandez and Kyle Tucker both resurrecting down seasons over the past month or so, there's not a natural place for De Paula in the starting lineup.\nPer The Athletic, De Paula is still in the mix for a postseason roster spot but appears to be in competition with Dalton Rushing for the role of premium left-handed bench bat. Rushing has been attempting to play through a partially torn UCL since early August. He won't be playing his usual catcher position again in 2026, but he could still hit.\nRushing is expected to be activated sometime this week, at which point he too will be trying to justify October at-bats in the final games of the regular season. De Paula has set a high bar to clear in that regard.\nFiguring out where to put a rising star because your superstar is healthy again is ultimately a good problem to have. Whoever is on the roster, the Dodgers are on track to play the Atlanta Braves or Padres in the NLDS, though that could still change in the coming days.",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers activate Shohei Ohtani, demote red-hot rookie Josue De Paula to Triple-A",
+    "original_body": "As expected, the Los Angeles Dodgers activated Shohei Ohtani from the injured list on Wednesday. In a corresponding move, they demoted a player who turned out to be a more capable replacement than anyone could've imagined for two weeks.\nThat would be rookie slugger Josue De Paula, who was optioned to Triple-A Oklahoma City, a team whose season could end as soon as Wednesday. De Paula, the top prospect in the Dodgers' system and one of the best overall prospects in baseball, was promoted to replace Ohtani on the roster.\nOhtani will hit second in his first game back against the San Diego Padres, marking his first time not batting leadoff for the Dodgers since June 16, 2024. The red-hot Mookie Betts is filling the leadoff spot instead against Padres left-hander Robbie Ray.\nDe Paula, meanwhile, will be making his Triple-A debut as a starter for the Oklahoma City Comets in Game 2 of the PCL championship series.\nIn the 11 games Ohtani missed, no player on the Dodgers reached base more than De Paula. The Dodgers went 11-3 in that span and clinched both a playoff berth and the NL West while moving into strong position to secure a wild-card bye.\nBetween his cameo in L.A. and a performance in Double-A that won him Texas League MVP honors at 21 years old, De Paula has inspired questions about a place on the Dodgers' postseason roster.\nAs The Athletic's Katie Woo points out, De Paula being optioned on Wednesday means he will be eligible to be recalled by Oct. 3, when the Dodgers will begin playing the NLDS. He isn't technically eligible for the playoffs because he wasn't on the Los Angeles 40-man roster on Sept. 1, but that can be remedied by petitioning the commissioner's office for him to replace a player going on the injured list.\nWith Ohtani taking up the designated hitter spot and corner outfielders Teoscar Hernandez and Kyle Tucker both resurrecting down seasons over the past month or so, there's not a natural place for De Paula in the starting lineup.\nPer The Athletic, De Paula is still in the mix for a postseason roster spot but appears to be in competition with Dalton Rushing for the role of premium left-handed bench bat. Rushing has been attempting to play through a partially torn UCL since early August. He won't be playing his usual catcher position again in 2026, but he could still hit.\nRushing is expected to be activated sometime this week, at which point he too will be trying to justify October at-bats in the final games of the regular season. De Paula has set a high bar to clear in that regard.\nFiguring out where to put a rising star because your superstar is healthy again is ultimately a good problem to have. Whoever is on the roster, the Dodgers are on track to play the Atlanta Braves or Padres in the NLDS, though that could still change in the coming days.",
+    "rss_title": "Dodgers activate Shohei Ohtani, demote red-hot rookie Josue De Paula to Triple-A",
+    "rss_body": "As expected, the Los Angeles Dodgers activated Shohei Ohtani from the injured list on Wednesday. In a corresponding move, they demoted a player who turned out to be a more capable replacement than anyone could've imagined for two weeks.\nThat would be rookie slugger Josue De Paula, who was optioned to Triple-A Oklahoma City, a team whose season could end as soon as Wednesday. De Paula, the top prospect in the Dodgers' system and one of the best overall prospects in baseball, was promoted to replace Ohtani on the roster.\nOhtani will hit second in his first game back against the San Diego Padres, marking his first time not batting leadoff for the Dodgers since June 16, 2024. The red-hot Mookie Betts is filling the leadoff spot instead against Padres left-hander Robbie Ray.\nDe Paula, meanwhile, will be making his Triple-A debut as a starter for the Oklahoma City Comets in Game 2 of the PCL championship series.\nIn the 11 games Ohtani missed, no player on the Dodgers reached base more than De Paula. The Dodgers went 11-3 in that span and clinched both a playoff berth and the NL West while moving into strong position to secure a wild-card bye.\nBetween his cameo in L.A. and a performance in Double-A that won him Texas League MVP honors at 21 years old, De Paula has inspired questions about a place on the Dodgers' postseason roster.\nAs The Athletic's Katie Woo points out, De Paula being optioned on Wednesday means he will be eligible to be recalled by Oct. 3, when the Dodgers will begin playing the NLDS. He isn't technically eligible for the playoffs because he wasn't on the Los Angeles 40-man roster on Sept. 1, but that can be remedied by petitioning the commissioner's office for him to replace a player going on the injured list.\nWith Ohtani taking up the designated hitter spot and corner outfielders Teoscar Hernandez and Kyle Tucker both resurrecting down seasons over the past month or so, there's not a natural place for De Paula in the starting lineup.\nPer The Athletic, De Paula is still in the mix for a postseason roster spot but appears to be in competition with Dalton Rushing for the role of premium left-handed bench bat. Rushing has been attempting to play through a partially torn UCL since early August. He won't be playing his usual catcher position again in 2026, but he could still hit.\nRushing is expected to be activated sometime this week, at which point he too will be trying to justify October at-bats in the final games of the regular season. De Paula has set a high bar to clear in that regard.\nFiguring out where to put a rising star because your superstar is healthy again is ultimately a good problem to have. Whoever is on the roster, the Dodgers are on track to play the Atlanta Braves or Padres in the NLDS, though that could still change in the coming days.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "3da35f29071dd017baac",
     "title": "MLB 大谷翔平、待望復帰「2番・DH」パドレス戦 16日ぶりスタメン 14試合36日ぶり31号出るか 右上腕の炎症回復 RS残り5戦 山本由伸15勝狙う（SANSPO）｜ｄメニューニュース",
     "source": "ｄメニューニュース",
@@ -37,6 +109,62 @@
     "original_body": "ドジャース−パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの大谷翔平投手（32）が「1番・DH」でスタメン。「右上腕二頭筋の炎症」で負傷者リスト（IL）入りしていたが、9月7日レッズ戦以来16日ぶりに復帰する。最後に本塁打を放ったのは8月18日ロッキーズ戦で、36日ぶり14試合ぶりの31号に期待がかかる。\nパドレス先発は左腕レイで、今季13勝8敗、防御率3.60、138奪三振。大谷は通算20打数5安打1本塁打、3打点の成績を残している。ドジャース先発は山本由伸投手（28）で今季14勝8敗、防御率2.51、178奪三振。レギュラーシーズン最後のマウンドとなる。発表されたスタメンは以下の通り。\n1番・遊撃 ベッツ\n2番・DH 大谷翔平\n3番・捕手 スミス\n4番・一塁 フリーマン\n5番・左翼 T・ヘルナンデス\n6番・右翼 タッカー\n7番・中堅 パヘス\n8番・三塁 マンシー\n9番・二塁 エドマン\n先発投手 山本由伸",
     "rss_title": "MLB 大谷翔平、待望復帰「2番・DH」パドレス戦 16日ぶりスタメン 14試合36日ぶり31号出るか 右上腕の炎症回復 RS残り5戦 山本由伸15勝狙う（SANSPO）｜ｄメニューニュース",
     "rss_body": "ドジャース−パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの大谷翔平投手（32）が「1番・DH」でスタメン。「右上腕二頭筋の炎症」で負傷者リスト（IL）入りしていたが、9月7日レッズ戦以来16日ぶりに復帰する。最後に本塁打を放ったのは8月18日ロッキーズ戦で、36日ぶり14試合ぶりの31号に期待がかかる。\nパドレス先発は左腕レイで、今季13勝8敗、防御率3.60、138奪三振。大谷は通算20打数5安打1本塁打、3打点の成績を残している。ドジャース先発は山本由伸投手（28）で今季14勝8敗、防御率2.51、178奪三振。レギュラーシーズン最後のマウンドとなる。発表されたスタメンは以下の通り。\n1番・遊撃 ベッツ\n2番・DH 大谷翔平\n3番・捕手 スミス\n4番・一塁 フリーマン\n5番・左翼 T・ヘルナンデス\n6番・右翼 タッカー\n7番・中堅 パヘス\n8番・三塁 マンシー\n9番・二塁 エドマン\n先発投手 山本由伸",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "74906b1516c578357ce2",
+    "title": "Dodgers demote Josue De Paula with a Dalton Rushing catch (but battle isn't over)",
+    "source": "Dodgers Way",
+    "author": "Matthew Swigonski",
+    "url": "https://dodgersway.com/dodgers-demote-josue-de-paula-with-a-dalton-rushing-catch-but-battle-isnt-over",
+    "published_iso": "2026-09-23T22:19:50+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 22:19:50 +0000",
+    "body": "When the Los Angeles Dodgers called up Josue De Paula just a few weeks ago, there weren’t really any major expectations for him to carry the offense or make a huge contribution this season. He was here to get his cup of coffee and gain some invaluable MLB experience. But in his short time with the club, De Paula has made such a massive impression that he has already forced a potential postseason roster battle that could end up with him on top.\nAs reported by Katie Woo of The Athletic, De Paula has become an unexpected yet good problem for the Dodgers as they are set to welcome back a number of players from the IL. The team activated superstar Shohei Ohtani after he had been dealing with a handful of nagging injuries.\nThe Dodgers will also look to activate catcher Dalton Rushing from the IL before the end of the regular season. While he will not be able to return behind the plate this year, the team could potentially use his bat off of the bench. This could lead to a log jam on the bench and a position battle between Rushing and De Paula ... down the line. To begin the proceedings, De Paula will go down on Wednesday in favor of Ohtani, while Rushing till ideally get some at-bats at the MLB level before the season ends.\nThis doesn't mean De Paula can be counted out of the postseason roster mix, though. That debate hasn't finished yet (or even begun until Rushing can get some reps).\nWhile Dodgers manager Dave Roberts admitted earlier in the week that it could lead to a “good debate” as the team determines which of the two players to carry on the postseason roster, he may have already shown his hand.\n“To be quite frank, it’s going to be tougher for Dalton, given the time that he’s missed, and to kind of think that you have three games to get back in playoff form, which is tough to do,” Roberts said of Rushing.\n“It’s not a knock on him. He’s been great for us. But it’s still tough, given that also you’re talking about the consistency of at-bats recently from Josue. We have to have those conversations and make a decision.”\nWith just a handful of games remaining in the regular season, Rushing likely won’t get many at-bats to get back into a rhythm before the playoffs. Whether or not that will have the greatest impact on Roberts’ final decision will be interesting to watch out for. It will be hard to overlook how hot De Paula is at the plate right now though, even as he heads to the minors.\nJosue De Paula has already become a force in the Dodgers’ lineup\nThrough his first 31 at-bats with the Dodgers, De Paula has already collected 10 hits and driven in seven runs. With a .323/.500/.581 slash line, he has shown that he’s capable of handling MLB pitching. Well, at least in the short term. We have seen rookies come up to the majors and wreak havoc at the plate before teams have time to collect enough tape on them and pitchers can make the adjustment.\nThen again, as the Dodgers' No. 1 prospect, De Paula has raked at every level in the minor leagues. With a career .857 OPS in five minor league seasons, he has the tools to make the adjustments of his own. He already has an excellent grasp on the strike zone and plate discipline that rivals seasoned MLB veterans. De Paula has drawn 11 walks in 11 games in his young career in the bigs.\nThe postseason is obviously a different beast than a prospect’s first dozen MLB games. At-bats are more scrutinized and the pressure would be unlike anything De Paula has experienced in his pro career. He also lacks the experience of coming off the bench cold and pinch hitting, especially in high-leverage situations. But if anyone could overcome those obstacles, it is De Paula.\nDespite Roberts already seeming to have a preference, De Paula isn’t a lock for the playoff roster quite yet. But with the ability to change the game with one swing, he could become one of the Dodgers’ most dangerous weapons off the bench in October.",
+    "tracked_people": [
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers demote Josue De Paula with a Dalton Rushing catch (but battle isn't over)",
+    "original_body": "When the Los Angeles Dodgers called up Josue De Paula just a few weeks ago, there weren’t really any major expectations for him to carry the offense or make a huge contribution this season. He was here to get his cup of coffee and gain some invaluable MLB experience. But in his short time with the club, De Paula has made such a massive impression that he has already forced a potential postseason roster battle that could end up with him on top.\nAs reported by Katie Woo of The Athletic, De Paula has become an unexpected yet good problem for the Dodgers as they are set to welcome back a number of players from the IL. The team activated superstar Shohei Ohtani after he had been dealing with a handful of nagging injuries.\nThe Dodgers will also look to activate catcher Dalton Rushing from the IL before the end of the regular season. While he will not be able to return behind the plate this year, the team could potentially use his bat off of the bench. This could lead to a log jam on the bench and a position battle between Rushing and De Paula ... down the line. To begin the proceedings, De Paula will go down on Wednesday in favor of Ohtani, while Rushing till ideally get some at-bats at the MLB level before the season ends.\nThis doesn't mean De Paula can be counted out of the postseason roster mix, though. That debate hasn't finished yet (or even begun until Rushing can get some reps).\nWhile Dodgers manager Dave Roberts admitted earlier in the week that it could lead to a “good debate” as the team determines which of the two players to carry on the postseason roster, he may have already shown his hand.\n“To be quite frank, it’s going to be tougher for Dalton, given the time that he’s missed, and to kind of think that you have three games to get back in playoff form, which is tough to do,” Roberts said of Rushing.\n“It’s not a knock on him. He’s been great for us. But it’s still tough, given that also you’re talking about the consistency of at-bats recently from Josue. We have to have those conversations and make a decision.”\nWith just a handful of games remaining in the regular season, Rushing likely won’t get many at-bats to get back into a rhythm before the playoffs. Whether or not that will have the greatest impact on Roberts’ final decision will be interesting to watch out for. It will be hard to overlook how hot De Paula is at the plate right now though, even as he heads to the minors.\nJosue De Paula has already become a force in the Dodgers’ lineup\nThrough his first 31 at-bats with the Dodgers, De Paula has already collected 10 hits and driven in seven runs. With a .323/.500/.581 slash line, he has shown that he’s capable of handling MLB pitching. Well, at least in the short term. We have seen rookies come up to the majors and wreak havoc at the plate before teams have time to collect enough tape on them and pitchers can make the adjustment.\nThen again, as the Dodgers' No. 1 prospect, De Paula has raked at every level in the minor leagues. With a career .857 OPS in five minor league seasons, he has the tools to make the adjustments of his own. He already has an excellent grasp on the strike zone and plate discipline that rivals seasoned MLB veterans. De Paula has drawn 11 walks in 11 games in his young career in the bigs.\nThe postseason is obviously a different beast than a prospect’s first dozen MLB games. At-bats are more scrutinized and the pressure would be unlike anything De Paula has experienced in his pro career. He also lacks the experience of coming off the bench cold and pinch hitting, especially in high-leverage situations. But if anyone could overcome those obstacles, it is De Paula.\nDespite Roberts already seeming to have a preference, De Paula isn’t a lock for the playoff roster quite yet. But with the ability to change the game with one swing, he could become one of the Dodgers’ most dangerous weapons off the bench in October.",
+    "rss_title": "Dodgers demote Josue De Paula with a Dalton Rushing catch (but battle isn't over)",
+    "rss_body": "When the Los Angeles Dodgers called up Josue De Paula just a few weeks ago, there weren’t really any major expectations for him to carry the offense or make a huge contribution this season. He was here to get his cup of coffee and gain some invaluable MLB experience. But in his short time with the club, De Paula has made such a massive impression that he has already forced a potential postseason roster battle that could end up with him on top.\nAs reported by Katie Woo of The Athletic, De Paula has become an unexpected yet good problem for the Dodgers as they are set to welcome back a number of players from the IL. The team activated superstar Shohei Ohtani after he had been dealing with a handful of nagging injuries.\nThe Dodgers will also look to activate catcher Dalton Rushing from the IL before the end of the regular season. While he will not be able to return behind the plate this year, the team could potentially use his bat off of the bench. This could lead to a log jam on the bench and a position battle between Rushing and De Paula ... down the line. To begin the proceedings, De Paula will go down on Wednesday in favor of Ohtani, while Rushing till ideally get some at-bats at the MLB level before the season ends.\nThis doesn't mean De Paula can be counted out of the postseason roster mix, though. That debate hasn't finished yet (or even begun until Rushing can get some reps).\nWhile Dodgers manager Dave Roberts admitted earlier in the week that it could lead to a “good debate” as the team determines which of the two players to carry on the postseason roster, he may have already shown his hand.\n“To be quite frank, it’s going to be tougher for Dalton, given the time that he’s missed, and to kind of think that you have three games to get back in playoff form, which is tough to do,” Roberts said of Rushing.\n“It’s not a knock on him. He’s been great for us. But it’s still tough, given that also you’re talking about the consistency of at-bats recently from Josue. We have to have those conversations and make a decision.”\nWith just a handful of games remaining in the regular season, Rushing likely won’t get many at-bats to get back into a rhythm before the playoffs. Whether or not that will have the greatest impact on Roberts’ final decision will be interesting to watch out for. It will be hard to overlook how hot De Paula is at the plate right now though, even as he heads to the minors.\nJosue De Paula has already become a force in the Dodgers’ lineup\nThrough his first 31 at-bats with the Dodgers, De Paula has already collected 10 hits and driven in seven runs. With a .323/.500/.581 slash line, he has shown that he’s capable of handling MLB pitching. Well, at least in the short term. We have seen rookies come up to the majors and wreak havoc at the plate before teams have time to collect enough tape on them and pitchers can make the adjustment.\nThen again, as the Dodgers' No. 1 prospect, De Paula has raked at every level in the minor leagues. With a career .857 OPS in five minor league seasons, he has the tools to make the adjustments of his own. He already has an excellent grasp on the strike zone and plate discipline that rivals seasoned MLB veterans. De Paula has drawn 11 walks in 11 games in his young career in the bigs.\nThe postseason is obviously a different beast than a prospect’s first dozen MLB games. At-bats are more scrutinized and the pressure would be unlike anything De Paula has experienced in his pro career. He also lacks the experience of coming off the bench cold and pinch hitting, especially in high-leverage situations. But if anyone could overcome those obstacles, it is De Paula.\nDespite Roberts already seeming to have a preference, De Paula isn’t a lock for the playoff roster quite yet. But with the ability to change the game with one swing, he could become one of the Dodgers’ most dangerous weapons off the bench in October.",
     "translation_status": "fallback_original"
   },
   {
@@ -298,6 +426,46 @@
     "rss_title": "Dodgers option Kyle Hurt to Triple-A",
     "rss_body": "Dodgers optioned RHP Kyle Hurt to Triple-A Oklahoma City.\n            \n                Hurt winds up back in the minors with both Tarik Skubal and Shohei Ohtani returning to the club’s active roster. The 28-year-old righty has posted a respectable 4.14 ERA across 45 2/3 innings of work in the majors this season.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "0cbdbd5074af1042845f",
+    "title": "【MLB】大谷翔平、ILから復帰…球団発表 右上腕二頭筋の炎症治癒 最短で戦列 PSまで残り5試合 出塁率5割の21歳超有望株を降格させる理由",
+    "source": "サンスポ",
+    "author": "SANKEI DIGITAL INC",
+    "url": "https://www.sanspo.com/article/20260924-FSVKZLZ7VZNELGIEUPPGSJ4GCY/?outputType=theme_mlb",
+    "published_iso": "2026-09-23T22:04:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 22:04:00 +0000",
+    "body": "米大リーグ、ドジャースは23日（日本時間24日）、「右上腕二頭筋の炎症」で負傷者リスト（IL）入りしていた大谷翔平投手（32）が復帰すると発表した。9月9日に15日間IL入りが発表され、この日が最短復帰だった。レギュラーシーズンはこの日のパドレス戦を含め残り5試合。ポストシーズンに向け、体勢を整える期間となる。\n大谷は6月上旬に左膝、7月上旬に右上腕の違和感を最初に覚え、投手リハビリと並行し、打者出場を進めてきたが、患部改善に至らず。9月上旬に今季中の投手復帰を断念し、打者専念の決断を下したが、右上腕の負傷がスイングに影響を及ぼし、IL入りが避けられない状況となった。\nマイナーに降格するのは大谷の代替で昇格していたデパウラで、11試合出場でメジャー初本塁打を含む打率・323、出塁率・500で非凡な才能を見せた。デパウラは9月1日以前に40人枠に在籍しなかったため、本来はポストシーズンの出場資格を得ないが、負傷者リストの選手の代替としてコミッショナー事務局に申請許可が下りた場合はロースターに加えることができる。その場合、最短で復帰できるのは地区シリーズ初戦となる10月3日となる。",
+    "tracked_people": [
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "【MLB】大谷翔平、ILから復帰…球団発表 右上腕二頭筋の炎症治癒 最短で戦列 PSまで残り5試合 出塁率5割の21歳超有望株を降格させる理由",
+    "original_body": "米大リーグ、ドジャースは23日（日本時間24日）、「右上腕二頭筋の炎症」で負傷者リスト（IL）入りしていた大谷翔平投手（32）が復帰すると発表した。9月9日に15日間IL入りが発表され、この日が最短復帰だった。レギュラーシーズンはこの日のパドレス戦を含め残り5試合。ポストシーズンに向け、体勢を整える期間となる。\n大谷は6月上旬に左膝、7月上旬に右上腕の違和感を最初に覚え、投手リハビリと並行し、打者出場を進めてきたが、患部改善に至らず。9月上旬に今季中の投手復帰を断念し、打者専念の決断を下したが、右上腕の負傷がスイングに影響を及ぼし、IL入りが避けられない状況となった。\nマイナーに降格するのは大谷の代替で昇格していたデパウラで、11試合出場でメジャー初本塁打を含む打率・323、出塁率・500で非凡な才能を見せた。デパウラは9月1日以前に40人枠に在籍しなかったため、本来はポストシーズンの出場資格を得ないが、負傷者リストの選手の代替としてコミッショナー事務局に申請許可が下りた場合はロースターに加えることができる。その場合、最短で復帰できるのは地区シリーズ初戦となる10月3日となる。",
+    "rss_title": "【MLB】大谷翔平、ILから復帰…球団発表 右上腕二頭筋の炎症治癒 最短で戦列 PSまで残り5試合 出塁率5割の21歳超有望株を降格させる理由",
+    "rss_body": "米大リーグ、ドジャースは23日（日本時間24日）、「右上腕二頭筋の炎症」で負傷者リスト（IL）入りしていた大谷翔平投手（32）が復帰すると発表した。9月9日に15日間IL入りが発表され、この日が最短復帰だった。レギュラーシーズンはこの日のパドレス戦を含め残り5試合。ポストシーズンに向け、体勢を整える期間となる。\n大谷は6月上旬に左膝、7月上旬に右上腕の違和感を最初に覚え、投手リハビリと並行し、打者出場を進めてきたが、患部改善に至らず。9月上旬に今季中の投手復帰を断念し、打者専念の決断を下したが、右上腕の負傷がスイングに影響を及ぼし、IL入りが避けられない状況となった。\nマイナーに降格するのは大谷の代替で昇格していたデパウラで、11試合出場でメジャー初本塁打を含む打率・323、出塁率・500で非凡な才能を見せた。デパウラは9月1日以前に40人枠に在籍しなかったため、本来はポストシーズンの出場資格を得ないが、負傷者リストの選手の代替としてコミッショナー事務局に申請許可が下りた場合はロースターに加えることができる。その場合、最短で復帰できるのは地区シリーズ初戦となる10月3日となる。",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "サンスポ",
+        "url": "https://www.sanspo.com/article/20260923-BQVJZQUCDZCMLKVDYCZXBXIILI/?outputType=theme_mlb",
+        "title": "【MLB】大谷翔平、あす復帰決定 ロバーツ監督が明言 1番起用が基本線「少し慎重に考えたい」 RS最終週に役者そろう",
+        "body_characters": 484
+      }
+    ]
   },
   {
     "id": "e89ba71e55440d50b297",
@@ -4822,52 +4990,6 @@
     "rss_title": "Dodgers' Blake Snell Making Return Just in Time for Postseason",
     "rss_body": "Los Angeles Dodgers starter Blake Snell will pitch against the San Francisco Giants on Saturday after tweaking his groin last week.\nSnell felt some tightness in his groin ahead of his last start against the Cincinnati Reds, but tried pitching through it. He only lasted one inning in the outing, pulling himself out of the game after the first inning to make way for Blake Treinen.\nThe injury raised some concerns about Snell’s postseason availability, as he struggled with similar injuries in 2021, 2022 and 2024, but his return bodes well for his involvement in the Dodgers’ postseason.\nHow Has Snell Performed This Season?\nSnell only has eight appearances with the Dodgers under his belt so far this season, pitching 38.2 innings while striking out 52 batters while posting a 1.86 ERA.\nHe didn’t make an appearance until May after spending the first month or so of the season on the injured list with fatigue in his shoulder, but immediately went back on the injured list after allowing five runs in three innings with loose bodies in his elbow.\nThe left-hander came back into the rotation in August, and immediately looked his best upon his return. He allowed just three earned runs and struck out 31 batters through his four starts after coming off of the injured list, spanning 23 innings pitched.\nIn September, Snell has thrown 12.2 innings while allowing just one earned run and striking out 16 batters.\nWhat Role Will Snell Have in October?\nSnell, without a doubt, will have a spot as a starter in the Dodgers’ rotation come the postseason, likely joined by Tyler Glasnow, Yoshinobu Yamamoto and Tarik Skubal.\nDespite his limited game time this year, Snell has proven himself as a key pitcher for the Dodgers, and also performed well during last year’s postseason. He had a 3.18 ERA through 34 innings pitched last October, and played a key role in the Dodgers’ World Series run.\nHe’ll look to do the same this year, as he aims to put together a healthy start in his final appearance of the regular season on Saturday. Before then, though, the Dodgers have a three-game series against the San Diego Padres as they try to secure their spot as the second seed in the NL. The first game of that series comes Tuesday at 7:10 p.m. PT.",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "2129e82ddf36ab26216a",
-    "title": "【MLB】大谷翔平、あす復帰決定 ロバーツ監督が明言 1番起用が基本線「少し慎重に考えたい」 RS最終週に役者そろう",
-    "source": "サンスポ",
-    "author": "織原祥平",
-    "url": "https://www.sanspo.com/article/20260923-BQVJZQUCDZCMLKVDYCZXBXIILI/?outputType=theme_mlb",
-    "published_iso": "2026-09-22T23:37:00+00:00",
-    "published_rfc2822": "Tue, 22 Sep 2026 23:37:00 +0000",
-    "body": "ドジャース－パドレス（22日、ロサンゼルス）「右上腕二頭筋の炎症」で負傷者リスト（IL）入りする米大リーグ、ドジャースの大谷翔平投手（32）はロースター登録可能となる23日（日本時間24日）に最短復帰することが決まった。パドレス戦前に取材に応じたデーブ・ロバーツ監督（54）は「特に（コーチらから別の）報告が入らない限り、明日のラインアップに入る予定」と明言した。\nこれまで通り1番での起用を基本線に検討しているとし、「（相手の先発が）右投手か左投手かによって少し慎重に考えたい」と含みを持たせた。パ軍の先発が左投手の場合にはベッツの1番起用継続のプランもあるといい、「右投手の場合は確実に（大谷が）1番に入るでしょう。ただ、打線の並びを含めて熟考する必要がある。まだ完全に固めたわけではない」と語った。なお、23日のパドレスの先発は左腕のレイの予定だ。\n大谷は今月9日にド軍移籍後初めてIL入りし、15日に打撃練習を再開。現状は打撃マシン相手の打撃練習を再開したばかりで、ライブBPなど実戦形式の打撃練習はできていないとみられ、ぶっつけ本番で実戦に臨む可能性がある。",
-    "tracked_people": [
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "Japan Japanese"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "【MLB】大谷翔平、あす復帰決定 ロバーツ監督が明言 1番起用が基本線「少し慎重に考えたい」 RS最終週に役者そろう",
-    "original_body": "ドジャース－パドレス（22日、ロサンゼルス）「右上腕二頭筋の炎症」で負傷者リスト（IL）入りする米大リーグ、ドジャースの大谷翔平投手（32）はロースター登録可能となる23日（日本時間24日）に最短復帰することが決まった。パドレス戦前に取材に応じたデーブ・ロバーツ監督（54）は「特に（コーチらから別の）報告が入らない限り、明日のラインアップに入る予定」と明言した。\nこれまで通り1番での起用を基本線に検討しているとし、「（相手の先発が）右投手か左投手かによって少し慎重に考えたい」と含みを持たせた。パ軍の先発が左投手の場合にはベッツの1番起用継続のプランもあるといい、「右投手の場合は確実に（大谷が）1番に入るでしょう。ただ、打線の並びを含めて熟考する必要がある。まだ完全に固めたわけではない」と語った。なお、23日のパドレスの先発は左腕のレイの予定だ。\n大谷は今月9日にド軍移籍後初めてIL入りし、15日に打撃練習を再開。現状は打撃マシン相手の打撃練習を再開したばかりで、ライブBPなど実戦形式の打撃練習はできていないとみられ、ぶっつけ本番で実戦に臨む可能性がある。",
-    "rss_title": "【MLB】大谷翔平、あす復帰決定 ロバーツ監督が明言 1番起用が基本線「少し慎重に考えたい」 RS最終週に役者そろう",
-    "rss_body": "ドジャース－パドレス（22日、ロサンゼルス）「右上腕二頭筋の炎症」で負傷者リスト（IL）入りする米大リーグ、ドジャースの大谷翔平投手（32）はロースター登録可能となる23日（日本時間24日）に最短復帰することが決まった。パドレス戦前に取材に応じたデーブ・ロバーツ監督（54）は「特に（コーチらから別の）報告が入らない限り、明日のラインアップに入る予定」と明言した。\nこれまで通り1番での起用を基本線に検討しているとし、「（相手の先発が）右投手か左投手かによって少し慎重に考えたい」と含みを持たせた。パ軍の先発が左投手の場合にはベッツの1番起用継続のプランもあるといい、「右投手の場合は確実に（大谷が）1番に入るでしょう。ただ、打線の並びを含めて熟考する必要がある。まだ完全に固めたわけではない」と語った。なお、23日のパドレスの先発は左腕のレイの予定だ。\n大谷は今月9日にド軍移籍後初めてIL入りし、15日に打撃練習を再開。現状は打撃マシン相手の打撃練習を再開したばかりで、ライブBPなど実戦形式の打撃練習はできていないとみられ、ぶっつけ本番で実戦に臨む可能性がある。",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "日刊スポーツ",
-        "url": "https://www.nikkansports.com/baseball/mlb/news/202609230000112.html",
-        "title": "大谷翔平、24日復帰しスタメン出場へ ロバーツ監督「IL入り当時が５なら今８か９」 - ＭＬＢ : 日刊スポーツ",
-        "body_characters": 402
-      },
-      {
-        "source": "日本経済新聞",
-        "url": "https://www.nikkei.com/article/DGXZQOKC230DU0T20C26A9000000/",
-        "title": "MLB:大谷翔平、24日に打者で復帰へ ドジャース監督が見通し - 日本経済新聞",
-        "body_characters": 276
-      }
-    ]
   },
   {
     "id": "68877981aebabcd8760b",
