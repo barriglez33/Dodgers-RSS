@@ -1,20 +1,124 @@
 [
   {
-    "id": "852a4cc609b1355824a1",
-    "title": "Ohtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday",
-    "source": "thegamenashville.com",
-    "author": "Alden Gonzalez",
-    "url": "https://www.thegamenashville.com/2026/09/22/ohtani-considerably-healthier-expected-back-in-dodgers-lineup-wednesday/",
-    "published_iso": "2026-09-23T03:15:00+00:00",
-    "published_rfc2822": "Wed, 23 Sep 2026 03:15:00 +0000",
-    "body": "Dodgers star Shohei Ohtani’s health is “probably an eight or a nine” on a scale from 1 to 10, according to manager Dave Roberts, and is expected to return to the lineup Wednesday against the Padres.\nOhtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep 22, 2026 | 9:53 PM",
+    "id": "9626f41b94b40d7ff293",
+    "title": "Shohei Ohtani to return from IL Wednesday, but Dodgers still have unanswered questions in final week",
+    "source": "Los Angeles Times",
+    "author": "Maddie Lee",
+    "url": "https://www.latimes.com/sports/dodgers/story/2026-09-22/shohei-ohtani-dodgers-padres",
+    "published_iso": "2026-09-23T05:26:15+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 05:26:15 +0000",
+    "body": "Shohei Ohtani to return from IL Wednesday, but Dodgers still have unanswered questions in final week\n-    Click here to listen to this article\n-   \nThe Dodgers have less than a week left of the regular season to round into playoff form. And their roster moves this series reflect that time crunch.\nManager Dave Roberts confirmed Tuesday afternoon that Shohei Ohtani (right biceps, left knee) was on track to be reinstated from the 15-day injured list on Wednesday. Ohtani is feeling “considerably” better than he was before the IL stint, according to Roberts.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said before eight pitchers led the Dodgers’ 7-0 win against the San Diego Padres.\nOn Tuesday, they returned two other important postseason pieces, reinstating center fielder Andy Pages (fractured left hand) and right-hander Roki Sasaki (right middle finger blister) from the injured list.\nIn corresponding moves, the Dodgers optioned right-hander Emmet Sheehan and catcher Eliézer Alfonzo to triple-A Oklahoma City.\nSasaki took the fourth inning of the bullpen game and threw scoreless ball. He gave up a pair of singles, but his fastball had a little extra life in the short stint, averaging 98.7 mph and topping out at 101.7.\nPages went 0 for 2 but reached base twice, on a hit by pitch and a walk.\nEven as players return, however, there are still questions the Dodgers have to answer in the last week of the season:\nWhere will Ohtani hit?\nAt least at first, Roberts plans to write Ohtani in at the top of the order, per usual. But shortstop Mookie Betts has entered the conversation.\n“Certainly versus right-handed pitching [Ohtani] will be there,” Roberts said. “I do think I should think through the Mookie versus left situation, but I have to think about the entire lineup structure.”\nOhtani has hit leadoff in every game he’s started this year. But he hit No. 2 in 79 games the two previous seasons combined.\nEven without Ohtani, the Dodgers lineup has been clicking. On Tuesday, Tommy Edman hit his second home run in as many games, and Will Smith homered for the third time in four days.\nIs the rotation healthy?\nDodgers left-hander Blake Snell, who exited his start last week with left groin tightness, threw a bullpen on Tuesday. He’s scheduled for one final regular-season start Saturday, Roberts said.\nThat means all four of the Dodgers’ projected playoff starters are lined up to pitch this Wednesday through Saturday, with Yoshinobu Yamamoto and Tyler Glasnow on the mound for the last two games against the Padres, and Tarik Skubal and Snell in the first two games in San Francisco.\nWho is the closer?\nIn short, it could change by the day.\n“In a perfect world, as we all know the world’s not perfect, I would love [a set closer],” Roberts said. “I think if there’s an opportunity, for example, for Tanner [Scott] to pitch a high-leverage inning in the seventh or the eighth inning, it’s just hard to pass that up if he’s the best option right there. Because you just don’t know where the ninth inning is going to be.\n“Those are things that you have to kind of toil with, and those are always good things for people to debate. Right now I don’t see a one-person closer.”\nSasaki stepped into that role last year. It’s unclear exactly how Roberts will use him this time around, but Roberts said he could be an option, depending on how he pitches coming off the IL.\n“Last year it was one of those things where it was a situation of need, as far as where we were at with performance and health and guys,” Roberts said. “He filled that role admirably.”\nWho gets the last bench spot?\nThe battle to serve as the left-handed bat off the bench in the postseason has come down to rookie Josue De Paula and injured catcher Dalton Rushing (right flexor strain). But with Rushing still on the IL, De Paula appears to have an edge.\nDon’t read too much into the Dodgers’ corresponding move for Ohtani on Wednesday. If they option De Paula 10 days out from the first game of the National League Division Series, he can still be included on the roster.\nThe Dodgers will have to make another roster move later in the week, when they plan to activate Rushing. If they option a player to make room for Rushing, that player would only be eligible for the start of the NLDS as the corresponding transaction for an IL move.",
     "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Eliezer Alfonzo",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
       {
         "name": "Shohei Ohtani",
         "role": "DH / Pitcher",
         "status": "Injured List",
         "type": "player",
         "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Emmet Sheehan",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 30,
         "batch": 2
       },
       {
@@ -26,19 +130,185 @@
         "batch": 2
       }
     ],
-    "source_languages": [
-      "English"
-    ],
+    "source_languages": [],
     "source_countries": [
-      "United States"
+      "US English"
     ],
     "discovery_sources": [
-      "GDELT"
+      "Google News"
     ],
-    "original_title": "Ohtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday",
-    "original_body": "Dodgers star Shohei Ohtani’s health is “probably an eight or a nine” on a scale from 1 to 10, according to manager Dave Roberts, and is expected to return to the lineup Wednesday against the Padres.\nOhtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep 22, 2026 | 9:53 PM",
-    "rss_title": "Ohtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday",
-    "rss_body": "Dodgers star Shohei Ohtani’s health is “probably an eight or a nine” on a scale from 1 to 10, according to manager Dave Roberts, and is expected to return to the lineup Wednesday against the Padres.\nOhtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSep 22, 2026 | 9:53 PM",
+    "original_title": "Shohei Ohtani to return from IL Wednesday, but Dodgers still have unanswered questions in final week",
+    "original_body": "Shohei Ohtani to return from IL Wednesday, but Dodgers still have unanswered questions in final week\n-    Click here to listen to this article\n-   \nThe Dodgers have less than a week left of the regular season to round into playoff form. And their roster moves this series reflect that time crunch.\nManager Dave Roberts confirmed Tuesday afternoon that Shohei Ohtani (right biceps, left knee) was on track to be reinstated from the 15-day injured list on Wednesday. Ohtani is feeling “considerably” better than he was before the IL stint, according to Roberts.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said before eight pitchers led the Dodgers’ 7-0 win against the San Diego Padres.\nOn Tuesday, they returned two other important postseason pieces, reinstating center fielder Andy Pages (fractured left hand) and right-hander Roki Sasaki (right middle finger blister) from the injured list.\nIn corresponding moves, the Dodgers optioned right-hander Emmet Sheehan and catcher Eliézer Alfonzo to triple-A Oklahoma City.\nSasaki took the fourth inning of the bullpen game and threw scoreless ball. He gave up a pair of singles, but his fastball had a little extra life in the short stint, averaging 98.7 mph and topping out at 101.7.\nPages went 0 for 2 but reached base twice, on a hit by pitch and a walk.\nEven as players return, however, there are still questions the Dodgers have to answer in the last week of the season:\nWhere will Ohtani hit?\nAt least at first, Roberts plans to write Ohtani in at the top of the order, per usual. But shortstop Mookie Betts has entered the conversation.\n“Certainly versus right-handed pitching [Ohtani] will be there,” Roberts said. “I do think I should think through the Mookie versus left situation, but I have to think about the entire lineup structure.”\nOhtani has hit leadoff in every game he’s started this year. But he hit No. 2 in 79 games the two previous seasons combined.\nEven without Ohtani, the Dodgers lineup has been clicking. On Tuesday, Tommy Edman hit his second home run in as many games, and Will Smith homered for the third time in four days.\nIs the rotation healthy?\nDodgers left-hander Blake Snell, who exited his start last week with left groin tightness, threw a bullpen on Tuesday. He’s scheduled for one final regular-season start Saturday, Roberts said.\nThat means all four of the Dodgers’ projected playoff starters are lined up to pitch this Wednesday through Saturday, with Yoshinobu Yamamoto and Tyler Glasnow on the mound for the last two games against the Padres, and Tarik Skubal and Snell in the first two games in San Francisco.\nWho is the closer?\nIn short, it could change by the day.\n“In a perfect world, as we all know the world’s not perfect, I would love [a set closer],” Roberts said. “I think if there’s an opportunity, for example, for Tanner [Scott] to pitch a high-leverage inning in the seventh or the eighth inning, it’s just hard to pass that up if he’s the best option right there. Because you just don’t know where the ninth inning is going to be.\n“Those are things that you have to kind of toil with, and those are always good things for people to debate. Right now I don’t see a one-person closer.”\nSasaki stepped into that role last year. It’s unclear exactly how Roberts will use him this time around, but Roberts said he could be an option, depending on how he pitches coming off the IL.\n“Last year it was one of those things where it was a situation of need, as far as where we were at with performance and health and guys,” Roberts said. “He filled that role admirably.”\nWho gets the last bench spot?\nThe battle to serve as the left-handed bat off the bench in the postseason has come down to rookie Josue De Paula and injured catcher Dalton Rushing (right flexor strain). But with Rushing still on the IL, De Paula appears to have an edge.\nDon’t read too much into the Dodgers’ corresponding move for Ohtani on Wednesday. If they option De Paula 10 days out from the first game of the National League Division Series, he can still be included on the roster.\nThe Dodgers will have to make another roster move later in the week, when they plan to activate Rushing. If they option a player to make room for Rushing, that player would only be eligible for the start of the NLDS as the corresponding transaction for an IL move.",
+    "rss_title": "Shohei Ohtani to return from IL Wednesday, but Dodgers still have unanswered questions in final week",
+    "rss_body": "Shohei Ohtani to return from IL Wednesday, but Dodgers still have unanswered questions in final week\n-    Click here to listen to this article\n-   \nThe Dodgers have less than a week left of the regular season to round into playoff form. And their roster moves this series reflect that time crunch.\nManager Dave Roberts confirmed Tuesday afternoon that Shohei Ohtani (right biceps, left knee) was on track to be reinstated from the 15-day injured list on Wednesday. Ohtani is feeling “considerably” better than he was before the IL stint, according to Roberts.\n“I would say if he was a five, he’s probably an eight or a nine right now,” Roberts said before eight pitchers led the Dodgers’ 7-0 win against the San Diego Padres.\nOn Tuesday, they returned two other important postseason pieces, reinstating center fielder Andy Pages (fractured left hand) and right-hander Roki Sasaki (right middle finger blister) from the injured list.\nIn corresponding moves, the Dodgers optioned right-hander Emmet Sheehan and catcher Eliézer Alfonzo to triple-A Oklahoma City.\nSasaki took the fourth inning of the bullpen game and threw scoreless ball. He gave up a pair of singles, but his fastball had a little extra life in the short stint, averaging 98.7 mph and topping out at 101.7.\nPages went 0 for 2 but reached base twice, on a hit by pitch and a walk.\nEven as players return, however, there are still questions the Dodgers have to answer in the last week of the season:\nWhere will Ohtani hit?\nAt least at first, Roberts plans to write Ohtani in at the top of the order, per usual. But shortstop Mookie Betts has entered the conversation.\n“Certainly versus right-handed pitching [Ohtani] will be there,” Roberts said. “I do think I should think through the Mookie versus left situation, but I have to think about the entire lineup structure.”\nOhtani has hit leadoff in every game he’s started this year. But he hit No. 2 in 79 games the two previous seasons combined.\nEven without Ohtani, the Dodgers lineup has been clicking. On Tuesday, Tommy Edman hit his second home run in as many games, and Will Smith homered for the third time in four days.\nIs the rotation healthy?\nDodgers left-hander Blake Snell, who exited his start last week with left groin tightness, threw a bullpen on Tuesday. He’s scheduled for one final regular-season start Saturday, Roberts said.\nThat means all four of the Dodgers’ projected playoff starters are lined up to pitch this Wednesday through Saturday, with Yoshinobu Yamamoto and Tyler Glasnow on the mound for the last two games against the Padres, and Tarik Skubal and Snell in the first two games in San Francisco.\nWho is the closer?\nIn short, it could change by the day.\n“In a perfect world, as we all know the world’s not perfect, I would love [a set closer],” Roberts said. “I think if there’s an opportunity, for example, for Tanner [Scott] to pitch a high-leverage inning in the seventh or the eighth inning, it’s just hard to pass that up if he’s the best option right there. Because you just don’t know where the ninth inning is going to be.\n“Those are things that you have to kind of toil with, and those are always good things for people to debate. Right now I don’t see a one-person closer.”\nSasaki stepped into that role last year. It’s unclear exactly how Roberts will use him this time around, but Roberts said he could be an option, depending on how he pitches coming off the IL.\n“Last year it was one of those things where it was a situation of need, as far as where we were at with performance and health and guys,” Roberts said. “He filled that role admirably.”\nWho gets the last bench spot?\nThe battle to serve as the left-handed bat off the bench in the postseason has come down to rookie Josue De Paula and injured catcher Dalton Rushing (right flexor strain). But with Rushing still on the IL, De Paula appears to have an edge.\nDon’t read too much into the Dodgers’ corresponding move for Ohtani on Wednesday. If they option De Paula 10 days out from the first game of the National League Division Series, he can still be included on the roster.\nThe Dodgers will have to make another roster move later in the week, when they plan to activate Rushing. If they option a player to make room for Rushing, that player would only be eligible for the start of the NLDS as the corresponding transaction for an IL move.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e5ca52222c32fe2dcc4b",
+    "title": "Sasaki vuelve como relevista mientras Dodgers evalúan su bullpen para octubre",
+    "source": "MLB.com",
+    "author": "Sonja Chen",
+    "url": "https://www.mlb.com/es/news/roki-sasaki-es-activado-de-la-lista-de-lesionados-para-unirse-al-bullpen-de-los-dodgers",
+    "published_iso": "2026-09-23T05:16:24+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 05:16:24 +0000",
+    "body": "LOS ÁNGELES -- Roki Sasaki llamó la atención cuando pasó al bullpen durante la marcha del año pasado hacia el bicampeonato. Volverá a desempeñar ese papel en los últimos días de esta temporada regular y posiblemente vuelva a estar entre las opciones para cerrar juegos.\nSasaki fue activado de la lista de lesionados de 15 días antes de la victoria por 7-0 sobre los Padres la noche del martes, como parte de una serie de movimientos que también incluyeron el regreso del cubano Andy Pagés de la lista de lesionados y el envío de Emmet Sheehan y el venezolano Eliezer Alfonzo a Triple-A Oklahoma City. Sasaki lanzó por última vez el 26 de agosto, cuando una ampolla en el dedo medio de la mano derecha puso fin prematuramente a su apertura contra los Bravos.\nEn su segunda temporada en Grandes Ligas, Sasaki se acercaba cada vez más a la versión de sí mismo que fue un fenómeno en la Liga Japonesa de Béisbol Profesional (NPB, por sus siglas en inglés). Tuvo marca de 5-5 con efectividad de 4.60 en 23 aperturas, pero esos números no cuentan toda la historia. Con un repertorio más amplio, que incluye un nuevo splitter, y una mayor velocidad en su recta, Sasaki tuvo su mejor tramo sostenido como abridor en Grandes Ligas, registrando efectividad de 2.63 en siete aperturas antes de lidiar con la ampolla.\n“Emocionado de tener a Roki de vuelta”, dijo el manager Dave Roberts. “Está entusiasmado con este rol. Creo que puede tener un gran impacto, como lo tuvo el año pasado”.\nEn su regreso al bullpen el martes, Sasaki ponchó a dos en un cuarto inning en blanco, pese a permitir un par de sencillos con dos outs. Generó cuatro swings fallidos, incluidos dos en igual número de swings contra su splitter, y promedió 98.7 mph con las ocho rectas que lanzó, ligeramente por encima de su promedio de 97.8 mph esta temporada.\nLos Dodgers mejoraron su récord a 97-60 después de que su juego de bullpen terminara en blanqueada. Están cinco juegos por delante de los Bravos en la lucha por el segundo mejor récord de la Liga Nacional y a uno de los Cerveceros, líderes del circuito y dueños del criterio de desempate entre ambos.\nEl año pasado, el traslado de Sasaki al relevo fue una decisión sin precedentes. Después de un comienzo por debajo de las expectativas en su temporada de novato y de perderse más de cuatro meses por una lesión en el hombro, la única oportunidad de Sasaki de contribuir con los Dodgers en la postemporada era pasar al bullpen.\nSasaki no sólo contribuyó, sino que se convirtió en el cerrador de los Dodgers en la postemporada, permitiendo apenas una carrera limpia en 10.2 innings, para efectividad de 0.84. La confianza que adquirió al conseguir resultados en Grandes Ligas, bajo la máxima presión, impulsó el regreso del derecho de 24 años a la rotación y su posterior despegue a mitad de esta temporada.\nActualmente, los Dodgers no cuentan con un cerrador fijo, ya que el boricua Edwin Díaz está lanzando en situaciones de baja presión en medio de sus dificultades a lo largo de la temporada, mientras busca ganarse un puesto en el bullpen para la postemporada. Díaz ponchó a dos en un quinto inning perfecto la noche del martes, su tercera presentación sin permitir carreras desde que regresó de la lista de lesionados.\nHa pasado mucho tiempo desde que Sasaki lanzó como relevista, pero si logra mostrarle lo suficiente a Roberts durante la última semana antes de la postemporada, podría convertirse en una opción para situaciones de salvamento.\n“Creo que sin duda es una opción”, dijo Roberts. “Probablemente mucho dependerá de cómo lance esta noche. Seguramente tendrá una o dos presentaciones cortas más antes de que termine la temporada”.\nCon Díaz perdiendo tiempo de juego por lesiones en el codo y el cuello, además de no lanzar bien cuando estuvo saludable, el zurdo Tanner Scott ha recibido la mayoría de las oportunidades de salvamento. Scott lidera a los Dodgers con 23 rescates, pero también ha desperdiciado cuatro oportunidades, incluidas dos desde comienzos de septiembre.\nScott todavía podría ser la mejor opción para cerrar los juegos, pero Sasaki podría complementarlo desde el lado derecho, algo importante debido a que el derecho venezolano Edgardo Henríquez estará fuera por el resto de la temporada regular debido a una distensión en la parte baja de la espalda. Se espera que regrese durante la postemporada.\nAunque a Roberts le gustaría contar con un cerrador en la postemporada, reconoció que es más probable que maneje el bullpen según los enfrentamientos. En esta época del año, algunas de las situaciones de mayor presión se presentan antes del noveno inning, por lo que tener varias opciones le permitiría utilizar a sus mejores relevistas en los momentos más convenientes.\n“Creo que si hay una oportunidad, por ejemplo, de que Tanner lance un inning de alta presión en el séptimo u octavo, es difícil dejarla pasar si es la mejor opción en ese momento”, dijo Roberts. “Porque simplemente no sabes cómo se va a presentar el noveno inning”.",
+    "tracked_people": [
+      {
+        "name": "Eliezer Alfonzo",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Emmet Sheehan",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Sasaki vuelve como relevista mientras Dodgers evalúan su bullpen para octubre",
+    "original_body": "LOS ÁNGELES -- Roki Sasaki llamó la atención cuando pasó al bullpen durante la marcha del año pasado hacia el bicampeonato. Volverá a desempeñar ese papel en los últimos días de esta temporada regular y posiblemente vuelva a estar entre las opciones para cerrar juegos.\nSasaki fue activado de la lista de lesionados de 15 días antes de la victoria por 7-0 sobre los Padres la noche del martes, como parte de una serie de movimientos que también incluyeron el regreso del cubano Andy Pagés de la lista de lesionados y el envío de Emmet Sheehan y el venezolano Eliezer Alfonzo a Triple-A Oklahoma City. Sasaki lanzó por última vez el 26 de agosto, cuando una ampolla en el dedo medio de la mano derecha puso fin prematuramente a su apertura contra los Bravos.\nEn su segunda temporada en Grandes Ligas, Sasaki se acercaba cada vez más a la versión de sí mismo que fue un fenómeno en la Liga Japonesa de Béisbol Profesional (NPB, por sus siglas en inglés). Tuvo marca de 5-5 con efectividad de 4.60 en 23 aperturas, pero esos números no cuentan toda la historia. Con un repertorio más amplio, que incluye un nuevo splitter, y una mayor velocidad en su recta, Sasaki tuvo su mejor tramo sostenido como abridor en Grandes Ligas, registrando efectividad de 2.63 en siete aperturas antes de lidiar con la ampolla.\n“Emocionado de tener a Roki de vuelta”, dijo el manager Dave Roberts. “Está entusiasmado con este rol. Creo que puede tener un gran impacto, como lo tuvo el año pasado”.\nEn su regreso al bullpen el martes, Sasaki ponchó a dos en un cuarto inning en blanco, pese a permitir un par de sencillos con dos outs. Generó cuatro swings fallidos, incluidos dos en igual número de swings contra su splitter, y promedió 98.7 mph con las ocho rectas que lanzó, ligeramente por encima de su promedio de 97.8 mph esta temporada.\nLos Dodgers mejoraron su récord a 97-60 después de que su juego de bullpen terminara en blanqueada. Están cinco juegos por delante de los Bravos en la lucha por el segundo mejor récord de la Liga Nacional y a uno de los Cerveceros, líderes del circuito y dueños del criterio de desempate entre ambos.\nEl año pasado, el traslado de Sasaki al relevo fue una decisión sin precedentes. Después de un comienzo por debajo de las expectativas en su temporada de novato y de perderse más de cuatro meses por una lesión en el hombro, la única oportunidad de Sasaki de contribuir con los Dodgers en la postemporada era pasar al bullpen.\nSasaki no sólo contribuyó, sino que se convirtió en el cerrador de los Dodgers en la postemporada, permitiendo apenas una carrera limpia en 10.2 innings, para efectividad de 0.84. La confianza que adquirió al conseguir resultados en Grandes Ligas, bajo la máxima presión, impulsó el regreso del derecho de 24 años a la rotación y su posterior despegue a mitad de esta temporada.\nActualmente, los Dodgers no cuentan con un cerrador fijo, ya que el boricua Edwin Díaz está lanzando en situaciones de baja presión en medio de sus dificultades a lo largo de la temporada, mientras busca ganarse un puesto en el bullpen para la postemporada. Díaz ponchó a dos en un quinto inning perfecto la noche del martes, su tercera presentación sin permitir carreras desde que regresó de la lista de lesionados.\nHa pasado mucho tiempo desde que Sasaki lanzó como relevista, pero si logra mostrarle lo suficiente a Roberts durante la última semana antes de la postemporada, podría convertirse en una opción para situaciones de salvamento.\n“Creo que sin duda es una opción”, dijo Roberts. “Probablemente mucho dependerá de cómo lance esta noche. Seguramente tendrá una o dos presentaciones cortas más antes de que termine la temporada”.\nCon Díaz perdiendo tiempo de juego por lesiones en el codo y el cuello, además de no lanzar bien cuando estuvo saludable, el zurdo Tanner Scott ha recibido la mayoría de las oportunidades de salvamento. Scott lidera a los Dodgers con 23 rescates, pero también ha desperdiciado cuatro oportunidades, incluidas dos desde comienzos de septiembre.\nScott todavía podría ser la mejor opción para cerrar los juegos, pero Sasaki podría complementarlo desde el lado derecho, algo importante debido a que el derecho venezolano Edgardo Henríquez estará fuera por el resto de la temporada regular debido a una distensión en la parte baja de la espalda. Se espera que regrese durante la postemporada.\nAunque a Roberts le gustaría contar con un cerrador en la postemporada, reconoció que es más probable que maneje el bullpen según los enfrentamientos. En esta época del año, algunas de las situaciones de mayor presión se presentan antes del noveno inning, por lo que tener varias opciones le permitiría utilizar a sus mejores relevistas en los momentos más convenientes.\n“Creo que si hay una oportunidad, por ejemplo, de que Tanner lance un inning de alta presión en el séptimo u octavo, es difícil dejarla pasar si es la mejor opción en ese momento”, dijo Roberts. “Porque simplemente no sabes cómo se va a presentar el noveno inning”.",
+    "rss_title": "Sasaki vuelve como relevista mientras Dodgers evalúan su bullpen para octubre",
+    "rss_body": "LOS ÁNGELES -- Roki Sasaki llamó la atención cuando pasó al bullpen durante la marcha del año pasado hacia el bicampeonato. Volverá a desempeñar ese papel en los últimos días de esta temporada regular y posiblemente vuelva a estar entre las opciones para cerrar juegos.\nSasaki fue activado de la lista de lesionados de 15 días antes de la victoria por 7-0 sobre los Padres la noche del martes, como parte de una serie de movimientos que también incluyeron el regreso del cubano Andy Pagés de la lista de lesionados y el envío de Emmet Sheehan y el venezolano Eliezer Alfonzo a Triple-A Oklahoma City. Sasaki lanzó por última vez el 26 de agosto, cuando una ampolla en el dedo medio de la mano derecha puso fin prematuramente a su apertura contra los Bravos.\nEn su segunda temporada en Grandes Ligas, Sasaki se acercaba cada vez más a la versión de sí mismo que fue un fenómeno en la Liga Japonesa de Béisbol Profesional (NPB, por sus siglas en inglés). Tuvo marca de 5-5 con efectividad de 4.60 en 23 aperturas, pero esos números no cuentan toda la historia. Con un repertorio más amplio, que incluye un nuevo splitter, y una mayor velocidad en su recta, Sasaki tuvo su mejor tramo sostenido como abridor en Grandes Ligas, registrando efectividad de 2.63 en siete aperturas antes de lidiar con la ampolla.\n“Emocionado de tener a Roki de vuelta”, dijo el manager Dave Roberts. “Está entusiasmado con este rol. Creo que puede tener un gran impacto, como lo tuvo el año pasado”.\nEn su regreso al bullpen el martes, Sasaki ponchó a dos en un cuarto inning en blanco, pese a permitir un par de sencillos con dos outs. Generó cuatro swings fallidos, incluidos dos en igual número de swings contra su splitter, y promedió 98.7 mph con las ocho rectas que lanzó, ligeramente por encima de su promedio de 97.8 mph esta temporada.\nLos Dodgers mejoraron su récord a 97-60 después de que su juego de bullpen terminara en blanqueada. Están cinco juegos por delante de los Bravos en la lucha por el segundo mejor récord de la Liga Nacional y a uno de los Cerveceros, líderes del circuito y dueños del criterio de desempate entre ambos.\nEl año pasado, el traslado de Sasaki al relevo fue una decisión sin precedentes. Después de un comienzo por debajo de las expectativas en su temporada de novato y de perderse más de cuatro meses por una lesión en el hombro, la única oportunidad de Sasaki de contribuir con los Dodgers en la postemporada era pasar al bullpen.\nSasaki no sólo contribuyó, sino que se convirtió en el cerrador de los Dodgers en la postemporada, permitiendo apenas una carrera limpia en 10.2 innings, para efectividad de 0.84. La confianza que adquirió al conseguir resultados en Grandes Ligas, bajo la máxima presión, impulsó el regreso del derecho de 24 años a la rotación y su posterior despegue a mitad de esta temporada.\nActualmente, los Dodgers no cuentan con un cerrador fijo, ya que el boricua Edwin Díaz está lanzando en situaciones de baja presión en medio de sus dificultades a lo largo de la temporada, mientras busca ganarse un puesto en el bullpen para la postemporada. Díaz ponchó a dos en un quinto inning perfecto la noche del martes, su tercera presentación sin permitir carreras desde que regresó de la lista de lesionados.\nHa pasado mucho tiempo desde que Sasaki lanzó como relevista, pero si logra mostrarle lo suficiente a Roberts durante la última semana antes de la postemporada, podría convertirse en una opción para situaciones de salvamento.\n“Creo que sin duda es una opción”, dijo Roberts. “Probablemente mucho dependerá de cómo lance esta noche. Seguramente tendrá una o dos presentaciones cortas más antes de que termine la temporada”.\nCon Díaz perdiendo tiempo de juego por lesiones en el codo y el cuello, además de no lanzar bien cuando estuvo saludable, el zurdo Tanner Scott ha recibido la mayoría de las oportunidades de salvamento. Scott lidera a los Dodgers con 23 rescates, pero también ha desperdiciado cuatro oportunidades, incluidas dos desde comienzos de septiembre.\nScott todavía podría ser la mejor opción para cerrar los juegos, pero Sasaki podría complementarlo desde el lado derecho, algo importante debido a que el derecho venezolano Edgardo Henríquez estará fuera por el resto de la temporada regular debido a una distensión en la parte baja de la espalda. Se espera que regrese durante la postemporada.\nAunque a Roberts le gustaría contar con un cerrador en la postemporada, reconoció que es más probable que maneje el bullpen según los enfrentamientos. En esta época del año, algunas de las situaciones de mayor presión se presentan antes del noveno inning, por lo que tener varias opciones le permitiría utilizar a sus mejores relevistas en los momentos más convenientes.\n“Creo que si hay una oportunidad, por ejemplo, de que Tanner lance un inning de alta presión en el séptimo u octavo, es difícil dejarla pasar si es la mejor opción en ese momento”, dijo Roberts. “Porque simplemente no sabes cómo se va a presentar el noveno inning”.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "935e7cb8a2506d1cefe8",
+    "title": "【MLB】ドジャース快勝で5連勝 最高勝率ブルワーズと1ゲーム差に 復帰の佐々木朗希は1回無失点（MLB公式日本語サイト） - Yahoo!ニュース",
+    "source": "Yahoo!ニュース",
+    "author": "",
+    "url": "https://news.yahoo.co.jp/articles/20918df448c8bf3c4542cd5526a67298021902c5",
+    "published_iso": "2026-09-23T04:50:57+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 04:50:57 +0000",
+    "body": "【パドレス0-7ドジャース】ロサンゼルス／ドジャースタジアム、9月22日（日本時間23日）\nすでに地区優勝とポストシーズン進出を決めているドジャースは本拠地でのパドレス3連戦がスタート。その初戦はブルペンゲームの投手陣を打線がしっかり援護し、7-0で快勝して5連勝となった。メジャー最高勝率のブルワーズが敗れたため、ドジャースはブルワーズまで1ゲーム差に接近。負傷者リストから復帰した佐々木朗希は4番手として四回に登板し、2安打を浴びながらも1イニングを無失点に抑えた（防御率4.56）。 ドジャースは先発のブロック・スチュワートと2番手のジャスティン・ロブレスキーが各1イニングを無失点に抑えると、二回2死からヒット2本と死球で満塁のチャンスを作り、トミー・エドマンとムーキー・ベッツが2者連続で押し出し四球を選んで2点を先制。さらにフレディ・フリーマンの2点タイムリーが飛び出し、4-0とリードした。 三回を3番手のブレイク・トライネンが無失点に抑え、四回は佐々木が登板。ジャクソン・メリルをセンターフライ、オースティン・ヘイズを空振り三振に仕留め、簡単に2死を取ったあと、連打で一、二塁のピンチとなったが、ジェイク・クロネンワースを見逃し三振に仕留め、無失点で切り抜けた。 その直後、ドジャースは2死からベッツが二塁打を放ってチャンスメイクし、フリーマンのタイムリーで1点を追加。五回は5番手のエドウィン・ディアスが三者凡退に抑える好リリーフを見せ、六回は6番手のカイル・ハートが無失点に抑えた。 すると、六回2死からトミー・エドマンの8号ソロで1点を追加。ハートは回跨ぎで七回も無失点に抑え、直後にウィル・スミスにも10号ソロが飛び出して7-0とリードを広げた。 八回は7番手のアレックス・ベシアがマウンドに上がり、2死から四球を与えたものの、メリルを空振り三振に仕留めて無失点。九回は8番手のジャック・ドライヤーが三者凡退に抑える好リリーフを見せ、8人の投手による完封リレーを締めくくった。 勝利したドジャースは最高勝率ブルワーズまで1ゲーム差に接近。ただし、ブルワーズとの直接対決で負け越しているため、第1シードでポストシーズンに進むためにはブルワーズを勝率で上回る必要がある。",
+    "tracked_people": [
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "【MLB】ドジャース快勝で5連勝 最高勝率ブルワーズと1ゲーム差に 復帰の佐々木朗希は1回無失点（MLB公式日本語サイト） - Yahoo!ニュース",
+    "original_body": "【パドレス0-7ドジャース】ロサンゼルス／ドジャースタジアム、9月22日（日本時間23日）\nすでに地区優勝とポストシーズン進出を決めているドジャースは本拠地でのパドレス3連戦がスタート。その初戦はブルペンゲームの投手陣を打線がしっかり援護し、7-0で快勝して5連勝となった。メジャー最高勝率のブルワーズが敗れたため、ドジャースはブルワーズまで1ゲーム差に接近。負傷者リストから復帰した佐々木朗希は4番手として四回に登板し、2安打を浴びながらも1イニングを無失点に抑えた（防御率4.56）。 ドジャースは先発のブロック・スチュワートと2番手のジャスティン・ロブレスキーが各1イニングを無失点に抑えると、二回2死からヒット2本と死球で満塁のチャンスを作り、トミー・エドマンとムーキー・ベッツが2者連続で押し出し四球を選んで2点を先制。さらにフレディ・フリーマンの2点タイムリーが飛び出し、4-0とリードした。 三回を3番手のブレイク・トライネンが無失点に抑え、四回は佐々木が登板。ジャクソン・メリルをセンターフライ、オースティン・ヘイズを空振り三振に仕留め、簡単に2死を取ったあと、連打で一、二塁のピンチとなったが、ジェイク・クロネンワースを見逃し三振に仕留め、無失点で切り抜けた。 その直後、ドジャースは2死からベッツが二塁打を放ってチャンスメイクし、フリーマンのタイムリーで1点を追加。五回は5番手のエドウィン・ディアスが三者凡退に抑える好リリーフを見せ、六回は6番手のカイル・ハートが無失点に抑えた。 すると、六回2死からトミー・エドマンの8号ソロで1点を追加。ハートは回跨ぎで七回も無失点に抑え、直後にウィル・スミスにも10号ソロが飛び出して7-0とリードを広げた。 八回は7番手のアレックス・ベシアがマウンドに上がり、2死から四球を与えたものの、メリルを空振り三振に仕留めて無失点。九回は8番手のジャック・ドライヤーが三者凡退に抑える好リリーフを見せ、8人の投手による完封リレーを締めくくった。 勝利したドジャースは最高勝率ブルワーズまで1ゲーム差に接近。ただし、ブルワーズとの直接対決で負け越しているため、第1シードでポストシーズンに進むためにはブルワーズを勝率で上回る必要がある。",
+    "rss_title": "【MLB】ドジャース快勝で5連勝 最高勝率ブルワーズと1ゲーム差に 復帰の佐々木朗希は1回無失点（MLB公式日本語サイト） - Yahoo!ニュース",
+    "rss_body": "【パドレス0-7ドジャース】ロサンゼルス／ドジャースタジアム、9月22日（日本時間23日）\nすでに地区優勝とポストシーズン進出を決めているドジャースは本拠地でのパドレス3連戦がスタート。その初戦はブルペンゲームの投手陣を打線がしっかり援護し、7-0で快勝して5連勝となった。メジャー最高勝率のブルワーズが敗れたため、ドジャースはブルワーズまで1ゲーム差に接近。負傷者リストから復帰した佐々木朗希は4番手として四回に登板し、2安打を浴びながらも1イニングを無失点に抑えた（防御率4.56）。 ドジャースは先発のブロック・スチュワートと2番手のジャスティン・ロブレスキーが各1イニングを無失点に抑えると、二回2死からヒット2本と死球で満塁のチャンスを作り、トミー・エドマンとムーキー・ベッツが2者連続で押し出し四球を選んで2点を先制。さらにフレディ・フリーマンの2点タイムリーが飛び出し、4-0とリードした。 三回を3番手のブレイク・トライネンが無失点に抑え、四回は佐々木が登板。ジャクソン・メリルをセンターフライ、オースティン・ヘイズを空振り三振に仕留め、簡単に2死を取ったあと、連打で一、二塁のピンチとなったが、ジェイク・クロネンワースを見逃し三振に仕留め、無失点で切り抜けた。 その直後、ドジャースは2死からベッツが二塁打を放ってチャンスメイクし、フリーマンのタイムリーで1点を追加。五回は5番手のエドウィン・ディアスが三者凡退に抑える好リリーフを見せ、六回は6番手のカイル・ハートが無失点に抑えた。 すると、六回2死からトミー・エドマンの8号ソロで1点を追加。ハートは回跨ぎで七回も無失点に抑え、直後にウィル・スミスにも10号ソロが飛び出して7-0とリードを広げた。 八回は7番手のアレックス・ベシアがマウンドに上がり、2死から四球を与えたものの、メリルを空振り三振に仕留めて無失点。九回は8番手のジャック・ドライヤーが三者凡退に抑える好リリーフを見せ、8人の投手による完封リレーを締めくくった。 勝利したドジャースは最高勝率ブルワーズまで1ゲーム差に接近。ただし、ブルワーズとの直接対決で負け越しているため、第1シードでポストシーズンに進むためにはブルワーズを勝率で上回る必要がある。",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "81e5cf5f8efd7fc39ce3",
+    "title": "Dalton Rushing Faces Dodgers Postseason Roster Battle",
+    "source": "DodgersBeat",
+    "author": "Los Royers",
+    "url": "https://dodgersbeat.com/dodgers-weigh-dalton-rushing-josue-de-paula-for-postseason-bench/",
+    "published_iso": "2026-09-23T04:48:08+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 04:48:08 +0000",
+    "body": "LOS ANGELES, CA — Dalton Rushing may have only three regular-season games to convince the Los Angeles Dodgers that he should be their left-handed bat off the bench in October.\nManager Dave Roberts acknowledged Tuesday that Rushing’s missed time creates a difficult path as the Dodgers compare him with top prospect Josue De Paula for a potential postseason bench role. De Paula’s recent run of consistent at-bats gives him an important advantage entering the final week.\n“It’s going to be tougher for Dalton, given the time that he’s missed,” Roberts said. “To think that you have three games to get back into playoff form—which is tough to do.”\nRushing has resumed taking at-bats as he works back from the right elbow discomfort that sent him to the injured list earlier this month. Roberts said the Dodgers hope to activate him at some point during the final series of the regular season, giving the club a brief opportunity to evaluate how he looks as a pinch-hitting option.\nWhat the Dodgers will evaluate\nThe Dodgers are looking beyond raw results as they decide which left-handed hitter gives them the better postseason option. Roberts said the evaluation will focus on the quality and structure of each plate appearance.\n“Quality of at-bat, conducting an at-bat, obviously the ability to swing at strikes, take balls, get on base, get a hit,” Roberts said. “There’s potential slug with both those guys.”\nProducing off the bench presents a different challenge from playing every day. A postseason reserve might receive one plate appearance against a premium reliever and be expected to control the strike zone without the benefit of several earlier at-bats.\nThat makes recent game action especially important. De Paula has remained active since making the jump from Double-A to the Dodgers, while Rushing must attempt to recover his timing immediately after another interruption to his season.\n“It’s not, again, a knock on him,” Roberts said of Rushing. “He’s been great for us, but it’s still tough, right, given also where you’re talking about having the consistency of at-bats recently from Josue.”\nNo postseason roster decision yet\nRoberts did not declare De Paula the winner of the roster competition. He called the comparison “a good debate” and said the Dodgers still need to discuss which hitter gives them the best chance in a limited bench role.\nRushing’s immediate path is expected to come as a hitter rather than a catcher. If he is activated for the final three games, every plate appearance could carry added weight as the Dodgers finalize their postseason roster.\nDe Paula has already impressed the organization during his first major-league opportunity. Rushing, however, offers his own combination of strike-zone control and power. The final decision could come down to whether three games provide enough evidence that his timing has returned.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!",
+    "tracked_people": [
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dalton Rushing Faces Dodgers Postseason Roster Battle",
+    "original_body": "LOS ANGELES, CA — Dalton Rushing may have only three regular-season games to convince the Los Angeles Dodgers that he should be their left-handed bat off the bench in October.\nManager Dave Roberts acknowledged Tuesday that Rushing’s missed time creates a difficult path as the Dodgers compare him with top prospect Josue De Paula for a potential postseason bench role. De Paula’s recent run of consistent at-bats gives him an important advantage entering the final week.\n“It’s going to be tougher for Dalton, given the time that he’s missed,” Roberts said. “To think that you have three games to get back into playoff form—which is tough to do.”\nRushing has resumed taking at-bats as he works back from the right elbow discomfort that sent him to the injured list earlier this month. Roberts said the Dodgers hope to activate him at some point during the final series of the regular season, giving the club a brief opportunity to evaluate how he looks as a pinch-hitting option.\nWhat the Dodgers will evaluate\nThe Dodgers are looking beyond raw results as they decide which left-handed hitter gives them the better postseason option. Roberts said the evaluation will focus on the quality and structure of each plate appearance.\n“Quality of at-bat, conducting an at-bat, obviously the ability to swing at strikes, take balls, get on base, get a hit,” Roberts said. “There’s potential slug with both those guys.”\nProducing off the bench presents a different challenge from playing every day. A postseason reserve might receive one plate appearance against a premium reliever and be expected to control the strike zone without the benefit of several earlier at-bats.\nThat makes recent game action especially important. De Paula has remained active since making the jump from Double-A to the Dodgers, while Rushing must attempt to recover his timing immediately after another interruption to his season.\n“It’s not, again, a knock on him,” Roberts said of Rushing. “He’s been great for us, but it’s still tough, right, given also where you’re talking about having the consistency of at-bats recently from Josue.”\nNo postseason roster decision yet\nRoberts did not declare De Paula the winner of the roster competition. He called the comparison “a good debate” and said the Dodgers still need to discuss which hitter gives them the best chance in a limited bench role.\nRushing’s immediate path is expected to come as a hitter rather than a catcher. If he is activated for the final three games, every plate appearance could carry added weight as the Dodgers finalize their postseason roster.\nDe Paula has already impressed the organization during his first major-league opportunity. Rushing, however, offers his own combination of strike-zone control and power. The final decision could come down to whether three games provide enough evidence that his timing has returned.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!",
+    "rss_title": "Dalton Rushing Faces Dodgers Postseason Roster Battle",
+    "rss_body": "LOS ANGELES, CA — Dalton Rushing may have only three regular-season games to convince the Los Angeles Dodgers that he should be their left-handed bat off the bench in October.\nManager Dave Roberts acknowledged Tuesday that Rushing’s missed time creates a difficult path as the Dodgers compare him with top prospect Josue De Paula for a potential postseason bench role. De Paula’s recent run of consistent at-bats gives him an important advantage entering the final week.\n“It’s going to be tougher for Dalton, given the time that he’s missed,” Roberts said. “To think that you have three games to get back into playoff form—which is tough to do.”\nRushing has resumed taking at-bats as he works back from the right elbow discomfort that sent him to the injured list earlier this month. Roberts said the Dodgers hope to activate him at some point during the final series of the regular season, giving the club a brief opportunity to evaluate how he looks as a pinch-hitting option.\nWhat the Dodgers will evaluate\nThe Dodgers are looking beyond raw results as they decide which left-handed hitter gives them the better postseason option. Roberts said the evaluation will focus on the quality and structure of each plate appearance.\n“Quality of at-bat, conducting an at-bat, obviously the ability to swing at strikes, take balls, get on base, get a hit,” Roberts said. “There’s potential slug with both those guys.”\nProducing off the bench presents a different challenge from playing every day. A postseason reserve might receive one plate appearance against a premium reliever and be expected to control the strike zone without the benefit of several earlier at-bats.\nThat makes recent game action especially important. De Paula has remained active since making the jump from Double-A to the Dodgers, while Rushing must attempt to recover his timing immediately after another interruption to his season.\n“It’s not, again, a knock on him,” Roberts said of Rushing. “He’s been great for us, but it’s still tough, right, given also where you’re talking about having the consistency of at-bats recently from Josue.”\nNo postseason roster decision yet\nRoberts did not declare De Paula the winner of the roster competition. He called the comparison “a good debate” and said the Dodgers still need to discuss which hitter gives them the best chance in a limited bench role.\nRushing’s immediate path is expected to come as a hitter rather than a catcher. If he is activated for the final three games, every plate appearance could carry added weight as the Dodgers finalize their postseason roster.\nDe Paula has already impressed the organization during his first major-league opportunity. Rushing, however, offers his own combination of strike-zone control and power. The final decision could come down to whether three games provide enough evidence that his timing has returned.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!",
     "translation_status": "fallback_original"
   },
   {
@@ -87,7 +357,246 @@
     "original_body": "LOS ÁNGELES (AP) — Se espera que Shohei Ohtani vuelva a la alineación de los Dodgers de Los Ángeles el miércoles tras una etapa en la lista de lesionados.\nLa superestrella ha estado en la lista de lesionados desde el 9 de septiembre debido a una inflamación en el bíceps derecho y a un dolor persistente en la rodilla izquierda.\nEl mánager Dave Roberts comentó que Ohtani se siente “considerablemente” mejor.\n“Yo diría que si estaba en un cinco, ahora probablemente está en un ocho o un nueve”, manifestó Roberts el martes antes de que los Dodgers enfrentaran a San Diego.\nLos Dodgers aseguraron su 13er título del Oeste de la Liga Nacional en 14 años sin Ohtani, quien estaba en Los Ángeles recibiendo tratamiento cuando el equipo venció a Cincinnati como visitante la semana pasada. Ahora, el cuatro veces MVP tendrá cinco juegos restantes para tomar algunos turnos al bate antes de que comience la postemporada.\nEs probable que Ohtani retome su papel como primer bate de los Dodgers, especialmente contra lanzadores derechos. Mookie Betts ha estado encabezando la alineación y batea para .373 este mes.\n“Probablemente así es como va a quedar, pero todavía no lo he decidido del todo”, señaló Roberts, y añadió que consideraría el valor de Betts como primer bate contra lanzadores zurdos. “Tengo que pensar en toda la estructura de la alineación”.\n___",
     "rss_title": "Ohtani listo para volver el miércoles con los Dodgers tras pasar tiempo en la lista de lesionados",
     "rss_body": "LOS ÁNGELES (AP) — Se espera que Shohei Ohtani vuelva a la alineación de los Dodgers de Los Ángeles el miércoles tras una etapa en la lista de lesionados.\nLa superestrella ha estado en la lista de lesionados desde el 9 de septiembre debido a una inflamación en el bíceps derecho y a un dolor persistente en la rodilla izquierda.\nEl mánager Dave Roberts comentó que Ohtani se siente “considerablemente” mejor.\n“Yo diría que si estaba en un cinco, ahora probablemente está en un ocho o un nueve”, manifestó Roberts el martes antes de que los Dodgers enfrentaran a San Diego.\nLos Dodgers aseguraron su 13er título del Oeste de la Liga Nacional en 14 años sin Ohtani, quien estaba en Los Ángeles recibiendo tratamiento cuando el equipo venció a Cincinnati como visitante la semana pasada. Ahora, el cuatro veces MVP tendrá cinco juegos restantes para tomar algunos turnos al bate antes de que comience la postemporada.\nEs probable que Ohtani retome su papel como primer bate de los Dodgers, especialmente contra lanzadores derechos. Mookie Betts ha estado encabezando la alineación y batea para .373 este mes.\n“Probablemente así es como va a quedar, pero todavía no lo he decidido del todo”, señaló Roberts, y añadió que consideraría el valor de Betts como primer bate contra lanzadores zurdos. “Tengo que pensar en toda la estructura de la alineación”.\n___",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "MILENIO",
+        "url": "https://www.milenio.com/deportes/beisbol/shohei-ohtani-listo-para-regresar-con-dodgers-tras-lesionarse",
+        "title": "Ohtani, listo para regresar con Los Angeles Dodgers tras su lesión",
+        "body_characters": 1338
+      }
+    ]
+  },
+  {
+    "id": "55c41e760cc6229e6f97",
+    "title": "Ohtani 'considerably' healthier, expected back in Dodgers' lineup Wednesday",
+    "source": "tsn.ca",
+    "author": "Alden Gonzalez",
+    "url": "https://www.tsn.ca/mlb/article/ohtani-considerably-healthier-expected-back-in-dodgers-lineup-wednesday-n1-50010114/",
+    "published_iso": "2026-09-23T04:15:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 04:15:00 +0000",
+    "body": "LOS ANGELES -- Shohei Ohtani is expected to return to the lineup Wednesday, the first day he is eligible to be activated off the injured list, and Los Angeles Dodgers manager Dave Roberts says he looks \"considerably\" healthier than he did a couple of weeks ago.\n\"If he was a five, he's probably an eight or a nine right now,\" Roberts said, referencing a 1-to-10 scale.\nThe Dodgers activated right-hander Roki Sasaki and center fielder Andy Pages off the IL on Tuesday, a major development in the leadup to October.\nSasaki, who has been recovering from a blister suffered in an Aug. 26 start, was available out of the bullpen for Tuesday's series opener against the San Diego Padres and could be an option to again close out games in the postseason. Pages, who fractured his left hand on Aug. 22, will reprise his role as an everyday player at a premium position.\nOhtani landed on the IL because of lingering pain in his right biceps and left knee on Sept. 8 but began a hitting progression seven days ago and advanced to taking as many as 40 swings off Trajekt, the popular pitching simulator, on Saturday. Ohtani also ran the bases that day. On Tuesday, he went through his typical pregame workout.\nOhtani, 32, will only hit the rest of this season and was struggling in that realm before landing on the IL, compiling only seven hits and 22 strikeouts over his past 54 at-bats. Roberts previously indicated the plan was for Ohtani to play in all of the Dodgers' remaining five regular-season games to get reacclimated to major league pitching.\nWhere he hits, though, is up for debate. In all likelihood, Ohtani will continue to lead off against opposing right-handed pitchers. But Mookie Betts' recent hot streak -- heading into this week, he was hitting.373/.468/.746 in September -- has Roberts weighing the possibility of batting him leadoff against lefties.\nWhat Ohtani's return means for outfield prospect Josue De Paula is also an open question.\nDe Paula, 21, has eight hits and 10 walks in 38 plate appearances since temporarily replacing Ohtani at designated hitter. The Dodgers are strongly considering him as an option to be a left-handed bat off the bench during the postseason, though they might send him down as the corresponding move for activating Ohtani to give him at-bats in this week's Triple-A championship series.\nThe other candidate would be backup catcher Dalton Rushing, who has an elbow injury that is preventing him from throwing. Rushing is expected to be activated at some point in the next three days, but Roberts acknowledged it would be difficult for him to be thrust into a pinch-hitting role in October after playing in only four games since the start of September.\n\"There's potential slug with both those guys,\" Roberts said. \"It's going to be a good debate.\"",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "Canada",
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Ohtani 'considerably' healthier, expected back in Dodgers' lineup Wednesday",
+    "original_body": "LOS ANGELES -- Shohei Ohtani is expected to return to the lineup Wednesday, the first day he is eligible to be activated off the injured list, and Los Angeles Dodgers manager Dave Roberts says he looks \"considerably\" healthier than he did a couple of weeks ago.\n\"If he was a five, he's probably an eight or a nine right now,\" Roberts said, referencing a 1-to-10 scale.\nThe Dodgers activated right-hander Roki Sasaki and center fielder Andy Pages off the IL on Tuesday, a major development in the leadup to October.\nSasaki, who has been recovering from a blister suffered in an Aug. 26 start, was available out of the bullpen for Tuesday's series opener against the San Diego Padres and could be an option to again close out games in the postseason. Pages, who fractured his left hand on Aug. 22, will reprise his role as an everyday player at a premium position.\nOhtani landed on the IL because of lingering pain in his right biceps and left knee on Sept. 8 but began a hitting progression seven days ago and advanced to taking as many as 40 swings off Trajekt, the popular pitching simulator, on Saturday. Ohtani also ran the bases that day. On Tuesday, he went through his typical pregame workout.\nOhtani, 32, will only hit the rest of this season and was struggling in that realm before landing on the IL, compiling only seven hits and 22 strikeouts over his past 54 at-bats. Roberts previously indicated the plan was for Ohtani to play in all of the Dodgers' remaining five regular-season games to get reacclimated to major league pitching.\nWhere he hits, though, is up for debate. In all likelihood, Ohtani will continue to lead off against opposing right-handed pitchers. But Mookie Betts' recent hot streak -- heading into this week, he was hitting.373/.468/.746 in September -- has Roberts weighing the possibility of batting him leadoff against lefties.\nWhat Ohtani's return means for outfield prospect Josue De Paula is also an open question.\nDe Paula, 21, has eight hits and 10 walks in 38 plate appearances since temporarily replacing Ohtani at designated hitter. The Dodgers are strongly considering him as an option to be a left-handed bat off the bench during the postseason, though they might send him down as the corresponding move for activating Ohtani to give him at-bats in this week's Triple-A championship series.\nThe other candidate would be backup catcher Dalton Rushing, who has an elbow injury that is preventing him from throwing. Rushing is expected to be activated at some point in the next three days, but Roberts acknowledged it would be difficult for him to be thrust into a pinch-hitting role in October after playing in only four games since the start of September.\n\"There's potential slug with both those guys,\" Roberts said. \"It's going to be a good debate.\"",
+    "rss_title": "Ohtani 'considerably' healthier, expected back in Dodgers' lineup Wednesday",
+    "rss_body": "LOS ANGELES -- Shohei Ohtani is expected to return to the lineup Wednesday, the first day he is eligible to be activated off the injured list, and Los Angeles Dodgers manager Dave Roberts says he looks \"considerably\" healthier than he did a couple of weeks ago.\n\"If he was a five, he's probably an eight or a nine right now,\" Roberts said, referencing a 1-to-10 scale.\nThe Dodgers activated right-hander Roki Sasaki and center fielder Andy Pages off the IL on Tuesday, a major development in the leadup to October.\nSasaki, who has been recovering from a blister suffered in an Aug. 26 start, was available out of the bullpen for Tuesday's series opener against the San Diego Padres and could be an option to again close out games in the postseason. Pages, who fractured his left hand on Aug. 22, will reprise his role as an everyday player at a premium position.\nOhtani landed on the IL because of lingering pain in his right biceps and left knee on Sept. 8 but began a hitting progression seven days ago and advanced to taking as many as 40 swings off Trajekt, the popular pitching simulator, on Saturday. Ohtani also ran the bases that day. On Tuesday, he went through his typical pregame workout.\nOhtani, 32, will only hit the rest of this season and was struggling in that realm before landing on the IL, compiling only seven hits and 22 strikeouts over his past 54 at-bats. Roberts previously indicated the plan was for Ohtani to play in all of the Dodgers' remaining five regular-season games to get reacclimated to major league pitching.\nWhere he hits, though, is up for debate. In all likelihood, Ohtani will continue to lead off against opposing right-handed pitchers. But Mookie Betts' recent hot streak -- heading into this week, he was hitting.373/.468/.746 in September -- has Roberts weighing the possibility of batting him leadoff against lefties.\nWhat Ohtani's return means for outfield prospect Josue De Paula is also an open question.\nDe Paula, 21, has eight hits and 10 walks in 38 plate appearances since temporarily replacing Ohtani at designated hitter. The Dodgers are strongly considering him as an option to be a left-handed bat off the bench during the postseason, though they might send him down as the corresponding move for activating Ohtani to give him at-bats in this week's Triple-A championship series.\nThe other candidate would be backup catcher Dalton Rushing, who has an elbow injury that is preventing him from throwing. Rushing is expected to be activated at some point in the next three days, but Roberts acknowledged it would be difficult for him to be thrust into a pinch-hitting role in October after playing in only four games since the start of September.\n\"There's potential slug with both those guys,\" Roberts said. \"It's going to be a good debate.\"",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "thegamenashville.com",
+        "url": "https://www.thegamenashville.com/2026/09/22/ohtani-considerably-healthier-expected-back-in-dodgers-lineup-wednesday/",
+        "title": "Ohtani ‘considerably’ healthier, expected back in Dodgers’ lineup Wednesday",
+        "body_characters": 314
+      }
+    ]
+  },
+  {
+    "id": "b7f5338cb499593f4f05",
+    "title": "Miguel Rojas voted Dodgers Roy Campanella Award winner again",
+    "source": "Yahoo Sports",
+    "author": "Eric Stephen",
+    "url": "https://sports.yahoo.com/articles/miguel-rojas-voted-dodgers-roy-035847692.html",
+    "published_iso": "2026-09-23T03:58:47+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 03:58:47 +0000",
+    "body": "LOS ANGELES — Veteran infielder Miguel Rojas was voted by his Dodgers teammates and coaching staff as the 2026 winner of the Roy Campanella Award, given annually to the Dodgers player who best embodies the leadership and spirit of the Hall of Fame catcher. Rojas also won the award in 2024 and 2025, making him the first player to win the Campanella Award in three straight seasons.\nIn the 21-year history of the award, Justin Turner is the only other player to win the Campanella Award three times, taking the honor in 2017, 2019, and 2020. Clayton Kershaw (2013-14) and Chase Utley (2016, 2018) are the only other Dodgers to win the award twice.\nThe 37-year-old Rojas was the first Dodgers player to speak ahead of the clubhouse celebration last Thursday in Cincinnati when the Dodgers clinched the National League West.\nThe longtime shortstop Rojas has started games at second base, shortstop, and third base this season, and even played three innings at first base. He's hitting .271/.311/.399 with a 93 wRC+ in his 101 games and 243 plate appearances, including a robust .297/.340/.476 with a 122 wRC+ against left-handed pitchers.\nThe Dodgers traded for Rojas prior to the 2023 season, and he has mentored young players and filled in all over the infield for the last four seasons. Rojas cemented his place in Dodgers lore with his game-tying home run in the ninth inning of Game 7 of the 2025 World Series at Toronto.\nRojas signed a one-year, $5.5 million contract in December to return for his 13th and final season, and plans to join the Dodgers front office afterward, with a focus on player development. Rojas has long stated his desire to get into coaching once his playing days are over.\n\"Nobody when I came to this organization asked me, 'Hey we want you to be a leader' or 'We want you to be a mentor.' It's just who I want to be and who I want to be for the future,\" Rojas told True Blue LA in 2024. \"After my career is over, I'm trying to stay on the field, to stay coaching, and I want to be a part of an organization that wants to win.\"\nRojas will receive his 2026 Roy Campanella Award before Thursday night's series finale against the Padres, with Campanella's daughter, Joni Campanella Roan, and his granddaughter, Akua Campanella presenting Rojas with the award on the field at Dodger Stadium.",
+    "tracked_people": [
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Miguel Rojas voted Dodgers Roy Campanella Award winner again",
+    "original_body": "LOS ANGELES — Veteran infielder Miguel Rojas was voted by his Dodgers teammates and coaching staff as the 2026 winner of the Roy Campanella Award, given annually to the Dodgers player who best embodies the leadership and spirit of the Hall of Fame catcher. Rojas also won the award in 2024 and 2025, making him the first player to win the Campanella Award in three straight seasons.\nIn the 21-year history of the award, Justin Turner is the only other player to win the Campanella Award three times, taking the honor in 2017, 2019, and 2020. Clayton Kershaw (2013-14) and Chase Utley (2016, 2018) are the only other Dodgers to win the award twice.\nThe 37-year-old Rojas was the first Dodgers player to speak ahead of the clubhouse celebration last Thursday in Cincinnati when the Dodgers clinched the National League West.\nThe longtime shortstop Rojas has started games at second base, shortstop, and third base this season, and even played three innings at first base. He's hitting .271/.311/.399 with a 93 wRC+ in his 101 games and 243 plate appearances, including a robust .297/.340/.476 with a 122 wRC+ against left-handed pitchers.\nThe Dodgers traded for Rojas prior to the 2023 season, and he has mentored young players and filled in all over the infield for the last four seasons. Rojas cemented his place in Dodgers lore with his game-tying home run in the ninth inning of Game 7 of the 2025 World Series at Toronto.\nRojas signed a one-year, $5.5 million contract in December to return for his 13th and final season, and plans to join the Dodgers front office afterward, with a focus on player development. Rojas has long stated his desire to get into coaching once his playing days are over.\n\"Nobody when I came to this organization asked me, 'Hey we want you to be a leader' or 'We want you to be a mentor.' It's just who I want to be and who I want to be for the future,\" Rojas told True Blue LA in 2024. \"After my career is over, I'm trying to stay on the field, to stay coaching, and I want to be a part of an organization that wants to win.\"\nRojas will receive his 2026 Roy Campanella Award before Thursday night's series finale against the Padres, with Campanella's daughter, Joni Campanella Roan, and his granddaughter, Akua Campanella presenting Rojas with the award on the field at Dodger Stadium.",
+    "rss_title": "Miguel Rojas voted Dodgers Roy Campanella Award winner again",
+    "rss_body": "LOS ANGELES — Veteran infielder Miguel Rojas was voted by his Dodgers teammates and coaching staff as the 2026 winner of the Roy Campanella Award, given annually to the Dodgers player who best embodies the leadership and spirit of the Hall of Fame catcher. Rojas also won the award in 2024 and 2025, making him the first player to win the Campanella Award in three straight seasons.\nIn the 21-year history of the award, Justin Turner is the only other player to win the Campanella Award three times, taking the honor in 2017, 2019, and 2020. Clayton Kershaw (2013-14) and Chase Utley (2016, 2018) are the only other Dodgers to win the award twice.\nThe 37-year-old Rojas was the first Dodgers player to speak ahead of the clubhouse celebration last Thursday in Cincinnati when the Dodgers clinched the National League West.\nThe longtime shortstop Rojas has started games at second base, shortstop, and third base this season, and even played three innings at first base. He's hitting .271/.311/.399 with a 93 wRC+ in his 101 games and 243 plate appearances, including a robust .297/.340/.476 with a 122 wRC+ against left-handed pitchers.\nThe Dodgers traded for Rojas prior to the 2023 season, and he has mentored young players and filled in all over the infield for the last four seasons. Rojas cemented his place in Dodgers lore with his game-tying home run in the ninth inning of Game 7 of the 2025 World Series at Toronto.\nRojas signed a one-year, $5.5 million contract in December to return for his 13th and final season, and plans to join the Dodgers front office afterward, with a focus on player development. Rojas has long stated his desire to get into coaching once his playing days are over.\n\"Nobody when I came to this organization asked me, 'Hey we want you to be a leader' or 'We want you to be a mentor.' It's just who I want to be and who I want to be for the future,\" Rojas told True Blue LA in 2024. \"After my career is over, I'm trying to stay on the field, to stay coaching, and I want to be a part of an organization that wants to win.\"\nRojas will receive his 2026 Roy Campanella Award before Thursday night's series finale against the Padres, with Campanella's daughter, Joni Campanella Roan, and his granddaughter, Akua Campanella presenting Rojas with the award on the field at Dodger Stadium.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "6bb0be3c07ff5093666c",
+    "title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
+    "source": "truebluela.com",
+    "author": "Eric Stephen",
+    "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/125112/blake-snell-dalton-rushing-will-klein",
+    "published_iso": "2026-09-23T03:45:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 03:45:00 +0000",
+    "body": "LOS ANGELES — It’s the final week of the regular season and the Dodgers are sorting things out as they prepare for the postseason, which they hope will start on October 3 in the National League Division Series rather than September 29 in the wild card round.\nBefore Tuesday’s game, Blake Snell pitched a bullpen session at Dodger Stadium as he works his way back from leaving last Wednesday’s start with left groin discomfort. Manager Dave Roberts said Snell is in line to start on Saturday in San Francisco against the Giants, with Tarik Skubal — currently on the bereavement list — starting Friday night at Oracle Park.\nYoshinobu Yamamoto starts Wednesday and Tyler Glasnow Thursday against the Padres.\nAlso on Tuesday, reliever Will Klein pitched a simulated inning against Dalton Rushing in a battle of players on the injured list. Klein is on the 60-day injured list with elbow discomfort and not eligible to be activated until September 30 at the earliest, but it looks like he’ll be in the stay-hot camp should the Dodgers have room to add him at some point later in the postseason, similar to in 2025 when Klein wasn’t active until the World Series and he pitched five scoreless innings, including four innings in the marathon Game 3.\n“With Will it’s more get healthy, show that you’re healthy, throw to some hitters,” Roberts said. “He’ll throw during the week off, then we’ll kind of see if there’s an opportunity later on in the postseason, sort of like last year.”\nRushing is trying to work his way back from elbow discomfort suffered when practicing throwing. His role would be a left-handed bat off the bench, a role currently occupied by Josue De Paula, who has been the designated hitter with Shohei Ohtani out. But Ohtani is expected to be activated Wednesday barring an unforeseen setback.\nThat essentially sets up a battle between Rushing and De Paula for a postseason roster spot, though Roberts said the plan is to activate Rushing at some point this week to literally get back into the swing of things.\n“Quality of at-bat, conducting an at-bat obviously, the ability to swing at strikes, take balls, get on base, get a hit. There’s potential slug with both guys. I think it’s a good debate,” Roberts said. “Hitting off the bench is very difficult so we’re trying to figure out who gives us the best chance.\n“And to be quite frank, it’s going to be tougher for Dalton given the time he’s missed, and to think that you have [three] games to get back into playoff form, it’s tough to do. It’s not a knock on him, he’s been great for us, but it’s still tough, right, Given that we talk about having the consistency of at-bats recently from Josue. But we have to have those conversations and make a decision.”\nActivating both Ohtani and Rushing this week, when the Dodgers have 14 active position players, would require two corresponding moves to make room on the active roster. If De Paula doesn’t get sent down — “I think Josue has done a fantastic job,” Roberts said Tuesday — that might mean rough news for Alexes Call and Freeland, either this week or next.",
+    "tracked_people": [
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Will Klein",
+        "role": "Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 28,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
+    "original_body": "LOS ANGELES — It’s the final week of the regular season and the Dodgers are sorting things out as they prepare for the postseason, which they hope will start on October 3 in the National League Division Series rather than September 29 in the wild card round.\nBefore Tuesday’s game, Blake Snell pitched a bullpen session at Dodger Stadium as he works his way back from leaving last Wednesday’s start with left groin discomfort. Manager Dave Roberts said Snell is in line to start on Saturday in San Francisco against the Giants, with Tarik Skubal — currently on the bereavement list — starting Friday night at Oracle Park.\nYoshinobu Yamamoto starts Wednesday and Tyler Glasnow Thursday against the Padres.\nAlso on Tuesday, reliever Will Klein pitched a simulated inning against Dalton Rushing in a battle of players on the injured list. Klein is on the 60-day injured list with elbow discomfort and not eligible to be activated until September 30 at the earliest, but it looks like he’ll be in the stay-hot camp should the Dodgers have room to add him at some point later in the postseason, similar to in 2025 when Klein wasn’t active until the World Series and he pitched five scoreless innings, including four innings in the marathon Game 3.\n“With Will it’s more get healthy, show that you’re healthy, throw to some hitters,” Roberts said. “He’ll throw during the week off, then we’ll kind of see if there’s an opportunity later on in the postseason, sort of like last year.”\nRushing is trying to work his way back from elbow discomfort suffered when practicing throwing. His role would be a left-handed bat off the bench, a role currently occupied by Josue De Paula, who has been the designated hitter with Shohei Ohtani out. But Ohtani is expected to be activated Wednesday barring an unforeseen setback.\nThat essentially sets up a battle between Rushing and De Paula for a postseason roster spot, though Roberts said the plan is to activate Rushing at some point this week to literally get back into the swing of things.\n“Quality of at-bat, conducting an at-bat obviously, the ability to swing at strikes, take balls, get on base, get a hit. There’s potential slug with both guys. I think it’s a good debate,” Roberts said. “Hitting off the bench is very difficult so we’re trying to figure out who gives us the best chance.\n“And to be quite frank, it’s going to be tougher for Dalton given the time he’s missed, and to think that you have [three] games to get back into playoff form, it’s tough to do. It’s not a knock on him, he’s been great for us, but it’s still tough, right, Given that we talk about having the consistency of at-bats recently from Josue. But we have to have those conversations and make a decision.”\nActivating both Ohtani and Rushing this week, when the Dodgers have 14 active position players, would require two corresponding moves to make room on the active roster. If De Paula doesn’t get sent down — “I think Josue has done a fantastic job,” Roberts said Tuesday — that might mean rough news for Alexes Call and Freeland, either this week or next.",
+    "rss_title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
+    "rss_body": "LOS ANGELES — It’s the final week of the regular season and the Dodgers are sorting things out as they prepare for the postseason, which they hope will start on October 3 in the National League Division Series rather than September 29 in the wild card round.\nBefore Tuesday’s game, Blake Snell pitched a bullpen session at Dodger Stadium as he works his way back from leaving last Wednesday’s start with left groin discomfort. Manager Dave Roberts said Snell is in line to start on Saturday in San Francisco against the Giants, with Tarik Skubal — currently on the bereavement list — starting Friday night at Oracle Park.\nYoshinobu Yamamoto starts Wednesday and Tyler Glasnow Thursday against the Padres.\nAlso on Tuesday, reliever Will Klein pitched a simulated inning against Dalton Rushing in a battle of players on the injured list. Klein is on the 60-day injured list with elbow discomfort and not eligible to be activated until September 30 at the earliest, but it looks like he’ll be in the stay-hot camp should the Dodgers have room to add him at some point later in the postseason, similar to in 2025 when Klein wasn’t active until the World Series and he pitched five scoreless innings, including four innings in the marathon Game 3.\n“With Will it’s more get healthy, show that you’re healthy, throw to some hitters,” Roberts said. “He’ll throw during the week off, then we’ll kind of see if there’s an opportunity later on in the postseason, sort of like last year.”\nRushing is trying to work his way back from elbow discomfort suffered when practicing throwing. His role would be a left-handed bat off the bench, a role currently occupied by Josue De Paula, who has been the designated hitter with Shohei Ohtani out. But Ohtani is expected to be activated Wednesday barring an unforeseen setback.\nThat essentially sets up a battle between Rushing and De Paula for a postseason roster spot, though Roberts said the plan is to activate Rushing at some point this week to literally get back into the swing of things.\n“Quality of at-bat, conducting an at-bat obviously, the ability to swing at strikes, take balls, get on base, get a hit. There’s potential slug with both guys. I think it’s a good debate,” Roberts said. “Hitting off the bench is very difficult so we’re trying to figure out who gives us the best chance.\n“And to be quite frank, it’s going to be tougher for Dalton given the time he’s missed, and to think that you have [three] games to get back into playoff form, it’s tough to do. It’s not a knock on him, he’s been great for us, but it’s still tough, right, Given that we talk about having the consistency of at-bats recently from Josue. But we have to have those conversations and make a decision.”\nActivating both Ohtani and Rushing this week, when the Dodgers have 14 active position players, would require two corresponding moves to make room on the active roster. If De Paula doesn’t get sent down — “I think Josue has done a fantastic job,” Roberts said Tuesday — that might mean rough news for Alexes Call and Freeland, either this week or next.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/dodgers-notes-blake-snell-dalton-011959550.html",
+        "title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
+        "body_characters": 3079
+      }
+    ]
   },
   {
     "id": "08347aba6a74d3219210",
@@ -730,110 +1239,6 @@
     "rss_title": "Tyler Glasnow reveals ‘most likely’ usage plan for playoffs as Dodgers 3-peat quest kicks into gear",
     "rss_body": "The Dodgers have Tarik Skubal, Yoshinobu Yamamoto and Blake Snell in the starting rotation.\nBut where will Tyler Glasnow fit in the team’s postseason plans?\n“If it is the wild-card series, I probably wouldn’t start in one of those games. So, I’d probably be in the bullpen. And then the first series last year, we had four starters ,so I might be in that one,” Glasnow told Chris Rose.\n“So I think it’s just going to be like a all-hands-on-deck situation, which I prefer.”\nGlasnow played a versatile role for the Dodgers last October, sporting a 1.69 ERA in the postseason. He will likely be another multifaceted pitcher for the Dodgers in the playoffs.\nSince his arrival to LA, the right-hander has never made it through a regular season without injury. While the 2026 season was no different, Glasnow is coming off a bounce-back start just before the regular season concludes.\nThe right-hander tossed six innings of two-run baseball with 10 strikeouts. It was a much improved performance from his previous start in Miami, where Glasnow allowed four earned runs in four innings.\nWith Shohei Ohtani’s absence in the rotation, Glasnow’s health is even more crucial heading into October. It appears the right-hander is feeling good and prepared to take on any role the Dodgers ask of him in the postseason.\n“I think I feel relatively consistent. It’s just a matter of sometimes I’m not going to feel good, sometimes I will,” Glasnow said after his last start against the Giants.\n“Today, I think it was a step in the right direction. I think it’s better than feeling really good for a long time before [the playoffs]. I’d rather kind of feel it, work through some stuff and have a good one right before [the] playoffs. So I think I’m in a good spot right now.”",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "86fbd23748949080f8cf",
-    "title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
-    "source": "Yahoo Sports",
-    "author": "Eric Stephen",
-    "url": "https://sports.yahoo.com/articles/dodgers-notes-blake-snell-dalton-011959550.html",
-    "published_iso": "2026-09-23T01:19:59+00:00",
-    "published_rfc2822": "Wed, 23 Sep 2026 01:19:59 +0000",
-    "body": "LOS ANGELES — It's the final week of the regular season and the Dodgers are sorting things out as they prepare for the postseason, which they hope will start on October 3 in the National League Division Series rather than September 29 in the wild card round.\nBefore Tuesday's game, Blake Snell pitched a bullpen session at Dodger Stadium as he works his way back from leaving last Wednesday's start with left groin discomfort. Manager Dave Roberts said Snell is in line to start on Saturday in San Francisco against the Giants, with Tarik Skubal — currently on the bereavement list — starting Friday night at Oracle Park.\nYoshinobu Yamamoto starts Wednesday and Tyler Glasnow Thursday against the Padres.\nAlso on Tuesday, reliever Will Klein pitched a simulated inning against Dalton Rushing in a battle of players on the injured list. Klein is on the 60-day injured list with elbow discomfort and not eligible to be activated until September 30 at the earliest, but it looks like he'll be in the stay-hot camp should the Dodgers have room to add him at some point later in the postseason, similar to in 2025 when Klein wasn't active until the World Series and he pitched five scoreless innings, including four innings in the marathon Game 3.\n\"With Will it's more get healthy, show that you're healthy, throw to some hitters,\" Roberts said. \"He'll throw during the week off, then we'll kind of see if there's an opportunity later on in the postseason, sort of like last year.\"\nRushing is trying to work his way back from elbow discomfort suffered when practicing throwing. His role would be a left-handed bat off the bench, a role currently occupied by Josue De Paula, who has been the designated hitter with Shohei Ohtani out. But Ohtani is expected to be activated Wednesday barring an unforeseen setback.\nThat essentially sets up a battle between Rushing and De Paula for a postseason roster spot, though Roberts said the plan is to activate Rushing at some point this week to literally get back into the swing of things.\n\"Quality of at-bat, conducting an at-bat obviously, the ability to swing at strikes, take balls, get on base, get a hit. There's potential slug with both guys. I think it's a good debate,\" Roberts said. \"Hitting off the bench is very difficult so we're trying to figure out who gives us the best chance.\n\"And to be quite frank, it's going to be tougher for Dalton given the time he's missed, and to think that you have [three] games to get back into playoff form, it's tough to do. It's not a knock on him, he's been great for us, but it's still tough, right, Given that we talk about having the consistency of at-bats recently from Josue. But we have to have those conversations and make a decision.\"\nActivating both Ohtani and Rushing this week, when the Dodgers have 14 active position players, would require two corresponding moves to make room on the active roster. If De Paula doesn't get sent down — \"I think Josue has done a fantastic job,\" Roberts said Tuesday — that might mean rough news for Alexes Call and Freeland, either this week or next.",
-    "tracked_people": [
-      {
-        "name": "Josué De Paula",
-        "role": "Outfielder / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 11,
-        "batch": 1
-      },
-      {
-        "name": "Tarik Skubal",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 12,
-        "batch": 1
-      },
-      {
-        "name": "Blake Snell",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 13,
-        "batch": 1
-      },
-      {
-        "name": "Yoshinobu Yamamoto",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 14,
-        "batch": 1
-      },
-      {
-        "name": "Tyler Glasnow",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 15,
-        "batch": 1
-      },
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
-        "batch": 2
-      },
-      {
-        "name": "Dalton Rushing",
-        "role": "Catcher / DH",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 23,
-        "batch": 2
-      },
-      {
-        "name": "Will Klein",
-        "role": "Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 28,
-        "batch": 2
-      },
-      {
-        "name": "Dave Roberts",
-        "role": "Manager",
-        "status": "Coaching Staff",
-        "type": "staff",
-        "id": 32,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
-    "original_body": "LOS ANGELES — It's the final week of the regular season and the Dodgers are sorting things out as they prepare for the postseason, which they hope will start on October 3 in the National League Division Series rather than September 29 in the wild card round.\nBefore Tuesday's game, Blake Snell pitched a bullpen session at Dodger Stadium as he works his way back from leaving last Wednesday's start with left groin discomfort. Manager Dave Roberts said Snell is in line to start on Saturday in San Francisco against the Giants, with Tarik Skubal — currently on the bereavement list — starting Friday night at Oracle Park.\nYoshinobu Yamamoto starts Wednesday and Tyler Glasnow Thursday against the Padres.\nAlso on Tuesday, reliever Will Klein pitched a simulated inning against Dalton Rushing in a battle of players on the injured list. Klein is on the 60-day injured list with elbow discomfort and not eligible to be activated until September 30 at the earliest, but it looks like he'll be in the stay-hot camp should the Dodgers have room to add him at some point later in the postseason, similar to in 2025 when Klein wasn't active until the World Series and he pitched five scoreless innings, including four innings in the marathon Game 3.\n\"With Will it's more get healthy, show that you're healthy, throw to some hitters,\" Roberts said. \"He'll throw during the week off, then we'll kind of see if there's an opportunity later on in the postseason, sort of like last year.\"\nRushing is trying to work his way back from elbow discomfort suffered when practicing throwing. His role would be a left-handed bat off the bench, a role currently occupied by Josue De Paula, who has been the designated hitter with Shohei Ohtani out. But Ohtani is expected to be activated Wednesday barring an unforeseen setback.\nThat essentially sets up a battle between Rushing and De Paula for a postseason roster spot, though Roberts said the plan is to activate Rushing at some point this week to literally get back into the swing of things.\n\"Quality of at-bat, conducting an at-bat obviously, the ability to swing at strikes, take balls, get on base, get a hit. There's potential slug with both guys. I think it's a good debate,\" Roberts said. \"Hitting off the bench is very difficult so we're trying to figure out who gives us the best chance.\n\"And to be quite frank, it's going to be tougher for Dalton given the time he's missed, and to think that you have [three] games to get back into playoff form, it's tough to do. It's not a knock on him, he's been great for us, but it's still tough, right, Given that we talk about having the consistency of at-bats recently from Josue. But we have to have those conversations and make a decision.\"\nActivating both Ohtani and Rushing this week, when the Dodgers have 14 active position players, would require two corresponding moves to make room on the active roster. If De Paula doesn't get sent down — \"I think Josue has done a fantastic job,\" Roberts said Tuesday — that might mean rough news for Alexes Call and Freeland, either this week or next.",
-    "rss_title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
-    "rss_body": "LOS ANGELES — It's the final week of the regular season and the Dodgers are sorting things out as they prepare for the postseason, which they hope will start on October 3 in the National League Division Series rather than September 29 in the wild card round.\nBefore Tuesday's game, Blake Snell pitched a bullpen session at Dodger Stadium as he works his way back from leaving last Wednesday's start with left groin discomfort. Manager Dave Roberts said Snell is in line to start on Saturday in San Francisco against the Giants, with Tarik Skubal — currently on the bereavement list — starting Friday night at Oracle Park.\nYoshinobu Yamamoto starts Wednesday and Tyler Glasnow Thursday against the Padres.\nAlso on Tuesday, reliever Will Klein pitched a simulated inning against Dalton Rushing in a battle of players on the injured list. Klein is on the 60-day injured list with elbow discomfort and not eligible to be activated until September 30 at the earliest, but it looks like he'll be in the stay-hot camp should the Dodgers have room to add him at some point later in the postseason, similar to in 2025 when Klein wasn't active until the World Series and he pitched five scoreless innings, including four innings in the marathon Game 3.\n\"With Will it's more get healthy, show that you're healthy, throw to some hitters,\" Roberts said. \"He'll throw during the week off, then we'll kind of see if there's an opportunity later on in the postseason, sort of like last year.\"\nRushing is trying to work his way back from elbow discomfort suffered when practicing throwing. His role would be a left-handed bat off the bench, a role currently occupied by Josue De Paula, who has been the designated hitter with Shohei Ohtani out. But Ohtani is expected to be activated Wednesday barring an unforeseen setback.\nThat essentially sets up a battle between Rushing and De Paula for a postseason roster spot, though Roberts said the plan is to activate Rushing at some point this week to literally get back into the swing of things.\n\"Quality of at-bat, conducting an at-bat obviously, the ability to swing at strikes, take balls, get on base, get a hit. There's potential slug with both guys. I think it's a good debate,\" Roberts said. \"Hitting off the bench is very difficult so we're trying to figure out who gives us the best chance.\n\"And to be quite frank, it's going to be tougher for Dalton given the time he's missed, and to think that you have [three] games to get back into playoff form, it's tough to do. It's not a knock on him, he's been great for us, but it's still tough, right, Given that we talk about having the consistency of at-bats recently from Josue. But we have to have those conversations and make a decision.\"\nActivating both Ohtani and Rushing this week, when the Dodgers have 14 active position players, would require two corresponding moves to make room on the active roster. If De Paula doesn't get sent down — \"I think Josue has done a fantastic job,\" Roberts said Tuesday — that might mean rough news for Alexes Call and Freeland, either this week or next.",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "True Blue LA",
-        "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/125112/blake-snell-dalton-rushing-will-klein",
-        "title": "Dodgers notes: Blake Snell, Dalton Rushing, Will Klein",
-        "body_characters": 3079
-      }
-    ]
   },
   {
     "id": "bf26f8578a23b4842cd1",
