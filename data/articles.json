@@ -1,13 +1,109 @@
 [
   {
-    "id": "edc5602b5f02ebdf168b",
-    "title": "MLB 山本由伸、防御率キャリアハイ更新ならず 〝らしくないミス〟で15勝目逃す マチャドに痛恨被弾 後半戦ワーストタイ4失点 3連覇狙うPSへ（SANSPO）｜ｄメニューニュース",
+    "id": "dadbdb53743855ad5fb9",
+    "title": "Shohei Ohtani gets a hit in his return, but Dodgers fall to the Padres",
+    "source": "Los Angeles Times",
+    "author": "Maddie Lee",
+    "url": "https://www.latimes.com/sports/dodgers/story/2026-09-23/shohei-ohtani-dodgers-padres",
+    "published_iso": "2026-09-24T05:33:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 05:33:00 +0000",
+    "body": "Shohei Ohtani gets a hit in his return, but Dodgers fall to the Padres\nShohei Ohtani’s swing was a little out in front of a slider delivered by Padres left-hander Robbie Ray. But Ohtani held back his hands long enough to extend them to the pitch and shoot it through the right side of the infield.\nIt wasn’t flashy. But considering it was his first at-bat in over two weeks, in a tough matchup no less, it was a promising sign.\nThe good news quickly dried up for the Dodgers after that, as they fell to the Padres 5-1, missing a chance to clinch a first-round bye with a win. But Ohtani’s return was still significant, and the success of his end-of-season tune-up will have playoff implications.\nThe Dodgers activated Ohtani, who went one-for-four Wednesday, from the 15-day IL before the game and optioned rookie Josue De Paula to Triple-A. De Paula is still under consideration for the National League Division Series roster as a bat of the bench.\n“This was the original thought, that once Shohei gets back, we’re going to send him out,” manager Dave Roberts said. “We had a runway to give him, which we gave him and he performed more than admirably. This also, as far as the timing, just gives us an opportunity to potentially have him back for the postseason. He’s a part of the conversation, and he’s earned that, and that’s what I told him last night.”\nIt was Josue De Paula’s bat that earned him a call-up when Shohei Ohtani landed on the IL. And it’s his bat that’s now making his case for a postseason roster spot.\nDe Paula joined triple-A Oklahoma City for Game 2 of the PCL Championship on Wednesday. And Ohtani slid into the Dodgers lineup, hitting second in the batting order for the first time this season, with Mookie Betts leading off against the Padres southpaw.\n“I know Shohei, Mookie, they’re always on board with whatever I decide to do,” Roberts said. “I think it just makes it tougher to navigate versus left. There’s a Mookie tax [to get to Ohtani]. If you want to get to Freddie [Freeman], there’s a Will Smith tax. I like that. And versus a right hander I like kind of flipping those two for the same reasons.”\nOhtani, welcomed back in his first at-bat by a partial standing ovation, walked in his second plate appearance. And with two out and the bases loaded in the bottom of the fourth inning, he appeared to have walked again.\nThen Padres catcher Ethan Salas tapped the top of his head to challenge the ball call. And an ABS review showed the fastball had clipped the top of the strike zone. Ohtani fouled off the next two pitches before whiffing on a sinker to end the inning.\nThat missed opportunity rolled right into a sloppy fifth inning for the Dodgers defense.\nStarting pitcher Yoshinobu Yamamoto had given up a two-run homer to Manny Machado the previous inning but had otherwise avoided damage.\nTo open the fifth, he induced Salas to hit the ball on the ground, but it got away from second baseman Tommy Edman as he dove up the middle, for a single.\nYamamoto then got a soft grounder out of Fernando Tatís Jr. But it was too soft, giving Tatís time to reach first before third baseman Max Muncy could get off a throw.\nWith runners on first and second, Yamamoto had a chance to contribute on defense, fielding Dustin Harris’ comebacker bunt. But Yamamoto’s throw to third sailed wide, allowing a run to score. Machado then made it a 4-1 game with a sacrifice fly.\nOhtani came up to the plate again in the seventh inning and put Dodgers fans on the edge of their seats by sending a long fly ball to straightaway center field. But the cheers died down as it fell shy well short of the 395-foot wall.\nThe top of the Dodgers order got one last chance to start a rally in the ninth inning, against star closer Mason Miller. Only Will Smith reached base, on a walk, and advanced to third on defensive indifference. Ohtani struck out on a slider.\n“[Ohtani] certainly feels way better with the rest,” president of baseball operations Andrew Friedman said before the game. “The biggest thing with five games to go is get him as many at-bats as we can, some rhythm and timing.”\nOhtani could get a day off in that span, Friedman said, but the Dodgers will make those decisions based on how he’s feeling.\nAfter defeating the Padres, the Dodgers have five games left to round into playoff form. They get a big piece, Shohei Ohtani, back Wednesday.\n“Just getting as many at-bats as he can and that rhythm and timing back before we head into October is going to be really helpful,” Friedman said.\nOhtani was not in rhythm before he landed on the IL. In the last three weeks before the Dodgers finally shelved him, he had a .130 batting average. And he only had two hits in his last seven games (26 at-bats) before the move.\n“You end up making subconscious adjustments where you’re protecting yourself,” Friedman said, “and there’s just slight degradation as that’s happening that compounds over time.”",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Andrew Friedman",
+        "role": "President of Baseball Ops",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 33,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Shohei Ohtani gets a hit in his return, but Dodgers fall to the Padres",
+    "original_body": "Shohei Ohtani gets a hit in his return, but Dodgers fall to the Padres\nShohei Ohtani’s swing was a little out in front of a slider delivered by Padres left-hander Robbie Ray. But Ohtani held back his hands long enough to extend them to the pitch and shoot it through the right side of the infield.\nIt wasn’t flashy. But considering it was his first at-bat in over two weeks, in a tough matchup no less, it was a promising sign.\nThe good news quickly dried up for the Dodgers after that, as they fell to the Padres 5-1, missing a chance to clinch a first-round bye with a win. But Ohtani’s return was still significant, and the success of his end-of-season tune-up will have playoff implications.\nThe Dodgers activated Ohtani, who went one-for-four Wednesday, from the 15-day IL before the game and optioned rookie Josue De Paula to Triple-A. De Paula is still under consideration for the National League Division Series roster as a bat of the bench.\n“This was the original thought, that once Shohei gets back, we’re going to send him out,” manager Dave Roberts said. “We had a runway to give him, which we gave him and he performed more than admirably. This also, as far as the timing, just gives us an opportunity to potentially have him back for the postseason. He’s a part of the conversation, and he’s earned that, and that’s what I told him last night.”\nIt was Josue De Paula’s bat that earned him a call-up when Shohei Ohtani landed on the IL. And it’s his bat that’s now making his case for a postseason roster spot.\nDe Paula joined triple-A Oklahoma City for Game 2 of the PCL Championship on Wednesday. And Ohtani slid into the Dodgers lineup, hitting second in the batting order for the first time this season, with Mookie Betts leading off against the Padres southpaw.\n“I know Shohei, Mookie, they’re always on board with whatever I decide to do,” Roberts said. “I think it just makes it tougher to navigate versus left. There’s a Mookie tax [to get to Ohtani]. If you want to get to Freddie [Freeman], there’s a Will Smith tax. I like that. And versus a right hander I like kind of flipping those two for the same reasons.”\nOhtani, welcomed back in his first at-bat by a partial standing ovation, walked in his second plate appearance. And with two out and the bases loaded in the bottom of the fourth inning, he appeared to have walked again.\nThen Padres catcher Ethan Salas tapped the top of his head to challenge the ball call. And an ABS review showed the fastball had clipped the top of the strike zone. Ohtani fouled off the next two pitches before whiffing on a sinker to end the inning.\nThat missed opportunity rolled right into a sloppy fifth inning for the Dodgers defense.\nStarting pitcher Yoshinobu Yamamoto had given up a two-run homer to Manny Machado the previous inning but had otherwise avoided damage.\nTo open the fifth, he induced Salas to hit the ball on the ground, but it got away from second baseman Tommy Edman as he dove up the middle, for a single.\nYamamoto then got a soft grounder out of Fernando Tatís Jr. But it was too soft, giving Tatís time to reach first before third baseman Max Muncy could get off a throw.\nWith runners on first and second, Yamamoto had a chance to contribute on defense, fielding Dustin Harris’ comebacker bunt. But Yamamoto’s throw to third sailed wide, allowing a run to score. Machado then made it a 4-1 game with a sacrifice fly.\nOhtani came up to the plate again in the seventh inning and put Dodgers fans on the edge of their seats by sending a long fly ball to straightaway center field. But the cheers died down as it fell shy well short of the 395-foot wall.\nThe top of the Dodgers order got one last chance to start a rally in the ninth inning, against star closer Mason Miller. Only Will Smith reached base, on a walk, and advanced to third on defensive indifference. Ohtani struck out on a slider.\n“[Ohtani] certainly feels way better with the rest,” president of baseball operations Andrew Friedman said before the game. “The biggest thing with five games to go is get him as many at-bats as we can, some rhythm and timing.”\nOhtani could get a day off in that span, Friedman said, but the Dodgers will make those decisions based on how he’s feeling.\nAfter defeating the Padres, the Dodgers have five games left to round into playoff form. They get a big piece, Shohei Ohtani, back Wednesday.\n“Just getting as many at-bats as he can and that rhythm and timing back before we head into October is going to be really helpful,” Friedman said.\nOhtani was not in rhythm before he landed on the IL. In the last three weeks before the Dodgers finally shelved him, he had a .130 batting average. And he only had two hits in his last seven games (26 at-bats) before the move.\n“You end up making subconscious adjustments where you’re protecting yourself,” Friedman said, “and there’s just slight degradation as that’s happening that compounds over time.”",
+    "rss_title": "Shohei Ohtani gets a hit in his return, but Dodgers fall to the Padres",
+    "rss_body": "Shohei Ohtani gets a hit in his return, but Dodgers fall to the Padres\nShohei Ohtani’s swing was a little out in front of a slider delivered by Padres left-hander Robbie Ray. But Ohtani held back his hands long enough to extend them to the pitch and shoot it through the right side of the infield.\nIt wasn’t flashy. But considering it was his first at-bat in over two weeks, in a tough matchup no less, it was a promising sign.\nThe good news quickly dried up for the Dodgers after that, as they fell to the Padres 5-1, missing a chance to clinch a first-round bye with a win. But Ohtani’s return was still significant, and the success of his end-of-season tune-up will have playoff implications.\nThe Dodgers activated Ohtani, who went one-for-four Wednesday, from the 15-day IL before the game and optioned rookie Josue De Paula to Triple-A. De Paula is still under consideration for the National League Division Series roster as a bat of the bench.\n“This was the original thought, that once Shohei gets back, we’re going to send him out,” manager Dave Roberts said. “We had a runway to give him, which we gave him and he performed more than admirably. This also, as far as the timing, just gives us an opportunity to potentially have him back for the postseason. He’s a part of the conversation, and he’s earned that, and that’s what I told him last night.”\nIt was Josue De Paula’s bat that earned him a call-up when Shohei Ohtani landed on the IL. And it’s his bat that’s now making his case for a postseason roster spot.\nDe Paula joined triple-A Oklahoma City for Game 2 of the PCL Championship on Wednesday. And Ohtani slid into the Dodgers lineup, hitting second in the batting order for the first time this season, with Mookie Betts leading off against the Padres southpaw.\n“I know Shohei, Mookie, they’re always on board with whatever I decide to do,” Roberts said. “I think it just makes it tougher to navigate versus left. There’s a Mookie tax [to get to Ohtani]. If you want to get to Freddie [Freeman], there’s a Will Smith tax. I like that. And versus a right hander I like kind of flipping those two for the same reasons.”\nOhtani, welcomed back in his first at-bat by a partial standing ovation, walked in his second plate appearance. And with two out and the bases loaded in the bottom of the fourth inning, he appeared to have walked again.\nThen Padres catcher Ethan Salas tapped the top of his head to challenge the ball call. And an ABS review showed the fastball had clipped the top of the strike zone. Ohtani fouled off the next two pitches before whiffing on a sinker to end the inning.\nThat missed opportunity rolled right into a sloppy fifth inning for the Dodgers defense.\nStarting pitcher Yoshinobu Yamamoto had given up a two-run homer to Manny Machado the previous inning but had otherwise avoided damage.\nTo open the fifth, he induced Salas to hit the ball on the ground, but it got away from second baseman Tommy Edman as he dove up the middle, for a single.\nYamamoto then got a soft grounder out of Fernando Tatís Jr. But it was too soft, giving Tatís time to reach first before third baseman Max Muncy could get off a throw.\nWith runners on first and second, Yamamoto had a chance to contribute on defense, fielding Dustin Harris’ comebacker bunt. But Yamamoto’s throw to third sailed wide, allowing a run to score. Machado then made it a 4-1 game with a sacrifice fly.\nOhtani came up to the plate again in the seventh inning and put Dodgers fans on the edge of their seats by sending a long fly ball to straightaway center field. But the cheers died down as it fell shy well short of the 395-foot wall.\nThe top of the Dodgers order got one last chance to start a rally in the ninth inning, against star closer Mason Miller. Only Will Smith reached base, on a walk, and advanced to third on defensive indifference. Ohtani struck out on a slider.\n“[Ohtani] certainly feels way better with the rest,” president of baseball operations Andrew Friedman said before the game. “The biggest thing with five games to go is get him as many at-bats as we can, some rhythm and timing.”\nOhtani could get a day off in that span, Friedman said, but the Dodgers will make those decisions based on how he’s feeling.\nAfter defeating the Padres, the Dodgers have five games left to round into playoff form. They get a big piece, Shohei Ohtani, back Wednesday.\n“Just getting as many at-bats as he can and that rhythm and timing back before we head into October is going to be really helpful,” Friedman said.\nOhtani was not in rhythm before he landed on the IL. In the last three weeks before the Dodgers finally shelved him, he had a .130 batting average. And he only had two hits in his last seven games (26 at-bats) before the move.\n“You end up making subconscious adjustments where you’re protecting yourself,” Friedman said, “and there’s just slight degradation as that’s happening that compounds over time.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "fd97cf9bdecb5525200f",
+    "title": "MLB ドジャース第1シード絶望的 連勝5でストップ 大谷翔平、復帰戦で1安打 3年ぶり100勝まで残り4戦で3勝 山本由伸4失点9敗目（SANSPO）｜ｄメニューニュース",
     "source": "ｄメニューニュース",
     "author": "",
-    "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_X7M7RW63SZII7DKTH5WKZIFJLQ",
-    "published_iso": "2026-09-24T04:22:00+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 04:22:00 +0000",
-    "body": "ドジャース−パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの山本由伸投手（28）がパドレス戦でレギュラーシーズン最終登板を迎え、6回88球、5安打4失点（自責2）、4奪三振で降板。自らの失策が絡むなど後半戦ワーストタイの失点で15勝目を逃した。昨季の防御率2.49をわずか上回ることができず2.53でキャリアハイ更新はならなかった。\n右腕は1回を投げ終えた時点で自身初となる180イニングに到達。今季のナ・リーグでは5人目でメジャー全体では10番目となった。ただ、四回はマチャドにバックスクリーンへ先制2ランを被弾すると、四回には自ら処理した犠打を三塁に悪送球する、らしくないミスも飛び出し2失点。リードを許して降板となった。山本はこの日は28度目の先発で、2年連続、ただ一人だけドジャースの先発ローテーションを守り抜いた。試合前時点で14勝とイニング数はキャリアハイとなった。\nロバーツ監督は試合前に右腕について「チームに何人いても困らない。計算できる、頼りになる選手。今季、出来が良くなかった登板はおそらく1、2試合。それ以外はほぼ6イニング以上を投げ、非常に安定している。重要な場面になれば、しっかりとそれに応えてくれる。彼の準備、集中力、闘争心、そういったものによるものだと思う」と絶賛していた。",
+    "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_AXPAMQ7H7BMAVB4GTJFY7RL6F4",
+    "published_iso": "2026-09-24T05:16:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 05:16:00 +0000",
+    "body": "ドジャース1−5パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの大谷翔平投手（32）が負傷者リスト（IL）から復帰し、パドレス戦に「2番・DH」で出場。復帰後初安打を含む4打数1安打1四球だった。ドジャースは連勝が5でストップし、2023年以来となるシーズン100勝には残り4戦で3勝が必要となった。\n「右上腕二頭筋の炎症」が癒えた大谷は一回1死から右前打を放ち本拠地から大歓声。三回は2死から四球で出塁した。1−2の五回は2死満塁の絶好機で打席を迎え、カウント3−1からの1球はボール判定で押し出し四球と思われたが、ABSチャレンジで判定が覆り、その後は2球ファウルで粘ったが空振り三振に倒れた。七回はフェンス際まで運ぶも中飛で九回の第5打席は空振り三振だった。\n先発した山本由伸投手（28）は6回5安打4失点（自責2）と後半戦ワーストタイとなる失点で9敗目（14勝）。三回はマチャドに先制2ランを浴び、四回は自ら処理した犠打を三塁に悪送球して失点を重ねた。レギュラーシーズンは最終登板で、次回はポストシーズンの登板となる。\nドジャースは、この日勝利したリーグ最高勝率のブルワーズと2ゲーム差に拡大。今季の直接対決は3勝4敗でブルワーズが勝ち越しているため、実質3ゲーム差。互いに残り4試合でポストシーズンの第1シード獲得は絶望的な状況となった。一方で東地区首位のブレーブスとは4ゲーム差で、第2シードの位置はほぼ確実となっている。",
     "tracked_people": [
       {
         "name": "Yoshinobu Yamamoto",
@@ -16,6 +112,14 @@
         "type": "player",
         "id": 14,
         "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
       }
     ],
     "source_languages": [],
@@ -25,17 +129,17 @@
     "discovery_sources": [
       "Google News"
     ],
-    "original_title": "MLB 山本由伸、防御率キャリアハイ更新ならず 〝らしくないミス〟で15勝目逃す マチャドに痛恨被弾 後半戦ワーストタイ4失点 3連覇狙うPSへ（SANSPO）｜ｄメニューニュース",
-    "original_body": "ドジャース−パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの山本由伸投手（28）がパドレス戦でレギュラーシーズン最終登板を迎え、6回88球、5安打4失点（自責2）、4奪三振で降板。自らの失策が絡むなど後半戦ワーストタイの失点で15勝目を逃した。昨季の防御率2.49をわずか上回ることができず2.53でキャリアハイ更新はならなかった。\n右腕は1回を投げ終えた時点で自身初となる180イニングに到達。今季のナ・リーグでは5人目でメジャー全体では10番目となった。ただ、四回はマチャドにバックスクリーンへ先制2ランを被弾すると、四回には自ら処理した犠打を三塁に悪送球する、らしくないミスも飛び出し2失点。リードを許して降板となった。山本はこの日は28度目の先発で、2年連続、ただ一人だけドジャースの先発ローテーションを守り抜いた。試合前時点で14勝とイニング数はキャリアハイとなった。\nロバーツ監督は試合前に右腕について「チームに何人いても困らない。計算できる、頼りになる選手。今季、出来が良くなかった登板はおそらく1、2試合。それ以外はほぼ6イニング以上を投げ、非常に安定している。重要な場面になれば、しっかりとそれに応えてくれる。彼の準備、集中力、闘争心、そういったものによるものだと思う」と絶賛していた。",
-    "rss_title": "MLB 山本由伸、防御率キャリアハイ更新ならず 〝らしくないミス〟で15勝目逃す マチャドに痛恨被弾 後半戦ワーストタイ4失点 3連覇狙うPSへ（SANSPO）｜ｄメニューニュース",
-    "rss_body": "ドジャース−パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの山本由伸投手（28）がパドレス戦でレギュラーシーズン最終登板を迎え、6回88球、5安打4失点（自責2）、4奪三振で降板。自らの失策が絡むなど後半戦ワーストタイの失点で15勝目を逃した。昨季の防御率2.49をわずか上回ることができず2.53でキャリアハイ更新はならなかった。\n右腕は1回を投げ終えた時点で自身初となる180イニングに到達。今季のナ・リーグでは5人目でメジャー全体では10番目となった。ただ、四回はマチャドにバックスクリーンへ先制2ランを被弾すると、四回には自ら処理した犠打を三塁に悪送球する、らしくないミスも飛び出し2失点。リードを許して降板となった。山本はこの日は28度目の先発で、2年連続、ただ一人だけドジャースの先発ローテーションを守り抜いた。試合前時点で14勝とイニング数はキャリアハイとなった。\nロバーツ監督は試合前に右腕について「チームに何人いても困らない。計算できる、頼りになる選手。今季、出来が良くなかった登板はおそらく1、2試合。それ以外はほぼ6イニング以上を投げ、非常に安定している。重要な場面になれば、しっかりとそれに応えてくれる。彼の準備、集中力、闘争心、そういったものによるものだと思う」と絶賛していた。",
+    "original_title": "MLB ドジャース第1シード絶望的 連勝5でストップ 大谷翔平、復帰戦で1安打 3年ぶり100勝まで残り4戦で3勝 山本由伸4失点9敗目（SANSPO）｜ｄメニューニュース",
+    "original_body": "ドジャース1−5パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの大谷翔平投手（32）が負傷者リスト（IL）から復帰し、パドレス戦に「2番・DH」で出場。復帰後初安打を含む4打数1安打1四球だった。ドジャースは連勝が5でストップし、2023年以来となるシーズン100勝には残り4戦で3勝が必要となった。\n「右上腕二頭筋の炎症」が癒えた大谷は一回1死から右前打を放ち本拠地から大歓声。三回は2死から四球で出塁した。1−2の五回は2死満塁の絶好機で打席を迎え、カウント3−1からの1球はボール判定で押し出し四球と思われたが、ABSチャレンジで判定が覆り、その後は2球ファウルで粘ったが空振り三振に倒れた。七回はフェンス際まで運ぶも中飛で九回の第5打席は空振り三振だった。\n先発した山本由伸投手（28）は6回5安打4失点（自責2）と後半戦ワーストタイとなる失点で9敗目（14勝）。三回はマチャドに先制2ランを浴び、四回は自ら処理した犠打を三塁に悪送球して失点を重ねた。レギュラーシーズンは最終登板で、次回はポストシーズンの登板となる。\nドジャースは、この日勝利したリーグ最高勝率のブルワーズと2ゲーム差に拡大。今季の直接対決は3勝4敗でブルワーズが勝ち越しているため、実質3ゲーム差。互いに残り4試合でポストシーズンの第1シード獲得は絶望的な状況となった。一方で東地区首位のブレーブスとは4ゲーム差で、第2シードの位置はほぼ確実となっている。",
+    "rss_title": "MLB ドジャース第1シード絶望的 連勝5でストップ 大谷翔平、復帰戦で1安打 3年ぶり100勝まで残り4戦で3勝 山本由伸4失点9敗目（SANSPO）｜ｄメニューニュース",
+    "rss_body": "ドジャース1−5パドレス（23日、ロサンゼルス）米大リーグ、ドジャースの大谷翔平投手（32）が負傷者リスト（IL）から復帰し、パドレス戦に「2番・DH」で出場。復帰後初安打を含む4打数1安打1四球だった。ドジャースは連勝が5でストップし、2023年以来となるシーズン100勝には残り4戦で3勝が必要となった。\n「右上腕二頭筋の炎症」が癒えた大谷は一回1死から右前打を放ち本拠地から大歓声。三回は2死から四球で出塁した。1−2の五回は2死満塁の絶好機で打席を迎え、カウント3−1からの1球はボール判定で押し出し四球と思われたが、ABSチャレンジで判定が覆り、その後は2球ファウルで粘ったが空振り三振に倒れた。七回はフェンス際まで運ぶも中飛で九回の第5打席は空振り三振だった。\n先発した山本由伸投手（28）は6回5安打4失点（自責2）と後半戦ワーストタイとなる失点で9敗目（14勝）。三回はマチャドに先制2ランを浴び、四回は自ら処理した犠打を三塁に悪送球して失点を重ねた。レギュラーシーズンは最終登板で、次回はポストシーズンの登板となる。\nドジャースは、この日勝利したリーグ最高勝率のブルワーズと2ゲーム差に拡大。今季の直接対決は3勝4敗でブルワーズが勝ち越しているため、実質3ゲーム差。互いに残り4試合でポストシーズンの第1シード獲得は絶望的な状況となった。一方で東地区首位のブレーブスとは4ゲーム差で、第2シードの位置はほぼ確実となっている。",
     "translation_status": "fallback_original",
     "alternate_sources": [
       {
         "source": "ｄメニューニュース",
-        "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_RAS5U2FEUVLDTIGPVXZ3M5UTXU",
-        "title": "MLB 大谷翔平、待望復帰「2番・DH」パドレス戦 16日ぶりスタメン 14試合36日ぶり31号出るか 右上腕の炎症回復 RS残り5戦 山本由伸15勝狙う（SANSPO）｜ｄメニューニュース",
-        "body_characters": 413
+        "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_X7M7RW63SZII7DKTH5WKZIFJLQ",
+        "title": "MLB 山本由伸、防御率キャリアハイ更新ならず 〝らしくないミス〟で15勝目逃す マチャドに痛恨被弾 後半戦ワーストタイ4失点 3連覇狙うPSへ（SANSPO）｜ｄメニューニュース",
+        "body_characters": 556
       }
     ]
   },
@@ -286,82 +390,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "a2c8c14d886008a4f7d2",
-    "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-    "source": "heraldglobe.com",
-    "author": "",
-    "url": "http://www.heraldglobe.com/news/279327270/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il",
-    "published_iso": "2026-09-24T01:15:00+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 01:15:00 +0000",
-    "body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
-    "tracked_people": [
-      {
-        "name": "Mookie Betts",
-        "role": "Infielder / Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 4,
-        "batch": 1
-      },
-      {
-        "name": "Josué De Paula",
-        "role": "Outfielder / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 11,
-        "batch": 1
-      },
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
-        "batch": 2
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States"
-    ],
-    "discovery_sources": [
-      "GDELT"
-    ],
-    "original_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-    "original_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
-    "rss_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-    "rss_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "taylorvilledailynews.com",
-        "url": "https://www.taylorvilledailynews.com/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL - Taylorville Daily News",
-        "body_characters": 1253
-      },
-      {
-        "source": "z93jamz.com",
-        "url": "https://www.z93jamz.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-        "body_characters": 1148
-      },
-      {
-        "source": "krro.com",
-        "url": "https://krro.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-        "body_characters": 1219
-      },
-      {
-        "source": "californiatelegraph.com",
-        "url": "http://www.californiatelegraph.com/news/279327270/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-        "body_characters": 1551
-      }
-    ]
-  },
-  {
     "id": "774fed22ee5c6c68f0bc",
     "title": "Shohei Ohtani conecta un hit con los Dodgers en su regreso tras lesión",
     "source": "Chicago Tribune",
@@ -562,6 +590,82 @@
     "rss_title": "Blue Jays’ Vladimir Guerrero Jr. says his $500M contract was for past performance – not future results",
     "rss_body": "Vladimir Guerrero Jr. has four games left before he can put his 2026 Toronto Blue Jays season behind him.\nGuerrero, the six-time All-Star who signed the third highest-paid extension in MLB history in April 2025 at $500 million, has hit just nine home runs and slugged .359 to date for a career-low .695 OPS to date.\nThe Blue Jays, winners of the American League pennant this past season, where Guerrero was a major factor in reaching the World Series, were mathematically eliminated from this year’s postseason race as they hold a 77-81 record entering Wednesday.\nFor a player that is worth so much, especially financially, to an organization’s success, Guerrero’s down year has led to some vitriol from the Blue Jays’ fan base. And that’s likely to continue after hearing recent comments from the star infielder.\nGuerrero, 27, sat down with Telemicro News recently, where he discussed his struggles at the plate this season, and how it reflects on his contract extension.\nHis comments were, well, interesting.\n“The contract I got was based on what I did, not necessarily for what I’m going to do,” Guerrero said, as translated by MLB reporter Héctor Gómez. “I understand why the fans believe it’s the other way around. Sometimes, I think that way, too, like, ‘Oh, they give me this money, and I’m not doing enough,’ but you know I try my best, and I’m working hard.\n“The fans, I know how they are, when you are doing great they are 100% behind you. But when you are not at your best, not everybody is behind you, almost nobody supports you. Those are my real fans, the ones that are supporting me all the time.”\nAfter catching heat from Blue Jays fans, Guerrero was approached about the viral quotes, which he responded to.\n“That was a quote from the interview when she asked me how I felt about this year,” Guerrero said, via MLB.com. “I said that, obviously, I feel really bad about the year that I had, that I couldn’t help my team get to the postseason. I said I felt – that it’s my personal opinion – that every player gets paid for what they have done. With that said, you guys have got to remember that I signed my contract at the beginning of last year, then I did put up a good year. Then, the kind of playoffs that I had to help the team get into the World Series.\n“To the fans, I’ve never stopped working very hard. I am going to go into the offseason again to prepare myself the best I can. Physically, mentally, everything that I have like I always do for my team and my teammates.”\nIn Guerrero’s defense, that is technically what the Blue Jays did when they dished out his 14-year, $500 million extension, which is only behind Shohei Ohtani’s 10-year, $700 million deal with the Los Angeles Dodgers and Juan Soto’s 15-year, $765 million deal with the New York Mets. The franchise paid Guerrero for what he did from his debut in 2019 up to a fantastic 2025 campaign, where he belted eight homers and hit .397 across 18 postseason games.\nBut these comments show that Guerrero mustn’t be aware of what putting pen to money-filled paper meant in April 2025. No longer is it time in any sport, let alone Major League Baseball, where contracts are dished out based solely on past performance. It’s looking ahead to the future, where those past performances are expected to continue through a much-more lucrative deal.\nMLB franchises sign players to contracts based on the market, and that market is justified by how the player will perform for them later on, while obviously looking at the track record in the past.\nWith any investment, those dishing out the big bucks want a return.\nSo, in a season where the home run total for a slugger is less than double digits – he still has time to at least get to 10 – and a career-low WAR (albeit the 2020 COVID-shortened campaign) has been accumulated, the Blue Jays and its fan base have every right to be disappointed. Yes, Guerrero was a major reason why Toronto reached the World Series in 2025, but the team and its fans are also allowed to voice displeasure with not just a down year – a career-worst performance in various metrics.\nWould the Mets have dished out the highest-paying contract in league history if they didn’t expect Soto to continue performing at his superstar pace? No.\nWould the Dodgers have agreed to give Ohtani $700 million, with heavy deferrals, might we add, to pay him for years without helping them reach their World Series goals? No.\nFrom Mike Trout, to Mookie Betts, to Aaron Judge and the list goes on, every franchise wants to see a player they sign, especially for nine figures, to pay dividends. That’s the reality of the situation, whether Guerrero wants to view his deal as what he’s done in the past.\nThis is just one season, but Guerrero’s outlook needs to change just as much as his production moving forward on the remaining 13 years of his deal.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "a2c8c14d886008a4f7d2",
+    "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+    "source": "heraldglobe.com",
+    "author": "",
+    "url": "http://www.heraldglobe.com/news/279327270/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il",
+    "published_iso": "2026-09-24T01:15:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 01:15:00 +0000",
+    "body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+    "original_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "rss_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+    "rss_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "taylorvilledailynews.com",
+        "url": "https://www.taylorvilledailynews.com/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL - Taylorville Daily News",
+        "body_characters": 1253
+      },
+      {
+        "source": "z93jamz.com",
+        "url": "https://www.z93jamz.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+        "body_characters": 1148
+      },
+      {
+        "source": "krro.com",
+        "url": "https://krro.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+        "body_characters": 1219
+      },
+      {
+        "source": "californiatelegraph.com",
+        "url": "http://www.californiatelegraph.com/news/279327270/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+        "body_characters": 1551
+      }
+    ]
   },
   {
     "id": "c98268b93bbc93cd6734",
