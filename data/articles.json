@@ -1,5 +1,85 @@
 [
   {
+    "id": "774fed22ee5c6c68f0bc",
+    "title": "Shohei Ohtani conecta un hit con los Dodgers en su regreso tras lesión",
+    "source": "Chicago Tribune",
+    "author": "Associated Press Spanish",
+    "url": "https://www.chicagotribune.com/2026/09/23/shohei-ohtani-conecta-un-hit-con-los-dodgers-en-su-regreso-tras-lesin/",
+    "published_iso": "2026-09-24T03:06:11+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 03:06:11 +0000",
+    "body": "Por BETH HARRIS\nLOS ÁNGELES (AP) — Shohei Ohtani conectó un hit en su regreso a la alineación de los Dodgers de Los Ángeles la noche del miércoles, después de perderse dos semanas por molestias en el bíceps derecho.\nBateó segundo como bateador designado contra el abridor zurdo de los Padres de San Diego Robbie Ray.\n“No estoy esperando demasiado. Ha pasado un tiempo desde que juega, pero es bueno tenerlo ahí”, comentó el mánager Dave Roberts antes del juego.\nLos aficionados ovacionaron a Ohtani cuando caminó hacia el plato con “Feeling Good”, de Michael Bublé. De inmediato conectó una línea al jardín derecho con un lanzamiento de Ray en cuenta de 2-1 y los aficionados volvieron a alborotarse. Ohtani fue puesto out en segunda base cuando Will Smith bateó un rodado para una jugada de selección del fildeador hacia tercera.\nMookie Betts estuvo en el puesto habitual de primer bate de Ohtani, donde ha estado desde que la superestrella ingresó a la lista de lesionados el 8 de septiembre.\nBetts batea para .366 con seis jonrones, 21 carreras impulsadas, 13 bases por bolas y 18 carreras anotadas en 18 juegos en septiembre. Está empatado en el tercer lugar de las Grandes Ligas con 26 hits este mes, y también figura entre los líderes de la Liga Nacional este mes en hits de extrabase, carreras impulsadas, bases totales, dobles y carreras anotadas.\nOhtani jugó por última vez el 7 de septiembre contra Cincinnati y llegó bateando para .277 con 30 jonrones, 80 carreras impulsadas, 89 carreras anotadas y 80 bases por bolas en 134 juegos. En el plato se le vio físicamente limitado, sacudiendo el brazo y haciendo gestos de dolor en ocasiones.\n“Hace unas semanas se podía ver que no podía batear una recta; se quedaba por debajo de todo y el swing era más lento”, señaló Roberts. “Controlar el swing, el punto de contacto, creo que eso es algo en lo que me fijaré y, obviamente, cosas como los gestos de dolor, pero no espero ver nada de eso”.\nLos Dodgers concluyen su serie de tres juegos contra los Padres el jueves, y luego viajan a San Francisco para tres juegos contra los Giants para cerrar la temporada regular.\nEn otros movimientos, el lanzador Tarik Skubal fue reincorporado desde la lista por duelo. Está programado para abrir el viernes en San Francisco. El relevista Kyle Hurt fue enviado a Triple-A Oklahoma City.\nEl novato Josue De Paula fue enviado de vuelta a ligas menores; podría regresar para la postemporada\nCon el regreso de Ohtani, Josue De Paula bajó a la Triple-A para unirse a los Comets en los playoffs de la Pacific Coast League contra los Las Vegas Aviators. De Paula había estado en la alineación como bateador designado.\nDe Paula se convirtió rápidamente en un favorito de los aficionados durante la ausencia de Ohtani. El neoyorquino de 21 años se embasó de manera segura en 10 de sus primeros 11 juegos en las Grandes Ligas. Se fue de 3-2 con una carrera anotada y una base por bolas, mientras conseguía el primer triple de su carrera en la victoria de los Dodgers por 7-0 sobre los Padres el martes.\n___",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Kyle Hurt",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 46,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Shohei Ohtani conecta un hit con los Dodgers en su regreso tras lesión",
+    "original_body": "Por BETH HARRIS\nLOS ÁNGELES (AP) — Shohei Ohtani conectó un hit en su regreso a la alineación de los Dodgers de Los Ángeles la noche del miércoles, después de perderse dos semanas por molestias en el bíceps derecho.\nBateó segundo como bateador designado contra el abridor zurdo de los Padres de San Diego Robbie Ray.\n“No estoy esperando demasiado. Ha pasado un tiempo desde que juega, pero es bueno tenerlo ahí”, comentó el mánager Dave Roberts antes del juego.\nLos aficionados ovacionaron a Ohtani cuando caminó hacia el plato con “Feeling Good”, de Michael Bublé. De inmediato conectó una línea al jardín derecho con un lanzamiento de Ray en cuenta de 2-1 y los aficionados volvieron a alborotarse. Ohtani fue puesto out en segunda base cuando Will Smith bateó un rodado para una jugada de selección del fildeador hacia tercera.\nMookie Betts estuvo en el puesto habitual de primer bate de Ohtani, donde ha estado desde que la superestrella ingresó a la lista de lesionados el 8 de septiembre.\nBetts batea para .366 con seis jonrones, 21 carreras impulsadas, 13 bases por bolas y 18 carreras anotadas en 18 juegos en septiembre. Está empatado en el tercer lugar de las Grandes Ligas con 26 hits este mes, y también figura entre los líderes de la Liga Nacional este mes en hits de extrabase, carreras impulsadas, bases totales, dobles y carreras anotadas.\nOhtani jugó por última vez el 7 de septiembre contra Cincinnati y llegó bateando para .277 con 30 jonrones, 80 carreras impulsadas, 89 carreras anotadas y 80 bases por bolas en 134 juegos. En el plato se le vio físicamente limitado, sacudiendo el brazo y haciendo gestos de dolor en ocasiones.\n“Hace unas semanas se podía ver que no podía batear una recta; se quedaba por debajo de todo y el swing era más lento”, señaló Roberts. “Controlar el swing, el punto de contacto, creo que eso es algo en lo que me fijaré y, obviamente, cosas como los gestos de dolor, pero no espero ver nada de eso”.\nLos Dodgers concluyen su serie de tres juegos contra los Padres el jueves, y luego viajan a San Francisco para tres juegos contra los Giants para cerrar la temporada regular.\nEn otros movimientos, el lanzador Tarik Skubal fue reincorporado desde la lista por duelo. Está programado para abrir el viernes en San Francisco. El relevista Kyle Hurt fue enviado a Triple-A Oklahoma City.\nEl novato Josue De Paula fue enviado de vuelta a ligas menores; podría regresar para la postemporada\nCon el regreso de Ohtani, Josue De Paula bajó a la Triple-A para unirse a los Comets en los playoffs de la Pacific Coast League contra los Las Vegas Aviators. De Paula había estado en la alineación como bateador designado.\nDe Paula se convirtió rápidamente en un favorito de los aficionados durante la ausencia de Ohtani. El neoyorquino de 21 años se embasó de manera segura en 10 de sus primeros 11 juegos en las Grandes Ligas. Se fue de 3-2 con una carrera anotada y una base por bolas, mientras conseguía el primer triple de su carrera en la victoria de los Dodgers por 7-0 sobre los Padres el martes.\n___",
+    "rss_title": "Shohei Ohtani conecta un hit con los Dodgers en su regreso tras lesión",
+    "rss_body": "Por BETH HARRIS\nLOS ÁNGELES (AP) — Shohei Ohtani conectó un hit en su regreso a la alineación de los Dodgers de Los Ángeles la noche del miércoles, después de perderse dos semanas por molestias en el bíceps derecho.\nBateó segundo como bateador designado contra el abridor zurdo de los Padres de San Diego Robbie Ray.\n“No estoy esperando demasiado. Ha pasado un tiempo desde que juega, pero es bueno tenerlo ahí”, comentó el mánager Dave Roberts antes del juego.\nLos aficionados ovacionaron a Ohtani cuando caminó hacia el plato con “Feeling Good”, de Michael Bublé. De inmediato conectó una línea al jardín derecho con un lanzamiento de Ray en cuenta de 2-1 y los aficionados volvieron a alborotarse. Ohtani fue puesto out en segunda base cuando Will Smith bateó un rodado para una jugada de selección del fildeador hacia tercera.\nMookie Betts estuvo en el puesto habitual de primer bate de Ohtani, donde ha estado desde que la superestrella ingresó a la lista de lesionados el 8 de septiembre.\nBetts batea para .366 con seis jonrones, 21 carreras impulsadas, 13 bases por bolas y 18 carreras anotadas en 18 juegos en septiembre. Está empatado en el tercer lugar de las Grandes Ligas con 26 hits este mes, y también figura entre los líderes de la Liga Nacional este mes en hits de extrabase, carreras impulsadas, bases totales, dobles y carreras anotadas.\nOhtani jugó por última vez el 7 de septiembre contra Cincinnati y llegó bateando para .277 con 30 jonrones, 80 carreras impulsadas, 89 carreras anotadas y 80 bases por bolas en 134 juegos. En el plato se le vio físicamente limitado, sacudiendo el brazo y haciendo gestos de dolor en ocasiones.\n“Hace unas semanas se podía ver que no podía batear una recta; se quedaba por debajo de todo y el swing era más lento”, señaló Roberts. “Controlar el swing, el punto de contacto, creo que eso es algo en lo que me fijaré y, obviamente, cosas como los gestos de dolor, pero no espero ver nada de eso”.\nLos Dodgers concluyen su serie de tres juegos contra los Padres el jueves, y luego viajan a San Francisco para tres juegos contra los Giants para cerrar la temporada regular.\nEn otros movimientos, el lanzador Tarik Skubal fue reincorporado desde la lista por duelo. Está programado para abrir el viernes en San Francisco. El relevista Kyle Hurt fue enviado a Triple-A Oklahoma City.\nEl novato Josue De Paula fue enviado de vuelta a ligas menores; podría regresar para la postemporada\nCon el regreso de Ohtani, Josue De Paula bajó a la Triple-A para unirse a los Comets en los playoffs de la Pacific Coast League contra los Las Vegas Aviators. De Paula había estado en la alineación como bateador designado.\nDe Paula se convirtió rápidamente en un favorito de los aficionados durante la ausencia de Ohtani. El neoyorquino de 21 años se embasó de manera segura en 10 de sus primeros 11 juegos en las Grandes Ligas. Se fue de 3-2 con una carrera anotada y una base por bolas, mientras conseguía el primer triple de su carrera en la victoria de los Dodgers por 7-0 sobre los Padres el martes.\n___",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "52d725bd46fc1879e1b6",
     "title": "Shohei Ohtani returns to Dodgers’ lineup – but in a new spot",
     "source": "Orange County Register",
@@ -104,74 +184,36 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "a2c8c14d886008a4f7d2",
-    "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-    "source": "heraldglobe.com",
+    "id": "9cae1bb04f1f8ee785d8",
+    "title": "Miguel Rojas recibe el Premio Roy Campanella por tercer año consecutivo",
+    "source": "Noticias Venevisión",
     "author": "",
-    "url": "http://www.heraldglobe.com/news/279327270/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il",
-    "published_iso": "2026-09-24T01:15:00+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 01:15:00 +0000",
-    "body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "url": "https://noticiasvenevision.com/noticias/deportes/miguel-rojas-recibe-el-premio-roy-campanella-por-tercer-ano-consecutivo",
+    "published_iso": "2026-09-24T02:00:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:00:00 +0000",
+    "body": "El infielder venezolano Miguel Rojas fue galardonado con el Premio Roy Campanella en su edición 2026, reconocimiento otorgado por compañeros, cuerpo técnico y personal de los Dodgers de Los Ángeles para premiar el liderazgo, compromiso y entrega dentro y fuera del terreno de juego.\nCon este logro, el pelotero oriundo de Los Teques se convirtió en el primer integrante de la franquicia californiana en obtener esta distinción en tres campañas seguidas desde Justin Turner. \nEn la que representa su última temporada como jugador profesional en las Grandes Ligas, Rojas registra un promedio al bate de .271 con cuatro cuadrangulares y 22 carreras impulsadas en 103 compromisos disputados.\nNoticias Venevisión.",
     "tracked_people": [
       {
-        "name": "Mookie Betts",
-        "role": "Infielder / Outfielder",
+        "name": "Miguel Rojas",
+        "role": "Infielder",
         "status": "Active",
         "type": "player",
-        "id": 4,
-        "batch": 1
-      },
-      {
-        "name": "Josué De Paula",
-        "role": "Outfielder / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 11,
-        "batch": 1
-      },
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
+        "id": 55,
         "batch": 2
       }
     ],
-    "source_languages": [
-      "English"
-    ],
+    "source_languages": [],
     "source_countries": [
-      "United States"
+      "México Español"
     ],
     "discovery_sources": [
-      "GDELT"
+      "Google News"
     ],
-    "original_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-    "original_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
-    "rss_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-    "rss_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "taylorvilledailynews.com",
-        "url": "https://www.taylorvilledailynews.com/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL - Taylorville Daily News",
-        "body_characters": 1253
-      },
-      {
-        "source": "z93jamz.com",
-        "url": "https://www.z93jamz.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-        "body_characters": 1148
-      },
-      {
-        "source": "krro.com",
-        "url": "https://krro.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
-        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
-        "body_characters": 1219
-      }
-    ]
+    "original_title": "Miguel Rojas recibe el Premio Roy Campanella por tercer año consecutivo",
+    "original_body": "El infielder venezolano Miguel Rojas fue galardonado con el Premio Roy Campanella en su edición 2026, reconocimiento otorgado por compañeros, cuerpo técnico y personal de los Dodgers de Los Ángeles para premiar el liderazgo, compromiso y entrega dentro y fuera del terreno de juego.\nCon este logro, el pelotero oriundo de Los Teques se convirtió en el primer integrante de la franquicia californiana en obtener esta distinción en tres campañas seguidas desde Justin Turner. \nEn la que representa su última temporada como jugador profesional en las Grandes Ligas, Rojas registra un promedio al bate de .271 con cuatro cuadrangulares y 22 carreras impulsadas en 103 compromisos disputados.\nNoticias Venevisión.",
+    "rss_title": "Miguel Rojas recibe el Premio Roy Campanella por tercer año consecutivo",
+    "rss_body": "El infielder venezolano Miguel Rojas fue galardonado con el Premio Roy Campanella en su edición 2026, reconocimiento otorgado por compañeros, cuerpo técnico y personal de los Dodgers de Los Ángeles para premiar el liderazgo, compromiso y entrega dentro y fuera del terreno de juego.\nCon este logro, el pelotero oriundo de Los Teques se convirtió en el primer integrante de la franquicia californiana en obtener esta distinción en tres campañas seguidas desde Justin Turner. \nEn la que representa su última temporada como jugador profesional en las Grandes Ligas, Rojas registra un promedio al bate de .271 con cuatro cuadrangulares y 22 carreras impulsadas en 103 compromisos disputados.\nNoticias Venevisión.",
+    "translation_status": "fallback_original"
   },
   {
     "id": "4ecd4b9988eab6f8a372",
@@ -262,6 +304,76 @@
     "rss_title": "Blue Jays’ Vladimir Guerrero Jr. says his $500M contract was for past performance – not future results",
     "rss_body": "Vladimir Guerrero Jr. has four games left before he can put his 2026 Toronto Blue Jays season behind him.\nGuerrero, the six-time All-Star who signed the third highest-paid extension in MLB history in April 2025 at $500 million, has hit just nine home runs and slugged .359 to date for a career-low .695 OPS to date.\nThe Blue Jays, winners of the American League pennant this past season, where Guerrero was a major factor in reaching the World Series, were mathematically eliminated from this year’s postseason race as they hold a 77-81 record entering Wednesday.\nFor a player that is worth so much, especially financially, to an organization’s success, Guerrero’s down year has led to some vitriol from the Blue Jays’ fan base. And that’s likely to continue after hearing recent comments from the star infielder.\nGuerrero, 27, sat down with Telemicro News recently, where he discussed his struggles at the plate this season, and how it reflects on his contract extension.\nHis comments were, well, interesting.\n“The contract I got was based on what I did, not necessarily for what I’m going to do,” Guerrero said, as translated by MLB reporter Héctor Gómez. “I understand why the fans believe it’s the other way around. Sometimes, I think that way, too, like, ‘Oh, they give me this money, and I’m not doing enough,’ but you know I try my best, and I’m working hard.\n“The fans, I know how they are, when you are doing great they are 100% behind you. But when you are not at your best, not everybody is behind you, almost nobody supports you. Those are my real fans, the ones that are supporting me all the time.”\nAfter catching heat from Blue Jays fans, Guerrero was approached about the viral quotes, which he responded to.\n“That was a quote from the interview when she asked me how I felt about this year,” Guerrero said, via MLB.com. “I said that, obviously, I feel really bad about the year that I had, that I couldn’t help my team get to the postseason. I said I felt – that it’s my personal opinion – that every player gets paid for what they have done. With that said, you guys have got to remember that I signed my contract at the beginning of last year, then I did put up a good year. Then, the kind of playoffs that I had to help the team get into the World Series.\n“To the fans, I’ve never stopped working very hard. I am going to go into the offseason again to prepare myself the best I can. Physically, mentally, everything that I have like I always do for my team and my teammates.”\nIn Guerrero’s defense, that is technically what the Blue Jays did when they dished out his 14-year, $500 million extension, which is only behind Shohei Ohtani’s 10-year, $700 million deal with the Los Angeles Dodgers and Juan Soto’s 15-year, $765 million deal with the New York Mets. The franchise paid Guerrero for what he did from his debut in 2019 up to a fantastic 2025 campaign, where he belted eight homers and hit .397 across 18 postseason games.\nBut these comments show that Guerrero mustn’t be aware of what putting pen to money-filled paper meant in April 2025. No longer is it time in any sport, let alone Major League Baseball, where contracts are dished out based solely on past performance. It’s looking ahead to the future, where those past performances are expected to continue through a much-more lucrative deal.\nMLB franchises sign players to contracts based on the market, and that market is justified by how the player will perform for them later on, while obviously looking at the track record in the past.\nWith any investment, those dishing out the big bucks want a return.\nSo, in a season where the home run total for a slugger is less than double digits – he still has time to at least get to 10 – and a career-low WAR (albeit the 2020 COVID-shortened campaign) has been accumulated, the Blue Jays and its fan base have every right to be disappointed. Yes, Guerrero was a major reason why Toronto reached the World Series in 2025, but the team and its fans are also allowed to voice displeasure with not just a down year – a career-worst performance in various metrics.\nWould the Mets have dished out the highest-paying contract in league history if they didn’t expect Soto to continue performing at his superstar pace? No.\nWould the Dodgers have agreed to give Ohtani $700 million, with heavy deferrals, might we add, to pay him for years without helping them reach their World Series goals? No.\nFrom Mike Trout, to Mookie Betts, to Aaron Judge and the list goes on, every franchise wants to see a player they sign, especially for nine figures, to pay dividends. That’s the reality of the situation, whether Guerrero wants to view his deal as what he’s done in the past.\nThis is just one season, but Guerrero’s outlook needs to change just as much as his production moving forward on the remaining 13 years of his deal.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "a2c8c14d886008a4f7d2",
+    "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+    "source": "heraldglobe.com",
+    "author": "",
+    "url": "http://www.heraldglobe.com/news/279327270/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il",
+    "published_iso": "2026-09-24T01:15:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 01:15:00 +0000",
+    "body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+    "original_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "rss_title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+    "rss_body": "Field Level Media\n                \n24 Sep 2026, 04:35 GMT+10\n            \n(Photo credit: Jayne Kamin)\nThe Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's home game against the San Diego Padres.\nOhtani is in the lineup as the designated hitter and batting second behind Mookie Betts against Padres left-hander Robbie Ray.\nOhtani was on the injured list due to left knee and right biceps injuries. He also has been dealing with neck soreness.\nOhtani last played for the Dodgers on Sept. 7 and he hasn't homered or driven in a run in his past 13 appearances. He was 6-for-49 (.122) with 21 strikeouts during the span.\nA four-time MVP, Ohtani has 30 homers and 80 RBIs in 130 games this season. The six-time All-Star is hitting .277 with a .380 on-base percentage and .522 slugging percentage.\nIn 14 starts as a pitcher, Ohtani has an 8-2 record with a 1.79 ERA, 95 strikeouts and 26 walks in 85 2/3 innings. He last pitched on July 3 and isn't expected to take the mound again this season.\nThe Dodgers optioned rookie outfielder Josue De Paula to Triple-A Oklahoma City in a corresponding move. The club's top prospect is batting .323 with one homer and seven RBIs in 11 games with Los Angeles.\n--Field Level Media\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...\n(Photo credit: Jayne Kamin) The Los Angeles Dodgers activated two-way star Shohei Ohtani from the 15-day injured list prior to Wednesday's...\n(Photo credit: Yannick Peterhans) New York Giants edge rusher Brian Burns likely will avoid surgery on his injured left ankle, but...\n(Photo credit: Gary A. Vasquez) New York Giants quarterback Jaxson Dart will undergo surgery to repair multiple injuries to his left...\nDehradun (Uttarakhand) [India], September 24 (ANI): Mussoorie Queens and Dehradun Warriors have secured their places in the final of...",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "taylorvilledailynews.com",
+        "url": "https://www.taylorvilledailynews.com/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL - Taylorville Daily News",
+        "body_characters": 1253
+      },
+      {
+        "source": "z93jamz.com",
+        "url": "https://www.z93jamz.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+        "body_characters": 1148
+      },
+      {
+        "source": "krro.com",
+        "url": "https://krro.com/2026/09/23/dodgers-activate-shohei-ohtani-knee-biceps-from-15-day-il/",
+        "title": "Dodgers activate Shohei Ohtani (knee, biceps) from 15-day IL",
+        "body_characters": 1219
+      }
+    ]
   },
   {
     "id": "c98268b93bbc93cd6734",
