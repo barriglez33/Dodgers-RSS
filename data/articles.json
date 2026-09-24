@@ -1,5 +1,79 @@
 [
   {
+    "id": "ac9c8d3c60046027c978",
+    "title": "Dodgers notes: Postseason bullpen in a good spot",
+    "source": "truebluela.com",
+    "author": "Andy Lane Chapman",
+    "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/125201/dodgers-bullpen-postseason",
+    "published_iso": "2026-09-24T12:30:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 12:30:00 +0000",
+    "body": "Tuesday night’s game against the San Diego Padres was reminiscent of the 2024 playoffs when the Dodgers were forced to employ a bullpen in the NLDS to keep their playoff hopes alive against those same Padres. Both outcomes were the same, with the bullpen shutting down the Friars and getting a big win.\nThat postseason saw a lot of bullpen usage, and in this one the Dodgers are stacked with starters. Still, the bullpen is always a big part of the postseason.\nAs Fabian Ardaya of The Athletic points out, 41 days ago manager Dave Roberts was asking the media what choices did he truly have to deploy in the ninth inning of games. Now, he could have several options.\nEdwin Diaz, the closer they paid handsomely in the offseason, has not had a great season. He’s been on the IL twice and had an era over 11.00 at one point this summer. But since returning from his latest IL stint, he has faced 11 batters, struck out six and only allowed two to reach base.\n“I think it’s one of those things where if you’re one of the 12 pitchers on a postseason roster, you’re in the trust tree,” Roberts said “He’s put himself right smack in that conversation. Given all that he’s had to go through this year to right the ship is a big credit to him.”\nRoki Sasaki is also someone who will be in the mix for the ninth inning spot. He has also just returned from his own IL stint, pitching with dermabond on his blister. He allowed two singles, but worked around them for a scoreless inning in Tuesday night’s game. He will appear in Friday night’s game as he continues to work towards a spot in the bullpen that will likely vary as the postseason goes on.\nTanner Scott has been the Dodgers’ most reliable arm out of the bullpen this season, and Roberts has remarked how it would be nice to be able to use Scott in high leverage spots that may not come just in the ninth inning.\n“I think if there’s an opportunity, for example, for Tanner to pitch a high-leverage inning in the seventh or the eighth inning, it’s just hard to pass that up if he’s the best option right there,” Roberts said. “You just don’t know where the ninth inning is going to be.”\nRoberts also added that the team is sitting in their best position with regards to the bullpen as they have ever been. Evan Phillips and Brock Stewart round out the current options, and the team hopes that Edguardo Henriquez can recover from his back issues to appear in the playoffs. With the starters this team has overall this may be the best pitching staff the Dodgers have ever sent to the playoffs.",
+    "tracked_people": [
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Brock Stewart",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 51,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Dodgers notes: Postseason bullpen in a good spot",
+    "original_body": "Tuesday night’s game against the San Diego Padres was reminiscent of the 2024 playoffs when the Dodgers were forced to employ a bullpen in the NLDS to keep their playoff hopes alive against those same Padres. Both outcomes were the same, with the bullpen shutting down the Friars and getting a big win.\nThat postseason saw a lot of bullpen usage, and in this one the Dodgers are stacked with starters. Still, the bullpen is always a big part of the postseason.\nAs Fabian Ardaya of The Athletic points out, 41 days ago manager Dave Roberts was asking the media what choices did he truly have to deploy in the ninth inning of games. Now, he could have several options.\nEdwin Diaz, the closer they paid handsomely in the offseason, has not had a great season. He’s been on the IL twice and had an era over 11.00 at one point this summer. But since returning from his latest IL stint, he has faced 11 batters, struck out six and only allowed two to reach base.\n“I think it’s one of those things where if you’re one of the 12 pitchers on a postseason roster, you’re in the trust tree,” Roberts said “He’s put himself right smack in that conversation. Given all that he’s had to go through this year to right the ship is a big credit to him.”\nRoki Sasaki is also someone who will be in the mix for the ninth inning spot. He has also just returned from his own IL stint, pitching with dermabond on his blister. He allowed two singles, but worked around them for a scoreless inning in Tuesday night’s game. He will appear in Friday night’s game as he continues to work towards a spot in the bullpen that will likely vary as the postseason goes on.\nTanner Scott has been the Dodgers’ most reliable arm out of the bullpen this season, and Roberts has remarked how it would be nice to be able to use Scott in high leverage spots that may not come just in the ninth inning.\n“I think if there’s an opportunity, for example, for Tanner to pitch a high-leverage inning in the seventh or the eighth inning, it’s just hard to pass that up if he’s the best option right there,” Roberts said. “You just don’t know where the ninth inning is going to be.”\nRoberts also added that the team is sitting in their best position with regards to the bullpen as they have ever been. Evan Phillips and Brock Stewart round out the current options, and the team hopes that Edguardo Henriquez can recover from his back issues to appear in the playoffs. With the starters this team has overall this may be the best pitching staff the Dodgers have ever sent to the playoffs.",
+    "rss_title": "Dodgers notes: Postseason bullpen in a good spot",
+    "rss_body": "Tuesday night’s game against the San Diego Padres was reminiscent of the 2024 playoffs when the Dodgers were forced to employ a bullpen in the NLDS to keep their playoff hopes alive against those same Padres. Both outcomes were the same, with the bullpen shutting down the Friars and getting a big win.\nThat postseason saw a lot of bullpen usage, and in this one the Dodgers are stacked with starters. Still, the bullpen is always a big part of the postseason.\nAs Fabian Ardaya of The Athletic points out, 41 days ago manager Dave Roberts was asking the media what choices did he truly have to deploy in the ninth inning of games. Now, he could have several options.\nEdwin Diaz, the closer they paid handsomely in the offseason, has not had a great season. He’s been on the IL twice and had an era over 11.00 at one point this summer. But since returning from his latest IL stint, he has faced 11 batters, struck out six and only allowed two to reach base.\n“I think it’s one of those things where if you’re one of the 12 pitchers on a postseason roster, you’re in the trust tree,” Roberts said “He’s put himself right smack in that conversation. Given all that he’s had to go through this year to right the ship is a big credit to him.”\nRoki Sasaki is also someone who will be in the mix for the ninth inning spot. He has also just returned from his own IL stint, pitching with dermabond on his blister. He allowed two singles, but worked around them for a scoreless inning in Tuesday night’s game. He will appear in Friday night’s game as he continues to work towards a spot in the bullpen that will likely vary as the postseason goes on.\nTanner Scott has been the Dodgers’ most reliable arm out of the bullpen this season, and Roberts has remarked how it would be nice to be able to use Scott in high leverage spots that may not come just in the ninth inning.\n“I think if there’s an opportunity, for example, for Tanner to pitch a high-leverage inning in the seventh or the eighth inning, it’s just hard to pass that up if he’s the best option right there,” Roberts said. “You just don’t know where the ninth inning is going to be.”\nRoberts also added that the team is sitting in their best position with regards to the bullpen as they have ever been. Evan Phillips and Brock Stewart round out the current options, and the team hopes that Edguardo Henriquez can recover from his back issues to appear in the playoffs. With the starters this team has overall this may be the best pitching staff the Dodgers have ever sent to the playoffs.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "f2c06751820511c386d7",
     "title": "大谷翔平、MLB公式が「普通のことではない」と示した驚異的なスタッツ（J SPORTS） - Yahoo!ニュース",
     "source": "Yahoo!ニュース",
