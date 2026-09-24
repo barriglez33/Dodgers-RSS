@@ -1,5 +1,45 @@
 [
   {
+    "id": "f3b7f0b5546940714ee5",
+    "title": "Kyle Hurt optioned to Triple-A",
+    "source": "FantasyPros",
+    "author": "Ari Koslow",
+    "url": "https://www.fantasypros.com/mlb/news/610181/kyle-hurt-optioned-to-triple-a.php",
+    "published_iso": "2026-09-23T23:06:51+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 23:06:51 +0000",
+    "body": "by Ari Koslow | Dodgers Correspondent |\nThe Dodgers optioned RHP Kyle Hurt to Triple-A Oklahoma City.\nFantasy Impact:\nHurt will return to Triple-A to make room for Tarik Skubal.\nCategory: Transactions | More Kyle Hurt: News, Rankings, Projections, Stats",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Kyle Hurt",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 46,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Kyle Hurt optioned to Triple-A",
+    "original_body": "by Ari Koslow | Dodgers Correspondent |\nThe Dodgers optioned RHP Kyle Hurt to Triple-A Oklahoma City.\nFantasy Impact:\nHurt will return to Triple-A to make room for Tarik Skubal.\nCategory: Transactions | More Kyle Hurt: News, Rankings, Projections, Stats",
+    "rss_title": "Kyle Hurt optioned to Triple-A",
+    "rss_body": "by Ari Koslow | Dodgers Correspondent |\nThe Dodgers optioned RHP Kyle Hurt to Triple-A Oklahoma City.\nFantasy Impact:\nHurt will return to Triple-A to make room for Tarik Skubal.\nCategory: Transactions | More Kyle Hurt: News, Rankings, Projections, Stats",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "c589dbf7468d0e89b7ba",
     "title": "Dodgers activate Shohei Ohtani, demote red-hot rookie Josue De Paula to Triple-A",
     "source": "Yahoo Sports",
