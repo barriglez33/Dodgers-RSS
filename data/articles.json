@@ -1,14 +1,70 @@
 [
   {
-    "id": "88d3c9231e08e8534e35",
-    "title": "MLB 佐々木朗希、1回無失点KK 最速161.7キロ 圧巻の三者凡退に敵地沈黙 救援2戦目も好投 PSに好材料 先発から適応スムーズ（SANSPO）｜ｄメニューニュース",
-    "source": "ｄメニューニュース",
-    "author": "",
-    "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_DO4TOE3XNJM4HLRBIBPT2PS54Q",
-    "published_iso": "2026-09-26T03:56:00+00:00",
-    "published_rfc2822": "Sat, 26 Sep 2026 03:56:00 +0000",
-    "body": "ジャイアンツ−ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの佐々木朗希投手（24）が八回に救援登板。1回無安打無失点、最速100・2マイル（約161・7キロ）を計測。復帰後は2戦連続の無失点でポストシーズンに向けて好材料を重ねた。先頭打者から見逃し三振、2人目は捕邪飛、3人目は見逃し三振だった。\n佐々木は開幕ローテーションでシーズンの大半を過ごしたが、8月下旬に「右手中指のまめ」の負傷者リスト（IL）入り。その間にスネル、グラスノーの復帰目途が立ち、ポストシーズンを見据えて救援転向の判断となった。22日パドレス戦では1回2安打無失点とまずまずの内容で、今シリーズでは3試合中2試合に登板する可能性が高い。\n昨季はポストシーズンで守護神を担った右腕は、9試合登板で防御率0.84、3セーブ、2ホールドと活躍し、ワールドシリーズ2連覇に貢献した。",
+    "id": "cbd9f4533f6134c43158",
+    "title": "Skubal cruises before Sasaki, Scott prep for postseason roles",
+    "source": "MLB.com",
+    "author": "Sonja Chen",
+    "url": "https://www.mlb.com/news/tarik-skubal-throws-seven-scoreless-as-dodgers-shut-out-giants",
+    "published_iso": "2026-09-26T07:35:45+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 07:35:45 +0000",
+    "body": "SAN FRANCISCO -- Tarik Skubal was showing no signs of slowing down in what was shaping up to be his most dominant start as a Dodger. But after throwing seven scoreless innings on 75 pitches, the southpaw was shaking hands and receiving hugs in the visitors' dugout at Oracle Park.\nSkubal struck out 10, gave up just three hits and faced two batters over the minimum in his final regular-season start on Friday night.\nHis pitch count was in such a good spot that he could have made a bid for the second \"Maddux\" of his career. But when the bottom of the eighth inning came around, Skubal remained in the dugout and Roki Sasaki relieved him on the mound.\n“That was the best we’ve seen,\" manager Dave Roberts said. \"He was on a mission tonight. You could see it. Everything was working. He just went after those guys and did a fantastic job.\"\nWhile Roberts has maintained that the Dodgers won't approach their final games of the season differently with the No. 2 postseason seed locked in, the 2-0 win over the Giants was an example of how having nothing left to play for changes the calculus of in-game decisions.\nWith five days off before the NL Division Series begins on Oct. 3 at Dodger Stadium, Roberts isn't necessarily looking to use this weekend for load management. But these final games are the Dodgers' last opportunity to try out players in their postseason roles in a lower-stakes environment.\nHad this game taken place a week ago, Skubal may have stayed in to finish off his gem. But the Dodgers had already planned on having Sasaki pitch on Friday, and with only two additional games remaining for him to prepare for his postseason bullpen role, they opted not to deviate from that plan.\nSasaki got his work in, tossing a 1-2-3 eighth inning with two strikeouts in his second appearance back from the injured list. Tanner Scott closed out the victory, the Dodgers' 98th of the season -- which could be a hint at how both leverage arms will be used in the postseason.\n\"It’s better to have as many guys as you have confidence in in leverage,\" Roberts said. \"So it just allows us to deploy guys whenever we need to.\"\nFor much of Skubal's two months as a Dodger, both he and the team maintained that they had not seen him at his best on the mound. Not only was Friday his best performance yet with L.A., but it came against a team that had frustrated him just six days earlier.\nLast Saturday, Skubal lasted only five innings while allowing four runs against the Giants at Dodger Stadium. He bemoaned his lack of fastball command, which he believed was the main factor behind the disappointing results.\nSkubal didn't just have command of his fastball on Friday. He had command of everything, throwing 60 of his 75 pitches for strikes and going 21-for-23 in first-pitch strikes. He generated 21 whiffs on 43 swings (48.8%), including a season-high 12 on his fastball.\n\"I think it's the key to who I am. I think it makes me who I am,\" Skubal said. \"I don't know how many pitches I threw tonight, but felt like there were only like 14 or 15 balls out of however many throws. … I'm not going to do that every time, but I think that just speaks to conviction and the pitch-calling.\"\nSaid Giants manager Tony Vitello: \"He’s going to come right at you, so maybe we could have been a little more aggressive early. But the bottom line is, he was sharper than the other night [in L.A.], and maybe we weren’t as sharp.\"\nWhile Skubal received minimal run support -- solo homers from Teoscar Hernández and Andy Pages in the second inning -- he had no issues holding the line.\nAlong with Yoshinobu Yamamoto, Blake Snell and Tyler Glasnow, Skubal is part of the four-man gauntlet the Dodgers will run out in October. In his final tuneup, he looked postseason-ready, and then some.\n\"Once the months change and the playoffs start, nothing matters,\" Skubal said. \"It's just about winning that game, and that's how I treat every single start. Because I'm just trying to put our team in a position to win a baseball game, and that won't change from today and whenever my next start is.\"",
     "tracked_people": [
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
       {
         "name": "Roki Sasaki",
         "role": "Starting Pitcher",
@@ -16,28 +72,92 @@
         "type": "player",
         "id": 25,
         "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
       }
     ],
     "source_languages": [],
     "source_countries": [
-      "Japan Japanese"
+      "US English"
     ],
     "discovery_sources": [
       "Google News"
     ],
-    "original_title": "MLB 佐々木朗希、1回無失点KK 最速161.7キロ 圧巻の三者凡退に敵地沈黙 救援2戦目も好投 PSに好材料 先発から適応スムーズ（SANSPO）｜ｄメニューニュース",
-    "original_body": "ジャイアンツ−ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの佐々木朗希投手（24）が八回に救援登板。1回無安打無失点、最速100・2マイル（約161・7キロ）を計測。復帰後は2戦連続の無失点でポストシーズンに向けて好材料を重ねた。先頭打者から見逃し三振、2人目は捕邪飛、3人目は見逃し三振だった。\n佐々木は開幕ローテーションでシーズンの大半を過ごしたが、8月下旬に「右手中指のまめ」の負傷者リスト（IL）入り。その間にスネル、グラスノーの復帰目途が立ち、ポストシーズンを見据えて救援転向の判断となった。22日パドレス戦では1回2安打無失点とまずまずの内容で、今シリーズでは3試合中2試合に登板する可能性が高い。\n昨季はポストシーズンで守護神を担った右腕は、9試合登板で防御率0.84、3セーブ、2ホールドと活躍し、ワールドシリーズ2連覇に貢献した。",
-    "rss_title": "MLB 佐々木朗希、1回無失点KK 最速161.7キロ 圧巻の三者凡退に敵地沈黙 救援2戦目も好投 PSに好材料 先発から適応スムーズ（SANSPO）｜ｄメニューニュース",
-    "rss_body": "ジャイアンツ−ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの佐々木朗希投手（24）が八回に救援登板。1回無安打無失点、最速100・2マイル（約161・7キロ）を計測。復帰後は2戦連続の無失点でポストシーズンに向けて好材料を重ねた。先頭打者から見逃し三振、2人目は捕邪飛、3人目は見逃し三振だった。\n佐々木は開幕ローテーションでシーズンの大半を過ごしたが、8月下旬に「右手中指のまめ」の負傷者リスト（IL）入り。その間にスネル、グラスノーの復帰目途が立ち、ポストシーズンを見据えて救援転向の判断となった。22日パドレス戦では1回2安打無失点とまずまずの内容で、今シリーズでは3試合中2試合に登板する可能性が高い。\n昨季はポストシーズンで守護神を担った右腕は、9試合登板で防御率0.84、3セーブ、2ホールドと活躍し、ワールドシリーズ2連覇に貢献した。",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
+    "original_title": "Skubal cruises before Sasaki, Scott prep for postseason roles",
+    "original_body": "SAN FRANCISCO -- Tarik Skubal was showing no signs of slowing down in what was shaping up to be his most dominant start as a Dodger. But after throwing seven scoreless innings on 75 pitches, the southpaw was shaking hands and receiving hugs in the visitors' dugout at Oracle Park.\nSkubal struck out 10, gave up just three hits and faced two batters over the minimum in his final regular-season start on Friday night.\nHis pitch count was in such a good spot that he could have made a bid for the second \"Maddux\" of his career. But when the bottom of the eighth inning came around, Skubal remained in the dugout and Roki Sasaki relieved him on the mound.\n“That was the best we’ve seen,\" manager Dave Roberts said. \"He was on a mission tonight. You could see it. Everything was working. He just went after those guys and did a fantastic job.\"\nWhile Roberts has maintained that the Dodgers won't approach their final games of the season differently with the No. 2 postseason seed locked in, the 2-0 win over the Giants was an example of how having nothing left to play for changes the calculus of in-game decisions.\nWith five days off before the NL Division Series begins on Oct. 3 at Dodger Stadium, Roberts isn't necessarily looking to use this weekend for load management. But these final games are the Dodgers' last opportunity to try out players in their postseason roles in a lower-stakes environment.\nHad this game taken place a week ago, Skubal may have stayed in to finish off his gem. But the Dodgers had already planned on having Sasaki pitch on Friday, and with only two additional games remaining for him to prepare for his postseason bullpen role, they opted not to deviate from that plan.\nSasaki got his work in, tossing a 1-2-3 eighth inning with two strikeouts in his second appearance back from the injured list. Tanner Scott closed out the victory, the Dodgers' 98th of the season -- which could be a hint at how both leverage arms will be used in the postseason.\n\"It’s better to have as many guys as you have confidence in in leverage,\" Roberts said. \"So it just allows us to deploy guys whenever we need to.\"\nFor much of Skubal's two months as a Dodger, both he and the team maintained that they had not seen him at his best on the mound. Not only was Friday his best performance yet with L.A., but it came against a team that had frustrated him just six days earlier.\nLast Saturday, Skubal lasted only five innings while allowing four runs against the Giants at Dodger Stadium. He bemoaned his lack of fastball command, which he believed was the main factor behind the disappointing results.\nSkubal didn't just have command of his fastball on Friday. He had command of everything, throwing 60 of his 75 pitches for strikes and going 21-for-23 in first-pitch strikes. He generated 21 whiffs on 43 swings (48.8%), including a season-high 12 on his fastball.\n\"I think it's the key to who I am. I think it makes me who I am,\" Skubal said. \"I don't know how many pitches I threw tonight, but felt like there were only like 14 or 15 balls out of however many throws. … I'm not going to do that every time, but I think that just speaks to conviction and the pitch-calling.\"\nSaid Giants manager Tony Vitello: \"He’s going to come right at you, so maybe we could have been a little more aggressive early. But the bottom line is, he was sharper than the other night [in L.A.], and maybe we weren’t as sharp.\"\nWhile Skubal received minimal run support -- solo homers from Teoscar Hernández and Andy Pages in the second inning -- he had no issues holding the line.\nAlong with Yoshinobu Yamamoto, Blake Snell and Tyler Glasnow, Skubal is part of the four-man gauntlet the Dodgers will run out in October. In his final tuneup, he looked postseason-ready, and then some.\n\"Once the months change and the playoffs start, nothing matters,\" Skubal said. \"It's just about winning that game, and that's how I treat every single start. Because I'm just trying to put our team in a position to win a baseball game, and that won't change from today and whenever my next start is.\"",
+    "rss_title": "Skubal cruises before Sasaki, Scott prep for postseason roles",
+    "rss_body": "SAN FRANCISCO -- Tarik Skubal was showing no signs of slowing down in what was shaping up to be his most dominant start as a Dodger. But after throwing seven scoreless innings on 75 pitches, the southpaw was shaking hands and receiving hugs in the visitors' dugout at Oracle Park.\nSkubal struck out 10, gave up just three hits and faced two batters over the minimum in his final regular-season start on Friday night.\nHis pitch count was in such a good spot that he could have made a bid for the second \"Maddux\" of his career. But when the bottom of the eighth inning came around, Skubal remained in the dugout and Roki Sasaki relieved him on the mound.\n“That was the best we’ve seen,\" manager Dave Roberts said. \"He was on a mission tonight. You could see it. Everything was working. He just went after those guys and did a fantastic job.\"\nWhile Roberts has maintained that the Dodgers won't approach their final games of the season differently with the No. 2 postseason seed locked in, the 2-0 win over the Giants was an example of how having nothing left to play for changes the calculus of in-game decisions.\nWith five days off before the NL Division Series begins on Oct. 3 at Dodger Stadium, Roberts isn't necessarily looking to use this weekend for load management. But these final games are the Dodgers' last opportunity to try out players in their postseason roles in a lower-stakes environment.\nHad this game taken place a week ago, Skubal may have stayed in to finish off his gem. But the Dodgers had already planned on having Sasaki pitch on Friday, and with only two additional games remaining for him to prepare for his postseason bullpen role, they opted not to deviate from that plan.\nSasaki got his work in, tossing a 1-2-3 eighth inning with two strikeouts in his second appearance back from the injured list. Tanner Scott closed out the victory, the Dodgers' 98th of the season -- which could be a hint at how both leverage arms will be used in the postseason.\n\"It’s better to have as many guys as you have confidence in in leverage,\" Roberts said. \"So it just allows us to deploy guys whenever we need to.\"\nFor much of Skubal's two months as a Dodger, both he and the team maintained that they had not seen him at his best on the mound. Not only was Friday his best performance yet with L.A., but it came against a team that had frustrated him just six days earlier.\nLast Saturday, Skubal lasted only five innings while allowing four runs against the Giants at Dodger Stadium. He bemoaned his lack of fastball command, which he believed was the main factor behind the disappointing results.\nSkubal didn't just have command of his fastball on Friday. He had command of everything, throwing 60 of his 75 pitches for strikes and going 21-for-23 in first-pitch strikes. He generated 21 whiffs on 43 swings (48.8%), including a season-high 12 on his fastball.\n\"I think it's the key to who I am. I think it makes me who I am,\" Skubal said. \"I don't know how many pitches I threw tonight, but felt like there were only like 14 or 15 balls out of however many throws. … I'm not going to do that every time, but I think that just speaks to conviction and the pitch-calling.\"\nSaid Giants manager Tony Vitello: \"He’s going to come right at you, so maybe we could have been a little more aggressive early. But the bottom line is, he was sharper than the other night [in L.A.], and maybe we weren’t as sharp.\"\nWhile Skubal received minimal run support -- solo homers from Teoscar Hernández and Andy Pages in the second inning -- he had no issues holding the line.\nAlong with Yoshinobu Yamamoto, Blake Snell and Tyler Glasnow, Skubal is part of the four-man gauntlet the Dodgers will run out in October. In his final tuneup, he looked postseason-ready, and then some.\n\"Once the months change and the playoffs start, nothing matters,\" Skubal said. \"It's just about winning that game, and that's how I treat every single start. Because I'm just trying to put our team in a position to win a baseball game, and that won't change from today and whenever my next start is.\"",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "403cd7d53f5ea69d080a",
+    "title": "Dodgers news: Blake Snell sets the record straight on lil bro dynamic with Tarik Skubal",
+    "source": "Yahoo Sports",
+    "author": "Miguel La Torre; ClutchPoints",
+    "url": "https://sports.yahoo.com/articles/dodgers-news-blake-snell-sets-064811667.html",
+    "published_iso": "2026-09-26T06:48:00+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 06:48:00 +0000",
+    "body": "Dodgers news: Blake Snell sets the record straight on lil bro dynamic with Tarik Skubal appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nBlake Snell has had enough of the confusion. The Dodgers left-hander joined the broadcast booth during Friday's game against the Giants and used the airtime to settle a running clubhouse debate with Tarik Skubal, who has been calling him the younger of the two.\n\"We got to get this right, you know, it's a lot of comments and people don't know who big bro and little bro is,\" Snell said in the middle of the game. \"I'm big bro. Little bro's right there.\"\nBlake Snell trying to set the record straight on who is big bro and lil bro with Tarik Skubal 🤣🤣🤣 pic.twitter.com/SAMX7Vdwg5\nWatch sports LIVE with fuboTV (free trial)\n— Dodgers Nation (@DodgersNation) September 26, 2026\nHe then turned his attention to the man on the mound. \"You never know what he's gonna say,\" Snell said. \"Little bro, he's a crazy guy. But he's throwing cheese right now.\"\nSnell has the math on his side. He turns 34 in December, while Skubal is 29, making the older-brother claim fairly straightforward. That has not stopped Skubal from insisting otherwise.\nThe dispute went public after the Dodgers clinched the NL West on Sept. 17 with an 8-2 win over the Reds. Amid the celebration, Skubal made his own declaration on camera. \"This is my best friend,\" he said. \"He's my little brother.\"\nThe two have leaned into the bit hard since Los Angeles acquired Skubal from the Tigers at the trade deadline. They have pulled pranks on each other in the clubhouse, knocked over each other's chairs, and traded Step Brothers-inspired jokes on social media. Skubal recently posted an AI-generated video of the pair rapping Migos' \"Hotel Lobby,\" captioned simply with a reference to his \"lil bro.\"\nThat post drew attention beyond the joke. Skubal is set to become an unrestricted free agent this offseason, and Dodgers fans have read his comfort in the clubhouse as a sign he may want to stay. He has gone 4-2 with a 2.95 ERA across nine starts since the trade.\nSnell, meanwhile, is working his way back after leaving a start against Cincinnati with left groin tightness. Both are expected to anchor a postseason rotation alongside Yoshinobu Yamamoto, with Tyler Glasnow also in the mix if health allows.\nWhatever the birth order, Los Angeles will take both of them in October.\nRelated: Dodgers set to receive huge Dalton Rushing boost right before playoffs",
+    "tracked_people": [
       {
-        "source": "ｄメニューニュース",
-        "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_YRS6DETK7JMTJISHLCE7F7ZIQI",
-        "title": "MLB 佐々木朗希、セットアッパー〝テスト〟もパス 圧巻ピッチで守護神つなぐ 紆余曲折経た過程が力「技術は磨いてきた」 次戦はRS最終戦（SANSPO）｜ｄメニューニュース",
-        "body_characters": 365
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
       }
-    ]
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers news: Blake Snell sets the record straight on lil bro dynamic with Tarik Skubal",
+    "original_body": "Dodgers news: Blake Snell sets the record straight on lil bro dynamic with Tarik Skubal appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nBlake Snell has had enough of the confusion. The Dodgers left-hander joined the broadcast booth during Friday's game against the Giants and used the airtime to settle a running clubhouse debate with Tarik Skubal, who has been calling him the younger of the two.\n\"We got to get this right, you know, it's a lot of comments and people don't know who big bro and little bro is,\" Snell said in the middle of the game. \"I'm big bro. Little bro's right there.\"\nBlake Snell trying to set the record straight on who is big bro and lil bro with Tarik Skubal 🤣🤣🤣 pic.twitter.com/SAMX7Vdwg5\nWatch sports LIVE with fuboTV (free trial)\n— Dodgers Nation (@DodgersNation) September 26, 2026\nHe then turned his attention to the man on the mound. \"You never know what he's gonna say,\" Snell said. \"Little bro, he's a crazy guy. But he's throwing cheese right now.\"\nSnell has the math on his side. He turns 34 in December, while Skubal is 29, making the older-brother claim fairly straightforward. That has not stopped Skubal from insisting otherwise.\nThe dispute went public after the Dodgers clinched the NL West on Sept. 17 with an 8-2 win over the Reds. Amid the celebration, Skubal made his own declaration on camera. \"This is my best friend,\" he said. \"He's my little brother.\"\nThe two have leaned into the bit hard since Los Angeles acquired Skubal from the Tigers at the trade deadline. They have pulled pranks on each other in the clubhouse, knocked over each other's chairs, and traded Step Brothers-inspired jokes on social media. Skubal recently posted an AI-generated video of the pair rapping Migos' \"Hotel Lobby,\" captioned simply with a reference to his \"lil bro.\"\nThat post drew attention beyond the joke. Skubal is set to become an unrestricted free agent this offseason, and Dodgers fans have read his comfort in the clubhouse as a sign he may want to stay. He has gone 4-2 with a 2.95 ERA across nine starts since the trade.\nSnell, meanwhile, is working his way back after leaving a start against Cincinnati with left groin tightness. Both are expected to anchor a postseason rotation alongside Yoshinobu Yamamoto, with Tyler Glasnow also in the mix if health allows.\nWhatever the birth order, Los Angeles will take both of them in October.\nRelated: Dodgers set to receive huge Dalton Rushing boost right before playoffs",
+    "rss_title": "Dodgers news: Blake Snell sets the record straight on lil bro dynamic with Tarik Skubal",
+    "rss_body": "Dodgers news: Blake Snell sets the record straight on lil bro dynamic with Tarik Skubal appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\nBlake Snell has had enough of the confusion. The Dodgers left-hander joined the broadcast booth during Friday's game against the Giants and used the airtime to settle a running clubhouse debate with Tarik Skubal, who has been calling him the younger of the two.\n\"We got to get this right, you know, it's a lot of comments and people don't know who big bro and little bro is,\" Snell said in the middle of the game. \"I'm big bro. Little bro's right there.\"\nBlake Snell trying to set the record straight on who is big bro and lil bro with Tarik Skubal 🤣🤣🤣 pic.twitter.com/SAMX7Vdwg5\nWatch sports LIVE with fuboTV (free trial)\n— Dodgers Nation (@DodgersNation) September 26, 2026\nHe then turned his attention to the man on the mound. \"You never know what he's gonna say,\" Snell said. \"Little bro, he's a crazy guy. But he's throwing cheese right now.\"\nSnell has the math on his side. He turns 34 in December, while Skubal is 29, making the older-brother claim fairly straightforward. That has not stopped Skubal from insisting otherwise.\nThe dispute went public after the Dodgers clinched the NL West on Sept. 17 with an 8-2 win over the Reds. Amid the celebration, Skubal made his own declaration on camera. \"This is my best friend,\" he said. \"He's my little brother.\"\nThe two have leaned into the bit hard since Los Angeles acquired Skubal from the Tigers at the trade deadline. They have pulled pranks on each other in the clubhouse, knocked over each other's chairs, and traded Step Brothers-inspired jokes on social media. Skubal recently posted an AI-generated video of the pair rapping Migos' \"Hotel Lobby,\" captioned simply with a reference to his \"lil bro.\"\nThat post drew attention beyond the joke. Skubal is set to become an unrestricted free agent this offseason, and Dodgers fans have read his comfort in the clubhouse as a sign he may want to stay. He has gone 4-2 with a 2.95 ERA across nine starts since the trade.\nSnell, meanwhile, is working his way back after leaving a start against Cincinnati with left groin tightness. Both are expected to anchor a postseason rotation alongside Yoshinobu Yamamoto, with Tyler Glasnow also in the mix if health allows.\nWhatever the birth order, Los Angeles will take both of them in October.\nRelated: Dodgers set to receive huge Dalton Rushing boost right before playoffs",
+    "translation_status": "fallback_original"
   },
   {
     "id": "8a34718cffcd1f636cba",
@@ -566,6 +686,46 @@
     "rss_title": "【MLB】ドジャース100勝まで「2」…残り2戦 佐々木朗希、圧巻救援1回無失点KK 最速161.7キロ大谷翔平3三振 復帰3戦目は沈黙",
     "rss_body": "ジャイアンツ0－2ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの大谷翔平投手（32）がジャイアンツ戦に「1番・DH」で出場し、4打数無安打3三振。復帰3戦目は快音聞かれず、連続安打は2、連続出塁は5でストップした。\n大谷は一回、先頭でカウント2－2からABSチャレンジで判定が覆り、見逃し三振。二回は一塁へ鋭い打球を放ったが、一塁手の好守にさばかれ、凡退。五回は1死一塁からボール球に手を出し、空振り三振に倒れた。七回1死は見逃し三振だった。\n先発したスクバルは7回3安打無失点、10奪三振の快投で12勝目（7敗）。八回から救援した佐々木朗希投手（24）は1回無安打無失点2奪三振で、最速100.5マイル（約161.7キロ）を計測するなど救援登板2度目も好投だった。ドジャースは２−０で勝ち、98勝目を挙げ、2023年以来となるシーズン100勝に残り「2」と迫った。",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "88d3c9231e08e8534e35",
+    "title": "MLB 佐々木朗希、1回無失点KK 最速161.7キロ 圧巻の三者凡退に敵地沈黙 救援2戦目も好投 PSに好材料 先発から適応スムーズ（SANSPO）｜ｄメニューニュース",
+    "source": "ｄメニューニュース",
+    "author": "",
+    "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_DO4TOE3XNJM4HLRBIBPT2PS54Q",
+    "published_iso": "2026-09-26T03:56:00+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 03:56:00 +0000",
+    "body": "ジャイアンツ−ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの佐々木朗希投手（24）が八回に救援登板。1回無安打無失点、最速100・2マイル（約161・7キロ）を計測。復帰後は2戦連続の無失点でポストシーズンに向けて好材料を重ねた。先頭打者から見逃し三振、2人目は捕邪飛、3人目は見逃し三振だった。\n佐々木は開幕ローテーションでシーズンの大半を過ごしたが、8月下旬に「右手中指のまめ」の負傷者リスト（IL）入り。その間にスネル、グラスノーの復帰目途が立ち、ポストシーズンを見据えて救援転向の判断となった。22日パドレス戦では1回2安打無失点とまずまずの内容で、今シリーズでは3試合中2試合に登板する可能性が高い。\n昨季はポストシーズンで守護神を担った右腕は、9試合登板で防御率0.84、3セーブ、2ホールドと活躍し、ワールドシリーズ2連覇に貢献した。",
+    "tracked_people": [
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "MLB 佐々木朗希、1回無失点KK 最速161.7キロ 圧巻の三者凡退に敵地沈黙 救援2戦目も好投 PSに好材料 先発から適応スムーズ（SANSPO）｜ｄメニューニュース",
+    "original_body": "ジャイアンツ−ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの佐々木朗希投手（24）が八回に救援登板。1回無安打無失点、最速100・2マイル（約161・7キロ）を計測。復帰後は2戦連続の無失点でポストシーズンに向けて好材料を重ねた。先頭打者から見逃し三振、2人目は捕邪飛、3人目は見逃し三振だった。\n佐々木は開幕ローテーションでシーズンの大半を過ごしたが、8月下旬に「右手中指のまめ」の負傷者リスト（IL）入り。その間にスネル、グラスノーの復帰目途が立ち、ポストシーズンを見据えて救援転向の判断となった。22日パドレス戦では1回2安打無失点とまずまずの内容で、今シリーズでは3試合中2試合に登板する可能性が高い。\n昨季はポストシーズンで守護神を担った右腕は、9試合登板で防御率0.84、3セーブ、2ホールドと活躍し、ワールドシリーズ2連覇に貢献した。",
+    "rss_title": "MLB 佐々木朗希、1回無失点KK 最速161.7キロ 圧巻の三者凡退に敵地沈黙 救援2戦目も好投 PSに好材料 先発から適応スムーズ（SANSPO）｜ｄメニューニュース",
+    "rss_body": "ジャイアンツ−ドジャース（25日、サンフランシスコ）米大リーグ、ドジャースの佐々木朗希投手（24）が八回に救援登板。1回無安打無失点、最速100・2マイル（約161・7キロ）を計測。復帰後は2戦連続の無失点でポストシーズンに向けて好材料を重ねた。先頭打者から見逃し三振、2人目は捕邪飛、3人目は見逃し三振だった。\n佐々木は開幕ローテーションでシーズンの大半を過ごしたが、8月下旬に「右手中指のまめ」の負傷者リスト（IL）入り。その間にスネル、グラスノーの復帰目途が立ち、ポストシーズンを見据えて救援転向の判断となった。22日パドレス戦では1回2安打無失点とまずまずの内容で、今シリーズでは3試合中2試合に登板する可能性が高い。\n昨季はポストシーズンで守護神を担った右腕は、9試合登板で防御率0.84、3セーブ、2ホールドと活躍し、ワールドシリーズ2連覇に貢献した。",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "ｄメニューニュース",
+        "url": "https://topics.smt.docomo.ne.jp/article/sanspo/sports/sanspo-_sports_baseball_mlb_YRS6DETK7JMTJISHLCE7F7ZIQI",
+        "title": "MLB 佐々木朗希、セットアッパー〝テスト〟もパス 圧巻ピッチで守護神つなぐ 紆余曲折経た過程が力「技術は磨いてきた」 次戦はRS最終戦（SANSPO）｜ｄメニューニュース",
+        "body_characters": 365
+      }
+    ]
   },
   {
     "id": "37ea7c2a45c6c937ec8c",
