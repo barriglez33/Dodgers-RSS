@@ -1,5 +1,125 @@
 [
   {
+    "id": "eeae384f6b89d6bee3af",
+    "title": "Blake Snell healthy in final tuneup, Kiké Hernández home run beats Giants",
+    "source": "True Blue LA",
+    "author": "Eric Stephen",
+    "url": "https://www.truebluela.com/dodgers-scores-standings/125511/blake-snell-enrique-hernandez-mookie-betts-giants",
+    "published_iso": "2026-09-26T22:54:03+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 22:54:03 +0000",
+    "body": "Blake Snell looked healthy in his final regular season start and Kiké Hernández homered in the ninth inning to give the Dodgers a 4-3 win over the Giants on Saturday afternoon at Oracle Park in San Francisco.\nSnell allowed only one run in his four innings and at the very least showed no limitations from leaving his start with left groin tightness on September 16 in Cincinnati. The Dodgers weren’t going to push Snell on Saturday, but more wanted to make sure he got one more start in before the postseason starts in a week.\n“If he can go five innings and come out of it feeling great, that would be fantastic,” manager Dave Roberts told reporters at Oracle Park earlier Saturday, as shown on SportsNet LA. “There’s a balance between getting your work in and making sure you feel good coming out of it.”\nSnell threw 77 pitches in his four innings so he wasn’t all that efficient, though he didn’t walk anyone and threw his two fastest pitches of the season — first-inning fastballs at 98.6 mph and 98.2 mph — while averaging 96.8 mph on the fastball on Saturday.\nThe lone run came when Jonah Cox doubled to open the third inning, stole third base, and scored on a sacrifice fly.\nSan Francisco swiped two bases Saturday off Snell, who has allowed 10 steals in his nine starts this season. But Snell has limited the damage by simply not allowing many people to reach, with only 25 hits and 14 walks in 39 2/3 innings, a .260 on-base percentage since returning from the injured list.\nSnell since returning allowed only five runs, never more than one in any start. On the season he did not allow a home run, his 42 2/3 innings the seventh-most by a Dodgers pitcher in the live-ball era without giving up a long ball.\nMost Dodgers innings without allowing a home run\n| Pitcher | Season | Innings | ERA | \n| Jack Billingham | 1968 | 71 1/3 | 2.14 | \n| Brandon League | 2014 | 63 | 2.57 | \n| Newt Kimball | 1941 | 52 | 3.63 | \n| Joe Beimel | 2008 | 49 | 2.02 | \n| Dutch Henry | 1924 | 46 | 5.67 | \n| Brandon Morrow | 2017 | 43 2/3 | 2.06 | \n| Blake Snell | 2026 | 42 2/3 | 1.90 | \nJust like last Sunday at Dodger Stadium, the Dodgers did the bulk of their damage after Matt Wilkinson left. The rookie left-hander, who pitched five scoreless innings in Los Angeles before the Dodgers scored single runs in the next three innings to complete a weekend sweep, on Saturday held the Dodgers without a run until Mookie Betts hit one into the left field seats in the third inning.\nBetts has seven home runs in September, after hitting five combined home runs in July and August. It’s been a month to remember for Betts, who raised his seasonal OPS from .701 at the start of September to .783 now, with just one day remaining in the regular season.\nWilkinson was done after three innings, and the Dodgers immediately responded with four singles and a walk in the fourth inning to score two runs.\nSan Francisco clawed back with single runs in the seventh and eighth innings, before Hernández took Trent Harris deep to open the ninth inning.\nTreinen hurt?\nBrock Stewart pitched the bottom of the seventh inning but was allotted extra warm-up pitches as he entered the game. He wasn’t warming up in the bullpen before getting called in, but Blake Treinen was before suddenly stopping. In the top of the eighth, the SportsNet LA broadcast showed footage from the Dodgers bullpen, showing bullpen coach Josh Bard embracing Treinen, then of Treinen walking back to the Dodgers dugout and clubhouse with trainer Bernard Li.\nTreinen missed two and a half months with elbow inflammation before returning in September, when he has allowed three runs in 6 2/3 innings, with three walks and six strikeouts.\nSaturday particulars\nHome runs: Mookie Betts (23), Kiké Hernández (4)\nWP — Evan Phillips (3-2): 1 IP, 1 hit, 1 run, 1 strikeout\nLP — Trent Harris (0-1): 1 IP, 2 hits, 1 run\nSv — Tanner Scott (25): 1 IP, 1 hit, 2 strikeouts",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Blake Treinen",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Brock Stewart",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 51,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Blake Snell healthy in final tuneup, Kiké Hernández home run beats Giants",
+    "original_body": "Blake Snell looked healthy in his final regular season start and Kiké Hernández homered in the ninth inning to give the Dodgers a 4-3 win over the Giants on Saturday afternoon at Oracle Park in San Francisco.\nSnell allowed only one run in his four innings and at the very least showed no limitations from leaving his start with left groin tightness on September 16 in Cincinnati. The Dodgers weren’t going to push Snell on Saturday, but more wanted to make sure he got one more start in before the postseason starts in a week.\n“If he can go five innings and come out of it feeling great, that would be fantastic,” manager Dave Roberts told reporters at Oracle Park earlier Saturday, as shown on SportsNet LA. “There’s a balance between getting your work in and making sure you feel good coming out of it.”\nSnell threw 77 pitches in his four innings so he wasn’t all that efficient, though he didn’t walk anyone and threw his two fastest pitches of the season — first-inning fastballs at 98.6 mph and 98.2 mph — while averaging 96.8 mph on the fastball on Saturday.\nThe lone run came when Jonah Cox doubled to open the third inning, stole third base, and scored on a sacrifice fly.\nSan Francisco swiped two bases Saturday off Snell, who has allowed 10 steals in his nine starts this season. But Snell has limited the damage by simply not allowing many people to reach, with only 25 hits and 14 walks in 39 2/3 innings, a .260 on-base percentage since returning from the injured list.\nSnell since returning allowed only five runs, never more than one in any start. On the season he did not allow a home run, his 42 2/3 innings the seventh-most by a Dodgers pitcher in the live-ball era without giving up a long ball.\nMost Dodgers innings without allowing a home run\n| Pitcher | Season | Innings | ERA | \n| Jack Billingham | 1968 | 71 1/3 | 2.14 | \n| Brandon League | 2014 | 63 | 2.57 | \n| Newt Kimball | 1941 | 52 | 3.63 | \n| Joe Beimel | 2008 | 49 | 2.02 | \n| Dutch Henry | 1924 | 46 | 5.67 | \n| Brandon Morrow | 2017 | 43 2/3 | 2.06 | \n| Blake Snell | 2026 | 42 2/3 | 1.90 | \nJust like last Sunday at Dodger Stadium, the Dodgers did the bulk of their damage after Matt Wilkinson left. The rookie left-hander, who pitched five scoreless innings in Los Angeles before the Dodgers scored single runs in the next three innings to complete a weekend sweep, on Saturday held the Dodgers without a run until Mookie Betts hit one into the left field seats in the third inning.\nBetts has seven home runs in September, after hitting five combined home runs in July and August. It’s been a month to remember for Betts, who raised his seasonal OPS from .701 at the start of September to .783 now, with just one day remaining in the regular season.\nWilkinson was done after three innings, and the Dodgers immediately responded with four singles and a walk in the fourth inning to score two runs.\nSan Francisco clawed back with single runs in the seventh and eighth innings, before Hernández took Trent Harris deep to open the ninth inning.\nTreinen hurt?\nBrock Stewart pitched the bottom of the seventh inning but was allotted extra warm-up pitches as he entered the game. He wasn’t warming up in the bullpen before getting called in, but Blake Treinen was before suddenly stopping. In the top of the eighth, the SportsNet LA broadcast showed footage from the Dodgers bullpen, showing bullpen coach Josh Bard embracing Treinen, then of Treinen walking back to the Dodgers dugout and clubhouse with trainer Bernard Li.\nTreinen missed two and a half months with elbow inflammation before returning in September, when he has allowed three runs in 6 2/3 innings, with three walks and six strikeouts.\nSaturday particulars\nHome runs: Mookie Betts (23), Kiké Hernández (4)\nWP — Evan Phillips (3-2): 1 IP, 1 hit, 1 run, 1 strikeout\nLP — Trent Harris (0-1): 1 IP, 2 hits, 1 run\nSv — Tanner Scott (25): 1 IP, 1 hit, 2 strikeouts",
+    "rss_title": "Blake Snell healthy in final tuneup, Kiké Hernández home run beats Giants",
+    "rss_body": "Blake Snell looked healthy in his final regular season start and Kiké Hernández homered in the ninth inning to give the Dodgers a 4-3 win over the Giants on Saturday afternoon at Oracle Park in San Francisco.\nSnell allowed only one run in his four innings and at the very least showed no limitations from leaving his start with left groin tightness on September 16 in Cincinnati. The Dodgers weren’t going to push Snell on Saturday, but more wanted to make sure he got one more start in before the postseason starts in a week.\n“If he can go five innings and come out of it feeling great, that would be fantastic,” manager Dave Roberts told reporters at Oracle Park earlier Saturday, as shown on SportsNet LA. “There’s a balance between getting your work in and making sure you feel good coming out of it.”\nSnell threw 77 pitches in his four innings so he wasn’t all that efficient, though he didn’t walk anyone and threw his two fastest pitches of the season — first-inning fastballs at 98.6 mph and 98.2 mph — while averaging 96.8 mph on the fastball on Saturday.\nThe lone run came when Jonah Cox doubled to open the third inning, stole third base, and scored on a sacrifice fly.\nSan Francisco swiped two bases Saturday off Snell, who has allowed 10 steals in his nine starts this season. But Snell has limited the damage by simply not allowing many people to reach, with only 25 hits and 14 walks in 39 2/3 innings, a .260 on-base percentage since returning from the injured list.\nSnell since returning allowed only five runs, never more than one in any start. On the season he did not allow a home run, his 42 2/3 innings the seventh-most by a Dodgers pitcher in the live-ball era without giving up a long ball.\nMost Dodgers innings without allowing a home run\n| Pitcher | Season | Innings | ERA | \n| Jack Billingham | 1968 | 71 1/3 | 2.14 | \n| Brandon League | 2014 | 63 | 2.57 | \n| Newt Kimball | 1941 | 52 | 3.63 | \n| Joe Beimel | 2008 | 49 | 2.02 | \n| Dutch Henry | 1924 | 46 | 5.67 | \n| Brandon Morrow | 2017 | 43 2/3 | 2.06 | \n| Blake Snell | 2026 | 42 2/3 | 1.90 | \nJust like last Sunday at Dodger Stadium, the Dodgers did the bulk of their damage after Matt Wilkinson left. The rookie left-hander, who pitched five scoreless innings in Los Angeles before the Dodgers scored single runs in the next three innings to complete a weekend sweep, on Saturday held the Dodgers without a run until Mookie Betts hit one into the left field seats in the third inning.\nBetts has seven home runs in September, after hitting five combined home runs in July and August. It’s been a month to remember for Betts, who raised his seasonal OPS from .701 at the start of September to .783 now, with just one day remaining in the regular season.\nWilkinson was done after three innings, and the Dodgers immediately responded with four singles and a walk in the fourth inning to score two runs.\nSan Francisco clawed back with single runs in the seventh and eighth innings, before Hernández took Trent Harris deep to open the ninth inning.\nTreinen hurt?\nBrock Stewart pitched the bottom of the seventh inning but was allotted extra warm-up pitches as he entered the game. He wasn’t warming up in the bullpen before getting called in, but Blake Treinen was before suddenly stopping. In the top of the eighth, the SportsNet LA broadcast showed footage from the Dodgers bullpen, showing bullpen coach Josh Bard embracing Treinen, then of Treinen walking back to the Dodgers dugout and clubhouse with trainer Bernard Li.\nTreinen missed two and a half months with elbow inflammation before returning in September, when he has allowed three runs in 6 2/3 innings, with three walks and six strikeouts.\nSaturday particulars\nHome runs: Mookie Betts (23), Kiké Hernández (4)\nWP — Evan Phillips (3-2): 1 IP, 1 hit, 1 run, 1 strikeout\nLP — Trent Harris (0-1): 1 IP, 2 hits, 1 run\nSv — Tanner Scott (25): 1 IP, 1 hit, 2 strikeouts",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "00577942aafc81c7b24a",
+    "title": "Hernández pesca a Whitcomb en 2da, se mantiene | 26/09/2026",
+    "source": "MLB.com",
+    "author": "",
+    "url": "https://www.mlb.com/es/video/shay-whitcomb-singles-on-a-sharp-line-drive-to-left-fielder-teoscar-herna",
+    "published_iso": "2026-09-26T21:24:37+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 21:24:37 +0000",
+    "body": "Hernández pesca a Whitcomb en 2da, se mantiene\nDodgers @ Giants\n26 de septiembre de 2026 | 00:00:14\nTras una revisión, la llamada en el campo se mantiene y Teóscar Hernández pesca a Shay Whitcomb para poner fin a la parte baja de la 4ta\n- Tipo de Pitcheo: Recta de Cuatro Costuras\n- Velocidad de Pitcheo: 96.5 mph\n- Velocidad de Giro: 2494 rpm\nBOTTOM 4\n, 2 Out",
+    "tracked_people": [
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Hernández pesca a Whitcomb en 2da, se mantiene | 26/09/2026",
+    "original_body": "Hernández pesca a Whitcomb en 2da, se mantiene\nDodgers @ Giants\n26 de septiembre de 2026 | 00:00:14\nTras una revisión, la llamada en el campo se mantiene y Teóscar Hernández pesca a Shay Whitcomb para poner fin a la parte baja de la 4ta\n- Tipo de Pitcheo: Recta de Cuatro Costuras\n- Velocidad de Pitcheo: 96.5 mph\n- Velocidad de Giro: 2494 rpm\nBOTTOM 4\n, 2 Out",
+    "rss_title": "Hernández pesca a Whitcomb en 2da, se mantiene | 26/09/2026",
+    "rss_body": "Hernández pesca a Whitcomb en 2da, se mantiene\nDodgers @ Giants\n26 de septiembre de 2026 | 00:00:14\nTras una revisión, la llamada en el campo se mantiene y Teóscar Hernández pesca a Shay Whitcomb para poner fin a la parte baja de la 4ta\n- Tipo de Pitcheo: Recta de Cuatro Costuras\n- Velocidad de Pitcheo: 96.5 mph\n- Velocidad de Giro: 2494 rpm\nBOTTOM 4\n, 2 Out",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "558e29255e138af2a26d",
     "title": "Dodgers Lineup vs. Giants: Freddie Freeman Sits, Miguel Rojas Returns",
     "source": "Dodgers Nation",
@@ -118,94 +238,6 @@
     "rss_title": "Dodgers Lineup vs. Giants: Freddie Freeman Sits, Miguel Rojas Returns",
     "rss_body": "The Los Angeles Dodgers face the San Francisco Giants in the second game of the regular season’s final series.\nThe Dodgers will rotate in veterans with something to provide heading into the postseason, with Freddie Freeman notably absent for Saturday’s game.\nDodgers Lineup\n1. Mookie Betts, SS\n2. Shohei Ohtani, DH\n3. Will Smith, C\n4. Teoscar Hernandez, LF\n5. Kyle Tucker, RF\n6. Miguel Rojas, 3B\n7. Andy Pages, CF\n8. Kike Hernandez, 1B\n9. Tommy Edman, 2B\nThe Dodgers are facing lefty Matt Wilkinson, which lets Rojas and Kike Hernandez enter the mix in a favorable matchup with a righty-heavy lineup.\nThe biggest note of the game is that once again, Mookie Betts is batting leadoff, while Shohei Ohtani is hitting second.\nManager Dave Roberts has made it clear that Ohtani wasn’t guaranteed to hit leadoff against lefties, and with Betts continuing to deliver quality plate appearances, the Dodgers skipper is willing to start the order with Betts.\nAt-bats from Andy Pages, Kike Hernandez, Miguel Rojas, and Tommy Edman are all worth monitoring. Pages is still somewhat fresh off the injured list, while Tommy Edman has been in a slump.\nRojas and Hernandez feature so inconsistently that they are always worth following whenever they play.\nWho is pitching for the Dodgers?\nBlake Snell starts against the Giants after being pulled early in his last outing. Snell, who has a history of groin injuries, had some groin soreness surface against the Cincinnati Reds last week.\nInitial concern about his postseason viability grew, and as a key member of the rotation, the Dodgers could ill-afford to lose him.\nThe injury doesn’t seem major, and Snell has a chance to get some pitching work before October kicks into high gear.\nIn terms of actual pitching production, Snell sits at the top, with elite stuff and sharp command.\nIf he is fully sharp, Snell can carry a team in the postseason, and while the Dodgers don’t need that this week, next week will be a different story.",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "a137113decf333b7ce27",
-    "title": "Dodgers Activate Dalton Rushing; Option Alex Freeland",
-    "source": "DodgersBeat",
-    "author": "Cody Snavely",
-    "url": "https://dodgersbeat.com/dodgers-activate-dalton-rushing/",
-    "published_iso": "2026-09-26T00:11:15+00:00",
-    "published_rfc2822": "Sat, 26 Sep 2026 00:11:15 +0000",
-    "body": "SAN FRANCISCO, CA—As expected, before Game One of a three-game series against the San Francisco Giants, the Los Angeles Dodgers activated left-handed-hitting catcher Dalton Rushing from the 10-day injured list.\nIn order to make room on the 28-man roster, the Dodgers optioned infielder Alex Freeland to Triple-A Oklahoma City.\nFor Rushing, these next three games are his final chance to make his case for a spot on the Dodgers’ postseason roster. Because of his UCL injury, his role will be limited to pinch-hitting off the bench, but the second-year catcher has one last chance to show the Dodgers he can still provide an impact bat when October arrives.\nThis is Rushing’s second return from the injured list this month for the same injury, as the lefty lasted only eight at-bats before heading back to the IL and receiving a PRP injection to calm the pain.\nIn that time, while no longer on the roster due to the activation of Shohei Ohtani, the role of a left-handed hitter off the bench is also down to Josue De Paula, who posted an OPS over 1.000 and hit .323 in his short but successful stint at the major league level.\nAs for Alex Freeland is headed back to the Minors after joining the Dodgers when active rosters expanded on September 1st. At the time, the Dodgers opted for Freeland over an outfield prospect despite Teoscar Hernández and Kyle Tucker both struggling, with James Tibbs III appearing to be the expected choice for that extra position-player spot.\nInstead, Freeland got the call and put together a solid month, hitting .250/.413/.389 with two doubles, one home run and two RBI across 17 games, including 10 starts. He last appeared Saturday against the San Francisco Giants.\nIt was an inconsistent season overall for the 25-year-old, who surprisingly made the Dodgers’ Opening Day roster over Hyeseong Kim. Freeland showed flashes at both the Major League level and with Oklahoma City, and with this move, he can rejoin the Comets for their Triple-A National Championship Game in Las Vegas on Saturday.\nUnfortunately for Freeland, being optioned this late in the season also closes the door on a potential postseason roster spot. He cannot be added to the Dodgers’ National League Division Series roster in time for Game One on Saturday, October 3rd, unless he replaces a player who is placed on the injured list.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!\nCody Snavely has been the co-editor of DodgersBeat and full-time host of the Bleed Los Podcast since February 2023. He has also written for multiple websites, such as Dodgers Way, Dodgers Low-Down, and Dodgers Tailgate. A Wilmington University graduate, Snavely is an avid Dodgers fan who uses his advanced baseball knowledge to keep fans updated on the latest storylines, rumors, and opinions on Dodgers baseball.",
-    "tracked_people": [
-      {
-        "name": "Alex Freeland",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 8,
-        "batch": 1
-      },
-      {
-        "name": "Kyle Tucker",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 9,
-        "batch": 1
-      },
-      {
-        "name": "Teoscar Hernández",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 10,
-        "batch": 1
-      },
-      {
-        "name": "Josué De Paula",
-        "role": "Outfielder / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 11,
-        "batch": 1
-      },
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
-        "batch": 2
-      },
-      {
-        "name": "Dalton Rushing",
-        "role": "Catcher / DH",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 23,
-        "batch": 2
-      },
-      {
-        "name": "Hyeseong Kim",
-        "role": "Infielder",
-        "status": "Minors",
-        "type": "player",
-        "id": 54,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Dodgers Activate Dalton Rushing; Option Alex Freeland",
-    "original_body": "SAN FRANCISCO, CA—As expected, before Game One of a three-game series against the San Francisco Giants, the Los Angeles Dodgers activated left-handed-hitting catcher Dalton Rushing from the 10-day injured list.\nIn order to make room on the 28-man roster, the Dodgers optioned infielder Alex Freeland to Triple-A Oklahoma City.\nFor Rushing, these next three games are his final chance to make his case for a spot on the Dodgers’ postseason roster. Because of his UCL injury, his role will be limited to pinch-hitting off the bench, but the second-year catcher has one last chance to show the Dodgers he can still provide an impact bat when October arrives.\nThis is Rushing’s second return from the injured list this month for the same injury, as the lefty lasted only eight at-bats before heading back to the IL and receiving a PRP injection to calm the pain.\nIn that time, while no longer on the roster due to the activation of Shohei Ohtani, the role of a left-handed hitter off the bench is also down to Josue De Paula, who posted an OPS over 1.000 and hit .323 in his short but successful stint at the major league level.\nAs for Alex Freeland is headed back to the Minors after joining the Dodgers when active rosters expanded on September 1st. At the time, the Dodgers opted for Freeland over an outfield prospect despite Teoscar Hernández and Kyle Tucker both struggling, with James Tibbs III appearing to be the expected choice for that extra position-player spot.\nInstead, Freeland got the call and put together a solid month, hitting .250/.413/.389 with two doubles, one home run and two RBI across 17 games, including 10 starts. He last appeared Saturday against the San Francisco Giants.\nIt was an inconsistent season overall for the 25-year-old, who surprisingly made the Dodgers’ Opening Day roster over Hyeseong Kim. Freeland showed flashes at both the Major League level and with Oklahoma City, and with this move, he can rejoin the Comets for their Triple-A National Championship Game in Las Vegas on Saturday.\nUnfortunately for Freeland, being optioned this late in the season also closes the door on a potential postseason roster spot. He cannot be added to the Dodgers’ National League Division Series roster in time for Game One on Saturday, October 3rd, unless he replaces a player who is placed on the injured list.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!\nCody Snavely has been the co-editor of DodgersBeat and full-time host of the Bleed Los Podcast since February 2023. He has also written for multiple websites, such as Dodgers Way, Dodgers Low-Down, and Dodgers Tailgate. A Wilmington University graduate, Snavely is an avid Dodgers fan who uses his advanced baseball knowledge to keep fans updated on the latest storylines, rumors, and opinions on Dodgers baseball.",
-    "rss_title": "Dodgers Activate Dalton Rushing; Option Alex Freeland",
-    "rss_body": "SAN FRANCISCO, CA—As expected, before Game One of a three-game series against the San Francisco Giants, the Los Angeles Dodgers activated left-handed-hitting catcher Dalton Rushing from the 10-day injured list.\nIn order to make room on the 28-man roster, the Dodgers optioned infielder Alex Freeland to Triple-A Oklahoma City.\nFor Rushing, these next three games are his final chance to make his case for a spot on the Dodgers’ postseason roster. Because of his UCL injury, his role will be limited to pinch-hitting off the bench, but the second-year catcher has one last chance to show the Dodgers he can still provide an impact bat when October arrives.\nThis is Rushing’s second return from the injured list this month for the same injury, as the lefty lasted only eight at-bats before heading back to the IL and receiving a PRP injection to calm the pain.\nIn that time, while no longer on the roster due to the activation of Shohei Ohtani, the role of a left-handed hitter off the bench is also down to Josue De Paula, who posted an OPS over 1.000 and hit .323 in his short but successful stint at the major league level.\nAs for Alex Freeland is headed back to the Minors after joining the Dodgers when active rosters expanded on September 1st. At the time, the Dodgers opted for Freeland over an outfield prospect despite Teoscar Hernández and Kyle Tucker both struggling, with James Tibbs III appearing to be the expected choice for that extra position-player spot.\nInstead, Freeland got the call and put together a solid month, hitting .250/.413/.389 with two doubles, one home run and two RBI across 17 games, including 10 starts. He last appeared Saturday against the San Francisco Giants.\nIt was an inconsistent season overall for the 25-year-old, who surprisingly made the Dodgers’ Opening Day roster over Hyeseong Kim. Freeland showed flashes at both the Major League level and with Oklahoma City, and with this move, he can rejoin the Comets for their Triple-A National Championship Game in Las Vegas on Saturday.\nUnfortunately for Freeland, being optioned this late in the season also closes the door on a potential postseason roster spot. He cannot be added to the Dodgers’ National League Division Series roster in time for Game One on Saturday, October 3rd, unless he replaces a player who is placed on the injured list.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!\nCody Snavely has been the co-editor of DodgersBeat and full-time host of the Bleed Los Podcast since February 2023. He has also written for multiple websites, such as Dodgers Way, Dodgers Low-Down, and Dodgers Tailgate. A Wilmington University graduate, Snavely is an avid Dodgers fan who uses his advanced baseball knowledge to keep fans updated on the latest storylines, rumors, and opinions on Dodgers baseball.",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/dodgers-activate-dalton-rushing-option-183501672.html",
-        "title": "Dodgers activate Dalton Rushing, option Alex Freeland",
-        "body_characters": 2365
-      }
-    ]
   },
   {
     "id": "225800ee1acbb7293b3b",
@@ -2086,6 +2118,94 @@
     "rss_title": "Dodgers Fans Get Good News on Edgardo Henriquez's Injury Recovery",
     "rss_body": "The Los Angeles Dodgers received an update on right-hander Edgardo Henriquez's recovery timeline Wednesday, potentially clearing the way for him to return in time for the NLDS.\nHenriquez threw a bullpen session for the first time since landing on the injured list. Henriquez was placed on the injured list on September 14 with lower back discomfort that ended his regular season. According to Fabian Ardaya of The Athletic, Henriquez had been managing the issue for nearly a month before going on the IL.\nHenriquez has been a large part of the Dodgers' bullpen this season. He has appeared in 61 games, pitching to a 2.85 ERA with 71 strikeouts against 25 walks. His numbers put him in the conversation as one of the Dodgers' most reliable options in high-leverage situations before the injury.\nThe Dodgers left open the possibility of a postseason return when they placed Henriquez on the IL, and with Wednesday's bullpen session, it appears that will be the case. Henriquez would still have to increase his workload before the Dodgers would be comfortable with his return, especially with higher stakes in the postseason.\nGetting Henriquez back would bode well for the Dodgers, who understand the importance of a deep bullpen in the postseason. They will need every edge they can get, and Henriquez is one of the other swing-and-miss arms that can help them reach the World Series for a third straight year.\nSome positive injury news for the Dodgers: Edgardo Henriquez said he threw a bullpen session yesterday, his first since landing on the IL. His back is in a better spot after dealing with some discomfort for about a month. \nHe said he thinks he can be ready for the NLDS.\nThe Dodgers will monitor his workload closely before deciding whether he's ready for the NLDS roster.\nThe Greatest Dodgers of All-Time\nThis story was originally published by Athlon Sports on Sep 25, 2026, where it first appeared in the MLB section. Add Athlon Sports as a Preferred Source by clicking here.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "a137113decf333b7ce27",
+    "title": "Dodgers Activate Dalton Rushing; Option Alex Freeland",
+    "source": "DodgersBeat",
+    "author": "Cody Snavely",
+    "url": "https://dodgersbeat.com/dodgers-activate-dalton-rushing/",
+    "published_iso": "2026-09-26T00:11:15+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:11:15 +0000",
+    "body": "SAN FRANCISCO, CA—As expected, before Game One of a three-game series against the San Francisco Giants, the Los Angeles Dodgers activated left-handed-hitting catcher Dalton Rushing from the 10-day injured list.\nIn order to make room on the 28-man roster, the Dodgers optioned infielder Alex Freeland to Triple-A Oklahoma City.\nFor Rushing, these next three games are his final chance to make his case for a spot on the Dodgers’ postseason roster. Because of his UCL injury, his role will be limited to pinch-hitting off the bench, but the second-year catcher has one last chance to show the Dodgers he can still provide an impact bat when October arrives.\nThis is Rushing’s second return from the injured list this month for the same injury, as the lefty lasted only eight at-bats before heading back to the IL and receiving a PRP injection to calm the pain.\nIn that time, while no longer on the roster due to the activation of Shohei Ohtani, the role of a left-handed hitter off the bench is also down to Josue De Paula, who posted an OPS over 1.000 and hit .323 in his short but successful stint at the major league level.\nAs for Alex Freeland is headed back to the Minors after joining the Dodgers when active rosters expanded on September 1st. At the time, the Dodgers opted for Freeland over an outfield prospect despite Teoscar Hernández and Kyle Tucker both struggling, with James Tibbs III appearing to be the expected choice for that extra position-player spot.\nInstead, Freeland got the call and put together a solid month, hitting .250/.413/.389 with two doubles, one home run and two RBI across 17 games, including 10 starts. He last appeared Saturday against the San Francisco Giants.\nIt was an inconsistent season overall for the 25-year-old, who surprisingly made the Dodgers’ Opening Day roster over Hyeseong Kim. Freeland showed flashes at both the Major League level and with Oklahoma City, and with this move, he can rejoin the Comets for their Triple-A National Championship Game in Las Vegas on Saturday.\nUnfortunately for Freeland, being optioned this late in the season also closes the door on a potential postseason roster spot. He cannot be added to the Dodgers’ National League Division Series roster in time for Game One on Saturday, October 3rd, unless he replaces a player who is placed on the injured list.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!\nCody Snavely has been the co-editor of DodgersBeat and full-time host of the Bleed Los Podcast since February 2023. He has also written for multiple websites, such as Dodgers Way, Dodgers Low-Down, and Dodgers Tailgate. A Wilmington University graduate, Snavely is an avid Dodgers fan who uses his advanced baseball knowledge to keep fans updated on the latest storylines, rumors, and opinions on Dodgers baseball.",
+    "tracked_people": [
+      {
+        "name": "Alex Freeland",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Hyeseong Kim",
+        "role": "Infielder",
+        "status": "Minors",
+        "type": "player",
+        "id": 54,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers Activate Dalton Rushing; Option Alex Freeland",
+    "original_body": "SAN FRANCISCO, CA—As expected, before Game One of a three-game series against the San Francisco Giants, the Los Angeles Dodgers activated left-handed-hitting catcher Dalton Rushing from the 10-day injured list.\nIn order to make room on the 28-man roster, the Dodgers optioned infielder Alex Freeland to Triple-A Oklahoma City.\nFor Rushing, these next three games are his final chance to make his case for a spot on the Dodgers’ postseason roster. Because of his UCL injury, his role will be limited to pinch-hitting off the bench, but the second-year catcher has one last chance to show the Dodgers he can still provide an impact bat when October arrives.\nThis is Rushing’s second return from the injured list this month for the same injury, as the lefty lasted only eight at-bats before heading back to the IL and receiving a PRP injection to calm the pain.\nIn that time, while no longer on the roster due to the activation of Shohei Ohtani, the role of a left-handed hitter off the bench is also down to Josue De Paula, who posted an OPS over 1.000 and hit .323 in his short but successful stint at the major league level.\nAs for Alex Freeland is headed back to the Minors after joining the Dodgers when active rosters expanded on September 1st. At the time, the Dodgers opted for Freeland over an outfield prospect despite Teoscar Hernández and Kyle Tucker both struggling, with James Tibbs III appearing to be the expected choice for that extra position-player spot.\nInstead, Freeland got the call and put together a solid month, hitting .250/.413/.389 with two doubles, one home run and two RBI across 17 games, including 10 starts. He last appeared Saturday against the San Francisco Giants.\nIt was an inconsistent season overall for the 25-year-old, who surprisingly made the Dodgers’ Opening Day roster over Hyeseong Kim. Freeland showed flashes at both the Major League level and with Oklahoma City, and with this move, he can rejoin the Comets for their Triple-A National Championship Game in Las Vegas on Saturday.\nUnfortunately for Freeland, being optioned this late in the season also closes the door on a potential postseason roster spot. He cannot be added to the Dodgers’ National League Division Series roster in time for Game One on Saturday, October 3rd, unless he replaces a player who is placed on the injured list.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!\nCody Snavely has been the co-editor of DodgersBeat and full-time host of the Bleed Los Podcast since February 2023. He has also written for multiple websites, such as Dodgers Way, Dodgers Low-Down, and Dodgers Tailgate. A Wilmington University graduate, Snavely is an avid Dodgers fan who uses his advanced baseball knowledge to keep fans updated on the latest storylines, rumors, and opinions on Dodgers baseball.",
+    "rss_title": "Dodgers Activate Dalton Rushing; Option Alex Freeland",
+    "rss_body": "SAN FRANCISCO, CA—As expected, before Game One of a three-game series against the San Francisco Giants, the Los Angeles Dodgers activated left-handed-hitting catcher Dalton Rushing from the 10-day injured list.\nIn order to make room on the 28-man roster, the Dodgers optioned infielder Alex Freeland to Triple-A Oklahoma City.\nFor Rushing, these next three games are his final chance to make his case for a spot on the Dodgers’ postseason roster. Because of his UCL injury, his role will be limited to pinch-hitting off the bench, but the second-year catcher has one last chance to show the Dodgers he can still provide an impact bat when October arrives.\nThis is Rushing’s second return from the injured list this month for the same injury, as the lefty lasted only eight at-bats before heading back to the IL and receiving a PRP injection to calm the pain.\nIn that time, while no longer on the roster due to the activation of Shohei Ohtani, the role of a left-handed hitter off the bench is also down to Josue De Paula, who posted an OPS over 1.000 and hit .323 in his short but successful stint at the major league level.\nAs for Alex Freeland is headed back to the Minors after joining the Dodgers when active rosters expanded on September 1st. At the time, the Dodgers opted for Freeland over an outfield prospect despite Teoscar Hernández and Kyle Tucker both struggling, with James Tibbs III appearing to be the expected choice for that extra position-player spot.\nInstead, Freeland got the call and put together a solid month, hitting .250/.413/.389 with two doubles, one home run and two RBI across 17 games, including 10 starts. He last appeared Saturday against the San Francisco Giants.\nIt was an inconsistent season overall for the 25-year-old, who surprisingly made the Dodgers’ Opening Day roster over Hyeseong Kim. Freeland showed flashes at both the Major League level and with Oklahoma City, and with this move, he can rejoin the Comets for their Triple-A National Championship Game in Las Vegas on Saturday.\nUnfortunately for Freeland, being optioned this late in the season also closes the door on a potential postseason roster spot. He cannot be added to the Dodgers’ National League Division Series roster in time for Game One on Saturday, October 3rd, unless he replaces a player who is placed on the injured list.\nMore Dodgers Coverage:\nHave you subscribed to the Bleed Los Podcast YouTube channel? Be sure to ring the notification bell to watch player interviews, participate in shows & promotions, and stay up to date on all Dodgers news and rumors!\nCody Snavely has been the co-editor of DodgersBeat and full-time host of the Bleed Los Podcast since February 2023. He has also written for multiple websites, such as Dodgers Way, Dodgers Low-Down, and Dodgers Tailgate. A Wilmington University graduate, Snavely is an avid Dodgers fan who uses his advanced baseball knowledge to keep fans updated on the latest storylines, rumors, and opinions on Dodgers baseball.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/dodgers-activate-dalton-rushing-option-183501672.html",
+        "title": "Dodgers activate Dalton Rushing, option Alex Freeland",
+        "body_characters": 2365
+      }
+    ]
   },
   {
     "id": "4a0c88205ae297fef7ec",
