@@ -1,5 +1,245 @@
 [
   {
+    "id": "8a34718cffcd1f636cba",
+    "title": "Roki Sasaki, Tanner Scott look like Dodgers’ playoff bullpen anchors",
+    "source": "New York Post",
+    "author": "Dylan Hernandez",
+    "url": "https://nypost.com/2026/09/26/sports/roki-sasaki-tanner-scott-look-like-dodgers-playoff-bullpen-anchors/",
+    "published_iso": "2026-09-26T06:25:00+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 06:25:00 +0000",
+    "body": "SAN FRANCISCO – The sequence was promising on paper. In practice on Friday night, it was spectacular.\nRoki Sasaki in the eighth inning.\nTanner Scott in the ninth.\nManager Dave Roberts emphasized they wouldn’t necessarily be deployed in that order come the playoffs, but their performances in the Dodgers’ 2-0 victory over the Giants indicated they could be the foundation of a championship-caliber bullpen for the Dodgers.\n“I don’t want you to pigeonhole me into using these guys in certain roles, but, yeah, I think it’s just better to have as many guys that you have confidence in leverage (situations),” Roberts said.\nSasaki followed a seven-inning effort by starter Tarik Skubal by striking out two batters in a perfect eighth inning.\nScott retired the side in the ninth to record his 24th save.\nOn their World Series run last year, the bullpen was something the Dodgers had to work around. They were extremely dependent on their starting pitchers, whom they counted on not only to pitch deeper into games but also make relief contributions. Sasaki’s emergence as closer was as much a reflection of their lack of options as it was of the Japanese fireballer’s gifts.\nThe Dodgers should enter the playoffs next month with an entirely different feel.\nScott has recovered from his nightmare season last year, looking more like the Padres relief ace who shut down Shohei Ohtani in the 2024 playoffs to earn a $72-million payday with the Dodgers.\nAs for the 24-year-old Sasaki, he looks even better as a reliever than he did last year.\n“I think the fastball’s better,” Roberts said. “I think the split’s better. It’s also nice that he’s already done it. So, just in total, he’s just a better pitcher than he was last year and a lot more confident. And certainly, the stuff was really good the last couple outings.”\nFour of the six fastballs Sasaki threw were clocked at faster than 100 mph.\nThe other two registered readings of more than 99 mph.\n“Overall, he just keeps getting better,” Scott said. “Even when he was starting, I thought he was pretty dominant. For him to get moved to the bullpen as we go into October, it’s huge for us.”\nSasaki started seven games after the All-Star break and was 2-0 with a 3.05 earned-run average. A blister on his pitching hand landed him on the injured list. When he returned earlier this week, he did so as a reliever.\nHe also struck out two batters in his other relief appearance, a scoreless inning on Tuesday against the San Diego Padres.\n“Throughout the season, I’ve sharpened myself technically,” Sasaki said in Japanese. “Compared to last year, I feel much better in that respect.”\nSasaki will likely pitch next in the regular-season finale on Sunday, Roberts said.\nHe could close out games again in October, as Roberts said there could be games in which he calls on Scott to pitch against a particularly dangerous segment of the opposing lineup earlier in the game.\nScott said he was open to pitching in any situation.\n“Just get outs,” Scott said. “That’s all that matters in October. Get outs.\n“October is about winning every single game. It really doesn’t matter what roles you get asked to do. Just go out there and do it.”",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Roki Sasaki, Tanner Scott look like Dodgers’ playoff bullpen anchors",
+    "original_body": "SAN FRANCISCO – The sequence was promising on paper. In practice on Friday night, it was spectacular.\nRoki Sasaki in the eighth inning.\nTanner Scott in the ninth.\nManager Dave Roberts emphasized they wouldn’t necessarily be deployed in that order come the playoffs, but their performances in the Dodgers’ 2-0 victory over the Giants indicated they could be the foundation of a championship-caliber bullpen for the Dodgers.\n“I don’t want you to pigeonhole me into using these guys in certain roles, but, yeah, I think it’s just better to have as many guys that you have confidence in leverage (situations),” Roberts said.\nSasaki followed a seven-inning effort by starter Tarik Skubal by striking out two batters in a perfect eighth inning.\nScott retired the side in the ninth to record his 24th save.\nOn their World Series run last year, the bullpen was something the Dodgers had to work around. They were extremely dependent on their starting pitchers, whom they counted on not only to pitch deeper into games but also make relief contributions. Sasaki’s emergence as closer was as much a reflection of their lack of options as it was of the Japanese fireballer’s gifts.\nThe Dodgers should enter the playoffs next month with an entirely different feel.\nScott has recovered from his nightmare season last year, looking more like the Padres relief ace who shut down Shohei Ohtani in the 2024 playoffs to earn a $72-million payday with the Dodgers.\nAs for the 24-year-old Sasaki, he looks even better as a reliever than he did last year.\n“I think the fastball’s better,” Roberts said. “I think the split’s better. It’s also nice that he’s already done it. So, just in total, he’s just a better pitcher than he was last year and a lot more confident. And certainly, the stuff was really good the last couple outings.”\nFour of the six fastballs Sasaki threw were clocked at faster than 100 mph.\nThe other two registered readings of more than 99 mph.\n“Overall, he just keeps getting better,” Scott said. “Even when he was starting, I thought he was pretty dominant. For him to get moved to the bullpen as we go into October, it’s huge for us.”\nSasaki started seven games after the All-Star break and was 2-0 with a 3.05 earned-run average. A blister on his pitching hand landed him on the injured list. When he returned earlier this week, he did so as a reliever.\nHe also struck out two batters in his other relief appearance, a scoreless inning on Tuesday against the San Diego Padres.\n“Throughout the season, I’ve sharpened myself technically,” Sasaki said in Japanese. “Compared to last year, I feel much better in that respect.”\nSasaki will likely pitch next in the regular-season finale on Sunday, Roberts said.\nHe could close out games again in October, as Roberts said there could be games in which he calls on Scott to pitch against a particularly dangerous segment of the opposing lineup earlier in the game.\nScott said he was open to pitching in any situation.\n“Just get outs,” Scott said. “That’s all that matters in October. Get outs.\n“October is about winning every single game. It really doesn’t matter what roles you get asked to do. Just go out there and do it.”",
+    "rss_title": "Roki Sasaki, Tanner Scott look like Dodgers’ playoff bullpen anchors",
+    "rss_body": "SAN FRANCISCO – The sequence was promising on paper. In practice on Friday night, it was spectacular.\nRoki Sasaki in the eighth inning.\nTanner Scott in the ninth.\nManager Dave Roberts emphasized they wouldn’t necessarily be deployed in that order come the playoffs, but their performances in the Dodgers’ 2-0 victory over the Giants indicated they could be the foundation of a championship-caliber bullpen for the Dodgers.\n“I don’t want you to pigeonhole me into using these guys in certain roles, but, yeah, I think it’s just better to have as many guys that you have confidence in leverage (situations),” Roberts said.\nSasaki followed a seven-inning effort by starter Tarik Skubal by striking out two batters in a perfect eighth inning.\nScott retired the side in the ninth to record his 24th save.\nOn their World Series run last year, the bullpen was something the Dodgers had to work around. They were extremely dependent on their starting pitchers, whom they counted on not only to pitch deeper into games but also make relief contributions. Sasaki’s emergence as closer was as much a reflection of their lack of options as it was of the Japanese fireballer’s gifts.\nThe Dodgers should enter the playoffs next month with an entirely different feel.\nScott has recovered from his nightmare season last year, looking more like the Padres relief ace who shut down Shohei Ohtani in the 2024 playoffs to earn a $72-million payday with the Dodgers.\nAs for the 24-year-old Sasaki, he looks even better as a reliever than he did last year.\n“I think the fastball’s better,” Roberts said. “I think the split’s better. It’s also nice that he’s already done it. So, just in total, he’s just a better pitcher than he was last year and a lot more confident. And certainly, the stuff was really good the last couple outings.”\nFour of the six fastballs Sasaki threw were clocked at faster than 100 mph.\nThe other two registered readings of more than 99 mph.\n“Overall, he just keeps getting better,” Scott said. “Even when he was starting, I thought he was pretty dominant. For him to get moved to the bullpen as we go into October, it’s huge for us.”\nSasaki started seven games after the All-Star break and was 2-0 with a 3.05 earned-run average. A blister on his pitching hand landed him on the injured list. When he returned earlier this week, he did so as a reliever.\nHe also struck out two batters in his other relief appearance, a scoreless inning on Tuesday against the San Diego Padres.\n“Throughout the season, I’ve sharpened myself technically,” Sasaki said in Japanese. “Compared to last year, I feel much better in that respect.”\nSasaki will likely pitch next in the regular-season finale on Sunday, Roberts said.\nHe could close out games again in October, as Roberts said there could be games in which he calls on Scott to pitch against a particularly dangerous segment of the opposing lineup earlier in the game.\nScott said he was open to pitching in any situation.\n“Just get outs,” Scott said. “That’s all that matters in October. Get outs.\n“October is about winning every single game. It really doesn’t matter what roles you get asked to do. Just go out there and do it.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "f3fd373abed39695897e",
+    "title": "Dodgers' Will Smith: Three knocks in win",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-will-smith-three-knocks-in-win/",
+    "published_iso": "2026-09-26T05:35:59+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 05:35:59 +0000",
+    "body": "Smith went 3-for-4 in Friday's 2-0 win over the Giants.\nSmith's trio of singles Friday accounted for his third multi-hit effort over his last seven games. The catcher is batting .458 (11-for-24) in that span. For the season, he's hitting .259 with a .782 OPS, 10 home runs, 34 RBI, 34 runs scored, nine doubles and no stolen bases over 72 contests.",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Will Smith: Three knocks in win",
+    "original_body": "Smith went 3-for-4 in Friday's 2-0 win over the Giants.\nSmith's trio of singles Friday accounted for his third multi-hit effort over his last seven games. The catcher is batting .458 (11-for-24) in that span. For the season, he's hitting .259 with a .782 OPS, 10 home runs, 34 RBI, 34 runs scored, nine doubles and no stolen bases over 72 contests.",
+    "rss_title": "Dodgers' Will Smith: Three knocks in win",
+    "rss_body": "Smith went 3-for-4 in Friday's 2-0 win over the Giants.\nSmith's trio of singles Friday accounted for his third multi-hit effort over his last seven games. The catcher is batting .458 (11-for-24) in that span. For the season, he's hitting .259 with a .782 OPS, 10 home runs, 34 RBI, 34 runs scored, nine doubles and no stolen bases over 72 contests.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "c135c73ed10eea047045",
+    "title": "Dodgers' Teoscar Hernandez: Opens scoring with homer",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-teoscar-hernandez-opens-scoring-with-homer/",
+    "published_iso": "2026-09-26T05:34:18+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 05:34:18 +0000",
+    "body": "Hernandez went 1-for-4 with a solo home run in Friday's 2-0 win over the Giants.\nHernandez's six-game hitting streak ended Thursday, but he bounced back with a homer in his first at-bat Friday. That blast was all the Dodgers needed to get this win. Hernandez is now batting .268 with a .763 OPS, 16 long balls, 64 RBI, 66 runs scored, 17 doubles, two triples and five stolen bases over 123 games. In September, he's hitting .354 with a .997 OPS, getting hot at just the right time.",
+    "tracked_people": [
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Teoscar Hernandez: Opens scoring with homer",
+    "original_body": "Hernandez went 1-for-4 with a solo home run in Friday's 2-0 win over the Giants.\nHernandez's six-game hitting streak ended Thursday, but he bounced back with a homer in his first at-bat Friday. That blast was all the Dodgers needed to get this win. Hernandez is now batting .268 with a .763 OPS, 16 long balls, 64 RBI, 66 runs scored, 17 doubles, two triples and five stolen bases over 123 games. In September, he's hitting .354 with a .997 OPS, getting hot at just the right time.",
+    "rss_title": "Dodgers' Teoscar Hernandez: Opens scoring with homer",
+    "rss_body": "Hernandez went 1-for-4 with a solo home run in Friday's 2-0 win over the Giants.\nHernandez's six-game hitting streak ended Thursday, but he bounced back with a homer in his first at-bat Friday. That blast was all the Dodgers needed to get this win. Hernandez is now batting .268 with a .763 OPS, 16 long balls, 64 RBI, 66 runs scored, 17 doubles, two triples and five stolen bases over 123 games. In September, he's hitting .354 with a .997 OPS, getting hot at just the right time.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "46579ed7fd53aa06d67a",
+    "title": "Dodgers' Tanner Scott: Clean inning for 24th save",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-tanner-scott-clean-inning-for-24th-save/",
+    "published_iso": "2026-09-26T05:30:32+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 05:30:32 +0000",
+    "body": "Scott struck out two in a perfect inning to earn the save in Friday's 2-0 win over the Giants.\nScott has locked in late in the campaign, pitching four consecutive scoreless innings with two saves and a hold over his last four appearances. The left-hander will likely enter the postseason as the Dodgers' closer after filling that role over multiple stints this season while Edwin Diaz battled injuries and ineffective pitching. Scott has earned 24 saves, 13 holds and four blown saves while pitching to a 2.73 ERA, 0.99 WHIP and 80:15 K:BB through 62.2 innings.",
+    "tracked_people": [
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Tanner Scott: Clean inning for 24th save",
+    "original_body": "Scott struck out two in a perfect inning to earn the save in Friday's 2-0 win over the Giants.\nScott has locked in late in the campaign, pitching four consecutive scoreless innings with two saves and a hold over his last four appearances. The left-hander will likely enter the postseason as the Dodgers' closer after filling that role over multiple stints this season while Edwin Diaz battled injuries and ineffective pitching. Scott has earned 24 saves, 13 holds and four blown saves while pitching to a 2.73 ERA, 0.99 WHIP and 80:15 K:BB through 62.2 innings.",
+    "rss_title": "Dodgers' Tanner Scott: Clean inning for 24th save",
+    "rss_body": "Scott struck out two in a perfect inning to earn the save in Friday's 2-0 win over the Giants.\nScott has locked in late in the campaign, pitching four consecutive scoreless innings with two saves and a hold over his last four appearances. The left-hander will likely enter the postseason as the Dodgers' closer after filling that role over multiple stints this season while Edwin Diaz battled injuries and ineffective pitching. Scott has earned 24 saves, 13 holds and four blown saves while pitching to a 2.73 ERA, 0.99 WHIP and 80:15 K:BB through 62.2 innings.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "24b8932a518b77c0d10b",
+    "title": "Los Dodgers blanquean a los Gigantes con 2 jonrones y 10 ponches de Skubal",
+    "source": "Los Angeles Times",
+    "author": "JANIE McCAULEY",
+    "url": "https://www.latimes.com/espanol/deportes/articulo/2026-09-25/los-dodgers-blanquean-los-gigantes-con-2-jonrones-y-10-ponches-de-skubal",
+    "published_iso": "2026-09-26T04:50:00+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 04:50:00 +0000",
+    "body": "Los Dodgers blanquean a los Gigantes con 2 jonrones y 10 ponches de Skubal\nSAN FRANCISCO — Teoscar Hernández y Andy Pagés conectaron jonrones en la segunda entrada para respaldar la actuación de Tarik Skubal, quien permitió tres hits en siete innings, y los Dodgers de Los Ángeles vencieron 2-0 a los Gigantes de San Francisco la noche del viernes.\nShohei Ohtani se fue de 4-0 con tres ponches en su tercer juego de regreso tras una estadía de 13 partidos en la lista de lesionados debido a molestias en el bíceps derecho.\nSkubal (12-7) ponchó a 10, incluidos cuatro consecutivos durante un tramo, y no otorgó bases por bolas en su décima apertura con los bicampeones defensores de la Serie Mundial desde que fue adquirido de Detroit el 2 de agosto. Los Dodgers habían ganado cada una de sus seis salidas anteriores, mientras él tuvo marca de 4-0 en sus últimas cuatro decisiones a lo largo de seis aperturas desde una derrota ante Milwaukee el 16 de agosto.\nFue el cuarto juego de la temporada del ganador vigente en dos ocasiones del premio Cy Young de la Liga Americana con ponches de doble dígito, el segundo con Los Ángeles.\nRoki Sasaki lanzó un octavo inning perfecto con un par de ponches antes de que Tanner Scott cerrara el juego, que duró una hora y 53 minutos, para su 24to salvamento. Fue el segundo juego más rápido en los 27 años de historia del estadio.\nEl abridor de los Gigantes, el dominicano Yunior Marte (0-2), permitió los dos jonrones entre los seis hits que concedió en cinco innings. Más temprano en el día, San Francisco dio la bienvenida de regreso al ex cerrador Camilo Doval, reclamado en waivers después de que lo traspasaran a los Yankees antes de la fecha límite de cambios de 2025. ___",
+    "tracked_people": [
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Los Dodgers blanquean a los Gigantes con 2 jonrones y 10 ponches de Skubal",
+    "original_body": "Los Dodgers blanquean a los Gigantes con 2 jonrones y 10 ponches de Skubal\nSAN FRANCISCO — Teoscar Hernández y Andy Pagés conectaron jonrones en la segunda entrada para respaldar la actuación de Tarik Skubal, quien permitió tres hits en siete innings, y los Dodgers de Los Ángeles vencieron 2-0 a los Gigantes de San Francisco la noche del viernes.\nShohei Ohtani se fue de 4-0 con tres ponches en su tercer juego de regreso tras una estadía de 13 partidos en la lista de lesionados debido a molestias en el bíceps derecho.\nSkubal (12-7) ponchó a 10, incluidos cuatro consecutivos durante un tramo, y no otorgó bases por bolas en su décima apertura con los bicampeones defensores de la Serie Mundial desde que fue adquirido de Detroit el 2 de agosto. Los Dodgers habían ganado cada una de sus seis salidas anteriores, mientras él tuvo marca de 4-0 en sus últimas cuatro decisiones a lo largo de seis aperturas desde una derrota ante Milwaukee el 16 de agosto.\nFue el cuarto juego de la temporada del ganador vigente en dos ocasiones del premio Cy Young de la Liga Americana con ponches de doble dígito, el segundo con Los Ángeles.\nRoki Sasaki lanzó un octavo inning perfecto con un par de ponches antes de que Tanner Scott cerrara el juego, que duró una hora y 53 minutos, para su 24to salvamento. Fue el segundo juego más rápido en los 27 años de historia del estadio.\nEl abridor de los Gigantes, el dominicano Yunior Marte (0-2), permitió los dos jonrones entre los seis hits que concedió en cinco innings. Más temprano en el día, San Francisco dio la bienvenida de regreso al ex cerrador Camilo Doval, reclamado en waivers después de que lo traspasaran a los Yankees antes de la fecha límite de cambios de 2025. ___",
+    "rss_title": "Los Dodgers blanquean a los Gigantes con 2 jonrones y 10 ponches de Skubal",
+    "rss_body": "Los Dodgers blanquean a los Gigantes con 2 jonrones y 10 ponches de Skubal\nSAN FRANCISCO — Teoscar Hernández y Andy Pagés conectaron jonrones en la segunda entrada para respaldar la actuación de Tarik Skubal, quien permitió tres hits en siete innings, y los Dodgers de Los Ángeles vencieron 2-0 a los Gigantes de San Francisco la noche del viernes.\nShohei Ohtani se fue de 4-0 con tres ponches en su tercer juego de regreso tras una estadía de 13 partidos en la lista de lesionados debido a molestias en el bíceps derecho.\nSkubal (12-7) ponchó a 10, incluidos cuatro consecutivos durante un tramo, y no otorgó bases por bolas en su décima apertura con los bicampeones defensores de la Serie Mundial desde que fue adquirido de Detroit el 2 de agosto. Los Dodgers habían ganado cada una de sus seis salidas anteriores, mientras él tuvo marca de 4-0 en sus últimas cuatro decisiones a lo largo de seis aperturas desde una derrota ante Milwaukee el 16 de agosto.\nFue el cuarto juego de la temporada del ganador vigente en dos ocasiones del premio Cy Young de la Liga Americana con ponches de doble dígito, el segundo con Los Ángeles.\nRoki Sasaki lanzó un octavo inning perfecto con un par de ponches antes de que Tanner Scott cerrara el juego, que duró una hora y 53 minutos, para su 24to salvamento. Fue el segundo juego más rápido en los 27 años de historia del estadio.\nEl abridor de los Gigantes, el dominicano Yunior Marte (0-2), permitió los dos jonrones entre los seis hits que concedió en cinco innings. Más temprano en el día, San Francisco dio la bienvenida de regreso al ex cerrador Camilo Doval, reclamado en waivers después de que lo traspasaran a los Yankees antes de la fecha límite de cambios de 2025. ___",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "f7033714105ddd667347",
     "title": "MLB:大谷翔平、ユニホーム売り上げ4年連続1位 史上初 - 日本経済新聞",
     "source": "日本経済新聞",
