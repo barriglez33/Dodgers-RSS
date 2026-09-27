@@ -1,5 +1,201 @@
 [
   {
+    "id": "4e461a8047a716d35b65",
+    "title": "Kiké Hernandez’s 9th-inning blast lifts Dodgers past Giants again",
+    "source": "ocregister.com",
+    "author": "Bill Plunkett",
+    "url": "https://www.ocregister.com/2026/09/26/kike-hernandezs-9th-inning-blast-lifts-dodgers-past-giants-again/",
+    "published_iso": "2026-09-27T01:00:00+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 01:00:00 +0000",
+    "body": "SAN FRANCISCO — It was a four-inning wellness check.\nPitching for the first time since he left his start in Cincinnati after one inning with groin muscle discomfort, Blake Snell passed his test. He allowed one run on five hits in his four innings Saturday afternoon as the Dodgers beat the San Francisco Giants 4-3 on Kiké Hernandez’s ninth-inning home run.\nThe Dodgers will finish the season with a chance to reach 100 victories for the first time since 2023 – but the fourth time in the past six seasons and sixth time in the past nine full seasons.\nSnell was healthy if not efficient. He threw 77 pitches to get through his four innings, allowing hits in each inning.\n“Definitely needed to pitch today. Definitely showed that,” Snell said. “I was trying to go up and in, I was missing up and away. Even the last pitch of the game, I try to go up and in and miss right down the middle. I don’t know the last time I did that. It’s been a while. Even the changeup, the speed was up to 88. I gotta fix that as well. Get that to 86. Curveball, the release just has to get better.\n“But overall, I learned a lot from it. Really encouraged by it, and just happy to get my legs underneath me and get going and completely move past the groin. I mean, it felt great today, and the velo was good. … I’ve got to figure my body out a little more, but I got a week to do so, and I’m really looking forward to that.”\nHe stranded runners at the corners in the first inning and at second base in the second. Jonah Cox led off the third with a double into the left-field corner, stole third and scored on a sacrifice fly. Snell gave up a two-out single in the fourth, but Shay Whitcomb was thrown out by left fielder Teoscar Hernandez when he tried to stretch it into a double.\nAfter the game in Cincinnati, Snell expressed confidence that he had avoided serious injury by recognizing the signs early and coming out of the game – something he didn’t do before landing on the injured list four previous times with groin injuries.\nSaturday supported that decision. Snell’s fastball averaged 96.8 mph (up slightly from his season average) and he got 10 swings-and-misses (though only three strikeouts). Snell now lines up as the likely Game 3 starter in the National League Division Series, giving him over a week before his next start.\n“I thought the fastball was had life. Just some near misses to kind of flip counts,” Dodgers manager Dave Roberts said. “The changeup was okay. The curveball I thought was good. But I think for him overall, he just wasn’t as efficient as he wanted, as we wanted. But again, I thought it was fine for his last tune-up for the postseason.\n“I was confident, we were confident (that Snell was healthy). But I think it’s still good to see it. And it’s good also that we got it out of the way, got that rust off, versus whatever game in the postseason, then he’s rusty, and you’ve got to kind of pick up the pieces in a playoff game. So I thought today it was again, really best-case scenario.”\nThe Dodgers’ offense gave Snell a 3-1 lead.\nMookie Betts hit a solo home run in the third inning – his seventh home run in September as he surges over the final month of the season. Four singles and a walk produced two more runs in the fourth inning.\nAfter a two-hit game including an RBI double Thursday, Shohei Ohtani has gone 1 for 9 with five strikeouts in the two games against the Giants. The lone hit was a ground ball under the glove of Giants first baseman Brett Harris in the fourth inning that was originally ruled an error and later changed.\n“I thought today there was just more chase,” Roberts said of Ohtani’s 1 for 5. “And I don’t know if he’s trying to get hits, find his swing, getting a little over-anxious. Everything from Shohei to the training staff, the hitting guys, the work has been great. Looks exactly like it did, like it’s supposed to look.”\nRoberts dismissed any suggestion that Ohtani is still not healthy after spending two weeks on the injured list.\n“I don’t see any wincing. The bat speed is still (good),” Roberts said. “There’s one thing to just say you could just put him on ice and hope that the performance is there Game One of the postseason, or there’s another camp that says everything looks right and you have to get him (at-bats) and it’s still only – what is it 12, 13 at bats, 14 at bats (since he returned)? So, with a long layoff, that’s not easy either to come back and perform.”\nThe Dodgers’ bullpen couldn’t hold the 3-1 lead. The Giants came back to tie it with single runs against Brock Stewart in the seventh and Evan Phillips in the eighth before Hernandez put the Dodgers back in the lead with a leadoff home run in the ninth.\nThe homer was an uplifting moment in a difficult season for Hernandez, who started the season on the IL following elbow surgery, returned for two games, then missed two months with an oblique injury.\n“Yeah, I mean it’s been tough, but I mean, it is what it is,” Hernandez said. “That’s the card I’ve drawn this year. It’s nobody’s fault. I was expected to miss the first couple months because of my rehab, and then I was not expecting to miss more time so quickly after coming back. It just happened to be that way. And when you have a team like this one, it’s hard getting in the lineup. So it’s just one of those things where that’s what you have, and you got to make the best of it. I just happened to not have made the best of my opportunities this year.”",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Brock Stewart",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 51,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Kiké Hernandez’s 9th-inning blast lifts Dodgers past Giants again",
+    "original_body": "SAN FRANCISCO — It was a four-inning wellness check.\nPitching for the first time since he left his start in Cincinnati after one inning with groin muscle discomfort, Blake Snell passed his test. He allowed one run on five hits in his four innings Saturday afternoon as the Dodgers beat the San Francisco Giants 4-3 on Kiké Hernandez’s ninth-inning home run.\nThe Dodgers will finish the season with a chance to reach 100 victories for the first time since 2023 – but the fourth time in the past six seasons and sixth time in the past nine full seasons.\nSnell was healthy if not efficient. He threw 77 pitches to get through his four innings, allowing hits in each inning.\n“Definitely needed to pitch today. Definitely showed that,” Snell said. “I was trying to go up and in, I was missing up and away. Even the last pitch of the game, I try to go up and in and miss right down the middle. I don’t know the last time I did that. It’s been a while. Even the changeup, the speed was up to 88. I gotta fix that as well. Get that to 86. Curveball, the release just has to get better.\n“But overall, I learned a lot from it. Really encouraged by it, and just happy to get my legs underneath me and get going and completely move past the groin. I mean, it felt great today, and the velo was good. … I’ve got to figure my body out a little more, but I got a week to do so, and I’m really looking forward to that.”\nHe stranded runners at the corners in the first inning and at second base in the second. Jonah Cox led off the third with a double into the left-field corner, stole third and scored on a sacrifice fly. Snell gave up a two-out single in the fourth, but Shay Whitcomb was thrown out by left fielder Teoscar Hernandez when he tried to stretch it into a double.\nAfter the game in Cincinnati, Snell expressed confidence that he had avoided serious injury by recognizing the signs early and coming out of the game – something he didn’t do before landing on the injured list four previous times with groin injuries.\nSaturday supported that decision. Snell’s fastball averaged 96.8 mph (up slightly from his season average) and he got 10 swings-and-misses (though only three strikeouts). Snell now lines up as the likely Game 3 starter in the National League Division Series, giving him over a week before his next start.\n“I thought the fastball was had life. Just some near misses to kind of flip counts,” Dodgers manager Dave Roberts said. “The changeup was okay. The curveball I thought was good. But I think for him overall, he just wasn’t as efficient as he wanted, as we wanted. But again, I thought it was fine for his last tune-up for the postseason.\n“I was confident, we were confident (that Snell was healthy). But I think it’s still good to see it. And it’s good also that we got it out of the way, got that rust off, versus whatever game in the postseason, then he’s rusty, and you’ve got to kind of pick up the pieces in a playoff game. So I thought today it was again, really best-case scenario.”\nThe Dodgers’ offense gave Snell a 3-1 lead.\nMookie Betts hit a solo home run in the third inning – his seventh home run in September as he surges over the final month of the season. Four singles and a walk produced two more runs in the fourth inning.\nAfter a two-hit game including an RBI double Thursday, Shohei Ohtani has gone 1 for 9 with five strikeouts in the two games against the Giants. The lone hit was a ground ball under the glove of Giants first baseman Brett Harris in the fourth inning that was originally ruled an error and later changed.\n“I thought today there was just more chase,” Roberts said of Ohtani’s 1 for 5. “And I don’t know if he’s trying to get hits, find his swing, getting a little over-anxious. Everything from Shohei to the training staff, the hitting guys, the work has been great. Looks exactly like it did, like it’s supposed to look.”\nRoberts dismissed any suggestion that Ohtani is still not healthy after spending two weeks on the injured list.\n“I don’t see any wincing. The bat speed is still (good),” Roberts said. “There’s one thing to just say you could just put him on ice and hope that the performance is there Game One of the postseason, or there’s another camp that says everything looks right and you have to get him (at-bats) and it’s still only – what is it 12, 13 at bats, 14 at bats (since he returned)? So, with a long layoff, that’s not easy either to come back and perform.”\nThe Dodgers’ bullpen couldn’t hold the 3-1 lead. The Giants came back to tie it with single runs against Brock Stewart in the seventh and Evan Phillips in the eighth before Hernandez put the Dodgers back in the lead with a leadoff home run in the ninth.\nThe homer was an uplifting moment in a difficult season for Hernandez, who started the season on the IL following elbow surgery, returned for two games, then missed two months with an oblique injury.\n“Yeah, I mean it’s been tough, but I mean, it is what it is,” Hernandez said. “That’s the card I’ve drawn this year. It’s nobody’s fault. I was expected to miss the first couple months because of my rehab, and then I was not expecting to miss more time so quickly after coming back. It just happened to be that way. And when you have a team like this one, it’s hard getting in the lineup. So it’s just one of those things where that’s what you have, and you got to make the best of it. I just happened to not have made the best of my opportunities this year.”",
+    "rss_title": "Kiké Hernandez’s 9th-inning blast lifts Dodgers past Giants again",
+    "rss_body": "SAN FRANCISCO — It was a four-inning wellness check.\nPitching for the first time since he left his start in Cincinnati after one inning with groin muscle discomfort, Blake Snell passed his test. He allowed one run on five hits in his four innings Saturday afternoon as the Dodgers beat the San Francisco Giants 4-3 on Kiké Hernandez’s ninth-inning home run.\nThe Dodgers will finish the season with a chance to reach 100 victories for the first time since 2023 – but the fourth time in the past six seasons and sixth time in the past nine full seasons.\nSnell was healthy if not efficient. He threw 77 pitches to get through his four innings, allowing hits in each inning.\n“Definitely needed to pitch today. Definitely showed that,” Snell said. “I was trying to go up and in, I was missing up and away. Even the last pitch of the game, I try to go up and in and miss right down the middle. I don’t know the last time I did that. It’s been a while. Even the changeup, the speed was up to 88. I gotta fix that as well. Get that to 86. Curveball, the release just has to get better.\n“But overall, I learned a lot from it. Really encouraged by it, and just happy to get my legs underneath me and get going and completely move past the groin. I mean, it felt great today, and the velo was good. … I’ve got to figure my body out a little more, but I got a week to do so, and I’m really looking forward to that.”\nHe stranded runners at the corners in the first inning and at second base in the second. Jonah Cox led off the third with a double into the left-field corner, stole third and scored on a sacrifice fly. Snell gave up a two-out single in the fourth, but Shay Whitcomb was thrown out by left fielder Teoscar Hernandez when he tried to stretch it into a double.\nAfter the game in Cincinnati, Snell expressed confidence that he had avoided serious injury by recognizing the signs early and coming out of the game – something he didn’t do before landing on the injured list four previous times with groin injuries.\nSaturday supported that decision. Snell’s fastball averaged 96.8 mph (up slightly from his season average) and he got 10 swings-and-misses (though only three strikeouts). Snell now lines up as the likely Game 3 starter in the National League Division Series, giving him over a week before his next start.\n“I thought the fastball was had life. Just some near misses to kind of flip counts,” Dodgers manager Dave Roberts said. “The changeup was okay. The curveball I thought was good. But I think for him overall, he just wasn’t as efficient as he wanted, as we wanted. But again, I thought it was fine for his last tune-up for the postseason.\n“I was confident, we were confident (that Snell was healthy). But I think it’s still good to see it. And it’s good also that we got it out of the way, got that rust off, versus whatever game in the postseason, then he’s rusty, and you’ve got to kind of pick up the pieces in a playoff game. So I thought today it was again, really best-case scenario.”\nThe Dodgers’ offense gave Snell a 3-1 lead.\nMookie Betts hit a solo home run in the third inning – his seventh home run in September as he surges over the final month of the season. Four singles and a walk produced two more runs in the fourth inning.\nAfter a two-hit game including an RBI double Thursday, Shohei Ohtani has gone 1 for 9 with five strikeouts in the two games against the Giants. The lone hit was a ground ball under the glove of Giants first baseman Brett Harris in the fourth inning that was originally ruled an error and later changed.\n“I thought today there was just more chase,” Roberts said of Ohtani’s 1 for 5. “And I don’t know if he’s trying to get hits, find his swing, getting a little over-anxious. Everything from Shohei to the training staff, the hitting guys, the work has been great. Looks exactly like it did, like it’s supposed to look.”\nRoberts dismissed any suggestion that Ohtani is still not healthy after spending two weeks on the injured list.\n“I don’t see any wincing. The bat speed is still (good),” Roberts said. “There’s one thing to just say you could just put him on ice and hope that the performance is there Game One of the postseason, or there’s another camp that says everything looks right and you have to get him (at-bats) and it’s still only – what is it 12, 13 at bats, 14 at bats (since he returned)? So, with a long layoff, that’s not easy either to come back and perform.”\nThe Dodgers’ bullpen couldn’t hold the 3-1 lead. The Giants came back to tie it with single runs against Brock Stewart in the seventh and Evan Phillips in the eighth before Hernandez put the Dodgers back in the lead with a leadoff home run in the ninth.\nThe homer was an uplifting moment in a difficult season for Hernandez, who started the season on the IL following elbow surgery, returned for two games, then missed two months with an oblique injury.\n“Yeah, I mean it’s been tough, but I mean, it is what it is,” Hernandez said. “That’s the card I’ve drawn this year. It’s nobody’s fault. I was expected to miss the first couple months because of my rehab, and then I was not expecting to miss more time so quickly after coming back. It just happened to be that way. And when you have a team like this one, it’s hard getting in the lineup. So it’s just one of those things where that’s what you have, and you got to make the best of it. I just happened to not have made the best of my opportunities this year.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "6538570f6a9f8f65ae1c",
+    "title": "Kiké Hernández hits tiebreaking home run leading off 9th to lift Dodgers over Giants 4-3",
+    "source": "abc7news.com",
+    "author": "",
+    "url": "https://abc7news.com/post/kik-hernndez-hits-tiebreaking-home-run-leading-off-9th-lift-dodgers-giants-4-3/19877816/",
+    "published_iso": "2026-09-27T01:00:00+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 01:00:00 +0000",
+    "body": "SAN FRANCISCO -- - Kiké Hernández hit a tiebreaking home run leading off the ninth inning, Mookie Betts also homered and the Los Angeles Dodgers beat the San Francisco Giants 4-3 on Saturday.\nBo Davidson hit a tying sacrifice fly off Evan Phillips (3-2) with two outs in the eighth for San Francisco before Hernández answered against Trent Harris (0-1) for his fourth homer.\nTanner Scott closed out a second straight game, earning his 25th save.\nBetts homered with two outs in the third inning for his team's first hit before Miguel Rojas and Tommy Edman added RBI singles the next two innings.\nBetts' blast to the bleachers in left-center sent the large contingent of Dodgers fans in the sellout crowd of 40,124 at Oracle Park into a frenzy on a beautiful sunny afternoon in the Bay Area.\nShohei Ohtani, playing for a fourth straight day following a 13-game absence with right biceps discomfort, went 1 for 5 with two strikeouts after an 0-for-4 showing with three Ks on Friday night.\nWhen Camilo Doval pitched the seventh for San Francisco, he became the 71st player used by the club this season - matching Atlanta's MLB record set last year.\nLos Angeles left-hander Blake Snell struck out three and didn't walk a batter, allowing one run on five hits over four innings in his final playoff tune-up.\nThe Giants lost their fourth straight, seventh of eight and seventh in a row to the rival Dodgers after taking four of five in the series to start the year.\nLos Angeles earned its 14th shutout of the season in a 2-0 win Friday, then manager Dave Roberts rested first baseman Freddie Freeman and gave Hernández a start. The Dodgers improved their majors-best road record to 48-32.\nUp next\nNeither team had announced its starter for Sunday's regular-season finale, when beloved Giants broadcaster Mike Krukow will be celebrated before he retires from the booth after nearly four decades.\n------",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Kiké Hernández hits tiebreaking home run leading off 9th to lift Dodgers over Giants 4-3",
+    "original_body": "SAN FRANCISCO -- - Kiké Hernández hit a tiebreaking home run leading off the ninth inning, Mookie Betts also homered and the Los Angeles Dodgers beat the San Francisco Giants 4-3 on Saturday.\nBo Davidson hit a tying sacrifice fly off Evan Phillips (3-2) with two outs in the eighth for San Francisco before Hernández answered against Trent Harris (0-1) for his fourth homer.\nTanner Scott closed out a second straight game, earning his 25th save.\nBetts homered with two outs in the third inning for his team's first hit before Miguel Rojas and Tommy Edman added RBI singles the next two innings.\nBetts' blast to the bleachers in left-center sent the large contingent of Dodgers fans in the sellout crowd of 40,124 at Oracle Park into a frenzy on a beautiful sunny afternoon in the Bay Area.\nShohei Ohtani, playing for a fourth straight day following a 13-game absence with right biceps discomfort, went 1 for 5 with two strikeouts after an 0-for-4 showing with three Ks on Friday night.\nWhen Camilo Doval pitched the seventh for San Francisco, he became the 71st player used by the club this season - matching Atlanta's MLB record set last year.\nLos Angeles left-hander Blake Snell struck out three and didn't walk a batter, allowing one run on five hits over four innings in his final playoff tune-up.\nThe Giants lost their fourth straight, seventh of eight and seventh in a row to the rival Dodgers after taking four of five in the series to start the year.\nLos Angeles earned its 14th shutout of the season in a 2-0 win Friday, then manager Dave Roberts rested first baseman Freddie Freeman and gave Hernández a start. The Dodgers improved their majors-best road record to 48-32.\nUp next\nNeither team had announced its starter for Sunday's regular-season finale, when beloved Giants broadcaster Mike Krukow will be celebrated before he retires from the booth after nearly four decades.\n------",
+    "rss_title": "Kiké Hernández hits tiebreaking home run leading off 9th to lift Dodgers over Giants 4-3",
+    "rss_body": "SAN FRANCISCO -- - Kiké Hernández hit a tiebreaking home run leading off the ninth inning, Mookie Betts also homered and the Los Angeles Dodgers beat the San Francisco Giants 4-3 on Saturday.\nBo Davidson hit a tying sacrifice fly off Evan Phillips (3-2) with two outs in the eighth for San Francisco before Hernández answered against Trent Harris (0-1) for his fourth homer.\nTanner Scott closed out a second straight game, earning his 25th save.\nBetts homered with two outs in the third inning for his team's first hit before Miguel Rojas and Tommy Edman added RBI singles the next two innings.\nBetts' blast to the bleachers in left-center sent the large contingent of Dodgers fans in the sellout crowd of 40,124 at Oracle Park into a frenzy on a beautiful sunny afternoon in the Bay Area.\nShohei Ohtani, playing for a fourth straight day following a 13-game absence with right biceps discomfort, went 1 for 5 with two strikeouts after an 0-for-4 showing with three Ks on Friday night.\nWhen Camilo Doval pitched the seventh for San Francisco, he became the 71st player used by the club this season - matching Atlanta's MLB record set last year.\nLos Angeles left-hander Blake Snell struck out three and didn't walk a batter, allowing one run on five hits over four innings in his final playoff tune-up.\nThe Giants lost their fourth straight, seventh of eight and seventh in a row to the rival Dodgers after taking four of five in the series to start the year.\nLos Angeles earned its 14th shutout of the season in a 2-0 win Friday, then manager Dave Roberts rested first baseman Freddie Freeman and gave Hernández a start. The Dodgers improved their majors-best road record to 48-32.\nUp next\nNeither team had announced its starter for Sunday's regular-season finale, when beloved Giants broadcaster Mike Krukow will be celebrated before he retires from the booth after nearly four decades.\n------",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "eeae384f6b89d6bee3af",
     "title": "Blake Snell healthy in final tuneup, Kiké Hernández home run beats Giants",
     "source": "True Blue LA",
