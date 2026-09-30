@@ -1,5 +1,381 @@
 [
   {
+    "id": "ddca76379f906b47f86a",
+    "title": "Projecting the Dodgers' NLDS roster with Josue De Paula, bench shuffle",
+    "source": "Dodgers Way",
+    "author": "Katrina Stebbins",
+    "url": "https://dodgersway.com/projecting-dodgers-nlds-roster-josue-de-paula-bench-shuffle",
+    "published_iso": "2026-09-30T13:07:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 13:07:00 +0000",
+    "body": "The Los Angeles Dodgers get to kick back and watch as eight teams duke it out to move on to their respective League Division Series this week. The Atlanta Braves and Philadelphia Phillies will go head-to-head in the NL Wild Card Series before one of them moves on to try and topple LA.\nOne would think that this Dodgers team would have everything buttoned up well ahead of the NLDS, but there are still a couple of key questions to be answered.\nProjecting the Dodgers' NLDS roster with Josue De Paula called upon\nCatchers (2): Will Smith, Hunter Feduccia\nFor some reason, the Dodgers decided to carry three catchers on their Wild Card and NLDS rosters last year — Smith, Dalton Rushing, and Ben Rortvedt — but adjusted ahead of the NLCS by shedding Rushing, who received just one at-bat in the NLDS but otherwise rode the bench.\nRortvedt didn't get a start or even substitution after Game 2 of the NLDS with Smith slowly coming back from injury at the beginning of the postseason. Feduccia figures to play a similar break-glass-in-case-of-emergency role. As a lefty, he could get a start and then an early pull depending on matchups but, barring disaster, it's mostly going to be Smith's show.\nDesignated hitters (2): Shohei Ohtani, Josue De Paula\nThe Dodgers clearly want to find a way to bring De Paula with them in October, even if only as a lingering threat on their bench. They're reportedly not entertaining putting him in the outfield at all, and it's not hard to see why. Even if they're confident they'll be able to fix his defense in time, they can't afford any leakage in the postseason.\nOhtani is still shaking off the cobwebs from his 15-day IL stint. He picked up a few hits with promising exit velocity in his return against the San Diego Padres and later against the San Francisco Giants, but there are still question marks around what version of him we might see this postseason.\nInfielders (6): Freddie Freeman, Mookie Betts, Tommy Edman, Max Muncy, Miguel Rojas, Kiké Hernández\nA notable exclusion here is Hyeseong Kim. Although he's in the running to get a spot on the bench and exclusively come into games to pinch-run or for reassurances on defense, there's still a chance he doesn't make the roster if the Dodgers are set on carrying 13 pitchers. Edman and Hernández, though lacking the same speed as Kim, can still offer the same defensive versatility.\nOutfielders (3): Andy Pages, Kyle Tucker, Teoscar Hernández\nPages might've found himself in the same boat as Ohtani, but he announced his return to the Dodgers after a month-long IL stint in a big way, hitting .333 with a 1.180 OPS, two homers, and five RBI against the Padres and Giants. No doubt Dave Roberts and Andrew Friedman breathed a massive sigh of relief.\nAlex Call will be the odd man out. He was on all four of LA's playoff rosters last year and received sporadic appearances throughout the month, but that was when Michael Conforto was still on the payroll. Tucker and Hernández have certainly had their ups-and-downs this season, but the Dodgers would never seriously consider leaving them out.\nStarters (4): Yoshinobu Yamamoto, Blake Snell, Tarik Skubal, Tyler Glasnow\nThere's not much to say about what's probably the best rotation going into the postseason. Snell and Glasnow have both battled injury this season but came back when the Dodgers needed them most. It might be too much to ask that any of Yamamoto, Snell, or Glasnow replicate their dominance from last year, but they'll certainly try.\nRelievers: (9): Tanner Scott, Roki Sasaki, Alex Vesia, Evan Phillips, Brock Stewart, Justin Wrobleski, Edwin Díaz, Kris Bubic, Edgardo Henriquez\nJust like 2025, this is where things get dicey. The Dodgers' bullpen isn't quite as banged up or as unreliable as they were last year, but they're not the air-tight, bulletproof coterie that their combined salaries suggest they should be. Henriquez will be coming straight off of the IL to rejoin the team in the NLDS, and Díaz, Sasaki, and Scott are all woefully unpredictable.\nThere is some thought that the Dodgers might carry eight relievers instead of nine, to free up a spot on the position player side for a guy like Kim. In this scenario, we'll stick with them taking nine. If not, Bubic is the most obvious cut. Last one in, first one out.",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Hunter Feduccia",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Justin Wrobleski",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Andrew Friedman",
+        "role": "President of Baseball Ops",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Kris Bubic",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 41,
+        "batch": 1
+      },
+      {
+        "name": "Brock Stewart",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 51,
+        "batch": 2
+      },
+      {
+        "name": "Alex Vesia",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 52,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      },
+      {
+        "name": "Hyeseong Kim",
+        "role": "Infielder",
+        "status": "Minors",
+        "type": "player",
+        "id": 54,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      },
+      {
+        "name": "Alex Call",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 56,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Projecting the Dodgers' NLDS roster with Josue De Paula, bench shuffle",
+    "original_body": "The Los Angeles Dodgers get to kick back and watch as eight teams duke it out to move on to their respective League Division Series this week. The Atlanta Braves and Philadelphia Phillies will go head-to-head in the NL Wild Card Series before one of them moves on to try and topple LA.\nOne would think that this Dodgers team would have everything buttoned up well ahead of the NLDS, but there are still a couple of key questions to be answered.\nProjecting the Dodgers' NLDS roster with Josue De Paula called upon\nCatchers (2): Will Smith, Hunter Feduccia\nFor some reason, the Dodgers decided to carry three catchers on their Wild Card and NLDS rosters last year — Smith, Dalton Rushing, and Ben Rortvedt — but adjusted ahead of the NLCS by shedding Rushing, who received just one at-bat in the NLDS but otherwise rode the bench.\nRortvedt didn't get a start or even substitution after Game 2 of the NLDS with Smith slowly coming back from injury at the beginning of the postseason. Feduccia figures to play a similar break-glass-in-case-of-emergency role. As a lefty, he could get a start and then an early pull depending on matchups but, barring disaster, it's mostly going to be Smith's show.\nDesignated hitters (2): Shohei Ohtani, Josue De Paula\nThe Dodgers clearly want to find a way to bring De Paula with them in October, even if only as a lingering threat on their bench. They're reportedly not entertaining putting him in the outfield at all, and it's not hard to see why. Even if they're confident they'll be able to fix his defense in time, they can't afford any leakage in the postseason.\nOhtani is still shaking off the cobwebs from his 15-day IL stint. He picked up a few hits with promising exit velocity in his return against the San Diego Padres and later against the San Francisco Giants, but there are still question marks around what version of him we might see this postseason.\nInfielders (6): Freddie Freeman, Mookie Betts, Tommy Edman, Max Muncy, Miguel Rojas, Kiké Hernández\nA notable exclusion here is Hyeseong Kim. Although he's in the running to get a spot on the bench and exclusively come into games to pinch-run or for reassurances on defense, there's still a chance he doesn't make the roster if the Dodgers are set on carrying 13 pitchers. Edman and Hernández, though lacking the same speed as Kim, can still offer the same defensive versatility.\nOutfielders (3): Andy Pages, Kyle Tucker, Teoscar Hernández\nPages might've found himself in the same boat as Ohtani, but he announced his return to the Dodgers after a month-long IL stint in a big way, hitting .333 with a 1.180 OPS, two homers, and five RBI against the Padres and Giants. No doubt Dave Roberts and Andrew Friedman breathed a massive sigh of relief.\nAlex Call will be the odd man out. He was on all four of LA's playoff rosters last year and received sporadic appearances throughout the month, but that was when Michael Conforto was still on the payroll. Tucker and Hernández have certainly had their ups-and-downs this season, but the Dodgers would never seriously consider leaving them out.\nStarters (4): Yoshinobu Yamamoto, Blake Snell, Tarik Skubal, Tyler Glasnow\nThere's not much to say about what's probably the best rotation going into the postseason. Snell and Glasnow have both battled injury this season but came back when the Dodgers needed them most. It might be too much to ask that any of Yamamoto, Snell, or Glasnow replicate their dominance from last year, but they'll certainly try.\nRelievers: (9): Tanner Scott, Roki Sasaki, Alex Vesia, Evan Phillips, Brock Stewart, Justin Wrobleski, Edwin Díaz, Kris Bubic, Edgardo Henriquez\nJust like 2025, this is where things get dicey. The Dodgers' bullpen isn't quite as banged up or as unreliable as they were last year, but they're not the air-tight, bulletproof coterie that their combined salaries suggest they should be. Henriquez will be coming straight off of the IL to rejoin the team in the NLDS, and Díaz, Sasaki, and Scott are all woefully unpredictable.\nThere is some thought that the Dodgers might carry eight relievers instead of nine, to free up a spot on the position player side for a guy like Kim. In this scenario, we'll stick with them taking nine. If not, Bubic is the most obvious cut. Last one in, first one out.",
+    "rss_title": "Projecting the Dodgers' NLDS roster with Josue De Paula, bench shuffle",
+    "rss_body": "The Los Angeles Dodgers get to kick back and watch as eight teams duke it out to move on to their respective League Division Series this week. The Atlanta Braves and Philadelphia Phillies will go head-to-head in the NL Wild Card Series before one of them moves on to try and topple LA.\nOne would think that this Dodgers team would have everything buttoned up well ahead of the NLDS, but there are still a couple of key questions to be answered.\nProjecting the Dodgers' NLDS roster with Josue De Paula called upon\nCatchers (2): Will Smith, Hunter Feduccia\nFor some reason, the Dodgers decided to carry three catchers on their Wild Card and NLDS rosters last year — Smith, Dalton Rushing, and Ben Rortvedt — but adjusted ahead of the NLCS by shedding Rushing, who received just one at-bat in the NLDS but otherwise rode the bench.\nRortvedt didn't get a start or even substitution after Game 2 of the NLDS with Smith slowly coming back from injury at the beginning of the postseason. Feduccia figures to play a similar break-glass-in-case-of-emergency role. As a lefty, he could get a start and then an early pull depending on matchups but, barring disaster, it's mostly going to be Smith's show.\nDesignated hitters (2): Shohei Ohtani, Josue De Paula\nThe Dodgers clearly want to find a way to bring De Paula with them in October, even if only as a lingering threat on their bench. They're reportedly not entertaining putting him in the outfield at all, and it's not hard to see why. Even if they're confident they'll be able to fix his defense in time, they can't afford any leakage in the postseason.\nOhtani is still shaking off the cobwebs from his 15-day IL stint. He picked up a few hits with promising exit velocity in his return against the San Diego Padres and later against the San Francisco Giants, but there are still question marks around what version of him we might see this postseason.\nInfielders (6): Freddie Freeman, Mookie Betts, Tommy Edman, Max Muncy, Miguel Rojas, Kiké Hernández\nA notable exclusion here is Hyeseong Kim. Although he's in the running to get a spot on the bench and exclusively come into games to pinch-run or for reassurances on defense, there's still a chance he doesn't make the roster if the Dodgers are set on carrying 13 pitchers. Edman and Hernández, though lacking the same speed as Kim, can still offer the same defensive versatility.\nOutfielders (3): Andy Pages, Kyle Tucker, Teoscar Hernández\nPages might've found himself in the same boat as Ohtani, but he announced his return to the Dodgers after a month-long IL stint in a big way, hitting .333 with a 1.180 OPS, two homers, and five RBI against the Padres and Giants. No doubt Dave Roberts and Andrew Friedman breathed a massive sigh of relief.\nAlex Call will be the odd man out. He was on all four of LA's playoff rosters last year and received sporadic appearances throughout the month, but that was when Michael Conforto was still on the payroll. Tucker and Hernández have certainly had their ups-and-downs this season, but the Dodgers would never seriously consider leaving them out.\nStarters (4): Yoshinobu Yamamoto, Blake Snell, Tarik Skubal, Tyler Glasnow\nThere's not much to say about what's probably the best rotation going into the postseason. Snell and Glasnow have both battled injury this season but came back when the Dodgers needed them most. It might be too much to ask that any of Yamamoto, Snell, or Glasnow replicate their dominance from last year, but they'll certainly try.\nRelievers: (9): Tanner Scott, Roki Sasaki, Alex Vesia, Evan Phillips, Brock Stewart, Justin Wrobleski, Edwin Díaz, Kris Bubic, Edgardo Henriquez\nJust like 2025, this is where things get dicey. The Dodgers' bullpen isn't quite as banged up or as unreliable as they were last year, but they're not the air-tight, bulletproof coterie that their combined salaries suggest they should be. Henriquez will be coming straight off of the IL to rejoin the team in the NLDS, and Díaz, Sasaki, and Scott are all woefully unpredictable.\nThere is some thought that the Dodgers might carry eight relievers instead of nine, to free up a spot on the position player side for a guy like Kim. In this scenario, we'll stick with them taking nine. If not, Bubic is the most obvious cut. Last one in, first one out.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a17d946fcb7e5702795b",
+    "title": "Mets should make all-out Tarik Skubal pursuit, but it could take a philosophical shift",
+    "source": "Yahoo Sports",
+    "author": "Danny Abriano",
+    "url": "https://sports.yahoo.com/articles/mets-tarik-skubal-pursuit-could-124500946.html",
+    "published_iso": "2026-09-30T12:45:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 12:45:00 +0000",
+    "body": "As the Mets enter the offseason, they'll be facing a familiar challenge: put together a team that can get them back to the playoffs for the first time since 2024.\nDavid Stearns and the front office failed in that regard last offseason, due in part to the drastic changes that were made to the roster and coaching staff. There were other things at play, including long-term injuries to Francisco Lindor and Clay Holmes, some worst-case scenarios playing out, and an over-reliance on bounce backs.\nThis time around, the Mets will almost certainly have much less turnover, but that doesn't mean the overall result in 2026 wasn't an abject failure.\nNew York had a 34-31 record after the All-Star break, which was a big improvement after things spun out of control in the first half and led to a trade deadline sell-off.\nBut the most important developments for the Mets after their dismal start? The emergence of Carson Benge and A.J. Ewing, the impressive return of Christian Scott, the moxie and performance of Zac Thornton, and some good late-season signs from Jonah Tong.\nThe above should give the Mets confidence that they're in solid shape when it comes to their lineup and a chunk of the starting rotation. They have an emerging young core to complement their more established stars, and potentially have high-upside players coming soon from the upper levels of the minors. But serious help is still needed this winter.\nSpecifically, the Mets need to add external help at first base, address the DH spot, bolster the bullpen with multiple new arms (including a back end option), and -- most importantly -- find a pitcher who profiles at the very top of the rotation.\nIn both 2025 and 2026, the Mets were done in, due in large part to not having enough starting pitching depth. And it can be argued that they left themselves short one legitimate starter both times. That can't happen again, so New York should be focused on pairing a new prospective ace with another addition who profiles in the middle or back of the rotation.\nAbout that ace ... it's not difficult to figure out that it should be Tarik Skubal.\nIn one of the weakest free agent classes in recent memory, Skubal stands out even more than he ordinarily would.\nFresh off back-to-back Cy Young awards, the 29-year-old Skubal posted a 2.72 ERA (2.51 FIP) and 0.96 WHIP while walking just 1.5 per nine innings and striking out 186 batters in 158.2 innings in 2026.\nSkubal's season was briefly interrupted by NanoScope surgery on his pitching elbow that kept him out of action from April 30 through June 13. But he continued to be dominant upon his return. After having a 2.70 ERA (2.11 FIP) over his first seven starts, Skubal had a 2.73 ERA (2.66 FIP) in the 19 starts he made post-surgery, with 10 of them coming after he was dealt to the Dodgers at the trade deadline.\nDuring Stearns' end-of-season news conference on Monday at Citi Field, he was asked multiple times about the Mets' offseason plan for adding pitching, but unsurprisingly didn't offer much when asked in a roundabout way about a possible Skubal pursuit.\n\"I do think it is necessary for us to add to our rotation,\" Stearns said. \"We can do that in a variety of different ways. We've talked about this plenty before -- you'd always love to add to the top of your rotation, any team would love to do that -- over the long term, what we need to do is develop pitchers at the top of our rotation, and I think we are proving we can do that, and we'll continue to do that.\"\nWhile Stearns refused to make any declarations about the type of pitcher the Mets would go after, it is pointless to read into that.\nFor one, Skubal is still under contract with the Dodgers, and no executive is going to talk about going after a player who is on another team.\nSecond, and even more importantly, no exec is going to tip his or her hand entirely and risk wrecking leverage ahead of possible negotiations.\nWhile Stearns (smartly) won't say it, I will: The Mets should make Skubal the centerpiece of their offseason plan, using the resources at their disposal to add one of the most talented pitchers in the sport to slot in front of Nolan McLean.\nThe Mets' biggest need this offseason is at the top of their rotation, with Skubal a nearly perfect way to fill that need. And Skubal will cost only money, since the midseason trade from Detroit to Los Angeles makes him ineligible for a qualifying offer and the draft pick compensation it would've required from any team that signed him.\nWhen discussing Skubal and the Mets, it's obviously instructive to consider Stearns' philosophy when it comes to signing pitchers to long-term deals. Specifically, he has not shown much interest in signing pitchers in their late-20s or 30s to those kind of pacts -- and that philosophy is generally a valid one.\nFor every long-term, big-money deal to a pitcher 29 or older that works out (Max Scherzer's seven-year deal with the Nationals looks incredible in retrospect, and the Yankees' deal for Max Fried is aging well), you can point to a whole bunch that didn't or currently aren't (Patrick Corbin, Jacob deGrom, Jordan Zimmermann, Felix Hernandez, Corbin Burnes).\nAs far as how Stearns has operated in the past, it's fair to throw what he did in Milwaukee out the window given the payroll constraints he was working under.\nBut except for a serious pursuit of then-25-year-old Yoshinobu Yamamoto ahead of the 2024 season, Stearns' main forays into the free agent starting pitching market with the Mets have been measured:\nSean Manaea: Three years, $75 million\nClay Holmes: Three years, $38 million \nFrankie Montas: Two years, $34 million\nLuis Severino: One year, $13 million\nGriffin Canning: One year, $4.25 million\nOf those signings, Holmes was the biggest success as the Mets turned him back into a starter after he spent years in relief. But that success resulted in Holmes being set to opt out after the second season of his contract, which led to New York trading him at the deadline.\nDuring his time leading the Mets' baseball operations, Stearns has been reluctant to offer deals to starting pitchers (except Yamamoto) that exceed three years. When that is your philosophy, the risk is obviously lower. But sometimes a calculated risk is needed.\nWhen it comes to Skubal, there is risk. In addition to the minor surgery he had this season, Skubal underwent flexor tendon surgery in 2022 and had Tommy John surgery in 2017.\nSkubal is also likely to receive the biggest deal ever for a starting pitcher when it comes to average annual value. Maybe his age (30 when next season begins) and yearly value of his deal will make the years easier to stomach, but something like $400 million for eight years is easy to imagine.\nThere's also the looming lockout and new CBA to consider.\nWhile it's difficult to envision the players caving on a hard salary cap, it's fair to believe the new CBA will include stiffer penalties for teams that exceed the luxury tax thresholds.\nBut even after considering all of that, it's still reasonable to conclude that the Mets should go after Skubal with gusto -- that he should be the exception to Stearns' rule, maybe with a slight nudge from owner Steve Cohen.\nThings could always go sideways, as they often do with long-term deals for older starting pitchers. But there's no reason to think Skubal won't be exceptional for the first half of any deal he signs, which would also theoretically line up with a World Series window the Mets will hope to be entering.\nWhen you look at Skubal, who combines one of the best arsenals in baseball with perhaps the best command in baseball (and whose metrics look like this), the biggest risk for the Mets would be not going all-in on him.",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Mets should make all-out Tarik Skubal pursuit, but it could take a philosophical shift",
+    "original_body": "As the Mets enter the offseason, they'll be facing a familiar challenge: put together a team that can get them back to the playoffs for the first time since 2024.\nDavid Stearns and the front office failed in that regard last offseason, due in part to the drastic changes that were made to the roster and coaching staff. There were other things at play, including long-term injuries to Francisco Lindor and Clay Holmes, some worst-case scenarios playing out, and an over-reliance on bounce backs.\nThis time around, the Mets will almost certainly have much less turnover, but that doesn't mean the overall result in 2026 wasn't an abject failure.\nNew York had a 34-31 record after the All-Star break, which was a big improvement after things spun out of control in the first half and led to a trade deadline sell-off.\nBut the most important developments for the Mets after their dismal start? The emergence of Carson Benge and A.J. Ewing, the impressive return of Christian Scott, the moxie and performance of Zac Thornton, and some good late-season signs from Jonah Tong.\nThe above should give the Mets confidence that they're in solid shape when it comes to their lineup and a chunk of the starting rotation. They have an emerging young core to complement their more established stars, and potentially have high-upside players coming soon from the upper levels of the minors. But serious help is still needed this winter.\nSpecifically, the Mets need to add external help at first base, address the DH spot, bolster the bullpen with multiple new arms (including a back end option), and -- most importantly -- find a pitcher who profiles at the very top of the rotation.\nIn both 2025 and 2026, the Mets were done in, due in large part to not having enough starting pitching depth. And it can be argued that they left themselves short one legitimate starter both times. That can't happen again, so New York should be focused on pairing a new prospective ace with another addition who profiles in the middle or back of the rotation.\nAbout that ace ... it's not difficult to figure out that it should be Tarik Skubal.\nIn one of the weakest free agent classes in recent memory, Skubal stands out even more than he ordinarily would.\nFresh off back-to-back Cy Young awards, the 29-year-old Skubal posted a 2.72 ERA (2.51 FIP) and 0.96 WHIP while walking just 1.5 per nine innings and striking out 186 batters in 158.2 innings in 2026.\nSkubal's season was briefly interrupted by NanoScope surgery on his pitching elbow that kept him out of action from April 30 through June 13. But he continued to be dominant upon his return. After having a 2.70 ERA (2.11 FIP) over his first seven starts, Skubal had a 2.73 ERA (2.66 FIP) in the 19 starts he made post-surgery, with 10 of them coming after he was dealt to the Dodgers at the trade deadline.\nDuring Stearns' end-of-season news conference on Monday at Citi Field, he was asked multiple times about the Mets' offseason plan for adding pitching, but unsurprisingly didn't offer much when asked in a roundabout way about a possible Skubal pursuit.\n\"I do think it is necessary for us to add to our rotation,\" Stearns said. \"We can do that in a variety of different ways. We've talked about this plenty before -- you'd always love to add to the top of your rotation, any team would love to do that -- over the long term, what we need to do is develop pitchers at the top of our rotation, and I think we are proving we can do that, and we'll continue to do that.\"\nWhile Stearns refused to make any declarations about the type of pitcher the Mets would go after, it is pointless to read into that.\nFor one, Skubal is still under contract with the Dodgers, and no executive is going to talk about going after a player who is on another team.\nSecond, and even more importantly, no exec is going to tip his or her hand entirely and risk wrecking leverage ahead of possible negotiations.\nWhile Stearns (smartly) won't say it, I will: The Mets should make Skubal the centerpiece of their offseason plan, using the resources at their disposal to add one of the most talented pitchers in the sport to slot in front of Nolan McLean.\nThe Mets' biggest need this offseason is at the top of their rotation, with Skubal a nearly perfect way to fill that need. And Skubal will cost only money, since the midseason trade from Detroit to Los Angeles makes him ineligible for a qualifying offer and the draft pick compensation it would've required from any team that signed him.\nWhen discussing Skubal and the Mets, it's obviously instructive to consider Stearns' philosophy when it comes to signing pitchers to long-term deals. Specifically, he has not shown much interest in signing pitchers in their late-20s or 30s to those kind of pacts -- and that philosophy is generally a valid one.\nFor every long-term, big-money deal to a pitcher 29 or older that works out (Max Scherzer's seven-year deal with the Nationals looks incredible in retrospect, and the Yankees' deal for Max Fried is aging well), you can point to a whole bunch that didn't or currently aren't (Patrick Corbin, Jacob deGrom, Jordan Zimmermann, Felix Hernandez, Corbin Burnes).\nAs far as how Stearns has operated in the past, it's fair to throw what he did in Milwaukee out the window given the payroll constraints he was working under.\nBut except for a serious pursuit of then-25-year-old Yoshinobu Yamamoto ahead of the 2024 season, Stearns' main forays into the free agent starting pitching market with the Mets have been measured:\nSean Manaea: Three years, $75 million\nClay Holmes: Three years, $38 million \nFrankie Montas: Two years, $34 million\nLuis Severino: One year, $13 million\nGriffin Canning: One year, $4.25 million\nOf those signings, Holmes was the biggest success as the Mets turned him back into a starter after he spent years in relief. But that success resulted in Holmes being set to opt out after the second season of his contract, which led to New York trading him at the deadline.\nDuring his time leading the Mets' baseball operations, Stearns has been reluctant to offer deals to starting pitchers (except Yamamoto) that exceed three years. When that is your philosophy, the risk is obviously lower. But sometimes a calculated risk is needed.\nWhen it comes to Skubal, there is risk. In addition to the minor surgery he had this season, Skubal underwent flexor tendon surgery in 2022 and had Tommy John surgery in 2017.\nSkubal is also likely to receive the biggest deal ever for a starting pitcher when it comes to average annual value. Maybe his age (30 when next season begins) and yearly value of his deal will make the years easier to stomach, but something like $400 million for eight years is easy to imagine.\nThere's also the looming lockout and new CBA to consider.\nWhile it's difficult to envision the players caving on a hard salary cap, it's fair to believe the new CBA will include stiffer penalties for teams that exceed the luxury tax thresholds.\nBut even after considering all of that, it's still reasonable to conclude that the Mets should go after Skubal with gusto -- that he should be the exception to Stearns' rule, maybe with a slight nudge from owner Steve Cohen.\nThings could always go sideways, as they often do with long-term deals for older starting pitchers. But there's no reason to think Skubal won't be exceptional for the first half of any deal he signs, which would also theoretically line up with a World Series window the Mets will hope to be entering.\nWhen you look at Skubal, who combines one of the best arsenals in baseball with perhaps the best command in baseball (and whose metrics look like this), the biggest risk for the Mets would be not going all-in on him.",
+    "rss_title": "Mets should make all-out Tarik Skubal pursuit, but it could take a philosophical shift",
+    "rss_body": "As the Mets enter the offseason, they'll be facing a familiar challenge: put together a team that can get them back to the playoffs for the first time since 2024.\nDavid Stearns and the front office failed in that regard last offseason, due in part to the drastic changes that were made to the roster and coaching staff. There were other things at play, including long-term injuries to Francisco Lindor and Clay Holmes, some worst-case scenarios playing out, and an over-reliance on bounce backs.\nThis time around, the Mets will almost certainly have much less turnover, but that doesn't mean the overall result in 2026 wasn't an abject failure.\nNew York had a 34-31 record after the All-Star break, which was a big improvement after things spun out of control in the first half and led to a trade deadline sell-off.\nBut the most important developments for the Mets after their dismal start? The emergence of Carson Benge and A.J. Ewing, the impressive return of Christian Scott, the moxie and performance of Zac Thornton, and some good late-season signs from Jonah Tong.\nThe above should give the Mets confidence that they're in solid shape when it comes to their lineup and a chunk of the starting rotation. They have an emerging young core to complement their more established stars, and potentially have high-upside players coming soon from the upper levels of the minors. But serious help is still needed this winter.\nSpecifically, the Mets need to add external help at first base, address the DH spot, bolster the bullpen with multiple new arms (including a back end option), and -- most importantly -- find a pitcher who profiles at the very top of the rotation.\nIn both 2025 and 2026, the Mets were done in, due in large part to not having enough starting pitching depth. And it can be argued that they left themselves short one legitimate starter both times. That can't happen again, so New York should be focused on pairing a new prospective ace with another addition who profiles in the middle or back of the rotation.\nAbout that ace ... it's not difficult to figure out that it should be Tarik Skubal.\nIn one of the weakest free agent classes in recent memory, Skubal stands out even more than he ordinarily would.\nFresh off back-to-back Cy Young awards, the 29-year-old Skubal posted a 2.72 ERA (2.51 FIP) and 0.96 WHIP while walking just 1.5 per nine innings and striking out 186 batters in 158.2 innings in 2026.\nSkubal's season was briefly interrupted by NanoScope surgery on his pitching elbow that kept him out of action from April 30 through June 13. But he continued to be dominant upon his return. After having a 2.70 ERA (2.11 FIP) over his first seven starts, Skubal had a 2.73 ERA (2.66 FIP) in the 19 starts he made post-surgery, with 10 of them coming after he was dealt to the Dodgers at the trade deadline.\nDuring Stearns' end-of-season news conference on Monday at Citi Field, he was asked multiple times about the Mets' offseason plan for adding pitching, but unsurprisingly didn't offer much when asked in a roundabout way about a possible Skubal pursuit.\n\"I do think it is necessary for us to add to our rotation,\" Stearns said. \"We can do that in a variety of different ways. We've talked about this plenty before -- you'd always love to add to the top of your rotation, any team would love to do that -- over the long term, what we need to do is develop pitchers at the top of our rotation, and I think we are proving we can do that, and we'll continue to do that.\"\nWhile Stearns refused to make any declarations about the type of pitcher the Mets would go after, it is pointless to read into that.\nFor one, Skubal is still under contract with the Dodgers, and no executive is going to talk about going after a player who is on another team.\nSecond, and even more importantly, no exec is going to tip his or her hand entirely and risk wrecking leverage ahead of possible negotiations.\nWhile Stearns (smartly) won't say it, I will: The Mets should make Skubal the centerpiece of their offseason plan, using the resources at their disposal to add one of the most talented pitchers in the sport to slot in front of Nolan McLean.\nThe Mets' biggest need this offseason is at the top of their rotation, with Skubal a nearly perfect way to fill that need. And Skubal will cost only money, since the midseason trade from Detroit to Los Angeles makes him ineligible for a qualifying offer and the draft pick compensation it would've required from any team that signed him.\nWhen discussing Skubal and the Mets, it's obviously instructive to consider Stearns' philosophy when it comes to signing pitchers to long-term deals. Specifically, he has not shown much interest in signing pitchers in their late-20s or 30s to those kind of pacts -- and that philosophy is generally a valid one.\nFor every long-term, big-money deal to a pitcher 29 or older that works out (Max Scherzer's seven-year deal with the Nationals looks incredible in retrospect, and the Yankees' deal for Max Fried is aging well), you can point to a whole bunch that didn't or currently aren't (Patrick Corbin, Jacob deGrom, Jordan Zimmermann, Felix Hernandez, Corbin Burnes).\nAs far as how Stearns has operated in the past, it's fair to throw what he did in Milwaukee out the window given the payroll constraints he was working under.\nBut except for a serious pursuit of then-25-year-old Yoshinobu Yamamoto ahead of the 2024 season, Stearns' main forays into the free agent starting pitching market with the Mets have been measured:\nSean Manaea: Three years, $75 million\nClay Holmes: Three years, $38 million \nFrankie Montas: Two years, $34 million\nLuis Severino: One year, $13 million\nGriffin Canning: One year, $4.25 million\nOf those signings, Holmes was the biggest success as the Mets turned him back into a starter after he spent years in relief. But that success resulted in Holmes being set to opt out after the second season of his contract, which led to New York trading him at the deadline.\nDuring his time leading the Mets' baseball operations, Stearns has been reluctant to offer deals to starting pitchers (except Yamamoto) that exceed three years. When that is your philosophy, the risk is obviously lower. But sometimes a calculated risk is needed.\nWhen it comes to Skubal, there is risk. In addition to the minor surgery he had this season, Skubal underwent flexor tendon surgery in 2022 and had Tommy John surgery in 2017.\nSkubal is also likely to receive the biggest deal ever for a starting pitcher when it comes to average annual value. Maybe his age (30 when next season begins) and yearly value of his deal will make the years easier to stomach, but something like $400 million for eight years is easy to imagine.\nThere's also the looming lockout and new CBA to consider.\nWhile it's difficult to envision the players caving on a hard salary cap, it's fair to believe the new CBA will include stiffer penalties for teams that exceed the luxury tax thresholds.\nBut even after considering all of that, it's still reasonable to conclude that the Mets should go after Skubal with gusto -- that he should be the exception to Stearns' rule, maybe with a slight nudge from owner Steve Cohen.\nThings could always go sideways, as they often do with long-term deals for older starting pitchers. But there's no reason to think Skubal won't be exceptional for the first half of any deal he signs, which would also theoretically line up with a World Series window the Mets will hope to be entering.\nWhen you look at Skubal, who combines one of the best arsenals in baseball with perhaps the best command in baseball (and whose metrics look like this), the biggest risk for the Mets would be not going all-in on him.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "45bf5448a0391952e6c2",
+    "title": "NLDS notes: Josue De Paula, Shohei Ohtani, Freddie Freeman",
+    "source": "Yahoo Sports",
+    "author": "Jacob Macofsky",
+    "url": "https://sports.yahoo.com/articles/nlds-notes-josue-paula-shohei-120900838.html",
+    "published_iso": "2026-09-30T12:20:54+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 12:20:54 +0000",
+    "body": "While eight teams battle it out to see who will advance to the Division Series, the Dodgers are among four teams using this time off to prepare for October baseball.\nAfter winning an even 100 games in the regular season, the Dodgers secured a first-round bye and will await the winner of the NL Wild Card matchup between the Atlanta Braves and Philadelphia Phillies. While the Dodgers continue to add the finishing touches to their postseason roster, there are some lingering questions as to which players will be a part of the team's depth chart.\n21-year-old outfielder Josue De Paula made his presence known while filling in for the then-injured Shohei Ohtani, slashing .323/.500/.581 across 42 plate appearances before he was sent down to Triple-A Oklahoma City. Sonja Chen of MLB.com believes that both De Paula and utility man Hyeseong Kim can make an impact on the postseason roster, with the former being relegated to pinch-hit opportunities due to his lack of big-league experience in the outfield.\nOf course, De Paula is capable of playing the corner outfield, but we only saw him play six innings in left as a Dodger. And given how important defense is in the postseason, I doubt we will see him in the field unless it's an emergency.\nThe month of September has given Shohei Ohtani plenty of time to prepare for his third consecutive postseason run with the Dodgers. The Dodgers still have another three days to prepare for the NLDS, and Ohtani is using this time to get his swing in the right place, per Chen.\n\"Everything is feeling great physically,\" general manager Brandon Gomes said on a Zoom call with the media on Tuesday. \"The swings, once he came back, overall were in a good place. And using these five days to continue to get reps and feeling good into this series is really important. But feels like he's in a great spot.\"\nFreddie Freeman had his power zapped in the second half of the regular season, hitting just one home run while posting a slugging percentage of .339. Freeman dealt with patellar tendonitis in his right knee, but entering the NLDS, he said that he's feeling a lot better, reports Jack Harris of the California Post.\n\"I truly feel good right now, physically,\" Freeman said on Tuesday, during a video conference with reporters ahead of the Dodgers' first pre-National League Division Series bye week workout. \"So it's on me now to figure out the mechanics of the swing in the next five days. And I have all the confidence in myself that I will figure that out by [Game 1 on] Saturday.\"",
+    "tracked_people": [
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Brandon Gomes",
+        "role": "General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Hyeseong Kim",
+        "role": "Infielder",
+        "status": "Minors",
+        "type": "player",
+        "id": 54,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "NLDS notes: Josue De Paula, Shohei Ohtani, Freddie Freeman",
+    "original_body": "While eight teams battle it out to see who will advance to the Division Series, the Dodgers are among four teams using this time off to prepare for October baseball.\nAfter winning an even 100 games in the regular season, the Dodgers secured a first-round bye and will await the winner of the NL Wild Card matchup between the Atlanta Braves and Philadelphia Phillies. While the Dodgers continue to add the finishing touches to their postseason roster, there are some lingering questions as to which players will be a part of the team's depth chart.\n21-year-old outfielder Josue De Paula made his presence known while filling in for the then-injured Shohei Ohtani, slashing .323/.500/.581 across 42 plate appearances before he was sent down to Triple-A Oklahoma City. Sonja Chen of MLB.com believes that both De Paula and utility man Hyeseong Kim can make an impact on the postseason roster, with the former being relegated to pinch-hit opportunities due to his lack of big-league experience in the outfield.\nOf course, De Paula is capable of playing the corner outfield, but we only saw him play six innings in left as a Dodger. And given how important defense is in the postseason, I doubt we will see him in the field unless it's an emergency.\nThe month of September has given Shohei Ohtani plenty of time to prepare for his third consecutive postseason run with the Dodgers. The Dodgers still have another three days to prepare for the NLDS, and Ohtani is using this time to get his swing in the right place, per Chen.\n\"Everything is feeling great physically,\" general manager Brandon Gomes said on a Zoom call with the media on Tuesday. \"The swings, once he came back, overall were in a good place. And using these five days to continue to get reps and feeling good into this series is really important. But feels like he's in a great spot.\"\nFreddie Freeman had his power zapped in the second half of the regular season, hitting just one home run while posting a slugging percentage of .339. Freeman dealt with patellar tendonitis in his right knee, but entering the NLDS, he said that he's feeling a lot better, reports Jack Harris of the California Post.\n\"I truly feel good right now, physically,\" Freeman said on Tuesday, during a video conference with reporters ahead of the Dodgers' first pre-National League Division Series bye week workout. \"So it's on me now to figure out the mechanics of the swing in the next five days. And I have all the confidence in myself that I will figure that out by [Game 1 on] Saturday.\"",
+    "rss_title": "NLDS notes: Josue De Paula, Shohei Ohtani, Freddie Freeman",
+    "rss_body": "While eight teams battle it out to see who will advance to the Division Series, the Dodgers are among four teams using this time off to prepare for October baseball.\nAfter winning an even 100 games in the regular season, the Dodgers secured a first-round bye and will await the winner of the NL Wild Card matchup between the Atlanta Braves and Philadelphia Phillies. While the Dodgers continue to add the finishing touches to their postseason roster, there are some lingering questions as to which players will be a part of the team's depth chart.\n21-year-old outfielder Josue De Paula made his presence known while filling in for the then-injured Shohei Ohtani, slashing .323/.500/.581 across 42 plate appearances before he was sent down to Triple-A Oklahoma City. Sonja Chen of MLB.com believes that both De Paula and utility man Hyeseong Kim can make an impact on the postseason roster, with the former being relegated to pinch-hit opportunities due to his lack of big-league experience in the outfield.\nOf course, De Paula is capable of playing the corner outfield, but we only saw him play six innings in left as a Dodger. And given how important defense is in the postseason, I doubt we will see him in the field unless it's an emergency.\nThe month of September has given Shohei Ohtani plenty of time to prepare for his third consecutive postseason run with the Dodgers. The Dodgers still have another three days to prepare for the NLDS, and Ohtani is using this time to get his swing in the right place, per Chen.\n\"Everything is feeling great physically,\" general manager Brandon Gomes said on a Zoom call with the media on Tuesday. \"The swings, once he came back, overall were in a good place. And using these five days to continue to get reps and feeling good into this series is really important. But feels like he's in a great spot.\"\nFreddie Freeman had his power zapped in the second half of the regular season, hitting just one home run while posting a slugging percentage of .339. Freeman dealt with patellar tendonitis in his right knee, but entering the NLDS, he said that he's feeling a lot better, reports Jack Harris of the California Post.\n\"I truly feel good right now, physically,\" Freeman said on Tuesday, during a video conference with reporters ahead of the Dodgers' first pre-National League Division Series bye week workout. \"So it's on me now to figure out the mechanics of the swing in the next five days. And I have all the confidence in myself that I will figure that out by [Game 1 on] Saturday.\"",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "6be3c0c54cb3ce1a186f",
     "title": "【MLB】大谷翔平、屋外フリー敢行…IL入り以降初 首脳陣は体調に自信 ドジャース『中1日』で再始動の理由 背景にある大谷加入前の屈辱",
     "source": "サンスポ",
