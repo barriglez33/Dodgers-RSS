@@ -1,5 +1,293 @@
 [
   {
+    "id": "ccc9ae13b05b6a7ce434",
+    "title": "Dodgers to get ‘huge impact’ with key reliever on track for NLDS return",
+    "source": "New York Post",
+    "author": "Jack Harris",
+    "url": "https://nypost.com/2026/09/29/sports/dodgers-expect-edgardo-henriquez-to-be-healthy-for-nlds/",
+    "published_iso": "2026-09-30T00:26:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 00:26:00 +0000",
+    "body": "Over the last two months of the regular season, no team had a more productive bullpen than the Dodgers.\nAnd come the start of their postseason trek on Saturday, the team might be adding another key arm back to the group.\nGeneral manager Brandon Gomes announced on Tuesday that the club expects to have hard-throwing right-handed reliever Edgardo Henriquez available for its National League Division Series, an encouraging development after Henriquez missed the final couple weeks of the regular season with a strain in his back.\nPrior to getting hurt, Henriquez was emerging as one of the top arms in the Dodgers’ resurgent relief corps (which led all MLB bullpens in August and September with 4.3 combined wins above replacement, according to Fangraphs, and ranked fourth in that stretch in combined ERA at 3.20).\nA 24-year-old former prospect who has started to routinely eclipse 103 mph with his fastball, Henriquez ranked fourth among the team’s relievers (minimum 20 appearances) with a 2.85 ERA this season. He also struck out 70 batters in 60 total innings and converted each of the ninth-inning save opportunities he received.\nHenriquez had hit his stride in August and early September, allowing just one run in a 17-game stretch that featured 25 strikeouts and only two walks and seven hits allowed.\nHowever, after giving up two runs in a Sept. 13 appearance in Miami against the Marlins, he went on the IL with his back injury –– one that initially cast doubt on his postseason availability.\nLuckily for the Dodgers, Henriquez’s status has improved since then. He resumed a throwing during the team’s final regular-season homestand. He recently completed a session of live batting practice without feeling any lingering discomfort. And while Gomes said “we still got a few steps to go” before Henriquez gets the green light to return, every indication is that he should be available for the club’s best-of-five NLDS.\n“If that all goes well, then yeah, the expectation is he’ll be on the roster,” Gomes said.\n“Given the body of work, what he’s done, the unique skill set, that could be huge for us,” manager Dave Roberts added, before correcting himself: “Will be huge for us.”\nIndeed, Henriquez would figure to occupy a high-leverage spot in the Dodgers’ postseason bullpen. He gives them not only a trustworthy right-hander option –– along with Roki Sasaki, Evan Phillips, Brock Stewart and the recently resurgent Edwin Díaz –– but also one of the biggest fastballs in the game.\nHenriquez’s 100.7 mph average fastball velocity ranked second among MLB pitchers this season, behind only star Padres closer Mason Miller. The team’s next-hardest thrower is Sasaki, whose heater averaged only 97.9 mph this year (though could increase in the playoffs as he shifts to a bullpen role).\nLast October, Henriquez was a mixed bag in the playoffs. In two of his appearances (Game 1 of the wild card series and Game 5 of the World Series), he failed to record an out while allowing a hit and two walks in both outings. But in the other (Game 3 of the World Series), he pitched two scoreless frames in the team’s marathon 18-inning win, becoming an unsung hero in their Fall Classic triumph.\nThis time, Henriquez is set for a prominent role, assuming he gets through one more session of live batting practice OK.\n“[He would make a] huge impact,” Roberts said. “I think he’s one of those guys that getting the bye has really benefited.”",
+    "tracked_people": [
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Brandon Gomes",
+        "role": "General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Brock Stewart",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 51,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers to get ‘huge impact’ with key reliever on track for NLDS return",
+    "original_body": "Over the last two months of the regular season, no team had a more productive bullpen than the Dodgers.\nAnd come the start of their postseason trek on Saturday, the team might be adding another key arm back to the group.\nGeneral manager Brandon Gomes announced on Tuesday that the club expects to have hard-throwing right-handed reliever Edgardo Henriquez available for its National League Division Series, an encouraging development after Henriquez missed the final couple weeks of the regular season with a strain in his back.\nPrior to getting hurt, Henriquez was emerging as one of the top arms in the Dodgers’ resurgent relief corps (which led all MLB bullpens in August and September with 4.3 combined wins above replacement, according to Fangraphs, and ranked fourth in that stretch in combined ERA at 3.20).\nA 24-year-old former prospect who has started to routinely eclipse 103 mph with his fastball, Henriquez ranked fourth among the team’s relievers (minimum 20 appearances) with a 2.85 ERA this season. He also struck out 70 batters in 60 total innings and converted each of the ninth-inning save opportunities he received.\nHenriquez had hit his stride in August and early September, allowing just one run in a 17-game stretch that featured 25 strikeouts and only two walks and seven hits allowed.\nHowever, after giving up two runs in a Sept. 13 appearance in Miami against the Marlins, he went on the IL with his back injury –– one that initially cast doubt on his postseason availability.\nLuckily for the Dodgers, Henriquez’s status has improved since then. He resumed a throwing during the team’s final regular-season homestand. He recently completed a session of live batting practice without feeling any lingering discomfort. And while Gomes said “we still got a few steps to go” before Henriquez gets the green light to return, every indication is that he should be available for the club’s best-of-five NLDS.\n“If that all goes well, then yeah, the expectation is he’ll be on the roster,” Gomes said.\n“Given the body of work, what he’s done, the unique skill set, that could be huge for us,” manager Dave Roberts added, before correcting himself: “Will be huge for us.”\nIndeed, Henriquez would figure to occupy a high-leverage spot in the Dodgers’ postseason bullpen. He gives them not only a trustworthy right-hander option –– along with Roki Sasaki, Evan Phillips, Brock Stewart and the recently resurgent Edwin Díaz –– but also one of the biggest fastballs in the game.\nHenriquez’s 100.7 mph average fastball velocity ranked second among MLB pitchers this season, behind only star Padres closer Mason Miller. The team’s next-hardest thrower is Sasaki, whose heater averaged only 97.9 mph this year (though could increase in the playoffs as he shifts to a bullpen role).\nLast October, Henriquez was a mixed bag in the playoffs. In two of his appearances (Game 1 of the wild card series and Game 5 of the World Series), he failed to record an out while allowing a hit and two walks in both outings. But in the other (Game 3 of the World Series), he pitched two scoreless frames in the team’s marathon 18-inning win, becoming an unsung hero in their Fall Classic triumph.\nThis time, Henriquez is set for a prominent role, assuming he gets through one more session of live batting practice OK.\n“[He would make a] huge impact,” Roberts said. “I think he’s one of those guys that getting the bye has really benefited.”",
+    "rss_title": "Dodgers to get ‘huge impact’ with key reliever on track for NLDS return",
+    "rss_body": "Over the last two months of the regular season, no team had a more productive bullpen than the Dodgers.\nAnd come the start of their postseason trek on Saturday, the team might be adding another key arm back to the group.\nGeneral manager Brandon Gomes announced on Tuesday that the club expects to have hard-throwing right-handed reliever Edgardo Henriquez available for its National League Division Series, an encouraging development after Henriquez missed the final couple weeks of the regular season with a strain in his back.\nPrior to getting hurt, Henriquez was emerging as one of the top arms in the Dodgers’ resurgent relief corps (which led all MLB bullpens in August and September with 4.3 combined wins above replacement, according to Fangraphs, and ranked fourth in that stretch in combined ERA at 3.20).\nA 24-year-old former prospect who has started to routinely eclipse 103 mph with his fastball, Henriquez ranked fourth among the team’s relievers (minimum 20 appearances) with a 2.85 ERA this season. He also struck out 70 batters in 60 total innings and converted each of the ninth-inning save opportunities he received.\nHenriquez had hit his stride in August and early September, allowing just one run in a 17-game stretch that featured 25 strikeouts and only two walks and seven hits allowed.\nHowever, after giving up two runs in a Sept. 13 appearance in Miami against the Marlins, he went on the IL with his back injury –– one that initially cast doubt on his postseason availability.\nLuckily for the Dodgers, Henriquez’s status has improved since then. He resumed a throwing during the team’s final regular-season homestand. He recently completed a session of live batting practice without feeling any lingering discomfort. And while Gomes said “we still got a few steps to go” before Henriquez gets the green light to return, every indication is that he should be available for the club’s best-of-five NLDS.\n“If that all goes well, then yeah, the expectation is he’ll be on the roster,” Gomes said.\n“Given the body of work, what he’s done, the unique skill set, that could be huge for us,” manager Dave Roberts added, before correcting himself: “Will be huge for us.”\nIndeed, Henriquez would figure to occupy a high-leverage spot in the Dodgers’ postseason bullpen. He gives them not only a trustworthy right-hander option –– along with Roki Sasaki, Evan Phillips, Brock Stewart and the recently resurgent Edwin Díaz –– but also one of the biggest fastballs in the game.\nHenriquez’s 100.7 mph average fastball velocity ranked second among MLB pitchers this season, behind only star Padres closer Mason Miller. The team’s next-hardest thrower is Sasaki, whose heater averaged only 97.9 mph this year (though could increase in the playoffs as he shifts to a bullpen role).\nLast October, Henriquez was a mixed bag in the playoffs. In two of his appearances (Game 1 of the wild card series and Game 5 of the World Series), he failed to record an out while allowing a hit and two walks in both outings. But in the other (Game 3 of the World Series), he pitched two scoreless frames in the team’s marathon 18-inning win, becoming an unsung hero in their Fall Classic triumph.\nThis time, Henriquez is set for a prominent role, assuming he gets through one more session of live batting practice OK.\n“[He would make a] huge impact,” Roberts said. “I think he’s one of those guys that getting the bye has really benefited.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "5af4123b2fb8db2cdbc2",
+    "title": "Freddie Freeman Reveals Injury Status Ahead of Playoffs",
+    "source": "Dodgers Nation",
+    "author": "Cameron Kiszla",
+    "url": "https://dodgersnation.com/freddie-freeman-reveals-injury-status-ahead-of-playoffs/2026/09/29/",
+    "published_iso": "2026-09-30T00:13:58+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 00:13:58 +0000",
+    "body": "Los Angeles Dodgers first baseman Freddie Freeman has been dealing with knee pain toward the end of this season, but the Boys in Blue securing a bye for the Wild Card round may be his saving grace.\nFreeman said Tuesday that he feels better than he had recently, with “no pain in my knee right now.”\nHe added that he’s using this period of five days without games to get some “mental rest,” though his physical preparation for the playoffs is far from over.\nFreddie Freeman making changes ahead of playoffs\nFreeman, who according to ESPN hit a dreadful .184/.259/.224 in September after a roaring summer at the plate, said he’s making some changes this week.\nIn particular, he’s looking at his swing and how to get back on track this October.\nFreeman said “I’ll be hitting BP every day” and is working a plan he has on how to make himself a dangerous hitter again when October comes around.\nAfter all, in June, he slashed .337/.425/.548/.973, and he followed that up with a torrid July as well, hitting .348/.384/.467/.851.\nFreeman said in October 2024, he felt “probably 100 times worse,” so he think he can figure it out for this postseason, too.\n“I have all the confidence in myself that I will figure it out by Saturday,” he said.\nFreddie Freeman sounds off on Dodgers’ mindset ahead of playoffs\nFreeman also faced the inevitable questions about this team’s quest for a third straight title, something he said he’s “personally not thinking about.”\nInstead, Freeman said he’s keeping his focus on this upcoming series, including who the Dodgers will play and how to beat them.\n“I think if you think big picture in this moment, you’re going to lose you lose sight of some things,” he said. “You just got to take each day one at one day at a time. And we do understand the bigger picture, but if you’re looking at the bigger picture, the you won’t be able to get to that big picture if you’re not focusing on the now.”\nIt sounds like Freeman and the rest of the Dodgers are locked in on this weekend.\nDo you think the Dodgers will three-peat this season?",
+    "tracked_people": [
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Freddie Freeman Reveals Injury Status Ahead of Playoffs",
+    "original_body": "Los Angeles Dodgers first baseman Freddie Freeman has been dealing with knee pain toward the end of this season, but the Boys in Blue securing a bye for the Wild Card round may be his saving grace.\nFreeman said Tuesday that he feels better than he had recently, with “no pain in my knee right now.”\nHe added that he’s using this period of five days without games to get some “mental rest,” though his physical preparation for the playoffs is far from over.\nFreddie Freeman making changes ahead of playoffs\nFreeman, who according to ESPN hit a dreadful .184/.259/.224 in September after a roaring summer at the plate, said he’s making some changes this week.\nIn particular, he’s looking at his swing and how to get back on track this October.\nFreeman said “I’ll be hitting BP every day” and is working a plan he has on how to make himself a dangerous hitter again when October comes around.\nAfter all, in June, he slashed .337/.425/.548/.973, and he followed that up with a torrid July as well, hitting .348/.384/.467/.851.\nFreeman said in October 2024, he felt “probably 100 times worse,” so he think he can figure it out for this postseason, too.\n“I have all the confidence in myself that I will figure it out by Saturday,” he said.\nFreddie Freeman sounds off on Dodgers’ mindset ahead of playoffs\nFreeman also faced the inevitable questions about this team’s quest for a third straight title, something he said he’s “personally not thinking about.”\nInstead, Freeman said he’s keeping his focus on this upcoming series, including who the Dodgers will play and how to beat them.\n“I think if you think big picture in this moment, you’re going to lose you lose sight of some things,” he said. “You just got to take each day one at one day at a time. And we do understand the bigger picture, but if you’re looking at the bigger picture, the you won’t be able to get to that big picture if you’re not focusing on the now.”\nIt sounds like Freeman and the rest of the Dodgers are locked in on this weekend.\nDo you think the Dodgers will three-peat this season?",
+    "rss_title": "Freddie Freeman Reveals Injury Status Ahead of Playoffs",
+    "rss_body": "Los Angeles Dodgers first baseman Freddie Freeman has been dealing with knee pain toward the end of this season, but the Boys in Blue securing a bye for the Wild Card round may be his saving grace.\nFreeman said Tuesday that he feels better than he had recently, with “no pain in my knee right now.”\nHe added that he’s using this period of five days without games to get some “mental rest,” though his physical preparation for the playoffs is far from over.\nFreddie Freeman making changes ahead of playoffs\nFreeman, who according to ESPN hit a dreadful .184/.259/.224 in September after a roaring summer at the plate, said he’s making some changes this week.\nIn particular, he’s looking at his swing and how to get back on track this October.\nFreeman said “I’ll be hitting BP every day” and is working a plan he has on how to make himself a dangerous hitter again when October comes around.\nAfter all, in June, he slashed .337/.425/.548/.973, and he followed that up with a torrid July as well, hitting .348/.384/.467/.851.\nFreeman said in October 2024, he felt “probably 100 times worse,” so he think he can figure it out for this postseason, too.\n“I have all the confidence in myself that I will figure it out by Saturday,” he said.\nFreddie Freeman sounds off on Dodgers’ mindset ahead of playoffs\nFreeman also faced the inevitable questions about this team’s quest for a third straight title, something he said he’s “personally not thinking about.”\nInstead, Freeman said he’s keeping his focus on this upcoming series, including who the Dodgers will play and how to beat them.\n“I think if you think big picture in this moment, you’re going to lose you lose sight of some things,” he said. “You just got to take each day one at one day at a time. And we do understand the bigger picture, but if you’re looking at the bigger picture, the you won’t be able to get to that big picture if you’re not focusing on the now.”\nIt sounds like Freeman and the rest of the Dodgers are locked in on this weekend.\nDo you think the Dodgers will three-peat this season?",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "00f98b2d15ba90fe37e6",
+    "title": "Dodgers Expect Edgardo Henriquez Back for NLDS If Final Tests Go Well",
+    "source": "Dodgers Nation",
+    "author": "Nelson Espinal",
+    "url": "https://dodgersnation.com/dodgers-expect-edgardo-henriquez-back-for-nlds-if-final-tests-go-well/2026/09/29/",
+    "published_iso": "2026-09-29T23:57:09+00:00",
+    "published_rfc2822": "Tue, 29 Sep 2026 23:57:09 +0000",
+    "body": "Los Angeles Dodgers reliever Edgardo Henriquez is “trending really well,” according to general manager Brandon Gomes, and he is looking likely to be on the NLDS roster.\nHenriquez is still on the injured list with a lower back injury, which shut him down for the last two weeks of the regular season.\nEdgardo Henriquez injury status\nWhen speaking to the media, including Dodgers Nation, on Tuesday, September 29th, Gomes said Henriquez threw a live batting practice session against hitters, and it went well.\nHenriquez also has additional activities lined up during the bye week to clear up, including simulated games and more live batting sessions.\nIf he clears the remaining checkmarks, Henriquez will be ready for the NLDS, per Gomes.\n“We’ve still got a few steps to go, but if all that goes well, the expectation is he will be on the roster,” the general manager said.\nWhat will Henriquez’s role be with the bullpen?\nBefore he got hurt, Henriquez was a set-up man for the Dodgers, and he was also a budding closer for the team thanks to his consistency.\nTanner Scott is prone to home runs, while Edwin Diaz was in a spiral, which helped Henriquez emerge as the most consistent relief pitcher.\nOver the last few weeks, Scott has been steady, while Diaz has rebuilt himself from the ground up. Additionally, Roki Sasaki moved into the bullpen, leading the Dodgers into the postseason with plenty of candidates to close, Henriquez among them.\n“Obviously we’ve had a lot of talent over the years,” manager Dave Roberts said. “But as far as sitting here today at the end of the season, it’s as good of shape as we’ve ever been in with the bullpen.\n“That could change in a day, in a game, as we all know. But right now, feel really good about everyone out there.”\nRoberts is known for making bullpen decisions based on feel in the postseason, and depending on how Henriquez looks coming back, he may close or perhaps settle into a middle relief role.\nLuckily, the Dodgers have bullpen options, which hasn’t been the case for a while.",
+    "tracked_people": [
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Brandon Gomes",
+        "role": "General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 34,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers Expect Edgardo Henriquez Back for NLDS If Final Tests Go Well",
+    "original_body": "Los Angeles Dodgers reliever Edgardo Henriquez is “trending really well,” according to general manager Brandon Gomes, and he is looking likely to be on the NLDS roster.\nHenriquez is still on the injured list with a lower back injury, which shut him down for the last two weeks of the regular season.\nEdgardo Henriquez injury status\nWhen speaking to the media, including Dodgers Nation, on Tuesday, September 29th, Gomes said Henriquez threw a live batting practice session against hitters, and it went well.\nHenriquez also has additional activities lined up during the bye week to clear up, including simulated games and more live batting sessions.\nIf he clears the remaining checkmarks, Henriquez will be ready for the NLDS, per Gomes.\n“We’ve still got a few steps to go, but if all that goes well, the expectation is he will be on the roster,” the general manager said.\nWhat will Henriquez’s role be with the bullpen?\nBefore he got hurt, Henriquez was a set-up man for the Dodgers, and he was also a budding closer for the team thanks to his consistency.\nTanner Scott is prone to home runs, while Edwin Diaz was in a spiral, which helped Henriquez emerge as the most consistent relief pitcher.\nOver the last few weeks, Scott has been steady, while Diaz has rebuilt himself from the ground up. Additionally, Roki Sasaki moved into the bullpen, leading the Dodgers into the postseason with plenty of candidates to close, Henriquez among them.\n“Obviously we’ve had a lot of talent over the years,” manager Dave Roberts said. “But as far as sitting here today at the end of the season, it’s as good of shape as we’ve ever been in with the bullpen.\n“That could change in a day, in a game, as we all know. But right now, feel really good about everyone out there.”\nRoberts is known for making bullpen decisions based on feel in the postseason, and depending on how Henriquez looks coming back, he may close or perhaps settle into a middle relief role.\nLuckily, the Dodgers have bullpen options, which hasn’t been the case for a while.",
+    "rss_title": "Dodgers Expect Edgardo Henriquez Back for NLDS If Final Tests Go Well",
+    "rss_body": "Los Angeles Dodgers reliever Edgardo Henriquez is “trending really well,” according to general manager Brandon Gomes, and he is looking likely to be on the NLDS roster.\nHenriquez is still on the injured list with a lower back injury, which shut him down for the last two weeks of the regular season.\nEdgardo Henriquez injury status\nWhen speaking to the media, including Dodgers Nation, on Tuesday, September 29th, Gomes said Henriquez threw a live batting practice session against hitters, and it went well.\nHenriquez also has additional activities lined up during the bye week to clear up, including simulated games and more live batting sessions.\nIf he clears the remaining checkmarks, Henriquez will be ready for the NLDS, per Gomes.\n“We’ve still got a few steps to go, but if all that goes well, the expectation is he will be on the roster,” the general manager said.\nWhat will Henriquez’s role be with the bullpen?\nBefore he got hurt, Henriquez was a set-up man for the Dodgers, and he was also a budding closer for the team thanks to his consistency.\nTanner Scott is prone to home runs, while Edwin Diaz was in a spiral, which helped Henriquez emerge as the most consistent relief pitcher.\nOver the last few weeks, Scott has been steady, while Diaz has rebuilt himself from the ground up. Additionally, Roki Sasaki moved into the bullpen, leading the Dodgers into the postseason with plenty of candidates to close, Henriquez among them.\n“Obviously we’ve had a lot of talent over the years,” manager Dave Roberts said. “But as far as sitting here today at the end of the season, it’s as good of shape as we’ve ever been in with the bullpen.\n“That could change in a day, in a game, as we all know. But right now, feel really good about everyone out there.”\nRoberts is known for making bullpen decisions based on feel in the postseason, and depending on how Henriquez looks coming back, he may close or perhaps settle into a middle relief role.\nLuckily, the Dodgers have bullpen options, which hasn’t been the case for a while.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "001302500cd74da3a927",
+    "title": "Dodgers Linked to Tarik Skubal As Former GM Reveals Potential Price Tag",
+    "source": "heavy.com",
+    "author": "Maria Aldrich",
+    "url": "https://heavy.com/sports/mlb/los-angeles-dodgers/linked-tarik-skubal-former-gm-price/",
+    "published_iso": "2026-09-29T23:42:32+00:00",
+    "published_rfc2822": "Tue, 29 Sep 2026 23:42:32 +0000",
+    "body": "The Los Angeles Dodgers rattled the MLB world after they acquired southpaw Tarik Skubal back in August.\nHe is currently under a one-year, $32 million contract with the Dodgers, but he is heading toward free agency.\nFormer general manager Jim Duquette has revealed his price tag prediction and linked him to Los Angeles.\nDodgers Could Retain Skubal for a Massive Price\nSkubal’s future is one of the most pressing subjects across the major leagues right now.\nAccording to Duquette, per SNY Mets, the 29-year-old could be facing a $400 million deal with Los Angeles.\n“I do think that it gets to $400 (million),” he said. “I think it’ll be the Dodgers and I do think it’ll be the Mets. Those are the two teams that will be most interested and most able to afford him.”\nAt the time of this writing, Skubal has a 2.72 ERA and 186 strikeouts across 158.2 innings pitched through 26 starts. He’s walked 27 batters.\nThis marks his seventh season playing Major League Baseball, but only his first with an organization other than the Detroit Tigers.\nThe Tigers selected him 255th overall in the ninth round of the 2018 MLB draft. He made his debut in August 2020.\nHearing Duquette name such a price isn’t too surprising — it’s known that Skubal’s future is going to be an expensive one.\nAs noted by Jeff Passan of ESPN earlier this month, “The number will be huge. Bear in mind that Skubal turns 30 in November and never before has a pitcher age 30 or older received more than Stephen Strasburg’s $245 million (on a seven-year deal) in free agency. Provided there is no salary cap, Skubal could get double that.”\nPassan predicts the deal would be for “at least a decade.”\nSkubal is presumably a favorite to remain with the Dodgers — shipping out would once again shake the big leagues.\nWhere the Dodgers Stand Right Now Ahead of NLDS\nThe Wild Card Series is in full swing, but Los Angeles has already cinched its spot in the National League Division Series.\nGame 1 is scheduled for Saturday, Oct. 3, at Dodger Stadium, kicking off the best-of-five series.\nThey will either face the Philadelphia Phillies or the Atlanta Braves, depending on who secures the victory in the Wild Card Series.\nLos Angeles has a 100-62 overall record. The only team with a stronger record is the Milwaukee Brewers (103-59).\nIf the Dodgers pull off an NLDS win, they will advance to the NLCS for a best-of-seven series in hopes of reaching the prestigious World Series.\nThey have a glaring opportunity to clinch their third consecutive World Series title.",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers Linked to Tarik Skubal As Former GM Reveals Potential Price Tag",
+    "original_body": "The Los Angeles Dodgers rattled the MLB world after they acquired southpaw Tarik Skubal back in August.\nHe is currently under a one-year, $32 million contract with the Dodgers, but he is heading toward free agency.\nFormer general manager Jim Duquette has revealed his price tag prediction and linked him to Los Angeles.\nDodgers Could Retain Skubal for a Massive Price\nSkubal’s future is one of the most pressing subjects across the major leagues right now.\nAccording to Duquette, per SNY Mets, the 29-year-old could be facing a $400 million deal with Los Angeles.\n“I do think that it gets to $400 (million),” he said. “I think it’ll be the Dodgers and I do think it’ll be the Mets. Those are the two teams that will be most interested and most able to afford him.”\nAt the time of this writing, Skubal has a 2.72 ERA and 186 strikeouts across 158.2 innings pitched through 26 starts. He’s walked 27 batters.\nThis marks his seventh season playing Major League Baseball, but only his first with an organization other than the Detroit Tigers.\nThe Tigers selected him 255th overall in the ninth round of the 2018 MLB draft. He made his debut in August 2020.\nHearing Duquette name such a price isn’t too surprising — it’s known that Skubal’s future is going to be an expensive one.\nAs noted by Jeff Passan of ESPN earlier this month, “The number will be huge. Bear in mind that Skubal turns 30 in November and never before has a pitcher age 30 or older received more than Stephen Strasburg’s $245 million (on a seven-year deal) in free agency. Provided there is no salary cap, Skubal could get double that.”\nPassan predicts the deal would be for “at least a decade.”\nSkubal is presumably a favorite to remain with the Dodgers — shipping out would once again shake the big leagues.\nWhere the Dodgers Stand Right Now Ahead of NLDS\nThe Wild Card Series is in full swing, but Los Angeles has already cinched its spot in the National League Division Series.\nGame 1 is scheduled for Saturday, Oct. 3, at Dodger Stadium, kicking off the best-of-five series.\nThey will either face the Philadelphia Phillies or the Atlanta Braves, depending on who secures the victory in the Wild Card Series.\nLos Angeles has a 100-62 overall record. The only team with a stronger record is the Milwaukee Brewers (103-59).\nIf the Dodgers pull off an NLDS win, they will advance to the NLCS for a best-of-seven series in hopes of reaching the prestigious World Series.\nThey have a glaring opportunity to clinch their third consecutive World Series title.",
+    "rss_title": "Dodgers Linked to Tarik Skubal As Former GM Reveals Potential Price Tag",
+    "rss_body": "The Los Angeles Dodgers rattled the MLB world after they acquired southpaw Tarik Skubal back in August.\nHe is currently under a one-year, $32 million contract with the Dodgers, but he is heading toward free agency.\nFormer general manager Jim Duquette has revealed his price tag prediction and linked him to Los Angeles.\nDodgers Could Retain Skubal for a Massive Price\nSkubal’s future is one of the most pressing subjects across the major leagues right now.\nAccording to Duquette, per SNY Mets, the 29-year-old could be facing a $400 million deal with Los Angeles.\n“I do think that it gets to $400 (million),” he said. “I think it’ll be the Dodgers and I do think it’ll be the Mets. Those are the two teams that will be most interested and most able to afford him.”\nAt the time of this writing, Skubal has a 2.72 ERA and 186 strikeouts across 158.2 innings pitched through 26 starts. He’s walked 27 batters.\nThis marks his seventh season playing Major League Baseball, but only his first with an organization other than the Detroit Tigers.\nThe Tigers selected him 255th overall in the ninth round of the 2018 MLB draft. He made his debut in August 2020.\nHearing Duquette name such a price isn’t too surprising — it’s known that Skubal’s future is going to be an expensive one.\nAs noted by Jeff Passan of ESPN earlier this month, “The number will be huge. Bear in mind that Skubal turns 30 in November and never before has a pitcher age 30 or older received more than Stephen Strasburg’s $245 million (on a seven-year deal) in free agency. Provided there is no salary cap, Skubal could get double that.”\nPassan predicts the deal would be for “at least a decade.”\nSkubal is presumably a favorite to remain with the Dodgers — shipping out would once again shake the big leagues.\nWhere the Dodgers Stand Right Now Ahead of NLDS\nThe Wild Card Series is in full swing, but Los Angeles has already cinched its spot in the National League Division Series.\nGame 1 is scheduled for Saturday, Oct. 3, at Dodger Stadium, kicking off the best-of-five series.\nThey will either face the Philadelphia Phillies or the Atlanta Braves, depending on who secures the victory in the Wild Card Series.\nLos Angeles has a 100-62 overall record. The only team with a stronger record is the Milwaukee Brewers (103-59).\nIf the Dodgers pull off an NLDS win, they will advance to the NLCS for a best-of-seven series in hopes of reaching the prestigious World Series.\nThey have a glaring opportunity to clinch their third consecutive World Series title.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "59d05539eca48e69b92f",
+    "title": "Max Muncy Reveals the Dodgers' Strategy to 'Keep the Switch Flipped' for October",
+    "source": "Dodgers Nation",
+    "author": "Cameron Kiszla",
+    "url": "https://dodgersnation.com/max-muncy-reveals-the-dodgers-strategy-to-keep-the-switch-flipped-for-october/2026/09/29/",
+    "published_iso": "2026-09-29T23:33:57+00:00",
+    "published_rfc2822": "Tue, 29 Sep 2026 23:33:57 +0000",
+    "body": "Max Muncy is no stranger to postseason baseball, but he said it still fires him up.\nThe longtime Los Angeles Dodger returned to his All-Star form this season, but he knows October is where you prove your worth.\nOn Tuesday, he revealed what he and the team are doing to prepare for a run at a third straight World Series title.\nWhat are the Dodgers doing to get ready for the playoffs?\nAs the Dodgers wait to find out who they’ll be facing in the National League Division Series, the players are working to stay ready and are strengthening their bond ahead of a grueling October.\n“We’re trying to focus on ourselves getting ready this week,” he said via Zoom.\nThe way Muncy described the team’s strategy was something akin to the saying “if you stay ready, you don’t have to get ready.”\nSimilar to what the team did in 2024, the Dodgers still gather at the stadium daily, even without games to play.\nIt comes at a cost to players’ personal lives and time with their families, but Muncy argued that it’s necessary for the nature of playoff baseball.\nWhereas teams with a bye might be more rested, they also are “going to be facing a team that’s already been through the fire.”\n“It’s hard to go from being in an at-home setting to find trying to find a way to flip the switch,” he said. “And so the best way for us to do that was you get everyone together, you keep them at the field, you find a way to not let that switch ever be flipped off. That was something that I thought we did a really good job of in ’24 and we’re going to try to do it again this year.”\nIt also helps the Dodgers continue to build team chemistry, as “the postseason is when you’re going to come together,” he said.\nThat cohesiveness will be key when the level of competition is this high.\nDodgers expect to get everyone’s best\nThe Dodgers have struggled against some of the top teams in baseball this year, but Muncy said every opponent is difficult.\n“This is the big leagues. These are the best players in the world,” he said.\nGiven that, he’s not worried about the level of competition changing in the playoffs, pointing to multiple examples of one team dominating another in the regular season only for the tables to be flipped come October.\n“I know there’s things you look at on paper where you say, ‘this is a good matchup,’ but in October, it really doesn’t matter,” he said.\nAll that does matter is what happens on the field, and on Saturday, we’ll find out.\nDo you like Max Muncy’s mindset heading into the playoffs?",
+    "tracked_people": [
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Max Muncy Reveals the Dodgers' Strategy to 'Keep the Switch Flipped' for October",
+    "original_body": "Max Muncy is no stranger to postseason baseball, but he said it still fires him up.\nThe longtime Los Angeles Dodger returned to his All-Star form this season, but he knows October is where you prove your worth.\nOn Tuesday, he revealed what he and the team are doing to prepare for a run at a third straight World Series title.\nWhat are the Dodgers doing to get ready for the playoffs?\nAs the Dodgers wait to find out who they’ll be facing in the National League Division Series, the players are working to stay ready and are strengthening their bond ahead of a grueling October.\n“We’re trying to focus on ourselves getting ready this week,” he said via Zoom.\nThe way Muncy described the team’s strategy was something akin to the saying “if you stay ready, you don’t have to get ready.”\nSimilar to what the team did in 2024, the Dodgers still gather at the stadium daily, even without games to play.\nIt comes at a cost to players’ personal lives and time with their families, but Muncy argued that it’s necessary for the nature of playoff baseball.\nWhereas teams with a bye might be more rested, they also are “going to be facing a team that’s already been through the fire.”\n“It’s hard to go from being in an at-home setting to find trying to find a way to flip the switch,” he said. “And so the best way for us to do that was you get everyone together, you keep them at the field, you find a way to not let that switch ever be flipped off. That was something that I thought we did a really good job of in ’24 and we’re going to try to do it again this year.”\nIt also helps the Dodgers continue to build team chemistry, as “the postseason is when you’re going to come together,” he said.\nThat cohesiveness will be key when the level of competition is this high.\nDodgers expect to get everyone’s best\nThe Dodgers have struggled against some of the top teams in baseball this year, but Muncy said every opponent is difficult.\n“This is the big leagues. These are the best players in the world,” he said.\nGiven that, he’s not worried about the level of competition changing in the playoffs, pointing to multiple examples of one team dominating another in the regular season only for the tables to be flipped come October.\n“I know there’s things you look at on paper where you say, ‘this is a good matchup,’ but in October, it really doesn’t matter,” he said.\nAll that does matter is what happens on the field, and on Saturday, we’ll find out.\nDo you like Max Muncy’s mindset heading into the playoffs?",
+    "rss_title": "Max Muncy Reveals the Dodgers' Strategy to 'Keep the Switch Flipped' for October",
+    "rss_body": "Max Muncy is no stranger to postseason baseball, but he said it still fires him up.\nThe longtime Los Angeles Dodger returned to his All-Star form this season, but he knows October is where you prove your worth.\nOn Tuesday, he revealed what he and the team are doing to prepare for a run at a third straight World Series title.\nWhat are the Dodgers doing to get ready for the playoffs?\nAs the Dodgers wait to find out who they’ll be facing in the National League Division Series, the players are working to stay ready and are strengthening their bond ahead of a grueling October.\n“We’re trying to focus on ourselves getting ready this week,” he said via Zoom.\nThe way Muncy described the team’s strategy was something akin to the saying “if you stay ready, you don’t have to get ready.”\nSimilar to what the team did in 2024, the Dodgers still gather at the stadium daily, even without games to play.\nIt comes at a cost to players’ personal lives and time with their families, but Muncy argued that it’s necessary for the nature of playoff baseball.\nWhereas teams with a bye might be more rested, they also are “going to be facing a team that’s already been through the fire.”\n“It’s hard to go from being in an at-home setting to find trying to find a way to flip the switch,” he said. “And so the best way for us to do that was you get everyone together, you keep them at the field, you find a way to not let that switch ever be flipped off. That was something that I thought we did a really good job of in ’24 and we’re going to try to do it again this year.”\nIt also helps the Dodgers continue to build team chemistry, as “the postseason is when you’re going to come together,” he said.\nThat cohesiveness will be key when the level of competition is this high.\nDodgers expect to get everyone’s best\nThe Dodgers have struggled against some of the top teams in baseball this year, but Muncy said every opponent is difficult.\n“This is the big leagues. These are the best players in the world,” he said.\nGiven that, he’s not worried about the level of competition changing in the playoffs, pointing to multiple examples of one team dominating another in the regular season only for the tables to be flipped come October.\n“I know there’s things you look at on paper where you say, ‘this is a good matchup,’ but in October, it really doesn’t matter,” he said.\nAll that does matter is what happens on the field, and on Saturday, we’ll find out.\nDo you like Max Muncy’s mindset heading into the playoffs?",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b7ab0a40676177ad80b8",
+    "title": "Edgardo Henriquez (back) on track for NLDS",
+    "source": "nbcsports.com",
+    "author": "George Bissell; Edgardo Henriquez",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-29/edgardo-henriquez-back-on-track-for-nlds",
+    "published_iso": "2026-09-29T23:20:48+00:00",
+    "published_rfc2822": "Tue, 29 Sep 2026 23:20:48 +0000",
+    "body": "Dodgers general manager Brandon Gomes said Edgardo Henriquez (back) has progressed to facing hitters in a live batting practice session.\n            \n                Gomes noted that Henriquez is trending in a positive direction, which seems to indicate that he’ll be on Los Angeles’ playoff roster when they kick off an NL Division Series matchup this weekend. The hard-throwing 24-year-old high-leverage specialist posted a strong 2.85 ERA and 71/25 K/BB ratio across 60 innings before hitting the injured list with lower back discomfort on September 14.",
+    "tracked_people": [
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Brandon Gomes",
+        "role": "General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 34,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Edgardo Henriquez (back) on track for NLDS",
+    "original_body": "Dodgers general manager Brandon Gomes said Edgardo Henriquez (back) has progressed to facing hitters in a live batting practice session.\n            \n                Gomes noted that Henriquez is trending in a positive direction, which seems to indicate that he’ll be on Los Angeles’ playoff roster when they kick off an NL Division Series matchup this weekend. The hard-throwing 24-year-old high-leverage specialist posted a strong 2.85 ERA and 71/25 K/BB ratio across 60 innings before hitting the injured list with lower back discomfort on September 14.",
+    "rss_title": "Edgardo Henriquez (back) on track for NLDS",
+    "rss_body": "Dodgers general manager Brandon Gomes said Edgardo Henriquez (back) has progressed to facing hitters in a live batting practice session.\n            \n                Gomes noted that Henriquez is trending in a positive direction, which seems to indicate that he’ll be on Los Angeles’ playoff roster when they kick off an NL Division Series matchup this weekend. The hard-throwing 24-year-old high-leverage specialist posted a strong 2.85 ERA and 71/25 K/BB ratio across 60 innings before hitting the injured list with lower back discomfort on September 14.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "2aeb619e0e9921729ff0",
     "title": "The Potentially Fatal Flaw For Each MLB Playoff Team",
     "source": "si.com",
