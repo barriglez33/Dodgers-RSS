@@ -1,5 +1,69 @@
 [
   {
+    "id": "118dbafd44d8b25b644c",
+    "title": "Edgardo Henriquez Game Log - MLB",
+    "source": "FOX Sports",
+    "author": "Edgardo Henriquez",
+    "url": "https://www.foxsports.com/mlb/edgardo-henriquez-player-game-log?season=2026&seasonType=post",
+    "published_iso": "2026-10-06T08:58:47+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 08:58:47 +0000",
+    "body": "GS - Game Started \nGP - Game Played \nIP - Innings Pitched \nBF - Batters Faced \nAB - Opponent At Bats \nH - Hits \n2B - Doubles \n3B - Triples \nHR - Home Runs Allowed \nR - Runs \nER - Earned Runs \nSO - Strikeouts \nBB - Walks \nGIDP - Grounded Into Double Plays \nHBP - Hit By Pitch \nGB - Groundballs \nFB - Flyballs \nWHIP - Walks Plus Hits Per Inning \nERA - Earned Run Average",
+    "tracked_people": [
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Edgardo Henriquez Game Log - MLB",
+    "original_body": "GS - Game Started \nGP - Game Played \nIP - Innings Pitched \nBF - Batters Faced \nAB - Opponent At Bats \nH - Hits \n2B - Doubles \n3B - Triples \nHR - Home Runs Allowed \nR - Runs \nER - Earned Runs \nSO - Strikeouts \nBB - Walks \nGIDP - Grounded Into Double Plays \nHBP - Hit By Pitch \nGB - Groundballs \nFB - Flyballs \nWHIP - Walks Plus Hits Per Inning \nERA - Earned Run Average",
+    "rss_title": "Edgardo Henriquez Game Log - MLB",
+    "rss_body": "GS - Game Started \nGP - Game Played \nIP - Innings Pitched \nBF - Batters Faced \nAB - Opponent At Bats \nH - Hits \n2B - Doubles \n3B - Triples \nHR - Home Runs Allowed \nR - Runs \nER - Earned Runs \nSO - Strikeouts \nBB - Walks \nGIDP - Grounded Into Double Plays \nHBP - Hit By Pitch \nGB - Groundballs \nFB - Flyballs \nWHIP - Walks Plus Hits Per Inning \nERA - Earned Run Average",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "14884190a44914f7a462",
+    "title": "Yoshinobu Yamamoto to start Game 3 of NLDS for Dodgers",
+    "source": "FantasyPros",
+    "author": "Ari Koslow",
+    "url": "https://www.fantasypros.com/mlb/news/612444/yoshinobu-yamamoto-to-start-game-3-nlds-dodgers.php",
+    "published_iso": "2026-10-06T07:54:16+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 07:54:16 +0000",
+    "body": "by Ari Koslow | Dodgers Correspondent |\nYoshinobu Yamamoto will start Game 3 of the NLDS against the Braves on Tuesday.\nFantasy Impact:\nYamamoto will take the mound opposite of Chris Sale with the series tied 1-1 back to Atlanta.\nMore Yoshinobu Yamamoto: News, Rankings, Projections, Stats",
+    "tracked_people": [
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yoshinobu Yamamoto to start Game 3 of NLDS for Dodgers",
+    "original_body": "by Ari Koslow | Dodgers Correspondent |\nYoshinobu Yamamoto will start Game 3 of the NLDS against the Braves on Tuesday.\nFantasy Impact:\nYamamoto will take the mound opposite of Chris Sale with the series tied 1-1 back to Atlanta.\nMore Yoshinobu Yamamoto: News, Rankings, Projections, Stats",
+    "rss_title": "Yoshinobu Yamamoto to start Game 3 of NLDS for Dodgers",
+    "rss_body": "by Ari Koslow | Dodgers Correspondent |\nYoshinobu Yamamoto will start Game 3 of the NLDS against the Braves on Tuesday.\nFantasy Impact:\nYamamoto will take the mound opposite of Chris Sale with the series tied 1-1 back to Atlanta.\nMore Yoshinobu Yamamoto: News, Rankings, Projections, Stats",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "c8e0ae7ebb6a03e1ff8a",
     "title": "Dodgers World Series hero Miguel Rojas earns US citizenship: ‘I’m really proud of being an American’",
     "source": "New York Post",
