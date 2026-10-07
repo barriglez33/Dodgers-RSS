@@ -3,8 +3,7 @@ name: Update Dodgers News RSS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "29 * * * *"
-
+    - cron: "9,39 * * * *"
 concurrency:
   group: dodgers-news-rss
   cancel-in-progress: false
