@@ -1,5 +1,611 @@
 [
   {
+    "id": "60b6eaa9ac9de56b864e",
+    "title": "Dodgers beat Braves on Kiké Hernández and Freddie Freeman homers, take 2-1 NLDS lead",
+    "source": "Los Angeles Times",
+    "author": "Maddie Lee",
+    "url": "https://www.latimes.com/sports/dodgers/story/2026-10-06/dodgers-braves-freddie-freeman-kike-hernandez-nlds",
+    "published_iso": "2026-10-07T01:28:00+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 01:28:00 +0000",
+    "body": "- Click here to listen to this article\nATLANTA — The Dodgers went into Game 3 of the National League Division Series knowing they couldn’t be so reliant on the home run, especially with Braves ace Chris Sale on the mound. And yet, in a 3-1 win, it was the home run ball, paired with a masterful performance on the mound from right-hander Yoshinobu Yamamoto, that secured the victory.\nThe Dodgers pulled ahead to a 2-1 lead in the best-of-five series.\nThe Dodgers tried to score in other ways, putting on six baserunners in the first three innings of the game. But it didn’t work.\nThey failed to take advantage of some luck and poor defense from the Braves in the first inning, as Mookie Betts beat out a soft ground ball up the first base line and Teoscar Hernández reached on a fielding error by Braves shortstop Ha-Seong Kim.\nYoshinobu gives up four hits and strikes out 10 and Kiké Hernández hits a two-run home run to power the Dodgers to victory in Game 3 of the NLDS.\nThe lineup shuffling manager Dave Roberts did against Sale had superstar Shohei Ohtani, batting fifth, walking up to the plate with two outs and runners on first and second. His over-anxious approach at the plate so far this postseason followed him into the at-bat. And he struck out whiffing on a slider in the opposite batter’s box.\nThe next inning, Kyle Tucker hit a two-out single into left, baited Sale into picking over to first base twice, and then stole second. But he was stranded there, as Kiké Hernández went down swinging. All six of the Dodgers’ outs in the first two innings came via the strikeout.\nIn the third, the Dodgers loaded the bases. Mookie Betts started the effort with a double through the left side of the infield. And it looked for a moment as if Freddie Freeman had capitalized on the opportunity with a runner in scoring position.\nHe stayed back on a fastball and crushed it to deep left field, on a trajectory to just clear the short fence. But Braves left fielder Mauricio Dubón made a leaping catch, holding into the ball as he slammed into the wall.\nUndeterred, the Dodgers kept putting runners on base. With two outs, Will Smith stayed through a slider to single. Ohtani clipped Braves catcher Drake Baldwin’s mitt and was awarded first base for catcher’s interference. Then Miguel Rojas, who’d exit the game in the eighth inning mid-at-bat with what the Dodgers called low back pain, hit a line drive that found leather to end the inning.\nSo, back to the long ball.\nPerennial postseason hero Kiké Hernández delivered the first blow. With Andy Pages on first, after his first hit of the series, Hernández launched a changeup into the left-field stands. Then, two batters later, Freeman turned on an inside sinker and sent it over the right-field fence — where Dubón had no chance to track it down.\nGame 3 was billed as a matchup between aces: Sale, whom the Braves tabbed for Tuesday because of his workload in their wild-card series, and Yamamoto, whom the Dodgers partially held back for the first two games with the NLCS in mind.\nYamamoto held up his end of the bargain, limiting the Braves to four hits and one run in seven innings.\nHe retired 10 of the first 11 batters he faced. The only baserunner in that time, Michael Harris II, bunted for a single. Yamamoto crashed hard, slipping on the slick grass as he tried to pivot but still managing to make a throw to first from the ground.\nShohei Ohtani is batting fifth in the lineup against Braves ace Chris Sale in Game 3 of the NLDS. He hasn’t hit fifth or lower in a starting lineup since 2020 with the Angels.\nHe only wavered in the fifth, loading the bases with a pair of singles and a four-pitch walk. The Braves’ batting order turned over, and Yamamoto got Baldwin to ground out to first, but that allowed a run. Then he induced Ronald Acuña Jr. to ground out to second to escape the jam. Rojas ranged to his left to field the ball and made an on-target throw even as he slipped on the grass in shallow right field.\nYamamoto didn’t allow another baserunner.\nLeft-handed reliever Tanner Scott served as the Dodgers’ setup man, throwing a hitless eighth. And right-hander Edwin Díaz came in for his first save opportunity since Aug. 14 against the Brewers.\nHe gave up a double off the wall to Ozzie Albies to open the inning but retired the next three batters.",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers beat Braves on Kiké Hernández and Freddie Freeman homers, take 2-1 NLDS lead",
+    "original_body": "- Click here to listen to this article\nATLANTA — The Dodgers went into Game 3 of the National League Division Series knowing they couldn’t be so reliant on the home run, especially with Braves ace Chris Sale on the mound. And yet, in a 3-1 win, it was the home run ball, paired with a masterful performance on the mound from right-hander Yoshinobu Yamamoto, that secured the victory.\nThe Dodgers pulled ahead to a 2-1 lead in the best-of-five series.\nThe Dodgers tried to score in other ways, putting on six baserunners in the first three innings of the game. But it didn’t work.\nThey failed to take advantage of some luck and poor defense from the Braves in the first inning, as Mookie Betts beat out a soft ground ball up the first base line and Teoscar Hernández reached on a fielding error by Braves shortstop Ha-Seong Kim.\nYoshinobu gives up four hits and strikes out 10 and Kiké Hernández hits a two-run home run to power the Dodgers to victory in Game 3 of the NLDS.\nThe lineup shuffling manager Dave Roberts did against Sale had superstar Shohei Ohtani, batting fifth, walking up to the plate with two outs and runners on first and second. His over-anxious approach at the plate so far this postseason followed him into the at-bat. And he struck out whiffing on a slider in the opposite batter’s box.\nThe next inning, Kyle Tucker hit a two-out single into left, baited Sale into picking over to first base twice, and then stole second. But he was stranded there, as Kiké Hernández went down swinging. All six of the Dodgers’ outs in the first two innings came via the strikeout.\nIn the third, the Dodgers loaded the bases. Mookie Betts started the effort with a double through the left side of the infield. And it looked for a moment as if Freddie Freeman had capitalized on the opportunity with a runner in scoring position.\nHe stayed back on a fastball and crushed it to deep left field, on a trajectory to just clear the short fence. But Braves left fielder Mauricio Dubón made a leaping catch, holding into the ball as he slammed into the wall.\nUndeterred, the Dodgers kept putting runners on base. With two outs, Will Smith stayed through a slider to single. Ohtani clipped Braves catcher Drake Baldwin’s mitt and was awarded first base for catcher’s interference. Then Miguel Rojas, who’d exit the game in the eighth inning mid-at-bat with what the Dodgers called low back pain, hit a line drive that found leather to end the inning.\nSo, back to the long ball.\nPerennial postseason hero Kiké Hernández delivered the first blow. With Andy Pages on first, after his first hit of the series, Hernández launched a changeup into the left-field stands. Then, two batters later, Freeman turned on an inside sinker and sent it over the right-field fence — where Dubón had no chance to track it down.\nGame 3 was billed as a matchup between aces: Sale, whom the Braves tabbed for Tuesday because of his workload in their wild-card series, and Yamamoto, whom the Dodgers partially held back for the first two games with the NLCS in mind.\nYamamoto held up his end of the bargain, limiting the Braves to four hits and one run in seven innings.\nHe retired 10 of the first 11 batters he faced. The only baserunner in that time, Michael Harris II, bunted for a single. Yamamoto crashed hard, slipping on the slick grass as he tried to pivot but still managing to make a throw to first from the ground.\nShohei Ohtani is batting fifth in the lineup against Braves ace Chris Sale in Game 3 of the NLDS. He hasn’t hit fifth or lower in a starting lineup since 2020 with the Angels.\nHe only wavered in the fifth, loading the bases with a pair of singles and a four-pitch walk. The Braves’ batting order turned over, and Yamamoto got Baldwin to ground out to first, but that allowed a run. Then he induced Ronald Acuña Jr. to ground out to second to escape the jam. Rojas ranged to his left to field the ball and made an on-target throw even as he slipped on the grass in shallow right field.\nYamamoto didn’t allow another baserunner.\nLeft-handed reliever Tanner Scott served as the Dodgers’ setup man, throwing a hitless eighth. And right-hander Edwin Díaz came in for his first save opportunity since Aug. 14 against the Brewers.\nHe gave up a double off the wall to Ozzie Albies to open the inning but retired the next three batters.",
+    "rss_title": "Dodgers beat Braves on Kiké Hernández and Freddie Freeman homers, take 2-1 NLDS lead",
+    "rss_body": "- Click here to listen to this article\nATLANTA — The Dodgers went into Game 3 of the National League Division Series knowing they couldn’t be so reliant on the home run, especially with Braves ace Chris Sale on the mound. And yet, in a 3-1 win, it was the home run ball, paired with a masterful performance on the mound from right-hander Yoshinobu Yamamoto, that secured the victory.\nThe Dodgers pulled ahead to a 2-1 lead in the best-of-five series.\nThe Dodgers tried to score in other ways, putting on six baserunners in the first three innings of the game. But it didn’t work.\nThey failed to take advantage of some luck and poor defense from the Braves in the first inning, as Mookie Betts beat out a soft ground ball up the first base line and Teoscar Hernández reached on a fielding error by Braves shortstop Ha-Seong Kim.\nYoshinobu gives up four hits and strikes out 10 and Kiké Hernández hits a two-run home run to power the Dodgers to victory in Game 3 of the NLDS.\nThe lineup shuffling manager Dave Roberts did against Sale had superstar Shohei Ohtani, batting fifth, walking up to the plate with two outs and runners on first and second. His over-anxious approach at the plate so far this postseason followed him into the at-bat. And he struck out whiffing on a slider in the opposite batter’s box.\nThe next inning, Kyle Tucker hit a two-out single into left, baited Sale into picking over to first base twice, and then stole second. But he was stranded there, as Kiké Hernández went down swinging. All six of the Dodgers’ outs in the first two innings came via the strikeout.\nIn the third, the Dodgers loaded the bases. Mookie Betts started the effort with a double through the left side of the infield. And it looked for a moment as if Freddie Freeman had capitalized on the opportunity with a runner in scoring position.\nHe stayed back on a fastball and crushed it to deep left field, on a trajectory to just clear the short fence. But Braves left fielder Mauricio Dubón made a leaping catch, holding into the ball as he slammed into the wall.\nUndeterred, the Dodgers kept putting runners on base. With two outs, Will Smith stayed through a slider to single. Ohtani clipped Braves catcher Drake Baldwin’s mitt and was awarded first base for catcher’s interference. Then Miguel Rojas, who’d exit the game in the eighth inning mid-at-bat with what the Dodgers called low back pain, hit a line drive that found leather to end the inning.\nSo, back to the long ball.\nPerennial postseason hero Kiké Hernández delivered the first blow. With Andy Pages on first, after his first hit of the series, Hernández launched a changeup into the left-field stands. Then, two batters later, Freeman turned on an inside sinker and sent it over the right-field fence — where Dubón had no chance to track it down.\nGame 3 was billed as a matchup between aces: Sale, whom the Braves tabbed for Tuesday because of his workload in their wild-card series, and Yamamoto, whom the Dodgers partially held back for the first two games with the NLCS in mind.\nYamamoto held up his end of the bargain, limiting the Braves to four hits and one run in seven innings.\nHe retired 10 of the first 11 batters he faced. The only baserunner in that time, Michael Harris II, bunted for a single. Yamamoto crashed hard, slipping on the slick grass as he tried to pivot but still managing to make a throw to first from the ground.\nShohei Ohtani is batting fifth in the lineup against Braves ace Chris Sale in Game 3 of the NLDS. He hasn’t hit fifth or lower in a starting lineup since 2020 with the Angels.\nHe only wavered in the fifth, loading the bases with a pair of singles and a four-pitch walk. The Braves’ batting order turned over, and Yamamoto got Baldwin to ground out to first, but that allowed a run. Then he induced Ronald Acuña Jr. to ground out to second to escape the jam. Rojas ranged to his left to field the ball and made an on-target throw even as he slipped on the grass in shallow right field.\nYamamoto didn’t allow another baserunner.\nLeft-handed reliever Tanner Scott served as the Dodgers’ setup man, throwing a hitless eighth. And right-hander Edwin Díaz came in for his first save opportunity since Aug. 14 against the Brewers.\nHe gave up a double off the wall to Ozzie Albies to open the inning but retired the next three batters.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e2391dafb30fd0c761d3",
+    "title": "Dodgers World Series hero Miguel Rojas exits after experiencing discomfort",
+    "source": "New York Post",
+    "author": "Thomas L Murray",
+    "url": "https://nypost.com/2026/10/06/sports/dodgers-world-series-hero-exits-after-experiencing-discomfort/",
+    "published_iso": "2026-10-07T01:22:00+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 01:22:00 +0000",
+    "body": "During the eighth inning of Game 3 of the NLDS on Tuesday, Dodgers middle infielder Miguel Rojas exited the game.\nRojas was seen in visible discomfort after fouling off a fastball from Braves reliever Brent Suter.\nRojas started limping back toward the batter’s box and was immediately evaluated by a member of the Dodgers’ training staff and manager Dave Roberts.\nShortly after the injury, the Dodgers announced that Rojas was removed from the game due to lower back pain.\nTommy Edman replaced Rojas at second base.\nRojas went 0-for-3 before departing Tuesday. He has one hit in the series — a double in Saturday’s 5-3 victory.\nRojas is expected to retire after the season is over.\nRojas was a World Series hero last year after hitting a game-tying home run in Game 7 against the Blue Jays, sending the game to extra innings.\nThe Dodgers went on to win the game in the 11th when Will Smith hit a go-ahead home run.\nIn Tuesday’s game, the Dodgers’ offense popped off in the fourth inning, when Kiké Hernández and Freddie Freeman homered to give LA a 3-0 lead.\nThe Braves scored in the fifth when Drake Baldwin grounded out to first after Dodgers starting pitcher Yoshinobu Yamamoto loaded the bases.\nYamamoto finished with a career-high 10 strikeouts. He tossed 98 pitches in seven innings, giving up four hits, one run and one walk.",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers World Series hero Miguel Rojas exits after experiencing discomfort",
+    "original_body": "During the eighth inning of Game 3 of the NLDS on Tuesday, Dodgers middle infielder Miguel Rojas exited the game.\nRojas was seen in visible discomfort after fouling off a fastball from Braves reliever Brent Suter.\nRojas started limping back toward the batter’s box and was immediately evaluated by a member of the Dodgers’ training staff and manager Dave Roberts.\nShortly after the injury, the Dodgers announced that Rojas was removed from the game due to lower back pain.\nTommy Edman replaced Rojas at second base.\nRojas went 0-for-3 before departing Tuesday. He has one hit in the series — a double in Saturday’s 5-3 victory.\nRojas is expected to retire after the season is over.\nRojas was a World Series hero last year after hitting a game-tying home run in Game 7 against the Blue Jays, sending the game to extra innings.\nThe Dodgers went on to win the game in the 11th when Will Smith hit a go-ahead home run.\nIn Tuesday’s game, the Dodgers’ offense popped off in the fourth inning, when Kiké Hernández and Freddie Freeman homered to give LA a 3-0 lead.\nThe Braves scored in the fifth when Drake Baldwin grounded out to first after Dodgers starting pitcher Yoshinobu Yamamoto loaded the bases.\nYamamoto finished with a career-high 10 strikeouts. He tossed 98 pitches in seven innings, giving up four hits, one run and one walk.",
+    "rss_title": "Dodgers World Series hero Miguel Rojas exits after experiencing discomfort",
+    "rss_body": "During the eighth inning of Game 3 of the NLDS on Tuesday, Dodgers middle infielder Miguel Rojas exited the game.\nRojas was seen in visible discomfort after fouling off a fastball from Braves reliever Brent Suter.\nRojas started limping back toward the batter’s box and was immediately evaluated by a member of the Dodgers’ training staff and manager Dave Roberts.\nShortly after the injury, the Dodgers announced that Rojas was removed from the game due to lower back pain.\nTommy Edman replaced Rojas at second base.\nRojas went 0-for-3 before departing Tuesday. He has one hit in the series — a double in Saturday’s 5-3 victory.\nRojas is expected to retire after the season is over.\nRojas was a World Series hero last year after hitting a game-tying home run in Game 7 against the Blue Jays, sending the game to extra innings.\nThe Dodgers went on to win the game in the 11th when Will Smith hit a go-ahead home run.\nIn Tuesday’s game, the Dodgers’ offense popped off in the fourth inning, when Kiké Hernández and Freddie Freeman homered to give LA a 3-0 lead.\nThe Braves scored in the fifth when Drake Baldwin grounded out to first after Dodgers starting pitcher Yoshinobu Yamamoto loaded the bases.\nYamamoto finished with a career-high 10 strikeouts. He tossed 98 pitches in seven innings, giving up four hits, one run and one walk.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b127a35f5734f25662c2",
+    "title": "Dodgers hero Miguel Rojas exits Game 3 mid-at-bat with a concerning injury",
+    "source": "Larry Brown Sports",
+    "author": "Darryn Albert",
+    "url": "https://larrybrownsports.com/baseball/dodgers-miguel-rojas-concerning-injury/773329",
+    "published_iso": "2026-10-07T00:56:02+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 00:56:02 +0000",
+    "body": "Miguel Rojas was the hero for the Los Angeles Dodgers during the 2025 postseason, but his 2026 postseason is off to a much worse start.\nThe Dodgers infielder Rojas had to exit Tuesday’s NLDS Game 3 against the Atlanta Braves in the middle of an at-bat. During the eighth inning at Truist Park in Atlanta, Ga., Rojas fouled off a 1-0 pitch from Braves reliever Brent Suter and immediately came up grimacing.\nRojas was unable to finish his plate appearance and went on to walk off the field with trainers. Here is the video of Rojas’ injury.\nMiguel Rojas exits the game after he appears to have injured his back on a swing https://t.co/Rmc25l0OkW\n— Talkin’ Baseball (@TalkinBaseball_) October 7, 2026\nDodgers teammate Tommy Edman replaced Rojas in the game, finishing out his at-bat and also taking Rojas’ place in the field. The Dodgers soon officially announced that Rojas had left the contest due to “low back pain.”\nNow 37 years old, Rojas is a two-time Dodgers champion who is very beloved by the team’s fanbase. Most notably, Rojas was directly responsible for the Dodgers’ 2025 championship by famously hitting a game-tying ninth-inning home run in Game 7 of the World Series against the Toronto Blue Jays.\nBut Rojas is now only on a one-year deal with the Dodgers and previously announced that he intends for the 2026 season to be his last. As such, it remains to be seen if that was Rojas’ last-ever at-bat in Major League Baseball.",
+    "tracked_people": [
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers hero Miguel Rojas exits Game 3 mid-at-bat with a concerning injury",
+    "original_body": "Miguel Rojas was the hero for the Los Angeles Dodgers during the 2025 postseason, but his 2026 postseason is off to a much worse start.\nThe Dodgers infielder Rojas had to exit Tuesday’s NLDS Game 3 against the Atlanta Braves in the middle of an at-bat. During the eighth inning at Truist Park in Atlanta, Ga., Rojas fouled off a 1-0 pitch from Braves reliever Brent Suter and immediately came up grimacing.\nRojas was unable to finish his plate appearance and went on to walk off the field with trainers. Here is the video of Rojas’ injury.\nMiguel Rojas exits the game after he appears to have injured his back on a swing https://t.co/Rmc25l0OkW\n— Talkin’ Baseball (@TalkinBaseball_) October 7, 2026\nDodgers teammate Tommy Edman replaced Rojas in the game, finishing out his at-bat and also taking Rojas’ place in the field. The Dodgers soon officially announced that Rojas had left the contest due to “low back pain.”\nNow 37 years old, Rojas is a two-time Dodgers champion who is very beloved by the team’s fanbase. Most notably, Rojas was directly responsible for the Dodgers’ 2025 championship by famously hitting a game-tying ninth-inning home run in Game 7 of the World Series against the Toronto Blue Jays.\nBut Rojas is now only on a one-year deal with the Dodgers and previously announced that he intends for the 2026 season to be his last. As such, it remains to be seen if that was Rojas’ last-ever at-bat in Major League Baseball.",
+    "rss_title": "Dodgers hero Miguel Rojas exits Game 3 mid-at-bat with a concerning injury",
+    "rss_body": "Miguel Rojas was the hero for the Los Angeles Dodgers during the 2025 postseason, but his 2026 postseason is off to a much worse start.\nThe Dodgers infielder Rojas had to exit Tuesday’s NLDS Game 3 against the Atlanta Braves in the middle of an at-bat. During the eighth inning at Truist Park in Atlanta, Ga., Rojas fouled off a 1-0 pitch from Braves reliever Brent Suter and immediately came up grimacing.\nRojas was unable to finish his plate appearance and went on to walk off the field with trainers. Here is the video of Rojas’ injury.\nMiguel Rojas exits the game after he appears to have injured his back on a swing https://t.co/Rmc25l0OkW\n— Talkin’ Baseball (@TalkinBaseball_) October 7, 2026\nDodgers teammate Tommy Edman replaced Rojas in the game, finishing out his at-bat and also taking Rojas’ place in the field. The Dodgers soon officially announced that Rojas had left the contest due to “low back pain.”\nNow 37 years old, Rojas is a two-time Dodgers champion who is very beloved by the team’s fanbase. Most notably, Rojas was directly responsible for the Dodgers’ 2025 championship by famously hitting a game-tying ninth-inning home run in Game 7 of the World Series against the Toronto Blue Jays.\nBut Rojas is now only on a one-year deal with the Dodgers and previously announced that he intends for the 2026 season to be his last. As such, it remains to be seen if that was Rojas’ last-ever at-bat in Major League Baseball.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "70305fd7bd11f8d869bc",
+    "title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
+    "source": "MLB.com",
+    "author": "Courtney Hollmon",
+    "url": "https://www.mlb.com/news/enrique-hernandez-freddie-freeman-homer-off-chris-sale-in-nlds-game-3",
+    "published_iso": "2026-10-07T00:47:09+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 00:47:09 +0000",
+    "body": "ATLANTA -- After three scoreless innings of tight pitching at Truist Park, the Dodgers broke NLDS Game 3 open with a pair of fourth-inning home runs against Braves ace Chris Sale.\nThe two-homer frame marks only the second time in Chris Sale’s postseason career that he has allowed multiple home runs in a single start. It happened previously on April 1, 2023, when Sale was with the Red Sox.\nKiké Hernández provided the initial spark, crushing a 406-foot two-run shot to left field to break the scoreless tie and put Los Angeles on the board. Just two batters later, Freddie Freeman delivered a dose of sweet-swinging revenge. After having a potential home run robbed by left fielder Mauricio Dubón in the third inning, Freeman made sure there was no doubt on his next trip to the plate, launching a solo shot deep into right-center field to extend the lead to 3-0.\nThe pair of big flies extended a historic postseason trend for Los Angeles: All 10 of the Dodgers' runs scored so far this postseason have come via the home run, marking the longest streak to start a postseason in MLB history.\nBoth home runs also provided individual milestones in the October record books.\nFor Hernández, the blast marked his first home run of the 2026 postseason and the 17th of his career, continuing his reputation as a clutch playoff hitter -- \"October Kiké,\" if you will. He went 1-for-4 with two strikeouts.\n“Experience helps a lot,\" Hernández said postgame on FOX. \"Coming through in big moments helps a lot. Understanding that you can do it in the bigger moments. This is what I grew up dreaming about, playing October baseball. ... I’ve been lucky enough to play for two organizations that have put me there, and given me opportunities, and I’ve made the best of them.”\nFreeman’s solo shot was his second of the 2026 postseason and the 18th of his playoff career, tying him with seven others for 10th on the all-time postseason home run list, including teammate Max Muncy, who got there in Game 2 of the NLDS. Freeman went 1-for-4 with a walk and a strikeout.\n\"It’s an extremely hard at-bat for a lefty,\" Freeman said of facing Sale on FOX. \"I always say, against him, you’ve got to be prepared to die. Really, that’s the mindset. If you pull off of him, you have no chance. He’s throwing behind you and if he hits you in the ear, you’ve got to be ok with it. That’s my mentality, and thankfully I was able to get a good swing on some balls tonight.”",
+    "tracked_people": [
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
+    "original_body": "ATLANTA -- After three scoreless innings of tight pitching at Truist Park, the Dodgers broke NLDS Game 3 open with a pair of fourth-inning home runs against Braves ace Chris Sale.\nThe two-homer frame marks only the second time in Chris Sale’s postseason career that he has allowed multiple home runs in a single start. It happened previously on April 1, 2023, when Sale was with the Red Sox.\nKiké Hernández provided the initial spark, crushing a 406-foot two-run shot to left field to break the scoreless tie and put Los Angeles on the board. Just two batters later, Freddie Freeman delivered a dose of sweet-swinging revenge. After having a potential home run robbed by left fielder Mauricio Dubón in the third inning, Freeman made sure there was no doubt on his next trip to the plate, launching a solo shot deep into right-center field to extend the lead to 3-0.\nThe pair of big flies extended a historic postseason trend for Los Angeles: All 10 of the Dodgers' runs scored so far this postseason have come via the home run, marking the longest streak to start a postseason in MLB history.\nBoth home runs also provided individual milestones in the October record books.\nFor Hernández, the blast marked his first home run of the 2026 postseason and the 17th of his career, continuing his reputation as a clutch playoff hitter -- \"October Kiké,\" if you will. He went 1-for-4 with two strikeouts.\n“Experience helps a lot,\" Hernández said postgame on FOX. \"Coming through in big moments helps a lot. Understanding that you can do it in the bigger moments. This is what I grew up dreaming about, playing October baseball. ... I’ve been lucky enough to play for two organizations that have put me there, and given me opportunities, and I’ve made the best of them.”\nFreeman’s solo shot was his second of the 2026 postseason and the 18th of his playoff career, tying him with seven others for 10th on the all-time postseason home run list, including teammate Max Muncy, who got there in Game 2 of the NLDS. Freeman went 1-for-4 with a walk and a strikeout.\n\"It’s an extremely hard at-bat for a lefty,\" Freeman said of facing Sale on FOX. \"I always say, against him, you’ve got to be prepared to die. Really, that’s the mindset. If you pull off of him, you have no chance. He’s throwing behind you and if he hits you in the ear, you’ve got to be ok with it. That’s my mentality, and thankfully I was able to get a good swing on some balls tonight.”",
+    "rss_title": "Dodgers' HR barrage continues with October Kiké's return, Freddie avenging robbery",
+    "rss_body": "ATLANTA -- After three scoreless innings of tight pitching at Truist Park, the Dodgers broke NLDS Game 3 open with a pair of fourth-inning home runs against Braves ace Chris Sale.\nThe two-homer frame marks only the second time in Chris Sale’s postseason career that he has allowed multiple home runs in a single start. It happened previously on April 1, 2023, when Sale was with the Red Sox.\nKiké Hernández provided the initial spark, crushing a 406-foot two-run shot to left field to break the scoreless tie and put Los Angeles on the board. Just two batters later, Freddie Freeman delivered a dose of sweet-swinging revenge. After having a potential home run robbed by left fielder Mauricio Dubón in the third inning, Freeman made sure there was no doubt on his next trip to the plate, launching a solo shot deep into right-center field to extend the lead to 3-0.\nThe pair of big flies extended a historic postseason trend for Los Angeles: All 10 of the Dodgers' runs scored so far this postseason have come via the home run, marking the longest streak to start a postseason in MLB history.\nBoth home runs also provided individual milestones in the October record books.\nFor Hernández, the blast marked his first home run of the 2026 postseason and the 17th of his career, continuing his reputation as a clutch playoff hitter -- \"October Kiké,\" if you will. He went 1-for-4 with two strikeouts.\n“Experience helps a lot,\" Hernández said postgame on FOX. \"Coming through in big moments helps a lot. Understanding that you can do it in the bigger moments. This is what I grew up dreaming about, playing October baseball. ... I’ve been lucky enough to play for two organizations that have put me there, and given me opportunities, and I’ve made the best of them.”\nFreeman’s solo shot was his second of the 2026 postseason and the 18th of his playoff career, tying him with seven others for 10th on the all-time postseason home run list, including teammate Max Muncy, who got there in Game 2 of the NLDS. Freeman went 1-for-4 with a walk and a strikeout.\n\"It’s an extremely hard at-bat for a lefty,\" Freeman said of facing Sale on FOX. \"I always say, against him, you’ve got to be prepared to die. Really, that’s the mindset. If you pull off of him, you have no chance. He’s throwing behind you and if he hits you in the ear, you’ve got to be ok with it. That’s my mentality, and thankfully I was able to get a good swing on some balls tonight.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a53acaaac01ab95fbad3",
+    "title": "Dodgers' Miguel Rojas Exits NLDS Game 3 With Injury",
+    "source": "Sports Illustrated",
+    "author": "Noah Camras; Unknown",
+    "url": "https://www.si.com/mlb/dodgers/onsi/dodgers-miguel-rojas-exits-nlds-game-3-apparent-injury",
+    "published_iso": "2026-10-07T00:33:21+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 00:33:21 +0000",
+    "body": "Los Angeles Dodgers infielder Miguel Rojas has exited Game 3 of the National League Division Series in the top of the eighth inning with an injury.\nRojas appeared to tweak his lower back on a swing and is now out of the game. He initially tweaked his back on a defensive play earlier in the game.\nHe was replaced by Tommy Edman, who popped out on the first pitch he saw.\nRojas drew the start with the left-handed Chris Sale on the mound. It was his second consecutive start after he got the nod in Game 2 with the lefty Ray Kerr starting.\nAfter going 1-for-1 against Kerr before being replaced by Max Muncy, Rojas was 0-for-3 on Tuesday.\nWhat is Miguel Rojas' Injury?\nThe Dodgers announced Rojas exited the game with low back pain.\nIs Miguel Rojas Retiring After This Season?\nRojas is in the midst of what's expected to be his final season in Major League Baseball. The 37-year-old entered the year saying this would be his last. However, he then left the door open for a potential return in 2027 if the Dodgers won the World Series this year.\nBefore Tuesday's game, Rojas spoke to reporters and still didn't have a firm answer.\n\"I'm not thinking about that at all. I'm not thinking about my future or anything,\" Rojas said. \"In regards to my retirement or stepping away from the game, I will never think about stepping away from the game because of my performance or my way to play my game. I think there's other things in life that I'm contemplating about that decision. But if I have to tell you right now, I'm not 100% like [Clayton] Kershaw was last year or others in the past that knew for sure they want to go after this year.\n\"For me it's more, I would say it's a 40/60 right now that I want to stay in the game and I want to play. But it's not about me. It's about the organization. It's about doing what we're supposed to do to help the team win this year. And then after that we will have conversations.\"\nRojas, who hit the game-tying home run in Game 7 of the 2025 World Series against the Toronto Blue Jays, had a strong season in 2026, appearing in 105 games and hitting .267 with and OPS of .703. He's still an elite defender in the infield.\nOff the field, he's a leader in the Dodgers clubhouse.\nManager Dave Roberts will have an update on his veteran after the game.\nSign up for our free newsletter and follow us on X/Twitter and Facebook for the latest news.\nNoah Camras graduated from the University of Southern California in 2022 with a B.A. in Journalism and a minor in sports media studies. He was born and raised in Los Angeles and has extensively covered Southern California sports in his career. Noah is the publisher of Dodgers on SI after contributing as a writer and editor over the last three years.\nFollow noahcamras",
+    "tracked_people": [
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers' Miguel Rojas Exits NLDS Game 3 With Injury",
+    "original_body": "Los Angeles Dodgers infielder Miguel Rojas has exited Game 3 of the National League Division Series in the top of the eighth inning with an injury.\nRojas appeared to tweak his lower back on a swing and is now out of the game. He initially tweaked his back on a defensive play earlier in the game.\nHe was replaced by Tommy Edman, who popped out on the first pitch he saw.\nRojas drew the start with the left-handed Chris Sale on the mound. It was his second consecutive start after he got the nod in Game 2 with the lefty Ray Kerr starting.\nAfter going 1-for-1 against Kerr before being replaced by Max Muncy, Rojas was 0-for-3 on Tuesday.\nWhat is Miguel Rojas' Injury?\nThe Dodgers announced Rojas exited the game with low back pain.\nIs Miguel Rojas Retiring After This Season?\nRojas is in the midst of what's expected to be his final season in Major League Baseball. The 37-year-old entered the year saying this would be his last. However, he then left the door open for a potential return in 2027 if the Dodgers won the World Series this year.\nBefore Tuesday's game, Rojas spoke to reporters and still didn't have a firm answer.\n\"I'm not thinking about that at all. I'm not thinking about my future or anything,\" Rojas said. \"In regards to my retirement or stepping away from the game, I will never think about stepping away from the game because of my performance or my way to play my game. I think there's other things in life that I'm contemplating about that decision. But if I have to tell you right now, I'm not 100% like [Clayton] Kershaw was last year or others in the past that knew for sure they want to go after this year.\n\"For me it's more, I would say it's a 40/60 right now that I want to stay in the game and I want to play. But it's not about me. It's about the organization. It's about doing what we're supposed to do to help the team win this year. And then after that we will have conversations.\"\nRojas, who hit the game-tying home run in Game 7 of the 2025 World Series against the Toronto Blue Jays, had a strong season in 2026, appearing in 105 games and hitting .267 with and OPS of .703. He's still an elite defender in the infield.\nOff the field, he's a leader in the Dodgers clubhouse.\nManager Dave Roberts will have an update on his veteran after the game.\nSign up for our free newsletter and follow us on X/Twitter and Facebook for the latest news.\nNoah Camras graduated from the University of Southern California in 2022 with a B.A. in Journalism and a minor in sports media studies. He was born and raised in Los Angeles and has extensively covered Southern California sports in his career. Noah is the publisher of Dodgers on SI after contributing as a writer and editor over the last three years.\nFollow noahcamras",
+    "rss_title": "Dodgers' Miguel Rojas Exits NLDS Game 3 With Injury",
+    "rss_body": "Los Angeles Dodgers infielder Miguel Rojas has exited Game 3 of the National League Division Series in the top of the eighth inning with an injury.\nRojas appeared to tweak his lower back on a swing and is now out of the game. He initially tweaked his back on a defensive play earlier in the game.\nHe was replaced by Tommy Edman, who popped out on the first pitch he saw.\nRojas drew the start with the left-handed Chris Sale on the mound. It was his second consecutive start after he got the nod in Game 2 with the lefty Ray Kerr starting.\nAfter going 1-for-1 against Kerr before being replaced by Max Muncy, Rojas was 0-for-3 on Tuesday.\nWhat is Miguel Rojas' Injury?\nThe Dodgers announced Rojas exited the game with low back pain.\nIs Miguel Rojas Retiring After This Season?\nRojas is in the midst of what's expected to be his final season in Major League Baseball. The 37-year-old entered the year saying this would be his last. However, he then left the door open for a potential return in 2027 if the Dodgers won the World Series this year.\nBefore Tuesday's game, Rojas spoke to reporters and still didn't have a firm answer.\n\"I'm not thinking about that at all. I'm not thinking about my future or anything,\" Rojas said. \"In regards to my retirement or stepping away from the game, I will never think about stepping away from the game because of my performance or my way to play my game. I think there's other things in life that I'm contemplating about that decision. But if I have to tell you right now, I'm not 100% like [Clayton] Kershaw was last year or others in the past that knew for sure they want to go after this year.\n\"For me it's more, I would say it's a 40/60 right now that I want to stay in the game and I want to play. But it's not about me. It's about the organization. It's about doing what we're supposed to do to help the team win this year. And then after that we will have conversations.\"\nRojas, who hit the game-tying home run in Game 7 of the 2025 World Series against the Toronto Blue Jays, had a strong season in 2026, appearing in 105 games and hitting .267 with and OPS of .703. He's still an elite defender in the infield.\nOff the field, he's a leader in the Dodgers clubhouse.\nManager Dave Roberts will have an update on his veteran after the game.\nSign up for our free newsletter and follow us on X/Twitter and Facebook for the latest news.\nNoah Camras graduated from the University of Southern California in 2022 with a B.A. in Journalism and a minor in sports media studies. He was born and raised in Los Angeles and has extensively covered Southern California sports in his career. Noah is the publisher of Dodgers on SI after contributing as a writer and editor over the last three years.\nFollow noahcamras",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "CBS Sports",
+        "url": "https://www.cbssports.com/fantasy/baseball/news/dodgers-miguel-rojas-exits-with-injury-1027796/",
+        "title": "Dodgers' Miguel Rojas: Exits with injury",
+        "body_characters": 523
+      }
+    ]
+  },
+  {
+    "id": "6e6e794f8d585d2e6de8",
+    "title": "Miguel Rojas injury: Latest news on Dodgers infielder after leaving Game 3 of NLDS against Braves",
+    "source": "Yahoo Sports",
+    "author": "Gavin Groe",
+    "url": "https://sports.yahoo.com/articles/miguel-rojas-injury-latest-news-003404329.html",
+    "published_iso": "2026-10-07T00:34:00+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 00:34:00 +0000",
+    "body": "The Los Angeles Dodgers have had plenty of postseason heroes during their World Series runs in 2024 and 2025.\nLast year, the biggest may have been backup infielder Miguel Rojas, who hit a game-tying home run in Game 7 against the Toronto Blue Jays in the ninth inning.\nAs a result, Rojas has continued to get opportunities in 2026 and was inserted into the starting lineup for Game 3 against the Atlanta Braves in this year's NLDS. He also started Game 2 in place of Max Muncy at third base.\nOct 6, 2026; Cumberland, Georgia, USA; ]Los Angeles Dodgers second baseman Miguel Rojas (72) throws to first base for an out against the Atlanta Braves during the first inning in game three of the NLDS for the 2026 MLB Playoffs at Truist Park. Mandatory Credit: Brett Davis-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters)\nRojas was put in to hit against Braves left-hander Chris Sale given his platoon advantage as a right-handed hitter. It did not work out through his first three at-bats as he went 0-for-3 with a strikeout.\nRojas remained in the game for a fourth at-bat in the eighth inning against Braves reliever Brent Suter, who is also a southpaw.\nUnfortunately, he did not finish the at-bat. After fouling off the second pitch he immediately reached for his lower back with his left arm.\nA trainer came out to visit Rojas and after a brief discussion he was removed from the game with Tommy Edman taking over mid at-bat. Edman popped up shortly after. The Dodgers released an update shortly after. \"Miguel Rojas left tonight's game with low back pain,\" the team wrote on X.\nLatest Update on Miguel Rojas\nDuring the broadcast, Ken Rosenthal of The Athletic reported that Rojas originally suffered the setback while fielding a ground ball back in the 5th inning.\nIf Rojas' injury is serious enough to keep him out for the remainder of the NLDS, the Dodgers would have to replace him on the roster.\nThat would also keep him out of the NLCS should Los Angeles advance, which would be a huge loss given the postseason experience he brings.",
+    "tracked_people": [
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Tommy Edman",
+        "role": "Utility Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Miguel Rojas injury: Latest news on Dodgers infielder after leaving Game 3 of NLDS against Braves",
+    "original_body": "The Los Angeles Dodgers have had plenty of postseason heroes during their World Series runs in 2024 and 2025.\nLast year, the biggest may have been backup infielder Miguel Rojas, who hit a game-tying home run in Game 7 against the Toronto Blue Jays in the ninth inning.\nAs a result, Rojas has continued to get opportunities in 2026 and was inserted into the starting lineup for Game 3 against the Atlanta Braves in this year's NLDS. He also started Game 2 in place of Max Muncy at third base.\nOct 6, 2026; Cumberland, Georgia, USA; ]Los Angeles Dodgers second baseman Miguel Rojas (72) throws to first base for an out against the Atlanta Braves during the first inning in game three of the NLDS for the 2026 MLB Playoffs at Truist Park. Mandatory Credit: Brett Davis-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters)\nRojas was put in to hit against Braves left-hander Chris Sale given his platoon advantage as a right-handed hitter. It did not work out through his first three at-bats as he went 0-for-3 with a strikeout.\nRojas remained in the game for a fourth at-bat in the eighth inning against Braves reliever Brent Suter, who is also a southpaw.\nUnfortunately, he did not finish the at-bat. After fouling off the second pitch he immediately reached for his lower back with his left arm.\nA trainer came out to visit Rojas and after a brief discussion he was removed from the game with Tommy Edman taking over mid at-bat. Edman popped up shortly after. The Dodgers released an update shortly after. \"Miguel Rojas left tonight's game with low back pain,\" the team wrote on X.\nLatest Update on Miguel Rojas\nDuring the broadcast, Ken Rosenthal of The Athletic reported that Rojas originally suffered the setback while fielding a ground ball back in the 5th inning.\nIf Rojas' injury is serious enough to keep him out for the remainder of the NLDS, the Dodgers would have to replace him on the roster.\nThat would also keep him out of the NLCS should Los Angeles advance, which would be a huge loss given the postseason experience he brings.",
+    "rss_title": "Miguel Rojas injury: Latest news on Dodgers infielder after leaving Game 3 of NLDS against Braves",
+    "rss_body": "The Los Angeles Dodgers have had plenty of postseason heroes during their World Series runs in 2024 and 2025.\nLast year, the biggest may have been backup infielder Miguel Rojas, who hit a game-tying home run in Game 7 against the Toronto Blue Jays in the ninth inning.\nAs a result, Rojas has continued to get opportunities in 2026 and was inserted into the starting lineup for Game 3 against the Atlanta Braves in this year's NLDS. He also started Game 2 in place of Max Muncy at third base.\nOct 6, 2026; Cumberland, Georgia, USA; ]Los Angeles Dodgers second baseman Miguel Rojas (72) throws to first base for an out against the Atlanta Braves during the first inning in game three of the NLDS for the 2026 MLB Playoffs at Truist Park. Mandatory Credit: Brett Davis-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters)\nRojas was put in to hit against Braves left-hander Chris Sale given his platoon advantage as a right-handed hitter. It did not work out through his first three at-bats as he went 0-for-3 with a strikeout.\nRojas remained in the game for a fourth at-bat in the eighth inning against Braves reliever Brent Suter, who is also a southpaw.\nUnfortunately, he did not finish the at-bat. After fouling off the second pitch he immediately reached for his lower back with his left arm.\nA trainer came out to visit Rojas and after a brief discussion he was removed from the game with Tommy Edman taking over mid at-bat. Edman popped up shortly after. The Dodgers released an update shortly after. \"Miguel Rojas left tonight's game with low back pain,\" the team wrote on X.\nLatest Update on Miguel Rojas\nDuring the broadcast, Ken Rosenthal of The Athletic reported that Rojas originally suffered the setback while fielding a ground ball back in the 5th inning.\nIf Rojas' injury is serious enough to keep him out for the remainder of the NLDS, the Dodgers would have to replace him on the roster.\nThat would also keep him out of the NLCS should Los Angeles advance, which would be a huge loss given the postseason experience he brings.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "8f21ffc4abbb593eea38",
+    "title": "ドジャース突破王手 山本由伸が７回１失点10Ｋ快投 ５番大谷翔平は２打数無安打１四球／詳細 - ＭＬＢ : 日刊スポーツ",
+    "source": "日刊スポーツ",
+    "author": "",
+    "url": "https://www.nikkansports.com/baseball/mlb/news/202610070000020.html",
+    "published_iso": "2026-10-07T00:26:00+00:00",
+    "published_rfc2822": "Wed, 07 Oct 2026 00:26:00 +0000",
+    "body": "＜ナ・リーグ地区シリーズ：ブレーブス1－3ドジャース＞◇第3戦◇6日（日本時間7日）◇トゥルーイストパーク\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t    \n\t\t    \n\t\t    \n\t\t                        \n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n1勝1敗のタイで迎えた第3戦。ドジャースが3－1で勝ち、2勝1敗。シリーズ突破へ王手をかけた。大谷翔平投手は「5番DH」で先発出場。ドジャース移籍後、1、2番以外を打つのは初めて。2打数無安打1四球だった。山本由伸投手が先発。7回を4安打1失点、10三振を奪う好投。チームを勝利に導いた。\nドジャース大谷翔平　2026年全ホームラン／写真特集\n- ブレーブス対ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　8回表の攻撃を終えベンチに戻ったドジャース大谷翔平（右）は山本由伸の肩をたたきねぎらう（撮影・垰建太）\n| チーム | １ | ２ | ３ | ４ | ５ | ６ | ７ | ８ | ９ | 計 | \n|---|---|---|---|---|---|---|---|---|---|---|\n| ド | ０ | ０ | ０ | ３ | ０ | ０ | ０ | ０ | ０ | ３ | \n| ブ | ０ | ０ | ０ | ０ | １ | ０ | ０ | ０ | ０ | １ | \n【ブ】セール、ドッド、リー、スーター、イグレシアス\n【ド】山本、スコット、ディアス\n【本】K・ヘルナンデス1号2ラン（ド）フリーマン2号ソロ（ド）\n- ブレーブス対ドジャース　4回表ドジャース1死一塁、先制の2点本塁打を放つキケ・ヘルナンデス（撮影・垰建太）\n- 4回、先制2ランを放ったドジャースのK・ヘルナンデス（AP）\n- ブレーブス対ドジャース　4回表ドジャース1死、ソロフレディ・フリーマンのソロ本塁打に盛り上がる大谷翔平（左）らナイン（撮影・垰建太）\n山本由伸投球内容\n【1回】\nボールドウィンをカーブで空振り三振。アクーニャは内角直球で見逃し三振。オルソンは156キロ内角直球で詰まらせ二ゴロ\n投球数は15。最速は97・9マイル（157・6キロ）\n【2回】\nアルビーズをスプリットで空振り三振。ハリスは投手左へのバント安打。山本が処理したが足を滑らせ送球が遅れ一塁セーフ。デュボンは中飛で2死一塁。トーマスをスプリットで空振り三振\n投球数は32\n【3回】\nライリーをスプリットで三振。キム・ハソンを左飛。ボールドウィンをカーブで空振り三振（6個目）\n投球数は44\n【4回】\nアクーニャを遊ゴロ。オルソンにカットボール打たれ右安打。アルビーズは156キロ内角シンカーで空振り三振（7個目）。ハリスを三ゴロに仕留め無失点\n投球数は57\n【5回】\nデュボンにスプリット打たれ左前安打。トーマスにはカットボール打たれ左前安打。無死一、二塁。ライリーはシンカーで二飛。代打テレズにはストレートの四球を与え1死満塁。ボールドウィンはスプリットで一ゴロに仕留めたが三塁走者生還し1失点。なおも2死二、三塁。アクーニャは二ゴロに仕留め追加点許さず\n投球数は75\n【6回】\nオルソンを高め直球で見逃し三振。アルビーズを中飛。ハリスは三ゴロに仕留め3者凡退\n投球数は87\n【7回】\nデュボンを一邪飛。トーマスは153・4キロ直球で空振り三振（9個目）。ライリーはスプリットで空振り三振（10個目）\n投球数は98\n- ブレーブス対ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回裏ブレーブス1死、マイケル・ハリスのバントの打球を懸命に処理する山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回裏ブレーブス1死、マイケル・ハリスのバントの打球を懸命に処理する山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　5回裏ブレーブス2死二、三塁、ロナルド・アクーニャをニゴロに仕留めた山本由伸（右）は声をあげる（撮影・垰建太）\n- ブレーブス対ドジャース　5回裏ブレーブス1死満塁、ピンチの場面で山本由伸（右）はキケ・ヘルナンデスに声をかけられる（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はデーブ・ロバーツ監督からねぎらいを受ける（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はデーブ・ロバーツ監督（左）から手荒い祝福を受け笑顔を見せる（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はキケ・ヘルナンデスとハグを交わす（撮影・垰建太）\n大谷翔平第４打席\n8回先頭\nブレーブス投手は左腕スーター\nフルカウントから90・9マイル（146・3キロ）の真ん中低めシンカーを見極め四球で出塁。後続倒れ一塁残塁\n- ブレーブス対ドジャース　8回表ドジャース無死、四球を選ぶ大谷翔平（撮影・垰建太）\n大谷翔平第３打席\n5回1死\nブレーブス投手は左腕セール\nカウント3－0から4球目の内角直球を見逃し。ABSチャレンジをしたが判定覆らずストライク。3－1から97・8マイル（157・3キロ）の内角直球を打って平凡な左飛\n- ブレーブス対ドジャース　5回表ドジャース1死、左飛に倒れる大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　5回表ドジャース1死、左飛に倒れ渋い表情の大谷翔平（右）。左はデーブ・ロバーツ監督（撮影・垰建太）\n大谷翔平第２打席\n３回2死一、二塁\nブレーブス投手は左腕セール\nカウント1－1から98・6マイル（158・7キロ）の外角シンカーをスイング。ファウルとなったが大谷が捕手のミットにバットが当たったとアピール。打撃妨害となり一塁出塁。満塁となったがロハスは右飛に倒れ無得点\n- ブレーブス対ドジャース　3回表ドジャース2死一、二塁、打撃妨害をアピールする大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　3回表ドジャース2死一、二塁、打撃妨害をアピールする大谷翔平（撮影・垰建太）\n大谷翔平第１打席\n1回2死一、二塁\nブレーブス投手は左腕セール\nカウント2－2から82・9マイル（133・3キロ）の外角ボールゾーンへ大きく流れるスライダー空振り三振\n- 1回、ドジャース大谷と対戦するブレーブスのセール（AP）\n- 1回、ネクストで準備するドジャース大谷（AP）\n- ブレーブス対ドジャース　1回表ドジャース2死一、二塁、空振り三振に倒れる大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　1回表ドジャース2死一、二塁、空振り三振に倒れる大谷翔平（撮影・垰建太）\nドジャーススタメン\n1（遊）ベッツ\n2（一）フリーマン\n3（左）T・ヘルナンデス\n4（捕）スミス\n5（指）大谷翔平\n6（二）ロハス\n7（中）パヘス\n8（右）タッカー\n9（三）K・ヘルナンデス\nP山本由伸\n- ブレーブス対ドジャース　試合前表情を引き締めグラウンドに入るドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　スタメン紹介でレッドカーペットを駆けるドジャース大谷翔平（撮影・垰建太）\n大谷翔平ポストシーズン全成績\n| 月日 | 相手 | 順 | 打 | 安 | 点 | 本 | 盗 | １ | ２ | ３ | ４ | ５ | ６ | 率 | \n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 10・3 | ATL | 2 | ４ | １ | ０ | ０ | ０ | 右安 | 二直 | 左飛 | 中飛 | … | … | 250 | \n| 10・4 | ATL | 2 | ４ | １ | ０ | ０ | ０ | 三振 | 遊飛 | 左安 | 三振 | … | … | 250 | \n| 10・6 | ATL | 5 | ２ | ０ | ０ | ０ | ０ | 三振 | 打妨 | 左飛 | 四球 | … | … | 200 | \n- 【イラスト】MLBポストシーズン組み合わせ\n大谷翔平本塁打写真集\n2018年全22本塁打写真特集\n2019年全18本塁打写真特集\n2020年全７本塁打写真特集\n2021年1号～30号本塁打写真特集\n2021年31号～46号本塁打写真特集\n2022年1号～30号本塁打写真特集\n2022年31号～本塁打写真特集\n2023年1号～30号本塁打写真特集\n2023年31号～44号本塁打写真特集\n2024年1号～30号本塁打写真特集\n2024年31号～54号本塁打写真特集\n2025年全本塁打写真特集（1号～30号）\n2025年全本塁打写真特集（31号～55号）",
+    "tracked_people": [
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "ドジャース突破王手 山本由伸が７回１失点10Ｋ快投 ５番大谷翔平は２打数無安打１四球／詳細 - ＭＬＢ : 日刊スポーツ",
+    "original_body": "＜ナ・リーグ地区シリーズ：ブレーブス1－3ドジャース＞◇第3戦◇6日（日本時間7日）◇トゥルーイストパーク\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t    \n\t\t    \n\t\t    \n\t\t                        \n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n1勝1敗のタイで迎えた第3戦。ドジャースが3－1で勝ち、2勝1敗。シリーズ突破へ王手をかけた。大谷翔平投手は「5番DH」で先発出場。ドジャース移籍後、1、2番以外を打つのは初めて。2打数無安打1四球だった。山本由伸投手が先発。7回を4安打1失点、10三振を奪う好投。チームを勝利に導いた。\nドジャース大谷翔平　2026年全ホームラン／写真特集\n- ブレーブス対ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　8回表の攻撃を終えベンチに戻ったドジャース大谷翔平（右）は山本由伸の肩をたたきねぎらう（撮影・垰建太）\n| チーム | １ | ２ | ３ | ４ | ５ | ６ | ７ | ８ | ９ | 計 | \n|---|---|---|---|---|---|---|---|---|---|---|\n| ド | ０ | ０ | ０ | ３ | ０ | ０ | ０ | ０ | ０ | ３ | \n| ブ | ０ | ０ | ０ | ０ | １ | ０ | ０ | ０ | ０ | １ | \n【ブ】セール、ドッド、リー、スーター、イグレシアス\n【ド】山本、スコット、ディアス\n【本】K・ヘルナンデス1号2ラン（ド）フリーマン2号ソロ（ド）\n- ブレーブス対ドジャース　4回表ドジャース1死一塁、先制の2点本塁打を放つキケ・ヘルナンデス（撮影・垰建太）\n- 4回、先制2ランを放ったドジャースのK・ヘルナンデス（AP）\n- ブレーブス対ドジャース　4回表ドジャース1死、ソロフレディ・フリーマンのソロ本塁打に盛り上がる大谷翔平（左）らナイン（撮影・垰建太）\n山本由伸投球内容\n【1回】\nボールドウィンをカーブで空振り三振。アクーニャは内角直球で見逃し三振。オルソンは156キロ内角直球で詰まらせ二ゴロ\n投球数は15。最速は97・9マイル（157・6キロ）\n【2回】\nアルビーズをスプリットで空振り三振。ハリスは投手左へのバント安打。山本が処理したが足を滑らせ送球が遅れ一塁セーフ。デュボンは中飛で2死一塁。トーマスをスプリットで空振り三振\n投球数は32\n【3回】\nライリーをスプリットで三振。キム・ハソンを左飛。ボールドウィンをカーブで空振り三振（6個目）\n投球数は44\n【4回】\nアクーニャを遊ゴロ。オルソンにカットボール打たれ右安打。アルビーズは156キロ内角シンカーで空振り三振（7個目）。ハリスを三ゴロに仕留め無失点\n投球数は57\n【5回】\nデュボンにスプリット打たれ左前安打。トーマスにはカットボール打たれ左前安打。無死一、二塁。ライリーはシンカーで二飛。代打テレズにはストレートの四球を与え1死満塁。ボールドウィンはスプリットで一ゴロに仕留めたが三塁走者生還し1失点。なおも2死二、三塁。アクーニャは二ゴロに仕留め追加点許さず\n投球数は75\n【6回】\nオルソンを高め直球で見逃し三振。アルビーズを中飛。ハリスは三ゴロに仕留め3者凡退\n投球数は87\n【7回】\nデュボンを一邪飛。トーマスは153・4キロ直球で空振り三振（9個目）。ライリーはスプリットで空振り三振（10個目）\n投球数は98\n- ブレーブス対ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回裏ブレーブス1死、マイケル・ハリスのバントの打球を懸命に処理する山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回裏ブレーブス1死、マイケル・ハリスのバントの打球を懸命に処理する山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　5回裏ブレーブス2死二、三塁、ロナルド・アクーニャをニゴロに仕留めた山本由伸（右）は声をあげる（撮影・垰建太）\n- ブレーブス対ドジャース　5回裏ブレーブス1死満塁、ピンチの場面で山本由伸（右）はキケ・ヘルナンデスに声をかけられる（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はデーブ・ロバーツ監督からねぎらいを受ける（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はデーブ・ロバーツ監督（左）から手荒い祝福を受け笑顔を見せる（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はキケ・ヘルナンデスとハグを交わす（撮影・垰建太）\n大谷翔平第４打席\n8回先頭\nブレーブス投手は左腕スーター\nフルカウントから90・9マイル（146・3キロ）の真ん中低めシンカーを見極め四球で出塁。後続倒れ一塁残塁\n- ブレーブス対ドジャース　8回表ドジャース無死、四球を選ぶ大谷翔平（撮影・垰建太）\n大谷翔平第３打席\n5回1死\nブレーブス投手は左腕セール\nカウント3－0から4球目の内角直球を見逃し。ABSチャレンジをしたが判定覆らずストライク。3－1から97・8マイル（157・3キロ）の内角直球を打って平凡な左飛\n- ブレーブス対ドジャース　5回表ドジャース1死、左飛に倒れる大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　5回表ドジャース1死、左飛に倒れ渋い表情の大谷翔平（右）。左はデーブ・ロバーツ監督（撮影・垰建太）\n大谷翔平第２打席\n３回2死一、二塁\nブレーブス投手は左腕セール\nカウント1－1から98・6マイル（158・7キロ）の外角シンカーをスイング。ファウルとなったが大谷が捕手のミットにバットが当たったとアピール。打撃妨害となり一塁出塁。満塁となったがロハスは右飛に倒れ無得点\n- ブレーブス対ドジャース　3回表ドジャース2死一、二塁、打撃妨害をアピールする大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　3回表ドジャース2死一、二塁、打撃妨害をアピールする大谷翔平（撮影・垰建太）\n大谷翔平第１打席\n1回2死一、二塁\nブレーブス投手は左腕セール\nカウント2－2から82・9マイル（133・3キロ）の外角ボールゾーンへ大きく流れるスライダー空振り三振\n- 1回、ドジャース大谷と対戦するブレーブスのセール（AP）\n- 1回、ネクストで準備するドジャース大谷（AP）\n- ブレーブス対ドジャース　1回表ドジャース2死一、二塁、空振り三振に倒れる大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　1回表ドジャース2死一、二塁、空振り三振に倒れる大谷翔平（撮影・垰建太）\nドジャーススタメン\n1（遊）ベッツ\n2（一）フリーマン\n3（左）T・ヘルナンデス\n4（捕）スミス\n5（指）大谷翔平\n6（二）ロハス\n7（中）パヘス\n8（右）タッカー\n9（三）K・ヘルナンデス\nP山本由伸\n- ブレーブス対ドジャース　試合前表情を引き締めグラウンドに入るドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　スタメン紹介でレッドカーペットを駆けるドジャース大谷翔平（撮影・垰建太）\n大谷翔平ポストシーズン全成績\n| 月日 | 相手 | 順 | 打 | 安 | 点 | 本 | 盗 | １ | ２ | ３ | ４ | ５ | ６ | 率 | \n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 10・3 | ATL | 2 | ４ | １ | ０ | ０ | ０ | 右安 | 二直 | 左飛 | 中飛 | … | … | 250 | \n| 10・4 | ATL | 2 | ４ | １ | ０ | ０ | ０ | 三振 | 遊飛 | 左安 | 三振 | … | … | 250 | \n| 10・6 | ATL | 5 | ２ | ０ | ０ | ０ | ０ | 三振 | 打妨 | 左飛 | 四球 | … | … | 200 | \n- 【イラスト】MLBポストシーズン組み合わせ\n大谷翔平本塁打写真集\n2018年全22本塁打写真特集\n2019年全18本塁打写真特集\n2020年全７本塁打写真特集\n2021年1号～30号本塁打写真特集\n2021年31号～46号本塁打写真特集\n2022年1号～30号本塁打写真特集\n2022年31号～本塁打写真特集\n2023年1号～30号本塁打写真特集\n2023年31号～44号本塁打写真特集\n2024年1号～30号本塁打写真特集\n2024年31号～54号本塁打写真特集\n2025年全本塁打写真特集（1号～30号）\n2025年全本塁打写真特集（31号～55号）",
+    "rss_title": "ドジャース突破王手 山本由伸が７回１失点10Ｋ快投 ５番大谷翔平は２打数無安打１四球／詳細 - ＭＬＢ : 日刊スポーツ",
+    "rss_body": "＜ナ・リーグ地区シリーズ：ブレーブス1－3ドジャース＞◇第3戦◇6日（日本時間7日）◇トゥルーイストパーク\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t    \n\t\t    \n\t\t    \n\t\t                        \n\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n1勝1敗のタイで迎えた第3戦。ドジャースが3－1で勝ち、2勝1敗。シリーズ突破へ王手をかけた。大谷翔平投手は「5番DH」で先発出場。ドジャース移籍後、1、2番以外を打つのは初めて。2打数無安打1四球だった。山本由伸投手が先発。7回を4安打1失点、10三振を奪う好投。チームを勝利に導いた。\nドジャース大谷翔平　2026年全ホームラン／写真特集\n- ブレーブス対ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　8回表の攻撃を終えベンチに戻ったドジャース大谷翔平（右）は山本由伸の肩をたたきねぎらう（撮影・垰建太）\n| チーム | １ | ２ | ３ | ４ | ５ | ６ | ７ | ８ | ９ | 計 | \n|---|---|---|---|---|---|---|---|---|---|---|\n| ド | ０ | ０ | ０ | ３ | ０ | ０ | ０ | ０ | ０ | ３ | \n| ブ | ０ | ０ | ０ | ０ | １ | ０ | ０ | ０ | ０ | １ | \n【ブ】セール、ドッド、リー、スーター、イグレシアス\n【ド】山本、スコット、ディアス\n【本】K・ヘルナンデス1号2ラン（ド）フリーマン2号ソロ（ド）\n- ブレーブス対ドジャース　4回表ドジャース1死一塁、先制の2点本塁打を放つキケ・ヘルナンデス（撮影・垰建太）\n- 4回、先制2ランを放ったドジャースのK・ヘルナンデス（AP）\n- ブレーブス対ドジャース　4回表ドジャース1死、ソロフレディ・フリーマンのソロ本塁打に盛り上がる大谷翔平（左）らナイン（撮影・垰建太）\n山本由伸投球内容\n【1回】\nボールドウィンをカーブで空振り三振。アクーニャは内角直球で見逃し三振。オルソンは156キロ内角直球で詰まらせ二ゴロ\n投球数は15。最速は97・9マイル（157・6キロ）\n【2回】\nアルビーズをスプリットで空振り三振。ハリスは投手左へのバント安打。山本が処理したが足を滑らせ送球が遅れ一塁セーフ。デュボンは中飛で2死一塁。トーマスをスプリットで空振り三振\n投球数は32\n【3回】\nライリーをスプリットで三振。キム・ハソンを左飛。ボールドウィンをカーブで空振り三振（6個目）\n投球数は44\n【4回】\nアクーニャを遊ゴロ。オルソンにカットボール打たれ右安打。アルビーズは156キロ内角シンカーで空振り三振（7個目）。ハリスを三ゴロに仕留め無失点\n投球数は57\n【5回】\nデュボンにスプリット打たれ左前安打。トーマスにはカットボール打たれ左前安打。無死一、二塁。ライリーはシンカーで二飛。代打テレズにはストレートの四球を与え1死満塁。ボールドウィンはスプリットで一ゴロに仕留めたが三塁走者生還し1失点。なおも2死二、三塁。アクーニャは二ゴロに仕留め追加点許さず\n投球数は75\n【6回】\nオルソンを高め直球で見逃し三振。アルビーズを中飛。ハリスは三ゴロに仕留め3者凡退\n投球数は87\n【7回】\nデュボンを一邪飛。トーマスは153・4キロ直球で空振り三振（9個目）。ライリーはスプリットで空振り三振（10個目）\n投球数は98\n- ブレーブス対ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回裏ブレーブス1死、マイケル・ハリスのバントの打球を懸命に処理する山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回裏ブレーブス1死、マイケル・ハリスのバントの打球を懸命に処理する山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　声をあげ力投するドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　5回裏ブレーブス2死二、三塁、ロナルド・アクーニャをニゴロに仕留めた山本由伸（右）は声をあげる（撮影・垰建太）\n- ブレーブス対ドジャース　5回裏ブレーブス1死満塁、ピンチの場面で山本由伸（右）はキケ・ヘルナンデスに声をかけられる（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はデーブ・ロバーツ監督からねぎらいを受ける（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はデーブ・ロバーツ監督（左）から手荒い祝福を受け笑顔を見せる（撮影・垰建太）\n- ブレーブス対ドジャース　2回表ドジャース　7回裏ブレーブスの攻撃を無失点に抑えたドジャース山本由伸（右）はキケ・ヘルナンデスとハグを交わす（撮影・垰建太）\n大谷翔平第４打席\n8回先頭\nブレーブス投手は左腕スーター\nフルカウントから90・9マイル（146・3キロ）の真ん中低めシンカーを見極め四球で出塁。後続倒れ一塁残塁\n- ブレーブス対ドジャース　8回表ドジャース無死、四球を選ぶ大谷翔平（撮影・垰建太）\n大谷翔平第３打席\n5回1死\nブレーブス投手は左腕セール\nカウント3－0から4球目の内角直球を見逃し。ABSチャレンジをしたが判定覆らずストライク。3－1から97・8マイル（157・3キロ）の内角直球を打って平凡な左飛\n- ブレーブス対ドジャース　5回表ドジャース1死、左飛に倒れる大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　5回表ドジャース1死、左飛に倒れ渋い表情の大谷翔平（右）。左はデーブ・ロバーツ監督（撮影・垰建太）\n大谷翔平第２打席\n３回2死一、二塁\nブレーブス投手は左腕セール\nカウント1－1から98・6マイル（158・7キロ）の外角シンカーをスイング。ファウルとなったが大谷が捕手のミットにバットが当たったとアピール。打撃妨害となり一塁出塁。満塁となったがロハスは右飛に倒れ無得点\n- ブレーブス対ドジャース　3回表ドジャース2死一、二塁、打撃妨害をアピールする大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　3回表ドジャース2死一、二塁、打撃妨害をアピールする大谷翔平（撮影・垰建太）\n大谷翔平第１打席\n1回2死一、二塁\nブレーブス投手は左腕セール\nカウント2－2から82・9マイル（133・3キロ）の外角ボールゾーンへ大きく流れるスライダー空振り三振\n- 1回、ドジャース大谷と対戦するブレーブスのセール（AP）\n- 1回、ネクストで準備するドジャース大谷（AP）\n- ブレーブス対ドジャース　1回表ドジャース2死一、二塁、空振り三振に倒れる大谷翔平（撮影・垰建太）\n- ブレーブス対ドジャース　1回表ドジャース2死一、二塁、空振り三振に倒れる大谷翔平（撮影・垰建太）\nドジャーススタメン\n1（遊）ベッツ\n2（一）フリーマン\n3（左）T・ヘルナンデス\n4（捕）スミス\n5（指）大谷翔平\n6（二）ロハス\n7（中）パヘス\n8（右）タッカー\n9（三）K・ヘルナンデス\nP山本由伸\n- ブレーブス対ドジャース　試合前表情を引き締めグラウンドに入るドジャース先発山本由伸（撮影・垰建太）\n- ブレーブス対ドジャース　スタメン紹介でレッドカーペットを駆けるドジャース大谷翔平（撮影・垰建太）\n大谷翔平ポストシーズン全成績\n| 月日 | 相手 | 順 | 打 | 安 | 点 | 本 | 盗 | １ | ２ | ３ | ４ | ５ | ６ | 率 | \n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 10・3 | ATL | 2 | ４ | １ | ０ | ０ | ０ | 右安 | 二直 | 左飛 | 中飛 | … | … | 250 | \n| 10・4 | ATL | 2 | ４ | １ | ０ | ０ | ０ | 三振 | 遊飛 | 左安 | 三振 | … | … | 250 | \n| 10・6 | ATL | 5 | ２ | ０ | ０ | ０ | ０ | 三振 | 打妨 | 左飛 | 四球 | … | … | 200 | \n- 【イラスト】MLBポストシーズン組み合わせ\n大谷翔平本塁打写真集\n2018年全22本塁打写真特集\n2019年全18本塁打写真特集\n2020年全７本塁打写真特集\n2021年1号～30号本塁打写真特集\n2021年31号～46号本塁打写真特集\n2022年1号～30号本塁打写真特集\n2022年31号～本塁打写真特集\n2023年1号～30号本塁打写真特集\n2023年31号～44号本塁打写真特集\n2024年1号～30号本塁打写真特集\n2024年31号～54号本塁打写真特集\n2025年全本塁打写真特集（1号～30号）\n2025年全本塁打写真特集（31号～55号）",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "924a0a06048c4e827b5e",
+    "title": "Dave Roberts proves he’s a playoff wizard again as Dodgers erupt in 4th inning against Braves",
+    "source": "New York Post",
+    "author": "Thomas L Murray",
+    "url": "https://nypost.com/2026/10/06/sports/dave-roberts-proves-hes-a-playoff-wizard-again-as-dodgers-erupt-in-4th-inning-against-braves/",
+    "published_iso": "2026-10-06T23:58:00+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 23:58:00 +0000",
+    "body": "Freddie Freeman and Kiké Hernández continue to add to their postseason résumés.\nAn inning after Freeman was denied an opposite-field home run over the left field wall at Truist Park by Mauricio Dubón, he thought he might try hitting one right.\nBut Hernandez needed to show off his bat first.\nThe two got the Dodgers on the board, to give them a 3-0 lead in the fourth inning of the NLDS, by hitting home runs over the walls in left and right field.\nHernández saw an 89 MPH changeup come his way by Braves starting pitcher Chris Sale and sent it 406 feet out of the park for a two-run homer. One batter later, Freeman obliterated a 96 MPH sinker and sent it screaming off the bat at 103 MPH for 399 feet.\nSale managed to get out of the inning in the following at-bat, but at first glance, it looked he was going to gve up another homer.\nTeoscar Hernández just came short of Sale’s slider out of the park, after hard-hitting Sale at 108 MPH.\nBoth Freeman and Hernandez, continue to show why they are dominant in October, as both of them have had playoff heroics.\nFreeman has a career batting average of .268 with 82 hits, 17 home runs, and 40 RBI through 81 postseason games.\nKiké Hernández has a career average of .272 with 80 hits and 16 home runs, with 42 RBIs in the postseason.\nThe combination of Hernández and Freeman came on the same day; manager Dave Roberts made a surprising decision to bump four-time MVP Shohei Ohtani down to the fifth hole in the Dodgers lineup and have Freeman hitting second, behind Mookie Betts, while Hernández was hitting ninth.\nSo far, his decision is paying off as Los Angeles holds a 3-1 lead against the Braves.",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dave Roberts proves he’s a playoff wizard again as Dodgers erupt in 4th inning against Braves",
+    "original_body": "Freddie Freeman and Kiké Hernández continue to add to their postseason résumés.\nAn inning after Freeman was denied an opposite-field home run over the left field wall at Truist Park by Mauricio Dubón, he thought he might try hitting one right.\nBut Hernandez needed to show off his bat first.\nThe two got the Dodgers on the board, to give them a 3-0 lead in the fourth inning of the NLDS, by hitting home runs over the walls in left and right field.\nHernández saw an 89 MPH changeup come his way by Braves starting pitcher Chris Sale and sent it 406 feet out of the park for a two-run homer. One batter later, Freeman obliterated a 96 MPH sinker and sent it screaming off the bat at 103 MPH for 399 feet.\nSale managed to get out of the inning in the following at-bat, but at first glance, it looked he was going to gve up another homer.\nTeoscar Hernández just came short of Sale’s slider out of the park, after hard-hitting Sale at 108 MPH.\nBoth Freeman and Hernandez, continue to show why they are dominant in October, as both of them have had playoff heroics.\nFreeman has a career batting average of .268 with 82 hits, 17 home runs, and 40 RBI through 81 postseason games.\nKiké Hernández has a career average of .272 with 80 hits and 16 home runs, with 42 RBIs in the postseason.\nThe combination of Hernández and Freeman came on the same day; manager Dave Roberts made a surprising decision to bump four-time MVP Shohei Ohtani down to the fifth hole in the Dodgers lineup and have Freeman hitting second, behind Mookie Betts, while Hernández was hitting ninth.\nSo far, his decision is paying off as Los Angeles holds a 3-1 lead against the Braves.",
+    "rss_title": "Dave Roberts proves he’s a playoff wizard again as Dodgers erupt in 4th inning against Braves",
+    "rss_body": "Freddie Freeman and Kiké Hernández continue to add to their postseason résumés.\nAn inning after Freeman was denied an opposite-field home run over the left field wall at Truist Park by Mauricio Dubón, he thought he might try hitting one right.\nBut Hernandez needed to show off his bat first.\nThe two got the Dodgers on the board, to give them a 3-0 lead in the fourth inning of the NLDS, by hitting home runs over the walls in left and right field.\nHernández saw an 89 MPH changeup come his way by Braves starting pitcher Chris Sale and sent it 406 feet out of the park for a two-run homer. One batter later, Freeman obliterated a 96 MPH sinker and sent it screaming off the bat at 103 MPH for 399 feet.\nSale managed to get out of the inning in the following at-bat, but at first glance, it looked he was going to gve up another homer.\nTeoscar Hernández just came short of Sale’s slider out of the park, after hard-hitting Sale at 108 MPH.\nBoth Freeman and Hernandez, continue to show why they are dominant in October, as both of them have had playoff heroics.\nFreeman has a career batting average of .268 with 82 hits, 17 home runs, and 40 RBI through 81 postseason games.\nKiké Hernández has a career average of .272 with 80 hits and 16 home runs, with 42 RBIs in the postseason.\nThe combination of Hernández and Freeman came on the same day; manager Dave Roberts made a surprising decision to bump four-time MVP Shohei Ohtani down to the fifth hole in the Dodgers lineup and have Freeman hitting second, behind Mookie Betts, while Hernández was hitting ninth.\nSo far, his decision is paying off as Los Angeles holds a 3-1 lead against the Braves.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "4c46e4adf1b8bf43b1af",
+    "title": "Kiké Hernández and Freddie Freeman hit HRs in 4th inning to give Dodgers lead over Braves",
+    "source": "FOX Sports",
+    "author": "Kike Hernandez; Kenny Albert; John Smoltz",
+    "url": "https://www.foxsports.com/watch/fmc-mcw00tyb74009slj",
+    "published_iso": "2026-10-06T23:33:17+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 23:33:17 +0000",
+    "body": "Kiké Hernández and Freddie Freeman hit HRs in 4th inning to give Dodgers lead over Braves\n            Video Details\n          \nKiké Hernández and Freddie Freeman hit home runs in the top of the 4th inning to give the Los Angeles Dodgers the lead over the Atlanta Braves.",
+    "tracked_people": [
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Kiké Hernández and Freddie Freeman hit HRs in 4th inning to give Dodgers lead over Braves",
+    "original_body": "Kiké Hernández and Freddie Freeman hit HRs in 4th inning to give Dodgers lead over Braves\n            Video Details\n          \nKiké Hernández and Freddie Freeman hit home runs in the top of the 4th inning to give the Los Angeles Dodgers the lead over the Atlanta Braves.",
+    "rss_title": "Kiké Hernández and Freddie Freeman hit HRs in 4th inning to give Dodgers lead over Braves",
+    "rss_body": "Kiké Hernández and Freddie Freeman hit HRs in 4th inning to give Dodgers lead over Braves\n            Video Details\n          \nKiké Hernández and Freddie Freeman hit home runs in the top of the 4th inning to give the Los Angeles Dodgers the lead over the Atlanta Braves.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "dd83f3cdd83782f43e1b",
+    "title": "MLB:大谷翔平、アーロン賞6年連続候補入り 村上宗隆は外れる - 日本経済新聞",
+    "source": "日本経済新聞",
+    "author": "Nikkei Inc",
+    "url": "https://www.nikkei.com/article/DGXZQOKC060ED0W6A001C2000000/",
+    "published_iso": "2026-10-06T00:56:14+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 00:56:14 +0000",
+    "body": "【ニューヨーク=共同】米大リーグ機構は5日、ア、ナ各リーグで傑出した打者をファン投票などで選ぶ「ハンク・アーロン賞」の最終候補を発表し、今季30本塁打を放ったドジャースの大谷翔平がナ・リーグの10人に入った。大谷はエンゼルス所属だった2023年から3年連続で受賞している。最終候補に残るのは6年連続。\n最終候補はメジャー公式サイトの記者により決められ、ナはともに45本塁打でタイトルに輝いたクローアームストロング（カブス）シュワバー（フィリーズ）らが名を連ねた。アはアロンソ（オリオールズ）やアルバレス（アストロズ）らが入り、ホワイトソックスの村上宗隆は外れた。\nファン投票は今月12日までで、過去の受賞者らの投票も加味し、11月11日に受賞者を発表する。",
+    "tracked_people": [
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "MLB:大谷翔平、アーロン賞6年連続候補入り 村上宗隆は外れる - 日本経済新聞",
+    "original_body": "【ニューヨーク=共同】米大リーグ機構は5日、ア、ナ各リーグで傑出した打者をファン投票などで選ぶ「ハンク・アーロン賞」の最終候補を発表し、今季30本塁打を放ったドジャースの大谷翔平がナ・リーグの10人に入った。大谷はエンゼルス所属だった2023年から3年連続で受賞している。最終候補に残るのは6年連続。\n最終候補はメジャー公式サイトの記者により決められ、ナはともに45本塁打でタイトルに輝いたクローアームストロング（カブス）シュワバー（フィリーズ）らが名を連ねた。アはアロンソ（オリオールズ）やアルバレス（アストロズ）らが入り、ホワイトソックスの村上宗隆は外れた。\nファン投票は今月12日までで、過去の受賞者らの投票も加味し、11月11日に受賞者を発表する。",
+    "rss_title": "MLB:大谷翔平、アーロン賞6年連続候補入り 村上宗隆は外れる - 日本経済新聞",
+    "rss_body": "【ニューヨーク=共同】米大リーグ機構は5日、ア、ナ各リーグで傑出した打者をファン投票などで選ぶ「ハンク・アーロン賞」の最終候補を発表し、今季30本塁打を放ったドジャースの大谷翔平がナ・リーグの10人に入った。大谷はエンゼルス所属だった2023年から3年連続で受賞している。最終候補に残るのは6年連続。\n最終候補はメジャー公式サイトの記者により決められ、ナはともに45本塁打でタイトルに輝いたクローアームストロング（カブス）シュワバー（フィリーズ）らが名を連ねた。アはアロンソ（オリオールズ）やアルバレス（アストロズ）らが入り、ホワイトソックスの村上宗隆は外れた。\nファン投票は今月12日までで、過去の受賞者らの投票も加味し、11月11日に受賞者を発表する。",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "日刊スポーツ",
+        "url": "https://www.nikkansports.com/baseball/mlb/news/202610070000020.html",
+        "title": "大谷翔平、打順降格「５番DH」でブレーブス戦 山本由伸先発、セールと投げ合い／速報します - ＭＬＢ : 日刊スポーツ",
+        "body_characters": 692
+      },
+      {
+        "source": "日刊スポーツ",
+        "url": "https://www.nikkansports.com/baseball/mlb/news/202610070000064.html",
+        "title": "大谷翔平が「爽やか」コーデで球場入り ドジャースナインの私服姿公開「必ず勝って」の声 - ＭＬＢ : 日刊スポーツ",
+        "body_characters": 428
+      }
+    ]
+  },
+  {
     "id": "884e697c445329b3538f",
     "title": "Braves vs Dodgers NLDS chat and discussion: Chris Sale vs Yoshinobu Yamamoto",
     "source": "Yahoo Sports",
@@ -726,46 +1332,6 @@
     "rss_title": "NL Division Series Game 3: Dodgers vs. Braves, lineups, starting pitchers, TV info",
     "rss_body": "DODGERS AT BRAVES\nWhen: Tuesday, 3 p.m. PT\nWhere: Truist Park, Atlanta\nTV/Radio: FS1, 570 AM, 1020 AM, 1330 AM\nTHE LINEUPS\nHere is the Dodgers’ starting lineup, with Shohei Ohtani dropped to fifth and Kiké Hernandez at third base …\nToday's #NLDS Game 3 Dodgers lineup at Braves: pic.twitter.com/aYZ2IfRsZV\n— Los Angeles Dodgers (@Dodgers) October 6, 2026\nAnd here is the Braves’ lineup, with Ha-Seong Kim at shortstop …\nGame 3. #LetItFly pic.twitter.com/qEtGsjSSjq\n— Atlanta Braves (@Braves) October 6, 2026\nTHE PITCHERS\nDODGERS RHP YOSHINOBU YAMAMOTO (14-9, 2.53 ERA)\nCareer vs. Braves: 1-1, 0.55 ERA (3 games, 16⅓ innings, 17 Ks)\nAt Truist Park: 1-1, 0.55 ERA (3 games, 16⅓ innings, 17 Ks)\nPostseason history: 7-1, 2.25 ERA (10 games, 9 starts, 56 innings, 48 Ks)\nLoves to face: Matt Olson, 0 for 6, 2 Ks; Mike Yastrzemski, 1 for 8, 4 Ks\nHates to face: Ha-Seong Kim, 3 for 7, HR, 2 RBIs; Michael Harris II, 2 for 6\nBRAVES LHP CHRIS SALE (14-9, 2.16 ERA)\nCareer vs. Dodgers: 2-3, 4.30 ERA (7 games, 6 starts, 37⅔ innings, 43 Ks)\nAt Truist Park: 21-5, 2.20 ERA (38 games, 37 starts, 233⅔ innings, 283 Ks)\nPostseason history: 1-3, 5.83 ERA (12 games, 8 starts, 41⅔ innings, 59 Ks)\nLoves to face: Kyle Tucker, 1 for 12, double, 2 RBIs, 5 Ks; Will Smith 0 for 7, 3 Ks; Max Muncy, 1 for 7, 5 Ks\nHates to face: Mookie Betts, 7 for 18, 3 doubles, 1 HR, 4 RBIs; Freddie Freeman, 5 for 16, 2 doubles, 2 HRs, 4 RBIs\nUP NEXT\nGame 4: Dodgers (RHP Tyler Glasnow, 5-2, 3.53 ERA) at Braves (RHP Tyler Mahle, 7-10, 3.99 ERA), Wednesday, 3 p.m. PT, FS1, 570 AM",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "dd83f3cdd83782f43e1b",
-    "title": "MLB:大谷翔平、アーロン賞6年連続候補入り 村上宗隆は外れる - 日本経済新聞",
-    "source": "日本経済新聞",
-    "author": "Nikkei Inc",
-    "url": "https://www.nikkei.com/article/DGXZQOKC060ED0W6A001C2000000/",
-    "published_iso": "2026-10-06T00:56:14+00:00",
-    "published_rfc2822": "Tue, 06 Oct 2026 00:56:14 +0000",
-    "body": "【ニューヨーク=共同】米大リーグ機構は5日、ア、ナ各リーグで傑出した打者をファン投票などで選ぶ「ハンク・アーロン賞」の最終候補を発表し、今季30本塁打を放ったドジャースの大谷翔平がナ・リーグの10人に入った。大谷はエンゼルス所属だった2023年から3年連続で受賞している。最終候補に残るのは6年連続。\n最終候補はメジャー公式サイトの記者により決められ、ナはともに45本塁打でタイトルに輝いたクローアームストロング（カブス）シュワバー（フィリーズ）らが名を連ねた。アはアロンソ（オリオールズ）やアルバレス（アストロズ）らが入り、ホワイトソックスの村上宗隆は外れた。\nファン投票は今月12日までで、過去の受賞者らの投票も加味し、11月11日に受賞者を発表する。",
-    "tracked_people": [
-      {
-        "name": "Shohei Ohtani",
-        "role": "DH / Pitcher",
-        "status": "Injured List",
-        "type": "player",
-        "id": 22,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "Japan Japanese"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "MLB:大谷翔平、アーロン賞6年連続候補入り 村上宗隆は外れる - 日本経済新聞",
-    "original_body": "【ニューヨーク=共同】米大リーグ機構は5日、ア、ナ各リーグで傑出した打者をファン投票などで選ぶ「ハンク・アーロン賞」の最終候補を発表し、今季30本塁打を放ったドジャースの大谷翔平がナ・リーグの10人に入った。大谷はエンゼルス所属だった2023年から3年連続で受賞している。最終候補に残るのは6年連続。\n最終候補はメジャー公式サイトの記者により決められ、ナはともに45本塁打でタイトルに輝いたクローアームストロング（カブス）シュワバー（フィリーズ）らが名を連ねた。アはアロンソ（オリオールズ）やアルバレス（アストロズ）らが入り、ホワイトソックスの村上宗隆は外れた。\nファン投票は今月12日までで、過去の受賞者らの投票も加味し、11月11日に受賞者を発表する。",
-    "rss_title": "MLB:大谷翔平、アーロン賞6年連続候補入り 村上宗隆は外れる - 日本経済新聞",
-    "rss_body": "【ニューヨーク=共同】米大リーグ機構は5日、ア、ナ各リーグで傑出した打者をファン投票などで選ぶ「ハンク・アーロン賞」の最終候補を発表し、今季30本塁打を放ったドジャースの大谷翔平がナ・リーグの10人に入った。大谷はエンゼルス所属だった2023年から3年連続で受賞している。最終候補に残るのは6年連続。\n最終候補はメジャー公式サイトの記者により決められ、ナはともに45本塁打でタイトルに輝いたクローアームストロング（カブス）シュワバー（フィリーズ）らが名を連ねた。アはアロンソ（オリオールズ）やアルバレス（アストロズ）らが入り、ホワイトソックスの村上宗隆は外れた。\nファン投票は今月12日までで、過去の受賞者らの投票も加味し、11月11日に受賞者を発表する。",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "日刊スポーツ",
-        "url": "https://www.nikkansports.com/baseball/mlb/news/202610070000020.html",
-        "title": "大谷翔平、打順降格「５番DH」でブレーブス戦 山本由伸先発、セールと投げ合い／速報します - ＭＬＢ : 日刊スポーツ",
-        "body_characters": 692
-      }
-    ]
   },
   {
     "id": "dacea7d23e11c726ac5c",
