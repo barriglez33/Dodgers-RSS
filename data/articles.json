@@ -1,5 +1,103 @@
 [
   {
+    "id": "d0212cec5ecfe0ea199e",
+    "title": "Yoshinobu Yamamoto to start Game 2 of NLCS",
+    "source": "FantasyPros",
+    "author": "Ari Koslow",
+    "url": "https://www.fantasypros.com/mlb/news/613165/yoshinobu-yamamoto-to-start-game-2-nlcs.php",
+    "published_iso": "2026-10-10T06:41:32+00:00",
+    "published_rfc2822": "Sat, 10 Oct 2026 06:41:32 +0000",
+    "body": "by Ari Koslow | Dodgers Correspondent |\nDodgers’ manager Dave Roberts said that Yoshinobu Yamamoto will start Game 2 of the NLCS against the Brewers. (Fabian Ardaya on Twitter)\nFantasy Impact:\nYamamoto will follow Tarik Skubal to open the NLCS.\nMore Yoshinobu Yamamoto: News, Rankings, Projections, Stats",
+    "article_date": "2026-10-10",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yoshinobu Yamamoto to start Game 2 of NLCS",
+    "original_body": "by Ari Koslow | Dodgers Correspondent |\nDodgers’ manager Dave Roberts said that Yoshinobu Yamamoto will start Game 2 of the NLCS against the Brewers. (Fabian Ardaya on Twitter)\nFantasy Impact:\nYamamoto will follow Tarik Skubal to open the NLCS.\nMore Yoshinobu Yamamoto: News, Rankings, Projections, Stats",
+    "rss_title": "Yoshinobu Yamamoto to start Game 2 of NLCS",
+    "rss_body": "by Ari Koslow | Dodgers Correspondent |\nDodgers’ manager Dave Roberts said that Yoshinobu Yamamoto will start Game 2 of the NLCS against the Brewers. (Fabian Ardaya on Twitter)\nFantasy Impact:\nYamamoto will follow Tarik Skubal to open the NLCS.\nMore Yoshinobu Yamamoto: News, Rankings, Projections, Stats",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "9c72d7acec0bf463fb85",
+    "title": "Tarik Skubal to start Game 1 of NLCS",
+    "source": "FantasyPros",
+    "author": "Ari Koslow",
+    "url": "https://www.fantasypros.com/mlb/news/613164/tarik-skubal-to-start-game-1-nlcs.php",
+    "published_iso": "2026-10-10T06:40:00+00:00",
+    "published_rfc2822": "Sat, 10 Oct 2026 06:40:00 +0000",
+    "body": "by Ari Koslow | Dodgers Correspondent |\nDodgers’ manager Dave Roberts confirmed Friday that Tarik Skubal will start Game 1 of the NLCS against the Brewers on Sunday. (Fabian Ardaya on Twitter)\nFantasy Impact:\nIt will likely be Skubal against Jacob Misiorowski in Game 1 on Sunday. Yoshinobu Yamamoto will take the mound in Game 2.\nMore Tarik Skubal: News, Rankings, Projections, Stats",
+    "article_date": "2026-10-10",
+    "tracked_people": [
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Tarik Skubal to start Game 1 of NLCS",
+    "original_body": "by Ari Koslow | Dodgers Correspondent |\nDodgers’ manager Dave Roberts confirmed Friday that Tarik Skubal will start Game 1 of the NLCS against the Brewers on Sunday. (Fabian Ardaya on Twitter)\nFantasy Impact:\nIt will likely be Skubal against Jacob Misiorowski in Game 1 on Sunday. Yoshinobu Yamamoto will take the mound in Game 2.\nMore Tarik Skubal: News, Rankings, Projections, Stats",
+    "rss_title": "Tarik Skubal to start Game 1 of NLCS",
+    "rss_body": "by Ari Koslow | Dodgers Correspondent |\nDodgers’ manager Dave Roberts confirmed Friday that Tarik Skubal will start Game 1 of the NLCS against the Brewers on Sunday. (Fabian Ardaya on Twitter)\nFantasy Impact:\nIt will likely be Skubal against Jacob Misiorowski in Game 1 on Sunday. Yoshinobu Yamamoto will take the mound in Game 2.\nMore Tarik Skubal: News, Rankings, Projections, Stats",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "e7929da368e49b37c226",
     "title": "MLB PRO SPIRIT celebra su segundo aniversario con nuevas tarjetas de Shohei Ohtani",
     "source": "Cine Cassette",
