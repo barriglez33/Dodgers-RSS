@@ -1,5 +1,243 @@
 [
   {
+    "id": "2def53429ddb96ddf27f",
+    "title": "'We Just Got Beat:' Roberts, Ohtani Give Credit to Brewers After NLCS Sweep - Rafu Shimpo",
+    "source": "rafu.com",
+    "author": "Michael Culross",
+    "url": "https://rafu.com/2026/10/we-just-got-beat-roberts-ohtani-give-credit-to-brewers-after-nlcs-sweep/",
+    "published_iso": "2026-10-17T04:30:00+00:00",
+    "published_rfc2822": "Sat, 17 Oct 2026 04:30:00 +0000",
+    "body": "By MIKEY HIRANO CULROSS\nRafu Sports Editor\nShohei Ohtani flung his bat into the air, exulted toward the sky, and for one shining moment, the improbable seemed more than merely possible.\nThe ball hadn’t yet landed in the right-field pavilion, but the Dodgers and their fans were in full-tilt celebration. Not just because their superstar had hit a home run, but it was a sign that the team’s offensive malaise might finally be breaking, that for the first time in the series, the ball would be bouncing their way.\nThe notion of a three-peat for the back-to-back world champs was still alive, regardless of the long odds. At this moment, the team many expected to return to the World Series – and win it – appeared to be returning to form.\nThe joy was a distant memory by the time Kiké Hernandez’ fly ball settled into left-fielder Jackson Chourio’s glove for the final out of the ninth inning on Thursday, as the Milwaukee Brewers swept the Dodgers in the National League Championship Series and booked their first trip to the World Series since 1982.\nIn perhaps returning the favor from last year, when the Dodgers won four straight against the Brewers, Milwaukee was the better team in essentially every aspect of the game: starting pitching, relief pitching, batting, situational hitting … they simply played winning baseball.\n“They played flawless. They really did,” Dodger manager Dave Roberts said in the postgame press conference, after the visiting Brewers overcame a 4-0 deficit and scored six unanswered runs to complete the sweep.\n“I think for me, it never feels good to lose, but when you get beat, you can handle it a little bit better,” Roberts said after addressing his team following the loss. “I had a good conversation with the guys in there, and just told them how proud I was. I’m not used to those speeches, those consolation speeches.”\nThe Brewers had the best record in the major leagues this season, winning 103 games, while L.A. was runner-up with 100 victories.\n“For us, it was just pitting two really good ball clubs against one another, and they won out,” Roberts added.\nOhtani’s three-run shot in the second inning was the sole home run of the series for the Dodgers, who had relied heavily on the long ball for wins late in the regular season and into the playoffs.\n“I’m very disappointed, but the Brewers are a very good team; you have to give them credit,” Ohtani said through an interpreter in the home clubhouse. “They were able to expose some of our weaknesses.”\nFor Ohtani, the weaknesses weren’t just stats on a page. He’s been dealing with power-sapping infirmities for months, including a sore right shoulder and gimpy left knee. His last home run came nearly two months prior to Thursday’s shot, and the team shut down his pitching game at the end of July.\nHe said he is completely committed to returning as a two-way player in 2027, using the off-season to focus on rest, rehab and recovery.\nIn this year’s NLCS, Ohtani finished batting a paltry .192 with only one home run and 10 strikeouts in 26 at-bats. He had struggled atthe plate to the point there was talk of the unthinkable – Roberts not him starting in Game 4.\nAfter some serious conversation, the manager went with his superstar in the lineup, and early on, at least, it paid off.\n“I’ll always trust Shohei. I think he’s the best player on the planet, and he’s not completely healthy,” Roberts explained. “I just give him a lot of respect for not running from it, still wanting to participate, still wanting to play when he’s not 100 percent.”\nRoberts noted the rare display of emotion from the Japanese star once the Game 4 home run ball left his bat.\n“It was something that you don’t see very often from Shohei. I think it was a lot of pent-up anger, frustration. It was the best ball he hit in probably two, three months, and it was a big hit.\n“So I think that for him to look at the dugout, show that emotion, it just shows how much he cares. He’s still human. He still cares and wants to help his team win a baseball game. That was a big hit.”\nAs gracious as Roberts, Ohtani and the rest of the Dodgers were in defeat, the sting was clear in their voices.\n“I’m tremendously grateful for the time we have spent as a team, even though we fell short this year,” Ohtani said. “I want to use this feeling as a catalyst for next season.”\nMax Muncy, whose frustrations were laid bare in Game 4 after he struck out with a tying run at third base and slammed his bat to the ground, said he and the Dodgers gave it their best.\n“We left it all out there, but the train finally ran out of steam,” Muncy conceded.\nThe Dodgers were vying to become the first National League team to win three straight World Series titles. The New York Yankees achieved from 1998 to 2000, following the Oakland A’s from 1972 to 1974.\n“I certainly think that I wish it was us going to the World Series and defending our crown, but those guys, they earned it, and it’s going to be a heck of a World Series,” Roberts said.\nHeading into Game 3 in the American League Championship Series, the Cleveland Guardians held a 2-1 lead over the Tampa Bay Rays. The game scheduled for Friday has been pushed back to Saturday due to weather.\nThe Brewers and Rays are among the five MLB teams that have never won a World Series, along with the San Diego Padres, Seattle Mariners and Colorado Rockies.",
+    "article_date": "2026-10-17",
+    "tracked_people": [
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dave Roberts",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "'We Just Got Beat:' Roberts, Ohtani Give Credit to Brewers After NLCS Sweep - Rafu Shimpo",
+    "original_body": "By MIKEY HIRANO CULROSS\nRafu Sports Editor\nShohei Ohtani flung his bat into the air, exulted toward the sky, and for one shining moment, the improbable seemed more than merely possible.\nThe ball hadn’t yet landed in the right-field pavilion, but the Dodgers and their fans were in full-tilt celebration. Not just because their superstar had hit a home run, but it was a sign that the team’s offensive malaise might finally be breaking, that for the first time in the series, the ball would be bouncing their way.\nThe notion of a three-peat for the back-to-back world champs was still alive, regardless of the long odds. At this moment, the team many expected to return to the World Series – and win it – appeared to be returning to form.\nThe joy was a distant memory by the time Kiké Hernandez’ fly ball settled into left-fielder Jackson Chourio’s glove for the final out of the ninth inning on Thursday, as the Milwaukee Brewers swept the Dodgers in the National League Championship Series and booked their first trip to the World Series since 1982.\nIn perhaps returning the favor from last year, when the Dodgers won four straight against the Brewers, Milwaukee was the better team in essentially every aspect of the game: starting pitching, relief pitching, batting, situational hitting … they simply played winning baseball.\n“They played flawless. They really did,” Dodger manager Dave Roberts said in the postgame press conference, after the visiting Brewers overcame a 4-0 deficit and scored six unanswered runs to complete the sweep.\n“I think for me, it never feels good to lose, but when you get beat, you can handle it a little bit better,” Roberts said after addressing his team following the loss. “I had a good conversation with the guys in there, and just told them how proud I was. I’m not used to those speeches, those consolation speeches.”\nThe Brewers had the best record in the major leagues this season, winning 103 games, while L.A. was runner-up with 100 victories.\n“For us, it was just pitting two really good ball clubs against one another, and they won out,” Roberts added.\nOhtani’s three-run shot in the second inning was the sole home run of the series for the Dodgers, who had relied heavily on the long ball for wins late in the regular season and into the playoffs.\n“I’m very disappointed, but the Brewers are a very good team; you have to give them credit,” Ohtani said through an interpreter in the home clubhouse. “They were able to expose some of our weaknesses.”\nFor Ohtani, the weaknesses weren’t just stats on a page. He’s been dealing with power-sapping infirmities for months, including a sore right shoulder and gimpy left knee. His last home run came nearly two months prior to Thursday’s shot, and the team shut down his pitching game at the end of July.\nHe said he is completely committed to returning as a two-way player in 2027, using the off-season to focus on rest, rehab and recovery.\nIn this year’s NLCS, Ohtani finished batting a paltry .192 with only one home run and 10 strikeouts in 26 at-bats. He had struggled atthe plate to the point there was talk of the unthinkable – Roberts not him starting in Game 4.\nAfter some serious conversation, the manager went with his superstar in the lineup, and early on, at least, it paid off.\n“I’ll always trust Shohei. I think he’s the best player on the planet, and he’s not completely healthy,” Roberts explained. “I just give him a lot of respect for not running from it, still wanting to participate, still wanting to play when he’s not 100 percent.”\nRoberts noted the rare display of emotion from the Japanese star once the Game 4 home run ball left his bat.\n“It was something that you don’t see very often from Shohei. I think it was a lot of pent-up anger, frustration. It was the best ball he hit in probably two, three months, and it was a big hit.\n“So I think that for him to look at the dugout, show that emotion, it just shows how much he cares. He’s still human. He still cares and wants to help his team win a baseball game. That was a big hit.”\nAs gracious as Roberts, Ohtani and the rest of the Dodgers were in defeat, the sting was clear in their voices.\n“I’m tremendously grateful for the time we have spent as a team, even though we fell short this year,” Ohtani said. “I want to use this feeling as a catalyst for next season.”\nMax Muncy, whose frustrations were laid bare in Game 4 after he struck out with a tying run at third base and slammed his bat to the ground, said he and the Dodgers gave it their best.\n“We left it all out there, but the train finally ran out of steam,” Muncy conceded.\nThe Dodgers were vying to become the first National League team to win three straight World Series titles. The New York Yankees achieved from 1998 to 2000, following the Oakland A’s from 1972 to 1974.\n“I certainly think that I wish it was us going to the World Series and defending our crown, but those guys, they earned it, and it’s going to be a heck of a World Series,” Roberts said.\nHeading into Game 3 in the American League Championship Series, the Cleveland Guardians held a 2-1 lead over the Tampa Bay Rays. The game scheduled for Friday has been pushed back to Saturday due to weather.\nThe Brewers and Rays are among the five MLB teams that have never won a World Series, along with the San Diego Padres, Seattle Mariners and Colorado Rockies.",
+    "rss_title": "'We Just Got Beat:' Roberts, Ohtani Give Credit to Brewers After NLCS Sweep - Rafu Shimpo",
+    "rss_body": "By MIKEY HIRANO CULROSS\nRafu Sports Editor\nShohei Ohtani flung his bat into the air, exulted toward the sky, and for one shining moment, the improbable seemed more than merely possible.\nThe ball hadn’t yet landed in the right-field pavilion, but the Dodgers and their fans were in full-tilt celebration. Not just because their superstar had hit a home run, but it was a sign that the team’s offensive malaise might finally be breaking, that for the first time in the series, the ball would be bouncing their way.\nThe notion of a three-peat for the back-to-back world champs was still alive, regardless of the long odds. At this moment, the team many expected to return to the World Series – and win it – appeared to be returning to form.\nThe joy was a distant memory by the time Kiké Hernandez’ fly ball settled into left-fielder Jackson Chourio’s glove for the final out of the ninth inning on Thursday, as the Milwaukee Brewers swept the Dodgers in the National League Championship Series and booked their first trip to the World Series since 1982.\nIn perhaps returning the favor from last year, when the Dodgers won four straight against the Brewers, Milwaukee was the better team in essentially every aspect of the game: starting pitching, relief pitching, batting, situational hitting … they simply played winning baseball.\n“They played flawless. They really did,” Dodger manager Dave Roberts said in the postgame press conference, after the visiting Brewers overcame a 4-0 deficit and scored six unanswered runs to complete the sweep.\n“I think for me, it never feels good to lose, but when you get beat, you can handle it a little bit better,” Roberts said after addressing his team following the loss. “I had a good conversation with the guys in there, and just told them how proud I was. I’m not used to those speeches, those consolation speeches.”\nThe Brewers had the best record in the major leagues this season, winning 103 games, while L.A. was runner-up with 100 victories.\n“For us, it was just pitting two really good ball clubs against one another, and they won out,” Roberts added.\nOhtani’s three-run shot in the second inning was the sole home run of the series for the Dodgers, who had relied heavily on the long ball for wins late in the regular season and into the playoffs.\n“I’m very disappointed, but the Brewers are a very good team; you have to give them credit,” Ohtani said through an interpreter in the home clubhouse. “They were able to expose some of our weaknesses.”\nFor Ohtani, the weaknesses weren’t just stats on a page. He’s been dealing with power-sapping infirmities for months, including a sore right shoulder and gimpy left knee. His last home run came nearly two months prior to Thursday’s shot, and the team shut down his pitching game at the end of July.\nHe said he is completely committed to returning as a two-way player in 2027, using the off-season to focus on rest, rehab and recovery.\nIn this year’s NLCS, Ohtani finished batting a paltry .192 with only one home run and 10 strikeouts in 26 at-bats. He had struggled atthe plate to the point there was talk of the unthinkable – Roberts not him starting in Game 4.\nAfter some serious conversation, the manager went with his superstar in the lineup, and early on, at least, it paid off.\n“I’ll always trust Shohei. I think he’s the best player on the planet, and he’s not completely healthy,” Roberts explained. “I just give him a lot of respect for not running from it, still wanting to participate, still wanting to play when he’s not 100 percent.”\nRoberts noted the rare display of emotion from the Japanese star once the Game 4 home run ball left his bat.\n“It was something that you don’t see very often from Shohei. I think it was a lot of pent-up anger, frustration. It was the best ball he hit in probably two, three months, and it was a big hit.\n“So I think that for him to look at the dugout, show that emotion, it just shows how much he cares. He’s still human. He still cares and wants to help his team win a baseball game. That was a big hit.”\nAs gracious as Roberts, Ohtani and the rest of the Dodgers were in defeat, the sting was clear in their voices.\n“I’m tremendously grateful for the time we have spent as a team, even though we fell short this year,” Ohtani said. “I want to use this feeling as a catalyst for next season.”\nMax Muncy, whose frustrations were laid bare in Game 4 after he struck out with a tying run at third base and slammed his bat to the ground, said he and the Dodgers gave it their best.\n“We left it all out there, but the train finally ran out of steam,” Muncy conceded.\nThe Dodgers were vying to become the first National League team to win three straight World Series titles. The New York Yankees achieved from 1998 to 2000, following the Oakland A’s from 1972 to 1974.\n“I certainly think that I wish it was us going to the World Series and defending our crown, but those guys, they earned it, and it’s going to be a heck of a World Series,” Roberts said.\nHeading into Game 3 in the American League Championship Series, the Cleveland Guardians held a 2-1 lead over the Tampa Bay Rays. The game scheduled for Friday has been pushed back to Saturday due to weather.\nThe Brewers and Rays are among the five MLB teams that have never won a World Series, along with the San Diego Padres, Seattle Mariners and Colorado Rockies.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "f11324029a732cd0594d",
+    "title": "Analysis: Dodgers’ NLCS defeat raises questions about team’s aging core",
+    "source": "dailybulletin.com",
+    "author": "Bill Plunkett",
+    "url": "https://www.dailybulletin.com/2026/10/16/analysis-dodgers-nlcs-defeat-raises-questions-about-teams-aging-core/",
+    "published_iso": "2026-10-17T03:00:00+00:00",
+    "published_rfc2822": "Sat, 17 Oct 2026 03:00:00 +0000",
+    "body": "LOS ANGELES — The past two years, the Dodgers’ season ended with parades and calls to “Run it back” for the next season.\nAfter their four-game sweep in the National League Championship Series at the hands of a younger, hungrier Milwaukee Brewers team ended the dream of a ‘three-peat,’ how realistic is it to head into 2027 with the same core – the oldest position player group in MLB for the past four years?\n“That’s not my job. I play first base,” said Freddie Freeman, at 37 the oldest returning player on the Dodgers’ roster (infielder Miguel Rojas announced his retirement and relief pitcher Blake Treinen, who suffered a shoulder injury late in the season, is a free agent).\n“We’ve got a great group of guys. We’ve accomplished a lot of things. We came up short in these four days. But we’ll see where the wind blows this offseason, what happens, what it looks like, what baseball looks like.”\nThe winds of change could be coming. As Freeman alluded to, the anticipated showdown between MLB’s owners and the players’ union over the next Collective Bargaining Agreement could force the biggest changes in the Dodgers’ future. If the owners are able to get the salary cap or other payroll restrictions they are aiming for, the Dodgers might be forced to change their roster by shedding payroll.\nAlso looming over the team’s future are the ongoing legal and financial difficulties surrounding principal owner Mark Walter that threaten to eat into the Dodgers’ enormous financial advantages.\nThreatening the franchise’s plans to keep its “Golden Era” going more directly, though, is the aging roster. The Brewers certainly made the Dodgers look old in the four-game NLCS sweep.\n“I don’t know what you can really say to that. That’s just people’s opinions of what that is,” Freeman said before Game 4. “We do know we have an older team. That doesn’t mean we’re old and we’re playing bad because we’re old. We’re just not playing that great, in my mind.\n“But that’s people’s opinions. I can’t change your opinion because we are, in this game, a little bit older than everybody else. I don’t feel old.”\nNonetheless, Dodgers president of baseball operations Andrew Friedman acknowledged awareness – if not overt concern – about the aging core on the team’s roster.\n“Yeah, we’ve talked about this a lot,” Friedman said before the start of the NLCS. “With where we are in the success cycle, the success we have had, we have done the opposite of being flippant about it. ‘Oh, it’s great that we won. Now we can put our feet up.’ For us, it’s about pressing the advantage we have right now.\n“We have a very talented core, and while a good number of them are getting up there in years, the experience, the way they prepare, the way they play the game, we feel like is a real competitive advantage. So we’ve been aggressive to supplement around that group, all the while pouring ourselves into our next wave.”\nThe Dodgers’ farm system is indeed as strong as any in MLB. They subtracted two Top 100 prospects (outfielder Zyhir Hope and right-hander River Ryan) in order to trade for pitcher Tarik Skubal in August and still have five more led by outfielder Josue De Paula.\nDe Paula made the jump from Double-A to the majors in September and showed his readiness in that brief audition. The Dodgers will have to make room for him in their 2027 plan.\nThat won’t be easy and it’s difficult to see how the Dodgers can get younger in 2027 other than around the margins where Kiké Hernandez acknowledged Game 4 of the NLCS might be his last with the Dodgers and Rojas made it clear, talking to the team after the game and saying he was retiring. He is expected to stay with the organization in some capacity, likely in player development.\n“This is it as a player. That was my last game playing. That was the last time I put these cleats on and this uniform on as a player,” Rojas said, still in full uniform long after the game ended Thursday night. “From now on, I’m going to start thinking about what’s going to happen in my life as a baseball person other than being a player. I want to start my career on the other side of this business, and I’m looking forward to doing it here with the Los Angeles Dodgers as well.\n“I’m ready to move on and start the next chapter of my career.”\nHernandez isn’t ready to stop playing. But he knows it might not be in Los Angeles next year.\n“I mean, I love this place. I’ve played for three other teams, but every time I look at my career I kind of obviously go back to this place,” the 35-year-old Hernandez said. “I feel like I have a lot left. … I would love to be back. I would love to have one more try, trying to win another one. But I don’t really know what’s going to happen. I hope I’m back, and if I’m not I hope that I get to play for a winning team.”\nSeven other Dodgers will become free agents this winter, most prominently bullpen stalwarts Alex Vesia and Evan Phillips and Skubal. Four others – Freeman, outfielder Teoscar Hernandez, third baseman Max Muncy and utility player Hyeseong Kim – are entering the final year of their contracts in 2027, though all but Freeman have club options for 2028.\nIf the Dodgers are going to change things by their own hand (as opposed to CBA mandate), Teoscar Hernandez clearly has a target on his back as the most likely Dodger to be traded this winter, clearing left field for De Paula. But the Dodgers have largely painted themselves into a corner with this roster. Freeman, shortstop Mookie Betts, catcher Will Smith, center fielder Andy Pages, right fielder Kyle Tucker, two-way star Shohei Ohtani and Muncy, each a year older, are all likely to be in the starting lineup on Opening Day 2027 – whenever that might be.\n“I have no idea,” Muncy said of the potential for changes before next season. “That’s for people above me to make those decisions and it’s for me to show up next year, ready to go with whatever group we’ve got. There will come a time when we think about next year. But that’s not at this moment.”\nShowing up at Camelback Ranch next spring with the same core is not necessarily a bad thing. Even with only minimal changes, the Dodgers will enter 2027 as the favorites in the National League West once again and a 15th consecutive postseason berth would bring another chance to win the “crapshoot” October has become.\nBut it also brings this Dodger core closer to “the cliff” Friedman has talked about avoiding.\n“It’s tricky because you have to find the right balance,” he said. “It’s hard to transition young players onto your roster. It’s a hard adjustment from Triple-A to the major-league level. We’ve done it some over the years. Some guys we haven’t had the patience long enough to kind of see it through (perhaps an allusion to infielder Miguel Vargas, now an All-Star for the Chicago White Sox).\n“That’s the challenge we have with the expectations we have. So we have to be mindful of having a really high standard but also transitioning some of our young players. We’ve seen it some, Andy Pages is featured prominently for us, Will Smith, Alex Freeland got a lot of opportunities this year. Dalton Rushing was a big part when Will missed time. And then late in the year we saw with Josue De Paula.\n“We’ve got a lot of guys coming after that as well. So for us it’s about almost having a split personality – to do everything we can to maximize our chances of winning with our major-league roster, and the other side of our personality is pouring ourselves into doing everything we can to have as much talent coming, and we feel really good about that part as well.”",
+    "article_date": "2026-10-16",
+    "tracked_people": [
+      {
+        "name": "Will Smith",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Alex Freeland",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Teoscar Hernández",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Josué De Paula",
+        "role": "Outfielder / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Dalton Rushing",
+        "role": "Catcher / DH",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 23,
+        "batch": 2
+      },
+      {
+        "name": "Andy Pages",
+        "role": "Outfielder",
+        "status": "Injured List",
+        "type": "player",
+        "id": 24,
+        "batch": 2
+      },
+      {
+        "name": "Blake Treinen",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Andrew Friedman",
+        "role": "President of Baseball Ops",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Alex Vesia",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 52,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      },
+      {
+        "name": "Hyeseong Kim",
+        "role": "Infielder",
+        "status": "Minors",
+        "type": "player",
+        "id": 54,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Analysis: Dodgers’ NLCS defeat raises questions about team’s aging core",
+    "original_body": "LOS ANGELES — The past two years, the Dodgers’ season ended with parades and calls to “Run it back” for the next season.\nAfter their four-game sweep in the National League Championship Series at the hands of a younger, hungrier Milwaukee Brewers team ended the dream of a ‘three-peat,’ how realistic is it to head into 2027 with the same core – the oldest position player group in MLB for the past four years?\n“That’s not my job. I play first base,” said Freddie Freeman, at 37 the oldest returning player on the Dodgers’ roster (infielder Miguel Rojas announced his retirement and relief pitcher Blake Treinen, who suffered a shoulder injury late in the season, is a free agent).\n“We’ve got a great group of guys. We’ve accomplished a lot of things. We came up short in these four days. But we’ll see where the wind blows this offseason, what happens, what it looks like, what baseball looks like.”\nThe winds of change could be coming. As Freeman alluded to, the anticipated showdown between MLB’s owners and the players’ union over the next Collective Bargaining Agreement could force the biggest changes in the Dodgers’ future. If the owners are able to get the salary cap or other payroll restrictions they are aiming for, the Dodgers might be forced to change their roster by shedding payroll.\nAlso looming over the team’s future are the ongoing legal and financial difficulties surrounding principal owner Mark Walter that threaten to eat into the Dodgers’ enormous financial advantages.\nThreatening the franchise’s plans to keep its “Golden Era” going more directly, though, is the aging roster. The Brewers certainly made the Dodgers look old in the four-game NLCS sweep.\n“I don’t know what you can really say to that. That’s just people’s opinions of what that is,” Freeman said before Game 4. “We do know we have an older team. That doesn’t mean we’re old and we’re playing bad because we’re old. We’re just not playing that great, in my mind.\n“But that’s people’s opinions. I can’t change your opinion because we are, in this game, a little bit older than everybody else. I don’t feel old.”\nNonetheless, Dodgers president of baseball operations Andrew Friedman acknowledged awareness – if not overt concern – about the aging core on the team’s roster.\n“Yeah, we’ve talked about this a lot,” Friedman said before the start of the NLCS. “With where we are in the success cycle, the success we have had, we have done the opposite of being flippant about it. ‘Oh, it’s great that we won. Now we can put our feet up.’ For us, it’s about pressing the advantage we have right now.\n“We have a very talented core, and while a good number of them are getting up there in years, the experience, the way they prepare, the way they play the game, we feel like is a real competitive advantage. So we’ve been aggressive to supplement around that group, all the while pouring ourselves into our next wave.”\nThe Dodgers’ farm system is indeed as strong as any in MLB. They subtracted two Top 100 prospects (outfielder Zyhir Hope and right-hander River Ryan) in order to trade for pitcher Tarik Skubal in August and still have five more led by outfielder Josue De Paula.\nDe Paula made the jump from Double-A to the majors in September and showed his readiness in that brief audition. The Dodgers will have to make room for him in their 2027 plan.\nThat won’t be easy and it’s difficult to see how the Dodgers can get younger in 2027 other than around the margins where Kiké Hernandez acknowledged Game 4 of the NLCS might be his last with the Dodgers and Rojas made it clear, talking to the team after the game and saying he was retiring. He is expected to stay with the organization in some capacity, likely in player development.\n“This is it as a player. That was my last game playing. That was the last time I put these cleats on and this uniform on as a player,” Rojas said, still in full uniform long after the game ended Thursday night. “From now on, I’m going to start thinking about what’s going to happen in my life as a baseball person other than being a player. I want to start my career on the other side of this business, and I’m looking forward to doing it here with the Los Angeles Dodgers as well.\n“I’m ready to move on and start the next chapter of my career.”\nHernandez isn’t ready to stop playing. But he knows it might not be in Los Angeles next year.\n“I mean, I love this place. I’ve played for three other teams, but every time I look at my career I kind of obviously go back to this place,” the 35-year-old Hernandez said. “I feel like I have a lot left. … I would love to be back. I would love to have one more try, trying to win another one. But I don’t really know what’s going to happen. I hope I’m back, and if I’m not I hope that I get to play for a winning team.”\nSeven other Dodgers will become free agents this winter, most prominently bullpen stalwarts Alex Vesia and Evan Phillips and Skubal. Four others – Freeman, outfielder Teoscar Hernandez, third baseman Max Muncy and utility player Hyeseong Kim – are entering the final year of their contracts in 2027, though all but Freeman have club options for 2028.\nIf the Dodgers are going to change things by their own hand (as opposed to CBA mandate), Teoscar Hernandez clearly has a target on his back as the most likely Dodger to be traded this winter, clearing left field for De Paula. But the Dodgers have largely painted themselves into a corner with this roster. Freeman, shortstop Mookie Betts, catcher Will Smith, center fielder Andy Pages, right fielder Kyle Tucker, two-way star Shohei Ohtani and Muncy, each a year older, are all likely to be in the starting lineup on Opening Day 2027 – whenever that might be.\n“I have no idea,” Muncy said of the potential for changes before next season. “That’s for people above me to make those decisions and it’s for me to show up next year, ready to go with whatever group we’ve got. There will come a time when we think about next year. But that’s not at this moment.”\nShowing up at Camelback Ranch next spring with the same core is not necessarily a bad thing. Even with only minimal changes, the Dodgers will enter 2027 as the favorites in the National League West once again and a 15th consecutive postseason berth would bring another chance to win the “crapshoot” October has become.\nBut it also brings this Dodger core closer to “the cliff” Friedman has talked about avoiding.\n“It’s tricky because you have to find the right balance,” he said. “It’s hard to transition young players onto your roster. It’s a hard adjustment from Triple-A to the major-league level. We’ve done it some over the years. Some guys we haven’t had the patience long enough to kind of see it through (perhaps an allusion to infielder Miguel Vargas, now an All-Star for the Chicago White Sox).\n“That’s the challenge we have with the expectations we have. So we have to be mindful of having a really high standard but also transitioning some of our young players. We’ve seen it some, Andy Pages is featured prominently for us, Will Smith, Alex Freeland got a lot of opportunities this year. Dalton Rushing was a big part when Will missed time. And then late in the year we saw with Josue De Paula.\n“We’ve got a lot of guys coming after that as well. So for us it’s about almost having a split personality – to do everything we can to maximize our chances of winning with our major-league roster, and the other side of our personality is pouring ourselves into doing everything we can to have as much talent coming, and we feel really good about that part as well.”",
+    "rss_title": "Analysis: Dodgers’ NLCS defeat raises questions about team’s aging core",
+    "rss_body": "LOS ANGELES — The past two years, the Dodgers’ season ended with parades and calls to “Run it back” for the next season.\nAfter their four-game sweep in the National League Championship Series at the hands of a younger, hungrier Milwaukee Brewers team ended the dream of a ‘three-peat,’ how realistic is it to head into 2027 with the same core – the oldest position player group in MLB for the past four years?\n“That’s not my job. I play first base,” said Freddie Freeman, at 37 the oldest returning player on the Dodgers’ roster (infielder Miguel Rojas announced his retirement and relief pitcher Blake Treinen, who suffered a shoulder injury late in the season, is a free agent).\n“We’ve got a great group of guys. We’ve accomplished a lot of things. We came up short in these four days. But we’ll see where the wind blows this offseason, what happens, what it looks like, what baseball looks like.”\nThe winds of change could be coming. As Freeman alluded to, the anticipated showdown between MLB’s owners and the players’ union over the next Collective Bargaining Agreement could force the biggest changes in the Dodgers’ future. If the owners are able to get the salary cap or other payroll restrictions they are aiming for, the Dodgers might be forced to change their roster by shedding payroll.\nAlso looming over the team’s future are the ongoing legal and financial difficulties surrounding principal owner Mark Walter that threaten to eat into the Dodgers’ enormous financial advantages.\nThreatening the franchise’s plans to keep its “Golden Era” going more directly, though, is the aging roster. The Brewers certainly made the Dodgers look old in the four-game NLCS sweep.\n“I don’t know what you can really say to that. That’s just people’s opinions of what that is,” Freeman said before Game 4. “We do know we have an older team. That doesn’t mean we’re old and we’re playing bad because we’re old. We’re just not playing that great, in my mind.\n“But that’s people’s opinions. I can’t change your opinion because we are, in this game, a little bit older than everybody else. I don’t feel old.”\nNonetheless, Dodgers president of baseball operations Andrew Friedman acknowledged awareness – if not overt concern – about the aging core on the team’s roster.\n“Yeah, we’ve talked about this a lot,” Friedman said before the start of the NLCS. “With where we are in the success cycle, the success we have had, we have done the opposite of being flippant about it. ‘Oh, it’s great that we won. Now we can put our feet up.’ For us, it’s about pressing the advantage we have right now.\n“We have a very talented core, and while a good number of them are getting up there in years, the experience, the way they prepare, the way they play the game, we feel like is a real competitive advantage. So we’ve been aggressive to supplement around that group, all the while pouring ourselves into our next wave.”\nThe Dodgers’ farm system is indeed as strong as any in MLB. They subtracted two Top 100 prospects (outfielder Zyhir Hope and right-hander River Ryan) in order to trade for pitcher Tarik Skubal in August and still have five more led by outfielder Josue De Paula.\nDe Paula made the jump from Double-A to the majors in September and showed his readiness in that brief audition. The Dodgers will have to make room for him in their 2027 plan.\nThat won’t be easy and it’s difficult to see how the Dodgers can get younger in 2027 other than around the margins where Kiké Hernandez acknowledged Game 4 of the NLCS might be his last with the Dodgers and Rojas made it clear, talking to the team after the game and saying he was retiring. He is expected to stay with the organization in some capacity, likely in player development.\n“This is it as a player. That was my last game playing. That was the last time I put these cleats on and this uniform on as a player,” Rojas said, still in full uniform long after the game ended Thursday night. “From now on, I’m going to start thinking about what’s going to happen in my life as a baseball person other than being a player. I want to start my career on the other side of this business, and I’m looking forward to doing it here with the Los Angeles Dodgers as well.\n“I’m ready to move on and start the next chapter of my career.”\nHernandez isn’t ready to stop playing. But he knows it might not be in Los Angeles next year.\n“I mean, I love this place. I’ve played for three other teams, but every time I look at my career I kind of obviously go back to this place,” the 35-year-old Hernandez said. “I feel like I have a lot left. … I would love to be back. I would love to have one more try, trying to win another one. But I don’t really know what’s going to happen. I hope I’m back, and if I’m not I hope that I get to play for a winning team.”\nSeven other Dodgers will become free agents this winter, most prominently bullpen stalwarts Alex Vesia and Evan Phillips and Skubal. Four others – Freeman, outfielder Teoscar Hernandez, third baseman Max Muncy and utility player Hyeseong Kim – are entering the final year of their contracts in 2027, though all but Freeman have club options for 2028.\nIf the Dodgers are going to change things by their own hand (as opposed to CBA mandate), Teoscar Hernandez clearly has a target on his back as the most likely Dodger to be traded this winter, clearing left field for De Paula. But the Dodgers have largely painted themselves into a corner with this roster. Freeman, shortstop Mookie Betts, catcher Will Smith, center fielder Andy Pages, right fielder Kyle Tucker, two-way star Shohei Ohtani and Muncy, each a year older, are all likely to be in the starting lineup on Opening Day 2027 – whenever that might be.\n“I have no idea,” Muncy said of the potential for changes before next season. “That’s for people above me to make those decisions and it’s for me to show up next year, ready to go with whatever group we’ve got. There will come a time when we think about next year. But that’s not at this moment.”\nShowing up at Camelback Ranch next spring with the same core is not necessarily a bad thing. Even with only minimal changes, the Dodgers will enter 2027 as the favorites in the National League West once again and a 15th consecutive postseason berth would bring another chance to win the “crapshoot” October has become.\nBut it also brings this Dodger core closer to “the cliff” Friedman has talked about avoiding.\n“It’s tricky because you have to find the right balance,” he said. “It’s hard to transition young players onto your roster. It’s a hard adjustment from Triple-A to the major-league level. We’ve done it some over the years. Some guys we haven’t had the patience long enough to kind of see it through (perhaps an allusion to infielder Miguel Vargas, now an All-Star for the Chicago White Sox).\n“That’s the challenge we have with the expectations we have. So we have to be mindful of having a really high standard but also transitioning some of our young players. We’ve seen it some, Andy Pages is featured prominently for us, Will Smith, Alex Freeland got a lot of opportunities this year. Dalton Rushing was a big part when Will missed time. And then late in the year we saw with Josue De Paula.\n“We’ve got a lot of guys coming after that as well. So for us it’s about almost having a split personality – to do everything we can to maximize our chances of winning with our major-league roster, and the other side of our personality is pouring ourselves into doing everything we can to have as much talent coming, and we feel really good about that part as well.”",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "e0492b3e710665c9afcf",
     "title": "Dodgers World Series hero says goodbye to teammates in emotional social media post",
     "source": "New York Post",
