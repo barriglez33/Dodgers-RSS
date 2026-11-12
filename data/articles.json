@@ -1,5 +1,142 @@
 [
   {
+    "id": "4352d669ed14afe4d676",
+    "title": "Dodgers have crucial offseason decisions with Kiké Hernández, Alex Vesia, other fan-favorite free agents",
+    "source": "New York Post",
+    "author": "Jack Harris",
+    "url": "https://nypost.com/2026/11/11/sports/dodgers-weigh-free-agent-decisions-with-kike-hernandez-alex-vesia-and-more/",
+    "published_iso": "2026-11-12T01:49:00+00:00",
+    "published_rfc2822": "Thu, 12 Nov 2026 01:49:00 +0000",
+    "body": "LAS VEGAS –– In the wake of their National League Championship Series sweep at the hands of the Milwaukee Brewers last month, there was a sense in the Dodgers’ clubhouse that they had just concluded a “last ride” with that iteration of the club’s dynasty-cementing roster.\nHow true that proves to be, however, could depend on their willingness to bring back several popular core pieces who are free agents this winter.\nWhile most of the team’s biggest stars will return in 2027, the Dodgers do have decisions to make with everyone from Kiké Hernández to Alex Vesia to Evan Phillips and even Brusdar Graterol.\nAll of them played key roles during the club’s run to back-to-back World Series championships in 2024 and 2025.\nAll of them are now on the free-agent market this offseason, but have indicated hopes of re-signing in Los Angeles.\nAs this lockout-threatened winter unfolds, they will provide something of a litmus test for how much roster turnover the Dodgers are willing to endure.\nStart with Hernández, the longtime fan-favorite who has compensated for recently disappointing regular-season performances with his penchant for providing heroics in October.\nThe Dodgers have a need for his skill set, seeking right-handed-hitting infielders capable of playing multiple positions across the diamond (especially in the wake of Miguel Rojas’ retirement). They have re-signed the 35-year-old veteran in each of the last three offseasons, as well, seemingly always saving a place on the roster for the franchise’s all-time postseason games played leader.\nAt the outset of this winter, however, Hernández struck a more uncertain tone regarding his future, acknowledging he didn’t “really know what’s going to happen” in his free agency.\nGeneral manager Brandon Gomes offered no further clarity while speaking at the GM Meetings on Tuesday, saying: “Kiké has been such a huge part of what we’ve done in the past, and we’ll continue to have those conversations. But what that looks like right now, I have no idea.”\nHernández’s lack of regular-season production over the past few years explains why the Dodgers might be more hesitant to re-sign him again. Not only has he hit just .219 with a .645 OPS since 2024, but he has missed significant time with elbow and oblique injuries.\nWhat the Dodgers need in 2027 is someone who can be a weapon against left-handed pitching, and give some of their older veteran regulars (like Freddie Freeman, Max Muncy and Mookie Betts) more days off to keep them fresh.\nCome October, the Dodgers would still love to have Hernández’s presence in the lineup. But they’ll have to weigh that against the risk of what has become a more inconsistent overall track record.\nVesia, meanwhile, presents a completely different dynamic.\nFew relievers have been more consistent than the 30-year-old left-hander since he joined the Dodgers in 2021. He has posted a 2.66 ERA in that time while making 367 appearances for the club (150 more than anyone else).\nThat durability has made Vesia a hot commodity on this year’s free-agent market, where only Adrian Morejon is seen as a better left-handed reliever option. He has already fielded interest from roughly half the league, according to a source, and could be in line for three-year contract offers.\nPhillips, 32, will figure to field similarly wide-ranging interest, though could have a slightly more limited market thanks to his age and injury history. From 2022 to 2024, he was the Dodgers’ best reliever, collecting a team-high 44 saves with a 2.21 ERA. However, he underwent Tommy John surgery in 2025, and battled bouts of inconsistency in his return this year, albeit before mounting a strong finish to the campaign that included him hitting 100 mph with his fastball.\nBoth would make sense as re-signing candidates for the Dodgers (who let Phillips linger on the free-agent market last year before bringing him back on a one-year deal). But the team also feels confident about its other returning relievers –– a group headlined by Edwin Díaz, Tanner Scott, Edgardo Henriquez and Brock Stewart –– and has several younger arms it would like to leave opportunities open for next season.\nThen there’s Graterol, the hard-throwing right-hander who has not pitched since 2024 because of shoulder and back surgeries.\nThe 28-year-old was finally regaining health by the end of this past season, and there is expected to be mutual interest in a reunion with the Dodgers, another source said. But he is also testing the free-agent waters to see what kind of opportunities he could get to re-establish himself as a high-leverage weapon.\nFellow out-of-contract Dodgers reliever Blake Treinen is another name to monitor, though it’s unclear if the 38-year-old right-hander intends to continue playing after suffering a season-ending shoulder injury in September (the latest setback in his checkered injury history).\nFor now, the Dodgers have been described as “slow-moving” on such fronts. In an offseason of potential transition, they are waiting to see how each player’s market develops while evaluating how aggressively they will try to retain them.\nDownload The California Post App, follow us on social, and subscribe to our newsletters\nCalifornia Post News: Facebook, Instagram, TikTok, X, YouTube, WhatsApp, LinkedIn\nCalifornia Post Sports Facebook, Instagram, TikTok, YouTube, X\nCalifornia Post  Opinion \nCalifornia Post Newsletters: Sign up here!\nCalifornia Post App: Download here!\nHome delivery: Sign up here!\nPage Six Hollywood: Sign up here!",
+    "article_date": "2026-11-11",
+    "tracked_people": [
+      {
+        "name": "Mookie Betts",
+        "role": "Infielder / Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Freddie Freeman",
+        "role": "First Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Max Muncy",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Tanner Scott",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Evan Phillips",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Edgardo Henriquez",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 19,
+        "batch": 1
+      },
+      {
+        "name": "Edwin Díaz",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 26,
+        "batch": 2
+      },
+      {
+        "name": "Blake Treinen",
+        "role": "Relief Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 27,
+        "batch": 2
+      },
+      {
+        "name": "Brandon Gomes",
+        "role": "General Manager",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Brusdar Graterol",
+        "role": "Pitcher",
+        "status": "IL-60",
+        "type": "player",
+        "id": 45,
+        "batch": 1
+      },
+      {
+        "name": "Brock Stewart",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 51,
+        "batch": 2
+      },
+      {
+        "name": "Alex Vesia",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 52,
+        "batch": 2
+      },
+      {
+        "name": "Enrique Hernández",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 53,
+        "batch": 2
+      },
+      {
+        "name": "Miguel Rojas",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 55,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Dodgers have crucial offseason decisions with Kiké Hernández, Alex Vesia, other fan-favorite free agents",
+    "original_body": "LAS VEGAS –– In the wake of their National League Championship Series sweep at the hands of the Milwaukee Brewers last month, there was a sense in the Dodgers’ clubhouse that they had just concluded a “last ride” with that iteration of the club’s dynasty-cementing roster.\nHow true that proves to be, however, could depend on their willingness to bring back several popular core pieces who are free agents this winter.\nWhile most of the team’s biggest stars will return in 2027, the Dodgers do have decisions to make with everyone from Kiké Hernández to Alex Vesia to Evan Phillips and even Brusdar Graterol.\nAll of them played key roles during the club’s run to back-to-back World Series championships in 2024 and 2025.\nAll of them are now on the free-agent market this offseason, but have indicated hopes of re-signing in Los Angeles.\nAs this lockout-threatened winter unfolds, they will provide something of a litmus test for how much roster turnover the Dodgers are willing to endure.\nStart with Hernández, the longtime fan-favorite who has compensated for recently disappointing regular-season performances with his penchant for providing heroics in October.\nThe Dodgers have a need for his skill set, seeking right-handed-hitting infielders capable of playing multiple positions across the diamond (especially in the wake of Miguel Rojas’ retirement). They have re-signed the 35-year-old veteran in each of the last three offseasons, as well, seemingly always saving a place on the roster for the franchise’s all-time postseason games played leader.\nAt the outset of this winter, however, Hernández struck a more uncertain tone regarding his future, acknowledging he didn’t “really know what’s going to happen” in his free agency.\nGeneral manager Brandon Gomes offered no further clarity while speaking at the GM Meetings on Tuesday, saying: “Kiké has been such a huge part of what we’ve done in the past, and we’ll continue to have those conversations. But what that looks like right now, I have no idea.”\nHernández’s lack of regular-season production over the past few years explains why the Dodgers might be more hesitant to re-sign him again. Not only has he hit just .219 with a .645 OPS since 2024, but he has missed significant time with elbow and oblique injuries.\nWhat the Dodgers need in 2027 is someone who can be a weapon against left-handed pitching, and give some of their older veteran regulars (like Freddie Freeman, Max Muncy and Mookie Betts) more days off to keep them fresh.\nCome October, the Dodgers would still love to have Hernández’s presence in the lineup. But they’ll have to weigh that against the risk of what has become a more inconsistent overall track record.\nVesia, meanwhile, presents a completely different dynamic.\nFew relievers have been more consistent than the 30-year-old left-hander since he joined the Dodgers in 2021. He has posted a 2.66 ERA in that time while making 367 appearances for the club (150 more than anyone else).\nThat durability has made Vesia a hot commodity on this year’s free-agent market, where only Adrian Morejon is seen as a better left-handed reliever option. He has already fielded interest from roughly half the league, according to a source, and could be in line for three-year contract offers.\nPhillips, 32, will figure to field similarly wide-ranging interest, though could have a slightly more limited market thanks to his age and injury history. From 2022 to 2024, he was the Dodgers’ best reliever, collecting a team-high 44 saves with a 2.21 ERA. However, he underwent Tommy John surgery in 2025, and battled bouts of inconsistency in his return this year, albeit before mounting a strong finish to the campaign that included him hitting 100 mph with his fastball.\nBoth would make sense as re-signing candidates for the Dodgers (who let Phillips linger on the free-agent market last year before bringing him back on a one-year deal). But the team also feels confident about its other returning relievers –– a group headlined by Edwin Díaz, Tanner Scott, Edgardo Henriquez and Brock Stewart –– and has several younger arms it would like to leave opportunities open for next season.\nThen there’s Graterol, the hard-throwing right-hander who has not pitched since 2024 because of shoulder and back surgeries.\nThe 28-year-old was finally regaining health by the end of this past season, and there is expected to be mutual interest in a reunion with the Dodgers, another source said. But he is also testing the free-agent waters to see what kind of opportunities he could get to re-establish himself as a high-leverage weapon.\nFellow out-of-contract Dodgers reliever Blake Treinen is another name to monitor, though it’s unclear if the 38-year-old right-hander intends to continue playing after suffering a season-ending shoulder injury in September (the latest setback in his checkered injury history).\nFor now, the Dodgers have been described as “slow-moving” on such fronts. In an offseason of potential transition, they are waiting to see how each player’s market develops while evaluating how aggressively they will try to retain them.\nDownload The California Post App, follow us on social, and subscribe to our newsletters\nCalifornia Post News: Facebook, Instagram, TikTok, X, YouTube, WhatsApp, LinkedIn\nCalifornia Post Sports Facebook, Instagram, TikTok, YouTube, X\nCalifornia Post  Opinion \nCalifornia Post Newsletters: Sign up here!\nCalifornia Post App: Download here!\nHome delivery: Sign up here!\nPage Six Hollywood: Sign up here!",
+    "rss_title": "Dodgers have crucial offseason decisions with Kiké Hernández, Alex Vesia, other fan-favorite free agents",
+    "rss_body": "LAS VEGAS –– In the wake of their National League Championship Series sweep at the hands of the Milwaukee Brewers last month, there was a sense in the Dodgers’ clubhouse that they had just concluded a “last ride” with that iteration of the club’s dynasty-cementing roster.\nHow true that proves to be, however, could depend on their willingness to bring back several popular core pieces who are free agents this winter.\nWhile most of the team’s biggest stars will return in 2027, the Dodgers do have decisions to make with everyone from Kiké Hernández to Alex Vesia to Evan Phillips and even Brusdar Graterol.\nAll of them played key roles during the club’s run to back-to-back World Series championships in 2024 and 2025.\nAll of them are now on the free-agent market this offseason, but have indicated hopes of re-signing in Los Angeles.\nAs this lockout-threatened winter unfolds, they will provide something of a litmus test for how much roster turnover the Dodgers are willing to endure.\nStart with Hernández, the longtime fan-favorite who has compensated for recently disappointing regular-season performances with his penchant for providing heroics in October.\nThe Dodgers have a need for his skill set, seeking right-handed-hitting infielders capable of playing multiple positions across the diamond (especially in the wake of Miguel Rojas’ retirement). They have re-signed the 35-year-old veteran in each of the last three offseasons, as well, seemingly always saving a place on the roster for the franchise’s all-time postseason games played leader.\nAt the outset of this winter, however, Hernández struck a more uncertain tone regarding his future, acknowledging he didn’t “really know what’s going to happen” in his free agency.\nGeneral manager Brandon Gomes offered no further clarity while speaking at the GM Meetings on Tuesday, saying: “Kiké has been such a huge part of what we’ve done in the past, and we’ll continue to have those conversations. But what that looks like right now, I have no idea.”\nHernández’s lack of regular-season production over the past few years explains why the Dodgers might be more hesitant to re-sign him again. Not only has he hit just .219 with a .645 OPS since 2024, but he has missed significant time with elbow and oblique injuries.\nWhat the Dodgers need in 2027 is someone who can be a weapon against left-handed pitching, and give some of their older veteran regulars (like Freddie Freeman, Max Muncy and Mookie Betts) more days off to keep them fresh.\nCome October, the Dodgers would still love to have Hernández’s presence in the lineup. But they’ll have to weigh that against the risk of what has become a more inconsistent overall track record.\nVesia, meanwhile, presents a completely different dynamic.\nFew relievers have been more consistent than the 30-year-old left-hander since he joined the Dodgers in 2021. He has posted a 2.66 ERA in that time while making 367 appearances for the club (150 more than anyone else).\nThat durability has made Vesia a hot commodity on this year’s free-agent market, where only Adrian Morejon is seen as a better left-handed reliever option. He has already fielded interest from roughly half the league, according to a source, and could be in line for three-year contract offers.\nPhillips, 32, will figure to field similarly wide-ranging interest, though could have a slightly more limited market thanks to his age and injury history. From 2022 to 2024, he was the Dodgers’ best reliever, collecting a team-high 44 saves with a 2.21 ERA. However, he underwent Tommy John surgery in 2025, and battled bouts of inconsistency in his return this year, albeit before mounting a strong finish to the campaign that included him hitting 100 mph with his fastball.\nBoth would make sense as re-signing candidates for the Dodgers (who let Phillips linger on the free-agent market last year before bringing him back on a one-year deal). But the team also feels confident about its other returning relievers –– a group headlined by Edwin Díaz, Tanner Scott, Edgardo Henriquez and Brock Stewart –– and has several younger arms it would like to leave opportunities open for next season.\nThen there’s Graterol, the hard-throwing right-hander who has not pitched since 2024 because of shoulder and back surgeries.\nThe 28-year-old was finally regaining health by the end of this past season, and there is expected to be mutual interest in a reunion with the Dodgers, another source said. But he is also testing the free-agent waters to see what kind of opportunities he could get to re-establish himself as a high-leverage weapon.\nFellow out-of-contract Dodgers reliever Blake Treinen is another name to monitor, though it’s unclear if the 38-year-old right-hander intends to continue playing after suffering a season-ending shoulder injury in September (the latest setback in his checkered injury history).\nFor now, the Dodgers have been described as “slow-moving” on such fronts. In an offseason of potential transition, they are waiting to see how each player’s market develops while evaluating how aggressively they will try to retain them.\nDownload The California Post App, follow us on social, and subscribe to our newsletters\nCalifornia Post News: Facebook, Instagram, TikTok, X, YouTube, WhatsApp, LinkedIn\nCalifornia Post Sports Facebook, Instagram, TikTok, YouTube, X\nCalifornia Post  Opinion \nCalifornia Post Newsletters: Sign up here!\nCalifornia Post App: Download here!\nHome delivery: Sign up here!\nPage Six Hollywood: Sign up here!",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "c66c4980ba749cca261f",
     "title": "New Tarik Skubal Rumors Update Dodgers' Stance on Contract Talks in MLB Free Agency",
     "source": "Bleacher Report",
