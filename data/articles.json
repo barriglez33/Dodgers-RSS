@@ -1,5 +1,102 @@
 [
   {
+    "id": "ab71339d3159fa876623",
+    "title": "Mets sign Tarik Skubal, leaving Dodgers to rely more on Shohei Ohtani",
+    "source": "Chosunbiz",
+    "author": "OSEN",
+    "url": "https://biz.chosun.com/en/en-sports/2026/11/24/INRXTKJMLREULM2W5JG3S5GDJA/",
+    "published_iso": "2026-11-23T20:40:00+00:00",
+    "published_rfc2822": "Mon, 23 Nov 2026 20:40:00 +0000",
+    "body": "\"The top free agent,\" Tarik Skubal (30), is heading to the New York Mets for the largest contract ever given to a pitcher, sending shock waves through the Los Angeles Dodgers. The Dodgers made a bold move last summer, giving up three prospects to acquire Skubal in a bid to win a third straight World Series title. But they fell short of the championship and failed to re-sign him in free agency, making the deal a failure.\nU.S. media outlets, including USA Today Sports, reported on the 23rd (Korea time) that the Mets had agreed to sign free agent Skubal to a nine-year, $450 million contract. The deal easily surpasses the previous record for a pitcher, the 12-year, $325 million contract Yoshinobu Yamamoto signed with the Los Angeles Dodgers in December 2023. Its average annual value of $5,000 also tops the previous record for a pitcher, set by Max Scherzer with an average of $43.33 million per year on a three-year, $130 million deal with the Mets in November 2021.\nThe deal has no opt-out clause, but it stands out for its $45 million signing bonus, paid immediately — about 60.5 billion won. The provision was designed to protect Skubal in case a labor dispute in Major League Baseball leads to a lockout. If a prolonged lockout shortens next season, his salary would be reduced in proportion to the number of games played, a possibility the deal also takes into account. The contract also includes deferred payments of $30 million and a full no-trade clause.\nAccording to Bob Nightengale of USA Today Sports, the New York Yankees and Toronto Blue Jays also made lucrative offers to Skubal, but neither matched the Mets' terms. Toronto offered as much as $435 million, but still could not compete with the Mets. The San Diego Padres had no plans to offer that kind of money. The Mets initially offered Skubal about $390 million over nine years at their first meeting last week, then substantially improved the terms over the weekend to win the bidding.\nThe Dodgers, Skubal's former team, also met with him, but they were interested only in a short-term, high-value contract like the four-year, $240 million deal Kyle Tucker signed last winter and ended up making no serious offer. Skubal, who was traded from the Detroit Tigers to the Dodgers in August and spent three months with the team, was captivated by the club and badly wanted a reunion, but it did not happen. Major League Baseball's owners are strongly pushing for a salary cap in the new collective bargaining agreement (CBA), leaving the high-payroll Dodgers little room to offer a long-term deal amid the uncertainty. The Dodgers wanted Skubal and were open to a long-term contract rather than insisting on a short-term deal, but the Mets overwhelmed them with money before a lockout.\nThe Dodgers' gamble ultimately failed. They gave up three prospects — outfielder Zyhir Hope and pitchers River Ryan and Brad Smith — to acquire Skubal at last summer's trade deadline. Hope was a standout prospect ranked 27th overall by MLB Pipeline, while Ryan, though 28, was a highly regarded flamethrower who can throw 100 mph. The Dodgers were willing to pay that price to pursue a third straight World Series title. But they failed to win the championship and could not keep Skubal in free agency, leaving them disappointed.\nEven with Skubal gone, the Dodgers have plenty of starting pitching options, including Yamamoto, Blake Snell, Tyler Glasnow, Roki Sasaki, Justin Wrobleski and Emmet Sheehan. But Snell and Glasnow have dealt with injuries year after year, making it difficult to count on them for full seasons. Yamamoto is effectively the only reliably dependable pitcher, so attention is turning once again to Shohei Ohtani.\nThe California Post said Skubal's departure has increased the importance of Ohtani's role. Reporter Dylan Hernández wrote, \"Ohtani has no choice now. He must take the mound next season. Questions about whether he can pitch and hit, and calls for him to become a full-time hitter, are meaningless. With Skubal gone, losing Ohtani as a pitcher would be as damaging to the Dodgers as losing him as a hitter.\"\nHe added, \"The Dodgers need to be smarter about how they manage Ohtani. This year, he could not pitch after the All-Star break because of arm and knee injuries, and in the postseason he was reduced to a decoy as a hitter. Ohtani also needs to take responsibility for avoiding injuries. He needs to better recognize the signals his body is sending and improve his communication with the training staff.\" He stressed that the Dodgers must not repeat their mistakes in managing injuries.\nHernández also expressed disappointment with the Dodgers' lukewarm approach, writing, \"The Dodgers could have used Skubal this year to fill the gap in their rotation while Ohtani was unavailable, but no ace-caliber pitcher is expected to be available on the trade market by next year's deadline. Given that, it is puzzling that the Dodgers did not do everything necessary to keep Skubal. The 30-year-old, a two-time Cy Young Award winner, could have reduced the Dodgers' reliance on Ohtani and served as a key building block for the team's next generation.\" He added, \"When healthy, Ohtani is the best hitter. In his first 10 starts this year, he posted a 0.74 ERA, proving he can be the best pitcher, too. Can Ohtani reach his full potential as both a hitter and pitcher over four or five weeks of the postseason? That is a dream, but for the Dodgers, that dream has now become a necessity.\"\n[OSEN]",
+    "article_date": "2026-11-23",
+    "tracked_people": [
+      {
+        "name": "Kyle Tucker",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Tarik Skubal",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Blake Snell",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Yoshinobu Yamamoto",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Tyler Glasnow",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Justin Wrobleski",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Shohei Ohtani",
+        "role": "DH / Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 22,
+        "batch": 2
+      },
+      {
+        "name": "Roki Sasaki",
+        "role": "Starting Pitcher",
+        "status": "Injured List",
+        "type": "player",
+        "id": 25,
+        "batch": 2
+      },
+      {
+        "name": "Emmet Sheehan",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Mets sign Tarik Skubal, leaving Dodgers to rely more on Shohei Ohtani",
+    "original_body": "\"The top free agent,\" Tarik Skubal (30), is heading to the New York Mets for the largest contract ever given to a pitcher, sending shock waves through the Los Angeles Dodgers. The Dodgers made a bold move last summer, giving up three prospects to acquire Skubal in a bid to win a third straight World Series title. But they fell short of the championship and failed to re-sign him in free agency, making the deal a failure.\nU.S. media outlets, including USA Today Sports, reported on the 23rd (Korea time) that the Mets had agreed to sign free agent Skubal to a nine-year, $450 million contract. The deal easily surpasses the previous record for a pitcher, the 12-year, $325 million contract Yoshinobu Yamamoto signed with the Los Angeles Dodgers in December 2023. Its average annual value of $5,000 also tops the previous record for a pitcher, set by Max Scherzer with an average of $43.33 million per year on a three-year, $130 million deal with the Mets in November 2021.\nThe deal has no opt-out clause, but it stands out for its $45 million signing bonus, paid immediately — about 60.5 billion won. The provision was designed to protect Skubal in case a labor dispute in Major League Baseball leads to a lockout. If a prolonged lockout shortens next season, his salary would be reduced in proportion to the number of games played, a possibility the deal also takes into account. The contract also includes deferred payments of $30 million and a full no-trade clause.\nAccording to Bob Nightengale of USA Today Sports, the New York Yankees and Toronto Blue Jays also made lucrative offers to Skubal, but neither matched the Mets' terms. Toronto offered as much as $435 million, but still could not compete with the Mets. The San Diego Padres had no plans to offer that kind of money. The Mets initially offered Skubal about $390 million over nine years at their first meeting last week, then substantially improved the terms over the weekend to win the bidding.\nThe Dodgers, Skubal's former team, also met with him, but they were interested only in a short-term, high-value contract like the four-year, $240 million deal Kyle Tucker signed last winter and ended up making no serious offer. Skubal, who was traded from the Detroit Tigers to the Dodgers in August and spent three months with the team, was captivated by the club and badly wanted a reunion, but it did not happen. Major League Baseball's owners are strongly pushing for a salary cap in the new collective bargaining agreement (CBA), leaving the high-payroll Dodgers little room to offer a long-term deal amid the uncertainty. The Dodgers wanted Skubal and were open to a long-term contract rather than insisting on a short-term deal, but the Mets overwhelmed them with money before a lockout.\nThe Dodgers' gamble ultimately failed. They gave up three prospects — outfielder Zyhir Hope and pitchers River Ryan and Brad Smith — to acquire Skubal at last summer's trade deadline. Hope was a standout prospect ranked 27th overall by MLB Pipeline, while Ryan, though 28, was a highly regarded flamethrower who can throw 100 mph. The Dodgers were willing to pay that price to pursue a third straight World Series title. But they failed to win the championship and could not keep Skubal in free agency, leaving them disappointed.\nEven with Skubal gone, the Dodgers have plenty of starting pitching options, including Yamamoto, Blake Snell, Tyler Glasnow, Roki Sasaki, Justin Wrobleski and Emmet Sheehan. But Snell and Glasnow have dealt with injuries year after year, making it difficult to count on them for full seasons. Yamamoto is effectively the only reliably dependable pitcher, so attention is turning once again to Shohei Ohtani.\nThe California Post said Skubal's departure has increased the importance of Ohtani's role. Reporter Dylan Hernández wrote, \"Ohtani has no choice now. He must take the mound next season. Questions about whether he can pitch and hit, and calls for him to become a full-time hitter, are meaningless. With Skubal gone, losing Ohtani as a pitcher would be as damaging to the Dodgers as losing him as a hitter.\"\nHe added, \"The Dodgers need to be smarter about how they manage Ohtani. This year, he could not pitch after the All-Star break because of arm and knee injuries, and in the postseason he was reduced to a decoy as a hitter. Ohtani also needs to take responsibility for avoiding injuries. He needs to better recognize the signals his body is sending and improve his communication with the training staff.\" He stressed that the Dodgers must not repeat their mistakes in managing injuries.\nHernández also expressed disappointment with the Dodgers' lukewarm approach, writing, \"The Dodgers could have used Skubal this year to fill the gap in their rotation while Ohtani was unavailable, but no ace-caliber pitcher is expected to be available on the trade market by next year's deadline. Given that, it is puzzling that the Dodgers did not do everything necessary to keep Skubal. The 30-year-old, a two-time Cy Young Award winner, could have reduced the Dodgers' reliance on Ohtani and served as a key building block for the team's next generation.\" He added, \"When healthy, Ohtani is the best hitter. In his first 10 starts this year, he posted a 0.74 ERA, proving he can be the best pitcher, too. Can Ohtani reach his full potential as both a hitter and pitcher over four or five weeks of the postseason? That is a dream, but for the Dodgers, that dream has now become a necessity.\"\n[OSEN]",
+    "rss_title": "Mets sign Tarik Skubal, leaving Dodgers to rely more on Shohei Ohtani",
+    "rss_body": "\"The top free agent,\" Tarik Skubal (30), is heading to the New York Mets for the largest contract ever given to a pitcher, sending shock waves through the Los Angeles Dodgers. The Dodgers made a bold move last summer, giving up three prospects to acquire Skubal in a bid to win a third straight World Series title. But they fell short of the championship and failed to re-sign him in free agency, making the deal a failure.\nU.S. media outlets, including USA Today Sports, reported on the 23rd (Korea time) that the Mets had agreed to sign free agent Skubal to a nine-year, $450 million contract. The deal easily surpasses the previous record for a pitcher, the 12-year, $325 million contract Yoshinobu Yamamoto signed with the Los Angeles Dodgers in December 2023. Its average annual value of $5,000 also tops the previous record for a pitcher, set by Max Scherzer with an average of $43.33 million per year on a three-year, $130 million deal with the Mets in November 2021.\nThe deal has no opt-out clause, but it stands out for its $45 million signing bonus, paid immediately — about 60.5 billion won. The provision was designed to protect Skubal in case a labor dispute in Major League Baseball leads to a lockout. If a prolonged lockout shortens next season, his salary would be reduced in proportion to the number of games played, a possibility the deal also takes into account. The contract also includes deferred payments of $30 million and a full no-trade clause.\nAccording to Bob Nightengale of USA Today Sports, the New York Yankees and Toronto Blue Jays also made lucrative offers to Skubal, but neither matched the Mets' terms. Toronto offered as much as $435 million, but still could not compete with the Mets. The San Diego Padres had no plans to offer that kind of money. The Mets initially offered Skubal about $390 million over nine years at their first meeting last week, then substantially improved the terms over the weekend to win the bidding.\nThe Dodgers, Skubal's former team, also met with him, but they were interested only in a short-term, high-value contract like the four-year, $240 million deal Kyle Tucker signed last winter and ended up making no serious offer. Skubal, who was traded from the Detroit Tigers to the Dodgers in August and spent three months with the team, was captivated by the club and badly wanted a reunion, but it did not happen. Major League Baseball's owners are strongly pushing for a salary cap in the new collective bargaining agreement (CBA), leaving the high-payroll Dodgers little room to offer a long-term deal amid the uncertainty. The Dodgers wanted Skubal and were open to a long-term contract rather than insisting on a short-term deal, but the Mets overwhelmed them with money before a lockout.\nThe Dodgers' gamble ultimately failed. They gave up three prospects — outfielder Zyhir Hope and pitchers River Ryan and Brad Smith — to acquire Skubal at last summer's trade deadline. Hope was a standout prospect ranked 27th overall by MLB Pipeline, while Ryan, though 28, was a highly regarded flamethrower who can throw 100 mph. The Dodgers were willing to pay that price to pursue a third straight World Series title. But they failed to win the championship and could not keep Skubal in free agency, leaving them disappointed.\nEven with Skubal gone, the Dodgers have plenty of starting pitching options, including Yamamoto, Blake Snell, Tyler Glasnow, Roki Sasaki, Justin Wrobleski and Emmet Sheehan. But Snell and Glasnow have dealt with injuries year after year, making it difficult to count on them for full seasons. Yamamoto is effectively the only reliably dependable pitcher, so attention is turning once again to Shohei Ohtani.\nThe California Post said Skubal's departure has increased the importance of Ohtani's role. Reporter Dylan Hernández wrote, \"Ohtani has no choice now. He must take the mound next season. Questions about whether he can pitch and hit, and calls for him to become a full-time hitter, are meaningless. With Skubal gone, losing Ohtani as a pitcher would be as damaging to the Dodgers as losing him as a hitter.\"\nHe added, \"The Dodgers need to be smarter about how they manage Ohtani. This year, he could not pitch after the All-Star break because of arm and knee injuries, and in the postseason he was reduced to a decoy as a hitter. Ohtani also needs to take responsibility for avoiding injuries. He needs to better recognize the signals his body is sending and improve his communication with the training staff.\" He stressed that the Dodgers must not repeat their mistakes in managing injuries.\nHernández also expressed disappointment with the Dodgers' lukewarm approach, writing, \"The Dodgers could have used Skubal this year to fill the gap in their rotation while Ohtani was unavailable, but no ace-caliber pitcher is expected to be available on the trade market by next year's deadline. Given that, it is puzzling that the Dodgers did not do everything necessary to keep Skubal. The 30-year-old, a two-time Cy Young Award winner, could have reduced the Dodgers' reliance on Ohtani and served as a key building block for the team's next generation.\" He added, \"When healthy, Ohtani is the best hitter. In his first 10 starts this year, he posted a 0.74 ERA, proving he can be the best pitcher, too. Can Ohtani reach his full potential as both a hitter and pitcher over four or five weeks of the postseason? That is a dream, but for the Dodgers, that dream has now become a necessity.\"\n[OSEN]",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "fc64b6d5d83c93d26ee5",
     "title": "5 immediate takeaways from Skubal's deal with Mets",
     "source": "MLB.com",
